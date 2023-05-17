@@ -1,0 +1,535 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_learning-tokens-2023-04-04.zip_1680848761.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-04-07T06:26:01Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: learning-tokens-2023-04-04.zip
+PackageFileName: learning-tokens-2023-04-04.zip
+SPDXID: SPDXRef-upload862
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: ac47a8adaa84c92d614b7920a35649dbdf3aca0c
+PackageChecksum: SHA1: 3edae5ef81cfb2f0763ef19ea6b14eb2bff40072
+PackageChecksum: SHA256: d37096680791fb29d617eca8e6625c885b3be59653ea2625c49016c72632b7eb
+PackageChecksum: MD5: 66fecc0a0a15535336702b2001283b2b
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload862
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/README.md
+SPDXID: SPDXRef-item4131826
+FileChecksum: SHA1: c87ca0afe4d3c0f2f5ade8f83c4ff9a0c69138a4
+FileChecksum: SHA256: db9f46ee4ca17bdb0691e6960ac94f2f84eba10759791807f47699eaf4df0706
+FileChecksum: MD5: f3a8eb7f2525a86515a374905cf4c167
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/LICENSE
+SPDXID: SPDXRef-item4131806
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Definitions/StudentGrade/latest/StudentGrade.md
+SPDXID: SPDXRef-item4131752
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Definitions/StudentGrade/latest/StudentGrade.proto
+SPDXID: SPDXRef-item4131753
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Definitions/StudentGrade/latest/StudentGrade.json
+SPDXID: SPDXRef-item4131754
+FileChecksum: SHA1: 607fb8a1d8a8a995db4be30b03429f7af80a0877
+FileChecksum: SHA256: 78e43bf9627d820914fdc233af9a805f0830d573364090e6733dd0e19425f21a
+FileChecksum: MD5: 8da5fccbb41b0570d9d05461ee3b2b3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Definitions/StudentSkills/latest/StudentSkills.proto
+SPDXID: SPDXRef-item4131757
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Definitions/StudentSkills/latest/StudentSkills.json
+SPDXID: SPDXRef-item4131758
+FileChecksum: SHA1: fdaa31b149f224ee816de55392ab26d6112a757d
+FileChecksum: SHA256: ca293b7d9cf05391259b1aa36d583ae80ae792fabb03ff14bcd22b7f4246a171
+FileChecksum: MD5: 7fc9c979e5769fae99eead53efd6c876
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Definitions/StudentSkills/latest/StudentSkills.md
+SPDXID: SPDXRef-item4131759
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Definitions/ClassAttendance/latest/ClassAttendance.proto
+SPDXID: SPDXRef-item4131762
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Definitions/ClassAttendance/latest/ClassAttendance.json
+SPDXID: SPDXRef-item4131763
+FileChecksum: SHA1: f7adec6ef2ba01c61d658341c1ee01d30fe4c28b
+FileChecksum: SHA256: d6d045a104af68d6114c979af9d9119c7ac288e72862c7f710af1317480a1c41
+FileChecksum: MD5: dfdc87503b7f7e5d5feef8babddb3a47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Definitions/ClassAttendance/latest/ClassAttendance.md
+SPDXID: SPDXRef-item4131764
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Definitions/StudentEngagement/latest/StudentEngagement.proto
+SPDXID: SPDXRef-item4131767
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Definitions/StudentEngagement/latest/StudentEngagement.md
+SPDXID: SPDXRef-item4131768
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Definitions/StudentEngagement/latest/StudentEngagement.json
+SPDXID: SPDXRef-item4131769
+FileChecksum: SHA1: f3f8ad06de66de5c606849bc75c40525fc4759e9
+FileChecksum: SHA256: 236e50de6a65c58358aeb065f166cbdb616ec942c76c5574e241d349fcbd4809
+FileChecksum: MD5: 1944cc6d05a19386bab8fafb1c3adee8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Formulas/tF{~d,t,g,SC}/latest/tF{~d,t,g,SC}.json
+SPDXID: SPDXRef-item4131773
+FileChecksum: SHA1: 6f5ea36a3fb6b3c91c5ef732814f7d5ade5e41be
+FileChecksum: SHA256: b023f31b269cb7570a90da335095591ebdb16a17c5545f38c5bf4eda0c3c5394
+FileChecksum: MD5: a2c44c059df6f68215f87954c70fa9ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Formulas/tF{~d,t,g,SC}/latest/tF{~d,t,g,SC}.md
+SPDXID: SPDXRef-item4131774
+FileChecksum: SHA1: a48c6969a096f344f38323256c6753600c35b52e
+FileChecksum: SHA256: 44dc2c5cda43fb46d1d17d0caa8c63259e04d5ee1caa522ca52e733edfedada5
+FileChecksum: MD5: 6cbbbab8a2dd2fd64e43ae499c56e4d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Formulas/tF{~d,t,g,SC}/latest/tF{~d,t,g,SC}.proto
+SPDXID: SPDXRef-item4131775
+FileChecksum: SHA1: 86fa0db60e816dfbc1cec6d348fb100d40781b40
+FileChecksum: SHA256: 90cb148128b36acdae1ddd31e5875e7a769de6b4f7b1faafaca2fd7a54d86109
+FileChecksum: MD5: 74155bbbb57469eaa2023dc85f7de9e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Formulas/tF{~d,~t,SC}/latest/tF{~d,~t,SC}.json
+SPDXID: SPDXRef-item4131778
+FileChecksum: SHA1: 833e666dfb67b834e1e38acd4764d219a8d115a5
+FileChecksum: SHA256: 35a21e0e39a8787023bf24dec348c997d145236a91e48a4580877dffbfd0f330
+FileChecksum: MD5: 8f45eac3d3bb0b3621858f242cbba879
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Formulas/tF{~d,~t,SC}/latest/tF{~d,~t,SC}.proto
+SPDXID: SPDXRef-item4131779
+FileChecksum: SHA1: 86fa0db60e816dfbc1cec6d348fb100d40781b40
+FileChecksum: SHA256: 90cb148128b36acdae1ddd31e5875e7a769de6b4f7b1faafaca2fd7a54d86109
+FileChecksum: MD5: 74155bbbb57469eaa2023dc85f7de9e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Formulas/tF{~d,~t,SC}/latest/tF{~d,~t,SC}.md
+SPDXID: SPDXRef-item4131780
+FileChecksum: SHA1: 5c7d5d768ad7bf78fbc06d998a69471e117a21ff
+FileChecksum: SHA256: 503d22a2676f0a161c78c5f04e18dd6f7cc69db77af59df7e7a454f792c7d793
+FileChecksum: MD5: b5a6bdabada0c416834cb883f6d151b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Specifications/StudentGrade/latest/StudentGrade-spec.docx
+SPDXID: SPDXRef-item4131784
+FileChecksum: SHA1: 1696cad9b9f34bb27d4584297e4bc417d4490fab
+FileChecksum: SHA256: aef62c1c7d1f9083590b87a3031215010504dc8412d8109256aa3faf97276e96
+FileChecksum: MD5: 4c203745b2e2390945ac100f6cfabcf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © 996[i:Tà y52Æc?b|wX </text>
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Specifications/StudentGrade/latest/StudentGrade-spec.pdf/StudentGrade-spec
+SPDXID: SPDXRef-item4131787
+FileChecksum: SHA1: 48ed02a6e41aee005f9650ce6299c0b2523b1cc0
+FileChecksum: SHA256: 3b0d3fc9756e463ecaf878a0ad70a8878df639c78fe352b18d638dc8b39a1591
+FileChecksum: MD5: ce9de424c8e0ce446ad0ebae00650db2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © Henriquez </text>
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Specifications/StudentSkills/latest/StudentSkills-spec.pdf/StudentSkills-spec
+SPDXID: SPDXRef-item4131792
+FileChecksum: SHA1: a365b7e853b22196c30501928b4537f84e244f3f
+FileChecksum: SHA256: 1291ff65971d8b29ad3ed65929fd1a2fcfe01dd51c792f44dfdf6008ac980c37
+FileChecksum: MD5: 1b7a47993d399bf844c16f1f7a84e336
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © Henriquez </text>
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Specifications/StudentSkills/latest/StudentSkills-spec.docx
+SPDXID: SPDXRef-item4131793
+FileChecksum: SHA1: 472aea9ed33b25ecca557d52920d325f57813a68
+FileChecksum: SHA256: fb5dc7c2d864720e590a6d20cb20484c3d2e93894a0a1b1e1351e7753bec778e
+FileChecksum: MD5: bf4f76a4d5a36bac7b51eec4e024d733
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © 996[i:Tà y52Æc?b|wX </text>
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Specifications/ClassAttendance/latest/ClassAttendance-spec.pdf/ClassAttendance-spec
+SPDXID: SPDXRef-item4131798
+FileChecksum: SHA1: bc035a8630d20f8e316c0ee43400d28909eddc63
+FileChecksum: SHA256: c71bddcf7885e1b8aa44b70ea7be0c62578b67ef445fdf85c33fe2de7f6851fd
+FileChecksum: MD5: 9493d441ff949222b002e0242fc11e70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © Henriquez </text>
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Specifications/ClassAttendance/latest/ClassAttendance-spec.docx
+SPDXID: SPDXRef-item4131799
+FileChecksum: SHA1: dcadb58f3913e769abbcafcb821eadd9da22565f
+FileChecksum: SHA256: c2b07ae1d773e6154edf40ea306a589d288487056ae75669d9543f36684b5a3c
+FileChecksum: MD5: 17724855afcaeeb631a05b4044f56d63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © 996[i:Tà y52Æc?b|wX </text>
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Specifications/StudentEngagement/latest/StudentEngagement-spec.docx
+SPDXID: SPDXRef-item4131802
+FileChecksum: SHA1: fe336323dd82955982a38b8e5a0486497325e62b
+FileChecksum: SHA256: d4c2e5e7cc117a86f65663dc978be45b2aba6f1d4ad62351466c1fc6a163ea35
+FileChecksum: MD5: 87330697822a61874acb849be7aa69cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © 996[i:Tà y52Æc?b|wX </text>
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Labs/UCA/Specifications/StudentEngagement/latest/StudentEngagement-spec.pdf/StudentEngagement-spec
+SPDXID: SPDXRef-item4131805
+FileChecksum: SHA1: b8b1bf18776ba010141c7fbf0191be98e8789046
+FileChecksum: SHA256: 7ffd5a367c02ddfa3a17709d32fae5c69f57d7da73b7ceff5e47150048b20e21
+FileChecksum: MD5: c1c60f9d58e9563dff0e6db8dcc785f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © Henriquez </text>
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Practices/community-reward-token/artifacts/supply-control/supply-control.json
+SPDXID: SPDXRef-item4131811
+FileChecksum: SHA1: a06a2e8ee18b7d84a67cd9e4cfecd1b903bd31cd
+FileChecksum: SHA256: 10387b448e5731f00e6c1883b73da4ca09ed978f1ef3f9d7b2b67f7243cbd690
+FileChecksum: MD5: b6dc0109561382334eceba7f92c3b013
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Practices/community-reward-token/artifacts/supply-control/supply-control.proto
+SPDXID: SPDXRef-item4131812
+FileChecksum: SHA1: d24585c818015ba051f743f4afa91cd16dee5fa5
+FileChecksum: SHA256: 03d9c5d57b5eba7bd5bd7323595efa8bdbdf467a4794559b5c96bfbbd239d63e
+FileChecksum: MD5: 71814ec39565baa6c80b8e2e831db762
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Practices/community-reward-token/artifacts/transferable/transferable.json
+SPDXID: SPDXRef-item4131814
+FileChecksum: SHA1: 2cd57b09a501c0dad82791d6d1536e3e9912e9b5
+FileChecksum: SHA256: eabb146fd52b6fde764ff618d190665562df78bb5135dc15af931a3f53aa8e8c
+FileChecksum: MD5: 5d4de510ca4743441200b66364ce708f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Practices/community-reward-token/artifacts/transferable/transferable.proto
+SPDXID: SPDXRef-item4131815
+FileChecksum: SHA1: 115b35073d160b58203f0bf46d98297b00f377e5
+FileChecksum: SHA256: 96c6569938ac4b1d2ca7b304ebe308ce54c8a4a17b3b16f479d7f025dca532b6
+FileChecksum: MD5: 48cbc44dd48c13e595db07663fbafe20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Practices/community-reward-token/artifacts/roles/roles.json
+SPDXID: SPDXRef-item4131817
+FileChecksum: SHA1: 1f8bceb32815ce1bc504d328c29920d8570ce44b
+FileChecksum: SHA256: 82e80bd0c25e5f8ee9bf8dd02ed3183438fa439b8a9796203a71985d1eb6b384
+FileChecksum: MD5: 4bcf65974af8fb1eed0e867a4fa55cff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Practices/community-reward-token/artifacts/roles/roles.proto
+SPDXID: SPDXRef-item4131818
+FileChecksum: SHA1: 84dcb15720838346c71922393b1ccbc95afe36ad
+FileChecksum: SHA256: 0ae502b96d81ed1ca810b60d1422c6ebf282a0eb5c22ebc02e25ff770b3831cd
+FileChecksum: MD5: d1584b52f311d50552a047d082a731d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Practices/community-reward-token/artifacts/whole_fungible/whole-fungible.json
+SPDXID: SPDXRef-item4131820
+FileChecksum: SHA1: 72ca0145864fda810fe5566a2168bb7f4853f657
+FileChecksum: SHA256: a083b1ab6baa89d9ce867ad7063e959e7e43bfa1336ccca5e4cafac01917887d
+FileChecksum: MD5: bf3c748ca3a9dccf3e412b4cfd451a1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Practices/community-reward-token/artifacts/whole_fungible/whole-fungible.proto
+SPDXID: SPDXRef-item4131821
+FileChecksum: SHA1: 7ddca404dfe956c49cfb015dc70c929341cd285e
+FileChecksum: SHA256: ba979adc4c44ede69108a2246c4115dc4882bc36a84a2d7c6263bc627359d214
+FileChecksum: MD5: 06e12d6cab3808536bfb63d8ce53b166
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Practices/community-reward-token/artifacts/indivisible/indivisible.proto
+SPDXID: SPDXRef-item4131823
+FileChecksum: SHA1: 123137ee9d4499bf36781f67775db0405bb7a4be
+FileChecksum: SHA256: d99f7847faf4671de05118c06f50b046eaacf8b64037053f8e8b03f7fb2efc61
+FileChecksum: MD5: 1b92819855d7ef6486801ac717c33d1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Practices/community-reward-token/artifacts/indivisible/indivisible.json
+SPDXID: SPDXRef-item4131824
+FileChecksum: SHA1: f0f5fe4d51564ddbf4ce2a067ccaff34940f175a
+FileChecksum: SHA256: 9bfe809557a386e467f65dd922991ce31d77fcba91e8122b9cac9a526702dda9
+FileChecksum: MD5: 45fe12dc7378365ef2639a2b85b4c489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: learning-tokens-2023-04-04.zip/learning-tokens/Practices/community-reward-token/README.md
+SPDXID: SPDXRef-item4131825
+FileChecksum: SHA1: 31e37819897414191fce87dd6c30a3d3209b405e
+FileChecksum: SHA256: 652f5df0e855e02ca4671035c2d189969919b393a65730c1d12a0beed81372d5
+FileChecksum: MD5: 4f889457b540aaecda4595c1674c7543
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Apache-possibility
+LicenseName: Apache-possibility
+ExtractedText: <text> License by Nomos. </text>
+
