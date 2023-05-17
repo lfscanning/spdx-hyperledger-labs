@@ -1,0 +1,2413 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_minifabric-2023-04-02.zip_1680848657.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-04-07T06:24:17Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: minifabric-2023-04-02.zip
+PackageFileName: minifabric-2023-04-02.zip
+SPDXID: SPDXRef-upload848
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: b03498bf3650517d6fc211664714e331b9b3151e
+PackageChecksum: SHA1: 39d2500d95963f8db8e38cdd95b7b15608fbb368
+PackageChecksum: SHA256: e7e1e5f7cf7ffd6d6a5c6be805ded028cc0d630114c543f4c1188f7855ef1a49
+PackageChecksum: MD5: b5ed55106eaf18b4e695a2f50a2feb43
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload848
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/main.sh
+SPDXID: SPDXRef-item4116178
+FileChecksum: SHA1: 4ab2e13cfc46d0050147b75f509f049f04fdc0bb
+FileChecksum: SHA256: aba6ee2609dc79c19e7b59df319db0d0ed6a7bfe6f2fff7943e72090a78be156
+FileChecksum: MD5: d2f0cf7d5f8696e78271eccc26adab21
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp All Rights Reserved </text>
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/CODEOWNERS
+SPDXID: SPDXRef-item4116176
+FileChecksum: SHA1: b2210801516ea3e7b04b7d6025beadde21c19efd
+FileChecksum: SHA256: ca26c3cbc5d3fe6e1344c107ee505abc86e31478d5244a880053538e72f4cf69
+FileChecksum: MD5: beb484f0cb150a6a85d07c47c999cef8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/.mergify.yml
+SPDXID: SPDXRef-item4116416
+FileChecksum: SHA1: 029e7847ee934e906759b6600e5764957613efad
+FileChecksum: SHA256: a63c8f12e70664e7fe043fed1e0a51d732c62fcfe0099c2348aa1a37b233447b
+FileChecksum: MD5: dd47c0d0990baaa93a6fab42dc79ed03
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/scripts/mainfuncs.sh
+SPDXID: SPDXRef-item4116414
+FileChecksum: SHA1: 03932d24d5eecfa39db9d53bafc4c75e7c0a415b
+FileChecksum: SHA256: eed7a0f48940befaea4309eb2f2ddc7c896f40a718af8facccc390f5fc76d050
+FileChecksum: MD5: 50177a87d32366fa2bf17bc650b6f96b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp All Rights Reserved </text>
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/pypatch/FortunaGenerator.py
+SPDXID: SPDXRef-item4116407
+FileChecksum: SHA1: 2100cae835b46a94005a9231396cdca588877510
+FileChecksum: SHA256: f6a3066d2498e2e7c2151b3a95a0c8fe93a0f2afde61ac9a667d061c09133f44
+FileChecksum: MD5: 6696dd0a09afcb0e2d8fe39370aed44b
+LicenseConcluded: LicenseRef-Public-domain
+LicenseInfoInFile: LicenseRef-MIT-style
+LicenseInfoInFile: LicenseRef-Public-domain
+LicenseInfoInFile: LicenseRef-AS-IS-1
+FileCopyrightText: <text> COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. </text>
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/explorerup/templates/explorerconfig.j2
+SPDXID: SPDXRef-item4116286
+FileChecksum: SHA1: 35410e6ae4a85fa013e48230c0f1bdbf6179736b
+FileChecksum: SHA256: 90034d3476172a5bdae47fb02e388ce5472919db9c865964307fb41483125e7d
+FileChecksum: MD5: 7cd1f90aefb25db26d96b22cfed7cc48
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/simple/node/package.json
+SPDXID: SPDXRef-item4116380
+FileChecksum: SHA1: d12e3b638c8cd41885a304cd5c90f803d3c51106
+FileChecksum: SHA256: 68365080e4f95cdb6fbec18a9ec99a5c0701198e323f3a7040d2795928ae6095
+FileChecksum: MD5: 306ee655d801aad3ec3fc147e8bbae43
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/simple/node/chaincode_example02.js
+SPDXID: SPDXRef-item4116379
+FileChecksum: SHA1: c616deaa3f76ed8fbef6a4a594bac0bf11261690
+FileChecksum: SHA256: 2c7c24f049ae53b83d8a37cdda3a7eb0569f68aec54186b03479c462c980012f
+FileChecksum: MD5: a5ca6ae031a8589cbf274a9a7fd672af
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/simple/java/settings.gradle
+SPDXID: SPDXRef-item4116392
+FileChecksum: SHA1: b58c4b7c16ab9279e51e2bbdfa044b857739f591
+FileChecksum: SHA256: 7d28c2c148042abc2b738a23189b044502748cc1ed1012ce753fe7f951c6e87a
+FileChecksum: MD5: 92a41434cf953644e671fe3ef81a9e1f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. 2017 All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/simple/java/build.gradle
+SPDXID: SPDXRef-item4116391
+FileChecksum: SHA1: a25035f5999f232b4b694ab9ee12d8404768eb38
+FileChecksum: SHA256: 6f3de3159e5a1d8652cbf26792f837507090a4fa094185488206e923450433a7
+FileChecksum: MD5: 6f6dc5ba705e0c86ddb07fac4fea0912
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. 2018 All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/simple/java/src/main/java/org/hyperledger/fabric/example/SimpleChaincode.java
+SPDXID: SPDXRef-item4116389
+FileChecksum: SHA1: 463b70b4f8f11c02045eaf7322c4410c50c8af23
+FileChecksum: SHA256: 2017650a4a6b7e4c04c327830c83c4670ff3ad9f485e814362d702a71c23ed52
+FileChecksum: MD5: 80582553edaeda73b8f1f50ae0a16bbf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp., DTCC All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/simple/go/main.go
+SPDXID: SPDXRef-item4116377
+FileChecksum: SHA1: c93aecfb8c643f0c5b3bb50022695b96bb33f6c1
+FileChecksum: SHA256: e6433b9882381ae5c1e6c6e45a2ea01d86545fd9cd3de81944c428b0137ba0f2
+FileChecksum: MD5: fe1fcccf40dc72d4eb257a8e45ee10d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. 2016 All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/samplecc/go/main.go
+SPDXID: SPDXRef-item4116402
+FileChecksum: SHA1: 565551775fc563e311a0f0b8a2ee1af568b547c4
+FileChecksum: SHA256: 77819297ca5d1db0cd5949dd8718689994dfa3f632e978832395683e3002aee1
+FileChecksum: MD5: 617c4c4d56521fa78430f062d7d46579
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. 2016 All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/privatemarbles/go/main.go
+SPDXID: SPDXRef-item4116397
+FileChecksum: SHA1: 61dbc6a1604a6b76829691562e74cea5744268e1
+FileChecksum: SHA256: 6d9c9942113bcde0ec0a10c72eb83486ef784a3003039337b9d0cb437f920af1
+FileChecksum: MD5: 29f02c68f1e5f28ea37cb62e98e9a728
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/cmcc/go/main.go
+SPDXID: SPDXRef-item4116372
+FileChecksum: SHA1: ee5acb79805ffc2bcc3324745aba14b5ed74c3af
+FileChecksum: SHA256: 557d9473026cb5a5292ba7c4ecc74d1f78833781d363cf37162667a7a0cf3021
+FileChecksum: MD5: f10289c49b6f06a61adcb8149b7234fe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2009-2019 SAP SE or an SAP affiliate company. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/app/node/package.json
+SPDXID: SPDXRef-item4116427
+FileChecksum: SHA1: 4775e77742d826515b28262a55c0b1a410235070
+FileChecksum: SHA256: c85b8b01a0383983967dcaa50dbc323e6732c2fff01164d6bd3e5c5d06c9ee22
+FileChecksum: MD5: 4f031bb748ff9913ebd4b076ca9766bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/app/node/main.js
+SPDXID: SPDXRef-item4116426
+FileChecksum: SHA1: 963921f5f8817dc50dafa6c6aa9525c967459499
+FileChecksum: SHA256: 474b2fec30ee8fa398ad604ac8c4a550b791ea4deef56a904d7cb119a3670dbe
+FileChecksum: MD5: bbb2c7cd224a6da6744fa91b3b6aec07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/LICENSE
+SPDXID: SPDXRef-item4116177
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/tests/minifab
+SPDXID: SPDXRef-item4116154
+FileChecksum: SHA1: 75c3b95ce1bda4cf9e06131feb14a7a0ae0620a3
+FileChecksum: SHA256: 42e75ee85fc7248c10c02ec3d206cc19d646ba262c181fb75951c45c095bf42c
+FileChecksum: MD5: 396c906ef0e6a08dba5e3aac352e9010
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/tests/nodespecs/peer.yaml
+SPDXID: SPDXRef-item4116156
+FileChecksum: SHA1: c851a8f08f96f661635feab6869eead785f2b951
+FileChecksum: SHA256: cf4580a9b26c0d603e6286e5c2233a71b9caf59f6074215336b6aebc2449bf1a
+FileChecksum: MD5: 39299f11d06f6b4c289ac54b219d85eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/tests/nodespecs/ca.yaml
+SPDXID: SPDXRef-item4116157
+FileChecksum: SHA1: 0f3568e8165c72bd6b1cfb31a042f9003cd74c3b
+FileChecksum: SHA256: 47e312b4d016240e5069877f91e98f15feb0a354b7696440bd610f708491c62d
+FileChecksum: MD5: b561515767c1050df6980d41e7606f7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/tests/nodespecs/orderer.yaml
+SPDXID: SPDXRef-item4116158
+FileChecksum: SHA1: a6e5c86f177c0927b40528c44a0a5c5259a871e6
+FileChecksum: SHA256: 7dd4d2e0fdf61641cbfa725688198613e171d8de0b91d5d5e4e9c4c265a3bd46
+FileChecksum: MD5: db9868a6960ef07a1482866d8bf7a5d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/plugins/callback/minifab.py
+SPDXID: SPDXRef-item4116161
+FileChecksum: SHA1: d267be77bca46d464aeaf9fbc3811d51cad90023
+FileChecksum: SHA256: beb113fa480986d98d4623bf69a56f970f2ba5b2ec4a9cfb5fd84c491f16cea2
+FileChecksum: MD5: 854ec558584a2a815d777b11b037bb53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> (c) Fastly, inc 2016
+(c) 2017 Ansible Project
+(c) IBM Corporation </text>
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/docs/KnownIssues.md
+SPDXID: SPDXRef-item4116163
+FileChecksum: SHA1: 7120fc92c4ede07196c5ed145b21b5d7df6bb368
+FileChecksum: SHA256: b736b8c4c0102f024051e8e2e6ddf426f5ec1bef746515f214cdd680180f6df8
+FileChecksum: MD5: 9407a0140a27293f7d29a33a5ebdf919
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/docs/ExpandYourNetwork.md
+SPDXID: SPDXRef-item4116164
+FileChecksum: SHA1: ee972109d0677d52a0b4400bad1cdfc541084970
+FileChecksum: SHA256: 666f345b80683004920f787e91de21ddd1ff70242b283228321f63b329946860
+FileChecksum: MD5: b4d2ca4656e67d9fb50d6ab085587cd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/docs/RunningOnCentos.md
+SPDXID: SPDXRef-item4116165
+FileChecksum: SHA1: 0958eb285c48d674cc77f84cab7c21cf11231c81
+FileChecksum: SHA256: 55d0a38ef8632212e628126d7685a032dbbf98d1682012e495e33cef759b79ad
+FileChecksum: MD5: 40021c7fe125b0afa9cebf7a92d44ff8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/docs/RunningOnArm.md
+SPDXID: SPDXRef-item4116166
+FileChecksum: SHA1: 9adffd89a3f0242f95e62662f5b303f15f3f3bca
+FileChecksum: SHA256: 4f5a80ec0af6ed67e91209c7effdb7345fd09f57617c8867c705290da89b36bf
+FileChecksum: MD5: 6a8a769c200ba05ada566a8314afd8be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/docs/DeployOntoK8S.md
+SPDXID: SPDXRef-item4116167
+FileChecksum: SHA1: 2965df5e5d9e66f31f13f28e9a71ae79f2cfc9c5
+FileChecksum: SHA256: 856b0837ddd282e219dab147c4a7a0fc9798a04e9a12b1d1a634d54c9658bd3b
+FileChecksum: MD5: 4872f461045c79afd39c990baf3c4f60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/docs/KnownIssueScreenCaptures/Screen Shot 2022-02-09 at 10.57.49 AM.png
+SPDXID: SPDXRef-item4116169
+FileChecksum: SHA1: 203c378df8bb0c99674c420f182b6586997ae082
+FileChecksum: SHA256: abfa2a3350021ff67d416a98521c58669919fe416ccde25a2eba2654a5b23245
+FileChecksum: MD5: 27fbccbba63667808da13cb337b3df80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/docs/KnownIssueScreenCaptures/Screen Shot 2022-02-09 at 10.57.36 AM.png
+SPDXID: SPDXRef-item4116170
+FileChecksum: SHA1: f509b346dbe087b30e2dc7e3ab1d0939823d76f8
+FileChecksum: SHA256: ebf2c1fb2c3561da24f7ff38683afa3825a346a4d0bfe54bfc1ad5befcd10ec9
+FileChecksum: MD5: 782340b3af9cf23ccdf6ff7b7399f91f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/docs/KnownIssueScreenCaptures/Screen Shot 2022-02-09 at 10.53.52 AM.png
+SPDXID: SPDXRef-item4116171
+FileChecksum: SHA1: 0c153ecd8c7e96ecd0ca29f48058d66bede9871b
+FileChecksum: SHA256: f362107bb8e31127703dc29d475b252930c352a4ac18f7233e1d1de0bbfc1242
+FileChecksum: MD5: 00f1aa630a66098d2772eeeeeefd7c3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/docs/KnownIssueScreenCaptures/Screen Shot 2022-02-09 at 10.54.12 AM.png
+SPDXID: SPDXRef-item4116172
+FileChecksum: SHA1: e6af466d2836b16532e60a4f4e958c9ab12a405f
+FileChecksum: SHA256: 9f39255ef26b8a9ab7ec503918497825d5c25baab1d2158fa516738feb1f44cf
+FileChecksum: MD5: 673acc5d1740344192762a11026a444e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/docs/AddNewOrganization.md
+SPDXID: SPDXRef-item4116173
+FileChecksum: SHA1: 872fc5c020b13ff2bf10dd0a3d083714b6fb1f4b
+FileChecksum: SHA256: 164bac1e36ded93dbf5c47ffc34df91e6390c96efc6b9354d5efd7f5b6d90a29
+FileChecksum: MD5: baa6f162d379d280804c3fbf963d91e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/docs/README.md
+SPDXID: SPDXRef-item4116174
+FileChecksum: SHA1: 9cb2bb4f5357d65bebcb1490a51ce07f70cbf9c9
+FileChecksum: SHA256: 4d7017d7a1a1cf03381255724fb847aec915f9477424f0ec5b782b65ab4b478c
+FileChecksum: MD5: 9a22678bc0a65515e4130bc4f6db99db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/docs/RunningOnFedora.md
+SPDXID: SPDXRef-item4116175
+FileChecksum: SHA1: 8130fd63d645e1a6aa1dde58633446390441b57a
+FileChecksum: SHA256: 38cc1f9e2d0741aea3244183b152cfec1412fc03eed87375ee2f6f2f98b41a63
+FileChecksum: MD5: d00104ed345227cc18163691f44d5654
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/minifab
+SPDXID: SPDXRef-item4116179
+FileChecksum: SHA1: 4858a7d876195bfa97a02ed318b388a32bf69c3c
+FileChecksum: SHA256: 8ba3820edde9ac1c91bf6cc1ef6fd3ff5c6f68548c9065b41513a70a18324138
+FileChecksum: MD5: bfc9439740358455815a16cf51ca610c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/.github/workflows/main.yml
+SPDXID: SPDXRef-item4116182
+FileChecksum: SHA1: 9dd930d6583d17c85d681ba83c4fd0abb56b6470
+FileChecksum: SHA256: a4c0d153e9b02291833de59f090e983bc14800f94e76463fa1a38e4804e89ccf
+FileChecksum: MD5: 1728dedc2d3a75ebba494e30fafe49c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/.github/workflows/docker.yml
+SPDXID: SPDXRef-item4116183
+FileChecksum: SHA1: 66eb49938cf7f8a84a4d87f2c34d6d9a8ea11c21
+FileChecksum: SHA256: af6a98df4c4c7eb2fba56413167a14253b48edd51e9748b3df8c1a5354e9f342
+FileChecksum: MD5: f8085a4bda2dea677ba6970765b265db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/common/peerselection.yaml
+SPDXID: SPDXRef-item4116186
+FileChecksum: SHA1: 3422108b6b37df4d80ead65dd11c6000140a46e6
+FileChecksum: SHA256: c448dbb96cd42396eb1a9bf1137a9e811a6066e388a12ffb985070a767640ac9
+FileChecksum: MD5: fd685f8e0e83780c84052ceb131b907b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/common/inherit_envs_from_localshell.yaml
+SPDXID: SPDXRef-item4116187
+FileChecksum: SHA1: 3850cfbf113c090d473ef0492e85106c10fa376e
+FileChecksum: SHA256: 4833ae5f8412c357b79b7b6d25e80a62765f33b5eb60973a1e9d173b0c2e37cd
+FileChecksum: MD5: 40c9d77c32e005437d4d3956c9dacbba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/common/ordererselection.yaml
+SPDXID: SPDXRef-item4116188
+FileChecksum: SHA1: 284a7598506cd0d43754391afc0b044d6b936ac5
+FileChecksum: SHA256: 5b2564d4cbe138226e0e93355e76ba057ab735df640d53a4ae4599b0840f2b79
+FileChecksum: MD5: d7320c1f86faa829ce0c33c275891819
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/common/k8s-rm-ingress-entry.yaml
+SPDXID: SPDXRef-item4116189
+FileChecksum: SHA1: 9335319ff0dcc26970a837cbb9d2e38d46813a39
+FileChecksum: SHA256: 8401574fd7344db9029862ca099c9ec3bd7fc324bfc20c0d3f8fd1abc59fce4b
+FileChecksum: MD5: d3604d58e52111526b4410adc6609fd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/common/processkeys.yaml
+SPDXID: SPDXRef-item4116190
+FileChecksum: SHA1: 90a1b38b37f70b3610dfe8c16a93149c2a967191
+FileChecksum: SHA256: d8e21c9cf4148cd808513be8f4b39a121b205bb738f5820b8fa7055d38af98db
+FileChecksum: MD5: b698e6ae4731f4bbf0e53e61a6ba146c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/common/config_apply.yaml
+SPDXID: SPDXRef-item4116191
+FileChecksum: SHA1: d68343889cc9fdf9dc17e35c09ec02c5a0fdda50
+FileChecksum: SHA256: 138bbd985f3c3eeccd9ba239b368a5084835fb9ee8a7da1fa9d0127700c83b6a
+FileChecksum: MD5: 05e98083e5722544143f21eee7e6afb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/ccinstall/apply.yaml
+SPDXID: SPDXRef-item4116194
+FileChecksum: SHA1: b39e2f7e4fc6abda4c34c6aca62415efc95abefd
+FileChecksum: SHA256: b7b7ea34e72fd74bd8bd1b3b9ba42fd482036492d171957947ece8b53d8cf1ad
+FileChecksum: MD5: bca470e8fd109ccafe464cd381c76458
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/ccinstall/installcc.yaml
+SPDXID: SPDXRef-item4116195
+FileChecksum: SHA1: cd12b19ae5fe7ca43f1600e860e434d863d6886d
+FileChecksum: SHA256: e77f829bfc07eb0f90161d4114a59c9b37f69582ca1a1eece0d0bd1bd2af2a98
+FileChecksum: MD5: eb3dbe0d9646b15dd2dc395259823af7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/nodeimport/apply.yaml
+SPDXID: SPDXRef-item4116197
+FileChecksum: SHA1: 04d46ca5c37d44a8ead5e0da432218331a3ec127
+FileChecksum: SHA256: 04a29ed35fe0a0b109269654b071de47e444e73654a8f78efc137d301780ddba
+FileChecksum: MD5: 379d6df8af5354bf21ccc310b22676d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/cccommit/apply.yaml
+SPDXID: SPDXRef-item4116199
+FileChecksum: SHA1: c7bd24afd05236a664162c35da6da128461823fb
+FileChecksum: SHA256: b39d18a2a1a181d451e47f850fc27791e8d12043f07aed63e3a5a856fa30926a
+FileChecksum: MD5: 75d2202cf0d3cee40d7ecf36bc8fb738
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/deploynodes/order.yaml
+SPDXID: SPDXRef-item4116201
+FileChecksum: SHA1: c2aad656d7db692e772d3021338d5caa10db1a97
+FileChecksum: SHA256: d35dfb6a32caeab5499e4bcc6efab99c7289e23d3ae063e338f341dd6f235257
+FileChecksum: MD5: 91f585dd220b61a0972e7d596dee9055
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/deploynodes/apply.yaml
+SPDXID: SPDXRef-item4116202
+FileChecksum: SHA1: 74f204ea907755d1a459578080a9c36dc1a252da
+FileChecksum: SHA256: ade8a3749f91addbce5a51e8c27317e9fbbcdea5c42019ab2869177cf5f96c9e
+FileChecksum: MD5: af463efca1be8bf8542ee5a5016dc9a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/deploynodes/deploy.yaml
+SPDXID: SPDXRef-item4116203
+FileChecksum: SHA1: 0df999a9eb1cc9918f7f423687cc9b25e3b03393
+FileChecksum: SHA256: eae7637a336d5dafcc364391df22c9955d91cf2f90cd48c342a9da55f59ddbc9
+FileChecksum: MD5: 235c9eb65c07fbfc254608494fa932a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/configmerge/apply.yaml
+SPDXID: SPDXRef-item4116205
+FileChecksum: SHA1: 3e4284d68689961c06081d1ef22eba1d5b5b20da
+FileChecksum: SHA256: e06a1183ec241384ac18f7ea96cdaa5e789a628d2f2c6e9de84bc7ce4efcf2d6
+FileChecksum: MD5: 0035bd313e21c77db4bcc0a25593f484
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/configmerge/templates/configmerge.j2
+SPDXID: SPDXRef-item4116207
+FileChecksum: SHA1: fafd0d1d35df0c154e6f1aec510aa99e029c1efd
+FileChecksum: SHA256: 67f92cd8dcf729675a75f7cb57cac750df156bfbfa04ea41f4e133c0ecffaa81
+FileChecksum: MD5: 7e6f780ea448d3debaa703cb52b708b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/blockquery/apply.yaml
+SPDXID: SPDXRef-item4116209
+FileChecksum: SHA1: 9232b22bfdcd57f29dcb31dc83114a832723da73
+FileChecksum: SHA256: f4d1932d808296258dfa90705eb7dc6ceebd3dea933e35c3ba883c748a9fd218
+FileChecksum: MD5: 5568093526095e79ec1b34a08ba948a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/explorerdown/apply.yaml
+SPDXID: SPDXRef-item4116211
+FileChecksum: SHA1: 5ccdbc5d97345d71665464250765030d5ea68418
+FileChecksum: SHA256: 7e06c0d07c3833cbcc411c73b08041b075b178ba875fce238337f7186242b956
+FileChecksum: MD5: 675f3566a216a6491732a6a0d3a749ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/explorerdown/k8sapply.yaml
+SPDXID: SPDXRef-item4116212
+FileChecksum: SHA1: 21206b315168c1e1246d3a538e72d71cdcae803e
+FileChecksum: SHA256: a717fd9168b05802fd0ba5b05e0ddf2cb4f5bc5a0f51364faae258d8489aa3f8
+FileChecksum: MD5: c256b2f92bb925d487bda006b933d01d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/explorerdown/dockerapply.yaml
+SPDXID: SPDXRef-item4116213
+FileChecksum: SHA1: 2a63f128a31fd5eba1fce167d1533737448bd8e3
+FileChecksum: SHA256: 461852a00a82e3f2b1f19c80f0a8c4741cea0962f50bf09dae185fc8853f89dc
+FileChecksum: MD5: f3b9d1886fdd0178f0139f0cf1ab763c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/channelquery/apply.yaml
+SPDXID: SPDXRef-item4116215
+FileChecksum: SHA1: ff41fff17a7be2491198c50aca952a6e962dcf01
+FileChecksum: SHA256: 7ad1908f2d9a6a7ef08e606b7d56815272b32c589a9bda8e59e390e058679cf3
+FileChecksum: MD5: 0e45e4c637436af5e0240ea59a26f17a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/optionverify/apply.yaml
+SPDXID: SPDXRef-item4116217
+FileChecksum: SHA1: f55c236c2b92e2d42f8f51a12ea8875826ae042f
+FileChecksum: SHA256: 194cb87dab161a1cc208dd262a22ef8f508573fa5651d8cc5ff3ba2072340605
+FileChecksum: MD5: 8f031af8079878adbf32b05ed96bba2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/update/apply.yaml
+SPDXID: SPDXRef-item4116219
+FileChecksum: SHA1: 8f4c4b370763a3d7b505cdc05f46b26a0acdde1f
+FileChecksum: SHA256: 7f1d67ead8a8d04ade3ae3b62cddda8bce0698e36912ee2fb562564b3766b802
+FileChecksum: MD5: 5d1632579e437d157e02bfb20ba5cd80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/filerem/apply.yaml
+SPDXID: SPDXRef-item4116221
+FileChecksum: SHA1: 85d83f3d9aa2c9e47784e0e03f4a5a22cd9ded35
+FileChecksum: SHA256: 6dd3be22c8f4498d08616040ef5fded193b777b20e121ad88e05e6d939898a16
+FileChecksum: MD5: f65f0512149537c209bb69d86aeb32c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/opwrapper.yaml
+SPDXID: SPDXRef-item4116222
+FileChecksum: SHA1: 3d11b52df131cdc05510d45637e5abcc7fde7be0
+FileChecksum: SHA256: 3fc5bc8b9c24b5033f8e08cf13dc8d7401ff73c245d0152c862b38eed96e9fcc
+FileChecksum: MD5: 719d24fed7f1ab7ebf611687e60d720f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/portainerdown/apply.yaml
+SPDXID: SPDXRef-item4116224
+FileChecksum: SHA1: 8edd7fb633492ea2c44808103d1321efc7a2318d
+FileChecksum: SHA256: d101ab7e4ffe92804877bbc7cdc2d1df7583141c22032b7b5cfd10e0171f1a48
+FileChecksum: MD5: d000459be7dc8e41fe19e4d5cb3762b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/portainerdown/k8sapply.yaml
+SPDXID: SPDXRef-item4116225
+FileChecksum: SHA1: 7b485757dce0cb7f7c946af597b41fab0f2d79a8
+FileChecksum: SHA256: 58d2fbc55774b99523e930d264684f91a88fb9eebeab56750cfc099e8d7fec14
+FileChecksum: MD5: 7c02d8dce8bfebf31eb98049817495fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/portainerdown/dockerapply.yaml
+SPDXID: SPDXRef-item4116226
+FileChecksum: SHA1: 5bf3ac6945b62cb31d4809b4d381723b9eaab67d
+FileChecksum: SHA256: be67987fe9025f91e3a1ee91013daa556fb45f58f0a31745fe2139f5e5a4cab1
+FileChecksum: MD5: 74cbe1baf38e321a907d8d297456d3a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/ccapprove/apply.yaml
+SPDXID: SPDXRef-item4116228
+FileChecksum: SHA1: 4163d5afc6ef67bafbbc2e494f025c0b1a2a1400
+FileChecksum: SHA256: 79509fec6592eb275e39c374fa8d558a2281a06aece45fae97a1ebf8115780f8
+FileChecksum: MD5: 5c3f1ccfc63d44d1bd83cd072dfc932e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/channelupdate/apply.yaml
+SPDXID: SPDXRef-item4116230
+FileChecksum: SHA1: 063e9fb4b4f9bf37145ce25cae2e5a10b1f46d8c
+FileChecksum: SHA256: 0695fe7b9cd6ea30df294abafdabfce55deada0cebf9b4389bff48a94f39e3cf
+FileChecksum: MD5: 6153dacf14b09acb8a3dc17d209c8605
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/certrem/apply.yaml
+SPDXID: SPDXRef-item4116232
+FileChecksum: SHA1: 3967eace8413cc850fb1dd924b80f5c520111cce
+FileChecksum: SHA256: 644fbdea43c237def57ec918d978dcb400b8915f705125f43e0b680f2f63f270
+FileChecksum: MD5: 8dea2de945c4a2d3ff57ec120ec1369a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/profilegen/apply.yaml
+SPDXID: SPDXRef-item4116234
+FileChecksum: SHA1: 790d8239034ba96604e12d2b09874ff27b130d18
+FileChecksum: SHA256: 73408caef26849be19383536297d1874fb33845b12382ea923261f052f467bb9
+FileChecksum: MD5: e0d72a35a74e4778bceeff8229647b24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/profilegen/walletgen.yaml
+SPDXID: SPDXRef-item4116235
+FileChecksum: SHA1: 3e2e85eeb982b5f862563282fd79fadfd9394214
+FileChecksum: SHA256: 308a3da906f0853e293499b1874d0a28fae0da6ed0a8cd78453ea919cc4229a8
+FileChecksum: MD5: 1a36d84311a99b464078b80e9fa4d270
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/profilegen/templates/goprofileyaml.j2
+SPDXID: SPDXRef-item4116237
+FileChecksum: SHA1: feb77eee07a0b91280fd1497fbbfaafa1a275493
+FileChecksum: SHA256: dddbaf23e70e99dd9d82e26e7466972de402a30b6ec3fdc69ee727a3aeedffb3
+FileChecksum: MD5: 27aca622f534f69886a5c45be691a10c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/profilegen/templates/nodeprofileyaml.j2
+SPDXID: SPDXRef-item4116238
+FileChecksum: SHA1: 90470967ae8f4bbe9c0c81cf227ce9bc38f772de
+FileChecksum: SHA256: c68717e4895d813e11e23f2a916c4c79222d9a6c684fcbf3313b1b3fee1783fe
+FileChecksum: MD5: 2dabd4ba4ef0507c199e85d290d30b58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/profilegen/templates/endpoints.j2
+SPDXID: SPDXRef-item4116239
+FileChecksum: SHA1: f4df60b5fcc6a899b47512707411474c92795043
+FileChecksum: SHA256: 33dfb4ba6dd234eb1bc2a2e518de24622c3e830b7666e29d8829ee0af31d2f62
+FileChecksum: MD5: 009529dcb49f5c080dbc03a6cfd8fe7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/profilegen/templates/nodeprofile.j2
+SPDXID: SPDXRef-item4116240
+FileChecksum: SHA1: 7cd129e9808f8ca8fc98ff1db375b79dc0787d8f
+FileChecksum: SHA256: 26757c5f14595eb168be58875dc5fecf253a3aeefdf89a2d71ee8fd5af5770f3
+FileChecksum: MD5: fcd6cce37e7e1d6fa3d75c295b315d29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/profilegen/templates/pyprofile.j2
+SPDXID: SPDXRef-item4116241
+FileChecksum: SHA1: 4b581bf85c5f8f650b094ee69e70e27cd5967c8f
+FileChecksum: SHA256: 83d4f3fc3d633788d5c445d3bb3f2168526d94ce05bb95bede260019436eeef5
+FileChecksum: MD5: 5844eb6d953e271988ed17d7e469a010
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/profilegen/templates/userwallet2.j2
+SPDXID: SPDXRef-item4116242
+FileChecksum: SHA1: 67945b1e83f6f6dcf49e5c4fecf9a3b967ca97c5
+FileChecksum: SHA256: 693c6efa05b29c4fa1f20511c05a321b93d1f276ab6390456bd43736e48db38e
+FileChecksum: MD5: 5efbf266d4d80e4e8757a4061e9404cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/profilegen/templates/anchorpeers.j2
+SPDXID: SPDXRef-item4116243
+FileChecksum: SHA1: a31ca3ffc1c7475f389f83fbdfdeed799f8eff55
+FileChecksum: SHA256: 6268cd0635cbc6e9eebeefc3ab20543d2725905c2376993edc31e5675374f9d4
+FileChecksum: MD5: fd9b69e90510b3ed1db678a43fe034eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/profilegen/templates/vscodenodefile.j2
+SPDXID: SPDXRef-item4116244
+FileChecksum: SHA1: 6f1e8520306c650527d7d8c7834249802f3f1dbf
+FileChecksum: SHA256: 5c547cbc8a0507d5eaa97c6a5f5946cf886ffcebf48726543042ae5e92dd8b4f
+FileChecksum: MD5: e19f5fab0a7eb33386e9fd23eab175bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/profilegen/templates/goprofile.j2
+SPDXID: SPDXRef-item4116245
+FileChecksum: SHA1: 9ebfa2d17694fb987df680cca32c6e482ba7af9b
+FileChecksum: SHA256: 8d4410b5d475f566872e7c9e902443446a586e55e2aa94576d149a6be176019e
+FileChecksum: MD5: e0ac319dc1c158f288e7698f0cad5b68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/profilegen/templates/javaprofileyaml.j2
+SPDXID: SPDXRef-item4116246
+FileChecksum: SHA1: 078554ea8368b64b9864a67c7018fe6a902ed41c
+FileChecksum: SHA256: 9d59b20762a56f1b22bf18d725c874cc1ebca713616e04dab9ffd36c3ed3c122
+FileChecksum: MD5: 86ca9ee6aa1c6a3c09bc696f5139a1e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/profilegen/templates/userwallet.j2
+SPDXID: SPDXRef-item4116247
+FileChecksum: SHA1: 79f7c451fe39f9e188ff04a35ea10140ef2c7b2d
+FileChecksum: SHA256: bdd2fc378ef1acc58ed952ce4b6fd769a1979543881a0fd5542d9b00abb892a1
+FileChecksum: MD5: c67fd8ceb7884dd25688af36d3ff6672
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/netdown/apply.yaml
+SPDXID: SPDXRef-item4116249
+FileChecksum: SHA1: 0587aba22e624a46f41c18aca7568780395f7554
+FileChecksum: SHA256: a2d8ac3ee7ae91ec63e950c08f1d2e6ad1a6030132c993a093e1713dc342e8d7
+FileChecksum: MD5: 2685692445cff6b708c9b21db67e566e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/netdown/removecontainer.yaml
+SPDXID: SPDXRef-item4116250
+FileChecksum: SHA1: 4c6859675266a1dc73c321a78702029c2f008724
+FileChecksum: SHA256: fa4576c9ece7d2d5614d98a1ea108d0e8a38472298495bdbafee7041ef651648
+FileChecksum: MD5: 5a42a7a45f5b0f02a2ee4512c9da37a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/netdown/k8sapply.yaml
+SPDXID: SPDXRef-item4116251
+FileChecksum: SHA1: 5d87541869ea5a63f4e1cb3db2ba6d7fc26f9d99
+FileChecksum: SHA256: 23bd4629968c9621229bff14e9499f69b86e14d67c23fe3df667162970f1a460
+FileChecksum: MD5: c8c3864bac741971fc02ff20a1075799
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/netdown/dockerapply.yaml
+SPDXID: SPDXRef-item4116252
+FileChecksum: SHA1: a16cf8ea02cfb9917ddb90bfe9efb05caf60b253
+FileChecksum: SHA256: b3cc73efb694c63d5f2f36510c841975060cb892df736e9cf35a0aa32dccad7a
+FileChecksum: MD5: be98d098e6582003d4bea3f4767d2c7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/channeljoin/apply.yaml
+SPDXID: SPDXRef-item4116254
+FileChecksum: SHA1: 78e7e7a0b7e47825739a40d2f061fc64998e7c4e
+FileChecksum: SHA256: a57f5b955ec80560307c4841b1450c008dab0e0fba0b8ee3fa1b6639a5eca6df
+FileChecksum: MD5: a6e705a70be3184c86e8a9efea1a1885
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/channeljoin/channeljoin.yaml
+SPDXID: SPDXRef-item4116255
+FileChecksum: SHA1: 34cea852dfc1839d531f11374db15805bd9be2e3
+FileChecksum: SHA256: 0f9b7ded08eac8635843abf29887ddce26991871a0b83795c0513336b7b3c115
+FileChecksum: MD5: 3ee6eb09a183c8e654674b85b2f0fe95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/ccinstantiate/apply.yaml
+SPDXID: SPDXRef-item4116257
+FileChecksum: SHA1: 65b67dc2a53916ad4e824e3dd22b635d39e6c4c6
+FileChecksum: SHA256: fc50dd92915040b1fbc25034a76e45eaefe35c241406ce37325d2d30c1689d01
+FileChecksum: MD5: adeb2c8d82a2e67484931908eb925e53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/caliperrun/apply.yaml
+SPDXID: SPDXRef-item4116259
+FileChecksum: SHA1: 516d2063cfc8abaa1b3e67f9d75e4f5177968e42
+FileChecksum: SHA256: 6c2fd248f8ba8f4d1212ae0b234670c9f13161872b399635a9fef321df51bc13
+FileChecksum: MD5: b19441c67bc0881174af9345acfc3ce6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/caliperrun/templates/caliperbind.j2
+SPDXID: SPDXRef-item4116261
+FileChecksum: SHA1: 7987d46bb9621a0001312f32279459bda24a7260
+FileChecksum: SHA256: 66fb90a4191839befd9defecf49818cb270a73db3f70950afb278d55f86a4d00
+FileChecksum: MD5: a147c5720bbcd31e0661adbebef5b6ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/caliperrun/templates/caliperrun.j2
+SPDXID: SPDXRef-item4116262
+FileChecksum: SHA1: 9509c1b7a01557b0ef14753cb7b3225b65780898
+FileChecksum: SHA256: d64d5104cbcf646a9fac512244afc762c50522eefe3ab13be4839359acd1b1dc
+FileChecksum: MD5: efc2646de7f50e08c97510d00ad57644
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/caliperrun/templates/networkconfig.j2
+SPDXID: SPDXRef-item4116263
+FileChecksum: SHA1: 0212a06cba2ea385cae1845bff758d2239428e79
+FileChecksum: SHA256: 36bb431cdfedea728cdeb424b1ad74f0481e96b074dfaf6bda208ec29af226c9
+FileChecksum: MD5: 3d431297ead85cfbb5cea7e83bee5c20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/caliperrun/templates/benchmarkconfig.j2
+SPDXID: SPDXRef-item4116264
+FileChecksum: SHA1: 7a704c16aa008f8ecb6b657bc54d38afba967a99
+FileChecksum: SHA256: a9cf9fa6794cea81b91701d2e0fcec65582885e453e606ea64cf91f7359031ac
+FileChecksum: MD5: 0c2c913456110ade5576bc6e853ac541
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/portainerup/apply.yaml
+SPDXID: SPDXRef-item4116266
+FileChecksum: SHA1: 52d6766b968d887313395cf138ef0594c9d63f37
+FileChecksum: SHA256: 97152b5beb7229977177678eff79aee7d4d634721a250b47a7ceff57cc30c11e
+FileChecksum: MD5: 06a87be6fa8e192f49df0afab3c6ff28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/portainerup/k8stemplates/pods.j2
+SPDXID: SPDXRef-item4116268
+FileChecksum: SHA1: b3e781a418a51007f7f510d3de484cb15b3564dd
+FileChecksum: SHA256: f5dc4923becf54c7b4818d786be459e45b894a41770f91ecd6171c99e154067d
+FileChecksum: MD5: b34261095cb60b869638dc18f6d9d2ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/portainerup/k8stemplates/service.j2
+SPDXID: SPDXRef-item4116269
+FileChecksum: SHA1: 867710c3df54c051bfbc19c8d6acb8867cab01db
+FileChecksum: SHA256: 3d997ccc2487400c8a892bc92ed47ae9904ad6580d03d146b89f66e10723161b
+FileChecksum: MD5: 653cf89b93e0c2e071e0d44d322494ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/portainerup/k8sapply.yaml
+SPDXID: SPDXRef-item4116270
+FileChecksum: SHA1: 468983782c1607c7735568dcc57c3958798a8050
+FileChecksum: SHA256: b907949099daac5c78d53c3eae0f380f0f0015b3a7046498807f092185f9d8c5
+FileChecksum: MD5: 72dd58dde54c0cdf2c43901b9118896a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/portainerup/dockerapply.yaml
+SPDXID: SPDXRef-item4116271
+FileChecksum: SHA1: fd9fda8247be6c73bb6e2cc5880149e6344ffa47
+FileChecksum: SHA256: 702b699048f90bca45d0efedde1585090d3da635a1eb78eaf691c03888a41e52
+FileChecksum: MD5: fbd83540a8b0a1ec6c0a6239716c172c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/ccinvoke/apply.yaml
+SPDXID: SPDXRef-item4116273
+FileChecksum: SHA1: 57be6a5309df82b07a9d15651a62c3e8ecd2b6f5
+FileChecksum: SHA256: 8625a3f2b64e4d3ecfa6a6468277c376a1bb6ff05deaca8e78197b19878723b9
+FileChecksum: MD5: 63b3f0db2e49b51b064e68a769d719f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/anchorupdate/apply.yaml
+SPDXID: SPDXRef-item4116275
+FileChecksum: SHA1: 2761038b7fd74db74919361baf10fb85e0ac0e23
+FileChecksum: SHA256: 10e8ec468f0a7f36c4b09027b22f9e0c031e68d8cb92064df68d10f2cd46a7c4
+FileChecksum: MD5: 88be1543e4d98a38b01ce93e7e708cba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/anchorupdate/anchorupdate.yaml
+SPDXID: SPDXRef-item4116276
+FileChecksum: SHA1: 4861147981dc349e2ab6e6d5a929d0a5820aa787
+FileChecksum: SHA256: db4930206ea9b7c97b028c2e1f8dc75b7892a81e2bcc94bf258011ba6a6f7926
+FileChecksum: MD5: daedaf1c7dd8d431f747a81f6a200aa4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/explorerup/apply.yaml
+SPDXID: SPDXRef-item4116278
+FileChecksum: SHA1: ae0307bb6fb86e77719c2dbc93439e8128a7a605
+FileChecksum: SHA256: 2d3b9144449f9fc59808e9de717d15f46f1d8bb06ffa1c4031008b1902f3422e
+FileChecksum: MD5: 6fb728ad5bc3155a8bb7e6f2a3c60b6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/explorerup/k8stemplates/pods.j2
+SPDXID: SPDXRef-item4116280
+FileChecksum: SHA1: cf9e6b11f359dfe959ae1fc9a20b48300ebbea19
+FileChecksum: SHA256: fee94a435c41db565be352c636960500703376d39fd6f9dca724587f8ea17534
+FileChecksum: MD5: 7be25e5618ae6dc78a17d3d788b9def7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/explorerup/k8stemplates/service.j2
+SPDXID: SPDXRef-item4116281
+FileChecksum: SHA1: cb0f94227e90e64f2223cd61005dc207a658a1b1
+FileChecksum: SHA256: e207579094092e7c7994b5654a5c0b81951f5da66749177343e4c606aea29181
+FileChecksum: MD5: 6ac7176cde15d45a07a78fd208bc3282
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/explorerup/k8sapply.yaml
+SPDXID: SPDXRef-item4116282
+FileChecksum: SHA1: b44cb6fa073466e24d3dcc3b87eaae482dfb89f2
+FileChecksum: SHA256: f4ece8d8892c17fd92ffd37938a2981d56cdb2e29cbc2a5ded65974081d196d4
+FileChecksum: MD5: 042947efb715eac5aedc5e1dd812a154
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/explorerup/dockerapply.yaml
+SPDXID: SPDXRef-item4116283
+FileChecksum: SHA1: 62d7d2f10d68ba22df5af401958a74398e1569fd
+FileChecksum: SHA256: ca8fa7e96c10063ee897b4d55270faeaf8fb4af69f71e64ca370c15e410763a9
+FileChecksum: MD5: f7005abe891d7b6809a572aeb2751ad7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/explorerup/templates/explorerprofile.j2
+SPDXID: SPDXRef-item4116285
+FileChecksum: SHA1: 5d2f9e5eeee8eb06c340afc8efdb87c7cf9874df
+FileChecksum: SHA256: 5da1e6ae71b5d3a53602842891b94a892fcfb334d6b053a4ff5031837baff958
+FileChecksum: MD5: e7b45e499c32f9bab1fa57a9f0c88268
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/discover/channelconfig.yaml
+SPDXID: SPDXRef-item4116288
+FileChecksum: SHA1: 4da551fa51af2caa30c36d1b774e178b85a66c42
+FileChecksum: SHA256: 93d35008adc76504534e04ae9adbad5713fe05a08a64634abe281062ed61b3bb
+FileChecksum: MD5: b6e45f61604b859e2a7d5af7cc2d2f77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/discover/apply.yaml
+SPDXID: SPDXRef-item4116289
+FileChecksum: SHA1: ebd5b948a3a5573d29b6e31ee99e2ae70f09825c
+FileChecksum: SHA256: af3676115152fcd3d6e8c3d2c67cc573c430cf8a27f7694d3103fdff2e67d87b
+FileChecksum: MD5: 26c3fddc2074062e809bf7405cd8e105
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/deployoperator/apply.yaml
+SPDXID: SPDXRef-item4116291
+FileChecksum: SHA1: 3cb8f6327961ebf6c0e86bdf9efd195e82a6f405
+FileChecksum: SHA256: 2c67435f6f1c68874790698041555955449712b922d98fb906838ffa7004effa
+FileChecksum: MD5: 54f2453a83503749dbb8ac73d1662882
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/imageget/apply.yaml
+SPDXID: SPDXRef-item4116293
+FileChecksum: SHA1: a247e2598dc690f5f679a302cc168a36bd3c0f1f
+FileChecksum: SHA256: 67fa242d3a52f822f607094ce60ac613239a4b52e13516ed655f15d417efbf06
+FileChecksum: MD5: 069397731ad3c7cee25f013b7fb2de17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/imageget/getimage.yaml
+SPDXID: SPDXRef-item4116294
+FileChecksum: SHA1: f7a4d515d1c61d77313dfc3db09fe8ece8b22c02
+FileChecksum: SHA256: 116e9d07010b37d2a69d3d5bc07469f671cb0e2d5f6fd181fb0e38d902ac83e7
+FileChecksum: MD5: 0bccb36323605c72e5a68380ddbe6d09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/consoledown/apply.yaml
+SPDXID: SPDXRef-item4116296
+FileChecksum: SHA1: d83b1fe1b998843218fd3acd361f011d7708387a
+FileChecksum: SHA256: 39eb6a280d24fcd3865d5d16e6eae681b871ce9caf5a0776ac790238fb49e5ec
+FileChecksum: MD5: 2fa6ecc3d9866de6c1cb2cb5a6ddd675
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/channelcreate/apply.yaml
+SPDXID: SPDXRef-item4116298
+FileChecksum: SHA1: e095032ed96b9cef98efec7735832dc6a33b7eb9
+FileChecksum: SHA256: 95029fcd0ddf526b40da92f7d91db778cc47444bdd331ddb06cf67036bfc18f3
+FileChecksum: MD5: 1aeffaff5ba1aba54ee2da5fc93ca034
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/channelsign/apply.yaml
+SPDXID: SPDXRef-item4116300
+FileChecksum: SHA1: 904a5a6c8cfefb0d0100b98697677bcc289cadd9
+FileChecksum: SHA256: 04f2ed991d834fd8eeecf7b2d12623a5c865ea5a855480fd01f54dba5ed9e0c3
+FileChecksum: MD5: e1ff4a19073863bf090f4356857d8d9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/ccquery/apply.yaml
+SPDXID: SPDXRef-item4116302
+FileChecksum: SHA1: 3996dce8c5ccbf0e78e1365cfcc3a8942e8b82fd
+FileChecksum: SHA256: 00765d89b57c96f618f6cf60e9a7b0c037da67a0cd0d942a7879ac29082a069e
+FileChecksum: MD5: 4ec4c8ec3344839abaeee3f088837068
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/opnames.yaml
+SPDXID: SPDXRef-item4116303
+FileChecksum: SHA1: c38063c29607f48314aaa3654afa2eaa2473d288
+FileChecksum: SHA256: 0f4012f10e7fcb8371a2e8891ba225e3973c015d6110a659a0ec0422b2c69186
+FileChecksum: MD5: b59ad40a3d1b409ef4ea1c01fe642574
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/netup/apply.yaml
+SPDXID: SPDXRef-item4116305
+FileChecksum: SHA1: 9a448f82e5182a905c22cef075d3b2aad9020738
+FileChecksum: SHA256: cae8f0787c57b7c92b994c5ea9fa4b2758d36c166727b2294a51db614e06ddc4
+FileChecksum: MD5: 9dc4189848dc3496ab7a2dab1e62b43e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/netup/k8stemplates/allnodes.j2
+SPDXID: SPDXRef-item4116307
+FileChecksum: SHA1: c19ac9df21a1bee6ae3562745b4a53470762a1bb
+FileChecksum: SHA256: 5656b9b2b42400ddb16653cb153f50838447fc96cd577a125fae1114a0b20011
+FileChecksum: MD5: d7312bdcce41c48c9d428d83adf5d537
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/netup/k8stemplates/allservices.j2
+SPDXID: SPDXRef-item4116308
+FileChecksum: SHA1: 878f83977000e6c1e55907ce78b06968ed019bd7
+FileChecksum: SHA256: 6d18bbf3c96de7d18770fd7fd1eab1e41f31337cae2f035b810340d190e7f476
+FileChecksum: MD5: d5a7f56285decf363639603e509dd4c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/netup/k8sapply.yaml
+SPDXID: SPDXRef-item4116309
+FileChecksum: SHA1: a8a2fa4e4f6011cd518da17c5432bbf4b78f1e77
+FileChecksum: SHA256: eefb216cb524e69cca3cdcc33b730689bfc248c72206b9a3874be22da74b7c07
+FileChecksum: MD5: 6b2cc09e665b8a317e6f99505fda123b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/netup/dockerapply.yaml
+SPDXID: SPDXRef-item4116310
+FileChecksum: SHA1: 31af5529345d51b9d323503eaf82e8948c94313a
+FileChecksum: SHA256: fdd2818a7c90e4947e3762fe4b2c5e9bc69877fbd979b0928e62e524e8c46c5d
+FileChecksum: MD5: 9ac3583aef78db1036826380b239fe33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/netup/templates/caenv.j2
+SPDXID: SPDXRef-item4116312
+FileChecksum: SHA1: 4f72aaab5fe89ff3d0ec2ccdafb6302f0333c58a
+FileChecksum: SHA256: 6c0c45c4ba5e3c29a28ee40f247cc1594db17e469b463da73ba2993470449341
+FileChecksum: MD5: 5020e45899b49a5978019bd69cde3cb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/netup/templates/statuscheck.j2
+SPDXID: SPDXRef-item4116313
+FileChecksum: SHA1: 088da22f3da685c0e7545b1e60cb949ed625aaf1
+FileChecksum: SHA256: cd49bc964448c72c7e3da7e0d1b6407f5247d25d2ab93c43c0875b972df3b217
+FileChecksum: MD5: b704ba04891261bec11d628de8fb45d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/netup/templates/ordererenv.j2
+SPDXID: SPDXRef-item4116314
+FileChecksum: SHA1: 497671118ba854d5236a87484d7fc023cf907cb0
+FileChecksum: SHA256: 36cf4fa2a488492715fcf4a3127909f889bd839e2443f2627458d3d4a9e42fec
+FileChecksum: MD5: 0c01560880c3f638726ec9420a10a751
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/netup/templates/peerenv.j2
+SPDXID: SPDXRef-item4116315
+FileChecksum: SHA1: d295113e118fd3476ea6846852a6147f5155ccc3
+FileChecksum: SHA256: b3654163bc43ba875c4dbf1390e340036f15166b4772cb1d8270cba4ad17dd3c
+FileChecksum: MD5: 05b3d9112ae3e67c8be1c3fb6f626501
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/ccinstall.j2
+SPDXID: SPDXRef-item4116317
+FileChecksum: SHA1: 44b9d55d10afc46074cc26a8da55ac24e7cbd28e
+FileChecksum: SHA256: da2f4a482aaed973efcbb07a87e3c7c20444ac85329023aecad55ce7b4828a69
+FileChecksum: MD5: 338df59053b9ede94a56edbb06a4d8f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/discover.j2
+SPDXID: SPDXRef-item4116318
+FileChecksum: SHA1: cb1868409ea5accdea238696659f508f58ac8285
+FileChecksum: SHA256: 2e12ff194b542f47d8c25adfe08b3f197a76eeabb156ea48577ec44c0d3b45ae
+FileChecksum: MD5: 8cd13a3caa87f5cd07f79b70fe091f25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/ccinstall2.j2
+SPDXID: SPDXRef-item4116319
+FileChecksum: SHA1: 9a1a86993530d08246f2bf3220bde88cb1512457
+FileChecksum: SHA256: 04beee3df321f282e2eb7b0d5819ec307b5883944b60c81fd5dbbdd77eef2430
+FileChecksum: MD5: e39a0a413c2c2a9a1cc4b4b5fe393966
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/channelsignoff.j2
+SPDXID: SPDXRef-item4116320
+FileChecksum: SHA1: a1e959ae4653794a58006af54f3649b82575d7d8
+FileChecksum: SHA256: 910a550b3a90572bfd61eda4789b2e1f71d5f02840d4135b9396107a67e42b8a
+FileChecksum: MD5: ebd175eae4c4e9e9fc85f3ff06d440e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/channeljoin.j2
+SPDXID: SPDXRef-item4116321
+FileChecksum: SHA1: 76ce53d64b0b09021d3fc788e0b0ba7e5085ce37
+FileChecksum: SHA256: a307e257e59d963f37067843d6cedd8655551a0060d7151513b22e454569d817
+FileChecksum: MD5: 46519dfd419062e8f786fee05293ac62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/envsetting.j2
+SPDXID: SPDXRef-item4116322
+FileChecksum: SHA1: a2db48920b3c2c3a0d9f73a9e28a25cfd075158a
+FileChecksum: SHA256: 8b443e02b54cf49a6ad0b3ed311cd948d0821bd7c21a009c391a2e3faadd8819
+FileChecksum: MD5: 4857c8b4f13ad6be58bd1d76da694a8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/cccommit2.j2
+SPDXID: SPDXRef-item4116323
+FileChecksum: SHA1: ae653468a81f4a6872370b5d9a78ee73eb2104bb
+FileChecksum: SHA256: 3851423c48813daa101e58af8ee098ef4f67bace41493725e5d498053c10f846
+FileChecksum: MD5: e80a150e6888a7d9a38ce81badf12a2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/channelcreate.j2
+SPDXID: SPDXRef-item4116324
+FileChecksum: SHA1: 06ab845adc61cb02dcf0251fdcc23e4d1981563c
+FileChecksum: SHA256: 85a0121d7af63c0ef30d886ae14eb87c17394c0359f2efc5488fa1b204fbf5be
+FileChecksum: MD5: e39df93dbe85b7373650b2693020686d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/channelquery.j2
+SPDXID: SPDXRef-item4116325
+FileChecksum: SHA1: 7b7623c17a82db7d768e9c88538c310a6e4c50d0
+FileChecksum: SHA256: 68841e718ae40b839e243652cb2d15bc0b7b2adb974f66e8b4b3d1521791050f
+FileChecksum: MD5: c258c2b2f94423d78f022f447b04661d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/ccquery.j2
+SPDXID: SPDXRef-item4116326
+FileChecksum: SHA1: 90c750a3afd4409593fa80c2f623281829405d55
+FileChecksum: SHA256: 5cdab940746ad44c745886ba61e4ecd7f22b226123ef452255e7cc096827e543
+FileChecksum: MD5: 9655f7580ddbbfa73b0768235c82fe6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/collection_config.j2
+SPDXID: SPDXRef-item4116327
+FileChecksum: SHA1: 91c77133a443ad6e4ce0c54263d7bc67c90c4665
+FileChecksum: SHA256: 2fbc7586d6acdf9d821fdfd5033049390ecde6b31e56f097076a8fbe3d685fdb
+FileChecksum: MD5: 7c38e50cfd4835bebd87d376ec900387
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/blockquery.jq
+SPDXID: SPDXRef-item4116328
+FileChecksum: SHA1: 8d8b23c5ce9d0ee9222f8e0c9d622be360dc29d1
+FileChecksum: SHA256: b34104fa7ee30602ffad0e1946bd6da2b031ad528e5114d6add360e7dc4ad49a
+FileChecksum: MD5: 564a1bfce0730c42cb101824c6f21512
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/channelupdate.j2
+SPDXID: SPDXRef-item4116329
+FileChecksum: SHA1: 0da977a4db6053416eae7d16461fe8fd889b02b4
+FileChecksum: SHA256: 92dd3b6b04ba60b9412d9c371f30322a760b7d2992b3b24e085aeec745d92c0c
+FileChecksum: MD5: fa4434ce6eab3463ba33c8cd7f112c7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/anchorupdate.j2
+SPDXID: SPDXRef-item4116330
+FileChecksum: SHA1: 8bde6793b28e616955d7693a01713c929f711243
+FileChecksum: SHA256: 1a8f954edbc0ac45f6bcf2919f1d89eb6856c0214620a3d29c4e1233ee87d83f
+FileChecksum: MD5: 7614099a507f025e62b3e7ac61c7ec6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/ccinstantiate.j2
+SPDXID: SPDXRef-item4116331
+FileChecksum: SHA1: 64d74a93dabf2e0dbb20c686eecae8b3c25d16a8
+FileChecksum: SHA256: 8d5d89a3a68704327551f120bcb940ba6ca51f97430d904e778d00e96d91280d
+FileChecksum: MD5: 2c149cbbbee6f51bd55b5fd5c333240d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/blockquery.j2
+SPDXID: SPDXRef-item4116332
+FileChecksum: SHA1: cacb05b05c035073bba2dc7e648641417a28aea3
+FileChecksum: SHA256: 661e17b120b0abc7c107cb7589497f958a8a894734587afb22f0ab5b53290b97
+FileChecksum: MD5: b2283aa0200eb8dcc9d88da8d8e3e792
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/ccapprove.j2
+SPDXID: SPDXRef-item4116333
+FileChecksum: SHA1: 847d27297736ecdaac33b40dcef0c541a1c49974
+FileChecksum: SHA256: cb9bdba5d1eaa1e80ee814c402461c81105329150fc9868b1e6d894e529c4d5b
+FileChecksum: MD5: 51505109b51b71870458e18793fe8571
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/ccinvoke.j2
+SPDXID: SPDXRef-item4116334
+FileChecksum: SHA1: 2b5d371b361b89b3878cf3ed413dd9cfe9b50d8c
+FileChecksum: SHA256: 5a89c17f89d4672d80346bf41e4856cf3f940f260dc769c366728e0baa0ad542
+FileChecksum: MD5: 0eb2b484d2a52723782b1b6d93b3ba81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/stats.j2
+SPDXID: SPDXRef-item4116335
+FileChecksum: SHA1: 8097f9d8163fa21f4e7bcfcf9f724b5e353ff377
+FileChecksum: SHA256: 202ed4422f9755264eecde188a750536678e140ed209e488a0b59dd1d6e38359
+FileChecksum: MD5: f40fc9749d70e09518e3036abe9d5e87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/templates/ccinstantiate2.j2
+SPDXID: SPDXRef-item4116336
+FileChecksum: SHA1: 42620dca1ce4968307ed581893c455d6afb66a18
+FileChecksum: SHA256: af60699abaf464aad3f6961a0c0c2d0170c6492aab6084d7a25dc691ff5bd3cc
+FileChecksum: MD5: d82fcd06d45c4c0a1d8a877fd5007dc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/apprun/apply.yaml
+SPDXID: SPDXRef-item4116338
+FileChecksum: SHA1: a9ff375125a73eacf79232013305dde378fd7c55
+FileChecksum: SHA256: f7fef875d31657b27f073a46683318c0c9460f4aa57e72dcd498b6d5dee12602
+FileChecksum: MD5: 18f7a725b8c54b22a11b4298b65774cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/apprun/templates/apprun_node.j2
+SPDXID: SPDXRef-item4116340
+FileChecksum: SHA1: 4faa457cebd63e8ccdbbabaaf93d2025ebfd333d
+FileChecksum: SHA256: fa53cf57233e4b4914ec1b8de19fa3b5148295ea6e2720b8a64beff07aa2933d
+FileChecksum: MD5: 741a5b6e028d28bfa9fc7380bc2dc9b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/apprun/templates/apprun_go.j2
+SPDXID: SPDXRef-item4116341
+FileChecksum: SHA1: 02803b88d595723582606bd82e837b27b9c880b0
+FileChecksum: SHA256: 3f40513e6e3062c9489a04959cb8a1694530f7b21dd48f7a99d95c18e703861d
+FileChecksum: MD5: 3b514b3b290e0a8c0282550a8bfaba33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/netstats/apply.yaml
+SPDXID: SPDXRef-item4116343
+FileChecksum: SHA1: 12975e232b7980da92737b5f3bd0c42a479de9f5
+FileChecksum: SHA256: 423117c694c98ea2045b70ccb486035527fddd322cce227720c21c96cd195d43
+FileChecksum: MD5: 26d80641aee44d9834d5b39b06fcb2ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/consoleup/apply.yaml
+SPDXID: SPDXRef-item4116345
+FileChecksum: SHA1: 49499fdceb4df848dc613aa02216d75169d28dcd
+FileChecksum: SHA256: 1b053f1330e367874b04c1ce535bedf205eda73dfb2471b30f59b36a3c5f9792
+FileChecksum: MD5: b2fb02eb89f801f2d2caa9e21977dd10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/consoleup/templates/wallet.j2
+SPDXID: SPDXRef-item4116347
+FileChecksum: SHA1: 73c01c129d721e37d8cbe06ab48568e6ac4257a5
+FileChecksum: SHA256: 1e45e6b79d79076b67286bfaff7ea43dce3a8ad45fced64d8d642883d512b909
+FileChecksum: MD5: 4433b3a11325bba5fb00d2ce907a3d81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/consoleup/templates/peer.j2
+SPDXID: SPDXRef-item4116348
+FileChecksum: SHA1: d74c1e8441db654c279d0cf2a2ff51597d2f8b47
+FileChecksum: SHA256: 65f9e0d87883e174770f07b14964f065525e1c9eda0eca916325e5dbb42012ee
+FileChecksum: MD5: 5567d12382f36302e179f402dc5d6e77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/consoleup/templates/ca.j2
+SPDXID: SPDXRef-item4116349
+FileChecksum: SHA1: 0f915f27add001a8ebd6bac4710abb50eedfb292
+FileChecksum: SHA256: aea614636a38b007da102b843086f690802a21af4e8dfb8154271888f8f78725
+FileChecksum: MD5: 31f18e8b77860683159e12fa7dbeba91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/consoleup/templates/orderer.j2
+SPDXID: SPDXRef-item4116350
+FileChecksum: SHA1: 3419adefda457d5617ef26ed81838f4041e71b50
+FileChecksum: SHA256: da3283642a1ba2fae5942c4183576e9df8dc0bc321f100a5bb6f6113e3ce07b1
+FileChecksum: MD5: da3abd4826260c056dec894bf8f4f098
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/consoleup/templates/config.j2
+SPDXID: SPDXRef-item4116351
+FileChecksum: SHA1: e46abdc79a4a368138f6cf648042226ce29d520b
+FileChecksum: SHA256: c26c41421dbd62f3bb0bea910a253fbf43dc623e61deb0156dfa719036730685
+FileChecksum: MD5: 121bdac8884bf6ed5615270c1dad72b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/consoleup/templates/msp.j2
+SPDXID: SPDXRef-item4116352
+FileChecksum: SHA1: 8412a6ff5376fae606fe9e7571484cf5949b2110
+FileChecksum: SHA256: b6b5fd6a8ef9e38b077bbb8d632e97d7511e3da0c7fcca99665b853781b739c1
+FileChecksum: MD5: 639b18f277cfc8686fdb7ac56c6e9a9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/certgen/apply.yaml
+SPDXID: SPDXRef-item4116354
+FileChecksum: SHA1: 5fe96e33ede842a0ea23b6eb9ae6cb48f66986fb
+FileChecksum: SHA256: fa5a5f9a35e36ad9c974313da4752db82be08644d68eb3785d8503c53f43a0d1
+FileChecksum: MD5: e12461551ad9d74535565e13f4619060
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/certgen/orgkeygen.yaml
+SPDXID: SPDXRef-item4116355
+FileChecksum: SHA1: b04c81f685bc301b71cd169c7dfa5b3baf616be1
+FileChecksum: SHA256: cc7bb67d71a7f7e8639923fbfd8eaa79a504a9aca989e3e71acef7a024c15150
+FileChecksum: MD5: 66acefc5edce750aa8efd027de03624a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/certgen/renamekeyfile.yaml
+SPDXID: SPDXRef-item4116356
+FileChecksum: SHA1: aa967499150705b6e1609addf3d203176ee6676c
+FileChecksum: SHA256: 50829decb4680dcbd2f4a74559135af8115bbb250b7bb8ff4c20407774a4947e
+FileChecksum: MD5: e793befb4b0c73f8c5a90667d928ffed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/certgen/partykeygen.yaml
+SPDXID: SPDXRef-item4116357
+FileChecksum: SHA1: 0f47b2dc12ad1a32c0ec3504cc299b90e8bdafb8
+FileChecksum: SHA256: 7ca704d492ea1477632797748ca7b9347670e4c4d2fbff365abaf75b41dfc49a
+FileChecksum: MD5: 35958165c636d392186b930a9599ba6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/certgen/createcerts.yaml
+SPDXID: SPDXRef-item4116358
+FileChecksum: SHA1: f970a8a33cad6c4b8d61483ad432ba7fadc794cc
+FileChecksum: SHA256: 33cceaea5e4e62d14006b43648115763b2e2e54383929c5602c9cfbc315278c8
+FileChecksum: MD5: 29fef11cea6ba1be34d40ce6ac7756fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/certgen/templates/crypto-config.j2
+SPDXID: SPDXRef-item4116360
+FileChecksum: SHA1: e45e7b63f715aeaff67a5bc8fcadd49c63e558c2
+FileChecksum: SHA256: 13c598493110c8b38616c52fdde2e01e3fac3b520508385ed76bad91e0233bc4
+FileChecksum: MD5: efc63377d59bbfa4666df135edcedb9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/certgen/templates/certtxgen.j2
+SPDXID: SPDXRef-item4116361
+FileChecksum: SHA1: f769099bb8b7cfb9df7240db1952fa762fe00d7d
+FileChecksum: SHA256: 5b2ef151f44172e1e9def9959ee323aca19071348f11d481942a3cbb1e48278d
+FileChecksum: MD5: 6cf81a832eeebb904d58f8c293ed7847
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/certgen/templates/config.j2
+SPDXID: SPDXRef-item4116362
+FileChecksum: SHA1: f05ff4db61ba2511854de73768f82fe7dba20153
+FileChecksum: SHA256: 58ccd9acdf28b9e64722621adda481efb213c16d550b03fa096ecd523871b276
+FileChecksum: MD5: f5c8088a4d5d199639be3523a75eec02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/certgen/templates/v3.j2
+SPDXID: SPDXRef-item4116363
+FileChecksum: SHA1: 98c2476fd9f7a5bb842570dee64a785f80ead14a
+FileChecksum: SHA256: c00d1cd042120614a788bfe7491f805c7616c14e1917f4c4cfe5822ffde1fdc2
+FileChecksum: MD5: 6c6b8e565f575248518c84137ba6446a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/certgen/templates/ingresscontroller.yaml
+SPDXID: SPDXRef-item4116364
+FileChecksum: SHA1: 866adb033413b0a80e702e4f537ad8eda864d3f5
+FileChecksum: SHA256: c7c403362cae970a61a4b468c9a5ebc220157079cfbe610fb7f93952ed39c025
+FileChecksum: MD5: 3f22edeeabae06aaff4b48923c802732
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/certgen/templates/configtx.j2
+SPDXID: SPDXRef-item4116365
+FileChecksum: SHA1: 55ab37f91f908c0b515f1cdfb2c6cc7abd6164af
+FileChecksum: SHA256: 6f27a96065e60b412008bc409df32e01ea6d51b36f166352bbbff87ed33d6c54
+FileChecksum: MD5: 53860aea71fb099dfead8781d63acf73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/playbooks/ops/certgen/getk8spublicip.yaml
+SPDXID: SPDXRef-item4116366
+FileChecksum: SHA1: c9b89533b18115bca1affdca2189097ec8e0c846
+FileChecksum: SHA256: a7f8cd0788751d18ea584bff63ab5cd5168ad9ce6219fdc513f1ceb935d3635a
+FileChecksum: MD5: 53bb500537c84f4ed59ce3617800e2e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/cmcc/go/go.mod
+SPDXID: SPDXRef-item4116370
+FileChecksum: SHA1: bade779d5b8203c8312e85c8d6dd327cbc69ce21
+FileChecksum: SHA256: 8ebb8bbd563182e3bc84b4acfae91b6671bfd3e694b28c9c9b2a239740c5576f
+FileChecksum: MD5: 6ff06064f6e881b05190ad6f5c409f44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/cmcc/go/go.sum
+SPDXID: SPDXRef-item4116371
+FileChecksum: SHA1: a6330b5f68ae29f21b105ae4bd3fecca01d909e6
+FileChecksum: SHA256: 9bf9bef83703bb34bd13b677c5e102d450dc7067ffb48d66f3d874fb29daf380
+FileChecksum: MD5: 5f5fd70341a34b9ff77a4932ad52e167
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/simple/go/go.mod
+SPDXID: SPDXRef-item4116375
+FileChecksum: SHA1: 065ef35eeb386194c899d6c9d35697a471241e95
+FileChecksum: SHA256: ca0d35b8e008399bec3dc9d922ce8c27c49beee5b657ca43bd1d665021e9ada4
+FileChecksum: MD5: 572e5e1010f96394c77d9b829d28a192
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/simple/go/go.sum
+SPDXID: SPDXRef-item4116376
+FileChecksum: SHA1: 0574d9abe263098afda155c4e8bd3f143797f4e2
+FileChecksum: SHA256: 6f6c501ff5bd136d2f3f499358e5c0876dcb97288a2e6a96671e029158b96304
+FileChecksum: MD5: d91fc6a5c4b46c7767b5b8bd1a2a4f8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/simple/java/.gitignore
+SPDXID: SPDXRef-item4116390
+FileChecksum: SHA1: 5b76fba08b521bdeb501d81b7b96cf885b304419
+FileChecksum: SHA256: 518f8d5dba53651cea2f7604c22241e1e18365b7d86f6ecae4f8bf8df4fe906c
+FileChecksum: MD5: a74926a25d9e7e027b498e212affa61c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/privatemarbles/README.md
+SPDXID: SPDXRef-item4116394
+FileChecksum: SHA1: 62899a607f74c13b6d1de3bc6b03e9e08f152e21
+FileChecksum: SHA256: 79c084daff8ebc13032c8cf9eba3f29413187f87a2cf895150895356d4527ebb
+FileChecksum: MD5: 59366e26cb20f5398270099afede747a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/privatemarbles/go/go.mod
+SPDXID: SPDXRef-item4116396
+FileChecksum: SHA1: 65dd23f43f6d1c3faebf3501f3c20d28e96d9f43
+FileChecksum: SHA256: 79a20b912fe1b488fd836da4109cec5283d69b62c5e70115292863b28cd61088
+FileChecksum: MD5: 26ad5240046fbc85b840b4c310bb5098
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/samplecc/go/go.mod
+SPDXID: SPDXRef-item4116400
+FileChecksum: SHA1: 616915d6bed442a8908b30c0c8cbddfb8b58b821
+FileChecksum: SHA256: 40360c2c58d6903482dca7eb4dd4559f7cdcae910d76d68874a57a1a677fc2b5
+FileChecksum: MD5: ef8970b122c9545541ed71e5835ef2ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/chaincode/samplecc/go/go.sum
+SPDXID: SPDXRef-item4116401
+FileChecksum: SHA1: 2274b8df2d8a4ee477e80d7bade2b108cafa6015
+FileChecksum: SHA256: 2a504327e7bf7baba06f7f7e6b565e1234fe1acfd49fcf21828a04db801297e2
+FileChecksum: MD5: 3ea11c6b76ada243db6317b121cb9e54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/.gitignore
+SPDXID: SPDXRef-item4116403
+FileChecksum: SHA1: 37c1ac04c32786a3703ba0df3dcf4bb90506fcb2
+FileChecksum: SHA256: d731d79368fe4dba71d020602e0a224c08b54698cf7b671e1d65442dbf658441
+FileChecksum: MD5: 5fe9c64b83c2d5b4ada619c8ddfea197
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/spec.yaml
+SPDXID: SPDXRef-item4116404
+FileChecksum: SHA1: 31f450d9ccb42890864dc146ea5acffd5920c607
+FileChecksum: SHA256: 4d09bd4b48855457106d2f8cc046742f84487f1f8f66b21310f2c8ed65262374
+FileChecksum: MD5: 82eb30c23f57fc2b63c4c5abe9e4c2ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/DockerfileHub
+SPDXID: SPDXRef-item4116405
+FileChecksum: SHA1: 2c6ccb748a7c17ec59927753323a3700438e8033
+FileChecksum: SHA256: d5666ce9c47b0b14eb83010cead6781e00aff7f6579af8f225e62796aeec6eec
+FileChecksum: MD5: 04a6b6924369f8c2b66d5f85571002fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/fabops.yaml
+SPDXID: SPDXRef-item4116408
+FileChecksum: SHA1: 0bc25ed332204df61c86eef2c47693b306d27d42
+FileChecksum: SHA256: 0e58744bccdf464c4584694103de241aead9c18ac68d35c87c9f19bc2c37d4f5
+FileChecksum: MD5: b9da01d1f6f43d8760a6c6457e7e934f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/hosts
+SPDXID: SPDXRef-item4116409
+FileChecksum: SHA1: 0765a366700a8af185d1f5bd2bced9d26572d7ad
+FileChecksum: SHA256: 5700fe928a5adc3a39e4d2b04317a1d384f80053a0a8e6d2de5a2e8827e7a9d4
+FileChecksum: MD5: 0dce54d508c971abbfe7dc663a5c7296
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/Dockerfile
+SPDXID: SPDXRef-item4116410
+FileChecksum: SHA1: ab20402b70a0f76fcb91ca1b618db2cdd2109925
+FileChecksum: SHA256: c0b8abf2d9bdba50173659c02279aba308f1629d124efca427df05a87c80bcb7
+FileChecksum: MD5: ab346c624bc5901190899825da46760c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/ansible.cfg
+SPDXID: SPDXRef-item4116411
+FileChecksum: SHA1: e6f2ca9cc0c60c428505472632adb39be76e49d2
+FileChecksum: SHA256: a20741678d7f7484a0ae41bfdf2a6a1b884ad1d7888c110c13f11359faa1975d
+FileChecksum: MD5: ad0da7e862d9cc6510f8716506d6cdce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/README.zh.md
+SPDXID: SPDXRef-item4116412
+FileChecksum: SHA1: a99d0684bde61756e030b4cffe00d870d4d8625f
+FileChecksum: SHA256: 3eb21925c3ca3e9a56f0e5a7097dff7024bc6276460af52b1e7947ee0c026cfe
+FileChecksum: MD5: 9ccd5583b7cf001a5ce34ef5534019ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/README.md
+SPDXID: SPDXRef-item4116415
+FileChecksum: SHA1: 006c3ad71e91701e535a3b345b5527305d589b61
+FileChecksum: SHA256: e4fdca09651714e74e10eff457ed55528c4b0a04a44939c5174ecd842c83e2e4
+FileChecksum: MD5: 0ceba3d47d94e9d9ee7b951a5b14b0eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/envsettings
+SPDXID: SPDXRef-item4116417
+FileChecksum: SHA1: 593d98b85594385da7632eb0eac32b5bc99c7f63
+FileChecksum: SHA256: 6ca8cc8274c1e5bd2deb03697747117c5e9bc98527c3e8d12ebc1217f575504a
+FileChecksum: MD5: e80a1f0b33261b6803ec9922671ef27c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/app/callback/app.js
+SPDXID: SPDXRef-item4116420
+FileChecksum: SHA1: 9143e7651b785e5abd9ec8ccde9d43777bb9f6ec
+FileChecksum: SHA256: 75063568dab7b97ff62dd0b3ff5584f8fcbcceb0a1544d37ee28686062f3ed45
+FileChecksum: MD5: 456f7dfce919f9d477894da5afe5b3f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/app/go/go.mod
+SPDXID: SPDXRef-item4116422
+FileChecksum: SHA1: 12dfd212ad3a52a05854a819c1ab9b972ea1d8d4
+FileChecksum: SHA256: 3dcce575e48d62c889de9fe11249f23677b0058cc4e994f5cf08eee453bc79f1
+FileChecksum: MD5: a855240c742bc1ffd82e4169bed24b94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/app/go/go.sum
+SPDXID: SPDXRef-item4116423
+FileChecksum: SHA1: c71f4a60f3ff4295e18d36a5528f333d46c70db4
+FileChecksum: SHA256: 70e512aa60769699ab69980236cf75a02852fae75a9409892d3303c0b6404c51
+FileChecksum: MD5: 137d8c4d73c673fa6a2c37296b5d5a4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/app/go/main.go
+SPDXID: SPDXRef-item4116424
+FileChecksum: SHA1: be480f62e71e9921a6d582a91c53f3c4b636a04a
+FileChecksum: SHA256: f042697a4334064644adf59975f85632e369a2e23f3eba26cc1cfc9d39548288
+FileChecksum: MD5: 5b772f0fe52999420f9ed8156a91dda8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/minifabwin
+SPDXID: SPDXRef-item4116428
+FileChecksum: SHA1: afdf7ff3519823837c493c42f40cf9b651f8be01
+FileChecksum: SHA256: 677367e91c295ff425f99a620d33d6e2f28415816d6591710b8474ad195add95
+FileChecksum: MD5: 155dd1da5ce3fd96187f6dff051ba1ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minifabric-2023-04-02.zip/minifabric/.dockerignore
+SPDXID: SPDXRef-item4116429
+FileChecksum: SHA1: e7d27cf823098f08d904e1b1d5436d6fddb0d083
+FileChecksum: SHA256: d4e3555408818b85110fc4529b5d16fd7ae22d060ab95d81c31e43ed77f5de35
+FileChecksum: MD5: cc09e1afbf5e7cfdec4a047987fbf08e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-AS-IS-1
+LicenseName: AS-IS statement 1
+ExtractedText: <text> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-MIT-style
+LicenseName: MIT-style
+ExtractedText: <text> According to MIT license, add some modifications </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
