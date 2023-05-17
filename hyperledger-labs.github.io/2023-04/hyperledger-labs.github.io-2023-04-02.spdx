@@ -1,0 +1,1619 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_hyperledger-labs.github.io-2023-04-02.zip_1680848628.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-04-07T06:23:48Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: hyperledger-labs.github.io-2023-04-02.zip
+PackageFileName: hyperledger-labs.github.io-2023-04-02.zip
+SPDXID: SPDXRef-upload844
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 20c1845b0a4c247fe1c5eda06865feb338111709
+PackageChecksum: SHA1: edb3f0c7f40e71ceceb89a0e8f4c93bff90e6ff3
+PackageChecksum: SHA256: 2651a286111cf272d682cf795aec3ce2235bac770e6e679784e3eece32ae307d
+PackageChecksum: MD5: 5736e8696a642d47754a81f7d2c5ce5d
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload844
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/index.md
+SPDXID: SPDXRef-item4112199
+FileChecksum: SHA1: fd0f59fceab6c95edf9a76d2697841df0b5a5d14
+FileChecksum: SHA256: 993a9d643b885dafd7313c337e3aabbd9bd3fbf399d384e51493912c09c2270e
+FileChecksum: MD5: cfc64ff5ece079ec2eba30fc85829f6c
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/README.md
+SPDXID: SPDXRef-item4112207
+FileChecksum: SHA1: 31de8050c0f3738f2311d9120a22ea9f1a90eb7b
+FileChecksum: SHA256: 0fabf6f1337870e3f8695e854037af7355a4ddf167ab43b68bf0c15a54278206
+FileChecksum: MD5: 1188a2e57716206b4ce2a006fde09c5a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/scorex.md
+SPDXID: SPDXRef-item4112158
+FileChecksum: SHA1: 6569011919c8fcb643c919e3ba76fd7420cfee8a
+FileChecksum: SHA256: c45f10270e93903a4690d37f1d2492045ec0db442861d843f3f949fd43955a4a
+FileChecksum: MD5: db36248eaa15d613f2c4f4d9c36fa345
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/index.md
+SPDXID: SPDXRef-item4112125
+FileChecksum: SHA1: 088056abf1e02695de18e7ad8f26ed175f190af4
+FileChecksum: SHA256: e8679e0e1585d75c774805d6f4bd679a6d43b8e0d3719bc3db6eb201d021c457
+FileChecksum: MD5: 2373712093030abee249d7f6d049ea55
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/LICENSE
+SPDXID: SPDXRef-item4112198
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/hlf-operator.md
+SPDXID: SPDXRef-item4112081
+FileChecksum: SHA1: 26892e2fa3abe0e8ecf076f1e6c5c93a83ace329
+FileChecksum: SHA256: af68482e43ed09891182a68ee238fbe6ffbd95d85fa3e79d46b56bff2bc36ad0
+FileChecksum: MD5: f8a5574ea5afbf77baeb31d235c8762f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/media-tracking-platform-to-tackle-online-piracy.md
+SPDXID: SPDXRef-item4112082
+FileChecksum: SHA1: 646f3deac488207ccb829292a9d1b90792668d2f
+FileChecksum: SHA256: 3cab8ce3cde9f6e6dafa552ee3b5b603aeb68f79e2d8ad8ecc112d9948ead30c
+FileChecksum: MD5: f6ac159a1087dac03c3a83f723426778
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyrighted content provided by the legal owner of such content that could be accessed by our crawler as a sample to identify content similar to it on unauthorized websites. The crawler will index the URL and IP address of the platform hosting the content illegally. It notifies the concerned owner of the content, who verifies whether the content belongs to them. Post verification, the illegal distributor or the content can be taken down from the internet.
+copyrighted content. According to their necessity, they can contribute a node to our blockchain and withdraw the node from the blockchain network.
+copyright content owner, who then verifies it and approves forwarding the crawled information to law enforcement or any other agency responsible for taking down the content. </text>
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/fabric-chaincode-OCaml.md
+SPDXID: SPDXRef-item4112083
+FileChecksum: SHA1: 44c0961705dc03a7867b3e11d8ba8619182d648a
+FileChecksum: SHA256: 593462d4446c688caf9b0654ab7f3b14482a37c2b76b6bcebeb976012cd36684
+FileChecksum: MD5: 2847b8c231d28f7a21f351f05e1dbc33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/trusted-compute-framework.md
+SPDXID: SPDXRef-item4112084
+FileChecksum: SHA1: f2768a085be80eb958afa090735f6721f5e95b79
+FileChecksum: SHA256: b7dce64429228b232de6ec757f827e109e64e871892f3ee204a8dc522d86feb2
+FileChecksum: MD5: 9838d4fe569376e803a1a05efcff051c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/nft-community-footprint.md
+SPDXID: SPDXRef-item4112085
+FileChecksum: SHA1: c226a1d5bb3fae08c03837ab0e566bbe5cee3b8b
+FileChecksum: SHA256: cdf90b74e5b157149d89eda6c126832eca31c7a378c11f63ed33b317f43894dd
+FileChecksum: MD5: ea4ceeeaf74326154f0d1e00dc734855
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/fabric-token-sdk.md
+SPDXID: SPDXRef-item4112086
+FileChecksum: SHA1: 5980278d25fe8e5ce533af05d4a8dda0a7fff1ed
+FileChecksum: SHA256: 08a876d60ca78949d02ff6355f8e619e5335e5c86def64bb8a00c7926c0e2a33
+FileChecksum: MD5: dd5e0f491f83e951cf553d451683a45a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/fabex.md
+SPDXID: SPDXRef-item4112087
+FileChecksum: SHA1: 44c8eaac9770728f261527989b995b796deb5878
+FileChecksum: SHA256: 08c73aca66fd0ee70c59be1da629a3ff39e475ee559fa68a0f60d25b8eb563fa
+FileChecksum: MD5: 264090de3dca54be79f543212a2fd397
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/bdls.md
+SPDXID: SPDXRef-item4112088
+FileChecksum: SHA1: 82eccebd4d631a3844d17d8333113c06e65de9a4
+FileChecksum: SHA256: 6d9cfbd4ed482c80fe7adee196d40bcf3f496cd6aa4368ce798b9fb167d87082
+FileChecksum: MD5: dd367b52f8f1715605498020d500aac7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/microfab.md
+SPDXID: SPDXRef-item4112089
+FileChecksum: SHA1: b8d3eda3730d0db94300dcd8a2ec3ac9b8f8a1f7
+FileChecksum: SHA256: ffbf2fcd66e58e77d405969e3243677dcf82be9615cb99e7579922352ffa54e4
+FileChecksum: MD5: 3fe09a2d709e2aeba9b3f76fdfcc4771
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/easydoser.md
+SPDXID: SPDXRef-item4112090
+FileChecksum: SHA1: 1740047d9de9fc3cf023c392d135038e27a7c8a0
+FileChecksum: SHA256: 3ac4c974417048a37dca34cd74637bf5dfbe996ef0e51c9b042f8f0729f0c521
+FileChecksum: MD5: 1723c602d6503197d27f58482126ee71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/images/blockchain-automation-framework-fabric.png
+SPDXID: SPDXRef-item4112092
+FileChecksum: SHA1: ec92cf53b1f2eb1c5f5b5dcd1519dc3e6e7ae5ff
+FileChecksum: SHA256: d7c02c2a97dba6c2583452f4b6330593dfbde043906360939eb471a5286c77dd
+FileChecksum: MD5: 8870408477546a186d35c015f8a32c11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/images/blockchain-automation-framework-overview.png
+SPDXID: SPDXRef-item4112093
+FileChecksum: SHA1: 5365fd6b99bd25cf27d2114f55ccc1fac1e65020
+FileChecksum: SHA256: 4fb98e261409434bb05f5437fe35fe694916d321d42be1dbbd72d26a85aefcf8
+FileChecksum: MD5: c2551a470b510599c4240fd78e56beec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/images/citizens-pulse/citizens-pulse-architecture.png
+SPDXID: SPDXRef-item4112095
+FileChecksum: SHA1: 43c4d432b4df738caa771c374bf553e0087fd223
+FileChecksum: SHA256: 11d3583c44f074f6f8694a5298fa17c174369cade237a6570a116cfd28f03543
+FileChecksum: MD5: 88cfeacdb2fe9fbc92eee5db7e88dead
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/images/citizens-pulse/citizens-pulse-mob3.png
+SPDXID: SPDXRef-item4112096
+FileChecksum: SHA1: a02df17ad958975f2491f39bc368065d726b6298
+FileChecksum: SHA256: 533c03b65f24dde84d6cb473f4572865ffcd2d31bcc706913d337f3d62924383
+FileChecksum: MD5: 5af73165e73f2a3b13f39a923842729d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/images/citizens-pulse/citizens-pulse-mob2.png
+SPDXID: SPDXRef-item4112097
+FileChecksum: SHA1: 7fc2f2f384cd15ba8ca643faabb7d858ed0f86e1
+FileChecksum: SHA256: 995a7208b7cf39ff90f05d88b54e438cd14f8149b58bff57c1c01011350c0efe
+FileChecksum: MD5: 6e9efb54f143f07db40f01eb58078a3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/images/citizens-pulse/citizens-pulse-web-demo.gif
+SPDXID: SPDXRef-item4112098
+FileChecksum: SHA1: e5b1b4f74fe46a262422f78cc8d0dd056a9fc224
+FileChecksum: SHA256: a69e85662a231755ca8de0973378ba79d004b48191f93e897de3547c0645bd3f
+FileChecksum: MD5: 5793a356e0474ad1a2f3b1c2d81b9de9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © pô£ ©HGJҒô¤(MiK?§Җºô¥0©LgJӚÚô¦8ͩNwÊӞúô§@ªPJԢ?õ¨HMªRÊԦ:õ©PªT§JժZõªXͪV·Êծzõ«`«XÇJֲõ¬hM«Z×Êֶºõ­p«\çJ׺Úõ®xͫ^÷Ê׾úõ¯¬`?KØÂ?ö°M¬b?[A26}¬d'KÙÊZö²ͬf7[È?ĳ íâ?"ZÑrÖq¦=­)S«Úֺöµ°­lgÛÎ~ÿ	A¡ ?mwË[Ð-@ È°ޚ²?@®q1?\(t¹\@¨P*@·ý,@+?²?âºàïÜV!¬!£?ï"˫ÞJ²¢ ï-HQÚëH?Ð7\¸o"%?þê÷¿֛}?L`%*Σ?90A?` X °?<á àÁ?p+,á?SØÃ?ưGÌá¸Ã".1Olb øÅ0±gLã?ÛøÆ8αwÌã?ûøÇ@?²Lä"?ùÈHN²Ìä&;9`{²§¼+Ö?@TΤ³|Æ-sùË`?³Câå1_1ÊfN³3åX4?vÿÍbt±IÊçõ=·Î`¤3´Üy`rÞs «gA?úЈÆ1uæÙ}¹9`N4 é$þ¹ÒU¤4¦Øg\zӖ&¦AMêRú´?­§M|j"ºÕ?ìôl kãQ·ָε®[[]?ñ־?¶°Mìb?ûØÈN¶²?&ëe;ûÙZR ´§Míj[ûÚØζ¶·Íín{ûÛà?wq^-îrûÜèN·º×ÍnÎ}ºÝð7Ó"-oX¿۵ݭ·?ûI Ù軃Ò?-Z¥Ü?3Ê A¸ÁA苅?0à?ø¼¼5R?Küâí¢xHý[ÿ?ã ¸@~1Rk4ß?ÿ?¹?·{QǖÜ*¹ÌgNóÛüæ8ϹÎwÎóûüç@?ºЇNô¢?ýèHOºҗÎô¦;ýéPºԧNõª[ýêXϺַ®csýë`?»ØÇNö²ýìhO»Ú×Îö¶»ýíp»ÜçN÷ºÛýîxϻÞ÷Î÷¾ˋÖ~?¼à?Oø!üð×1à?ÏøÆ;þ񐏼ä=YÜÉã®ٖ?ââ3ÏùÎ{þóÔÔ-èGoè!þuß=ýX±¬úֻþõ°?*ëÿó`äÖ>ö¸Ïýï¡ûÞûþ÷À?¾ðOüâ?ÿøÈO>ðhæ+ÿùЏ¾ôÙüæO?¥÷¾¾öc<{*?¡û%޾ÿø÷·ùñÿüèO¿ú×Ïþö»ÿ
+© AÍ yG/6£3 Ù?ã3?D?üÐ %?0?JEÅ?x Ç?\?°È?SGuH?M߱Å?Ü?ÂaK ÄÂØ#Eð[?pÅ?pÁ[x¢°äËOM ´© ?ÔÏå?݆?tODpÁ=t?´Â?\Ç$láµÃ/Æ?øC?,A+ø @? GN?LKz??¨á¥`?ª¤ô©?^?EN/%Müá(NÙ?B?pU?Õl?B??$É?@?ìӚÀÜnùÎKÚà{LÀâ¥ãĐ=<_á© %Á?ÿ,ñù?ÏX%ã?Íä!«?Þ$È%òE;,ÀÉ(Áp´AW¢ÎB¾åÔØÂ&L^]@U æå?HÂ?X_ÀKþк¹äËý?²?^²d¢?-Kf¢ÝHÁffLèp?Qdf"ÑhA?M?Wî?¤¼äý ãåÆ$KÚåKµÛ4Ñ.&KpÊ?qªq?`?&箍Ѷà´4g±ý¦tN'uV§?ƎLH;\GÑ؈Ø?Nnx&̸?CÞàϝ?Ed&m*dá?Ý꼇?tg­æõÌyֈDr?CÌ$LA?ÖMx?ÝÄàÅ/lÂn2?m¸M]ôË?9ÁMÄ+@DÿüÛ¡P?Ëa, A-ÜCrüH+_,  Äq̅?,A?üC'X IÅ=LAMÔC+?Á /BOhÌ]x`â¤
+©	MpA9äP (ß=ÜCm?t?)??H_N. ´Â=Pè?BF?;ØBpté;¼Dâ!ÑÍ?°ÄRhD^ta??ÄI.bj-߮@DC¼CüJĜâ^?À??)PåÅíÕ!zTc2Æíß=i!K,AO(ÈÀ?êb$A?¼Ó ªD¨áV°zê¢mÁ*êDÔ?a¢*ÇqpÂ-ê=¼é!Ævÿ8F""DaÌI 'â¡^à ¼)F¡¶¢DPH?nZ'µV«µ^+¶f«¶n+ڑÂ[GyX$:UH<)҇òiPʨ
+© Lc B« 8q¡«~;A«?صµÒL:«ª<.V$ÑÉ?»+??rC´ùÊ;śvQWI®?»?rI?'Á?0½)a,T¨µ!ps˽Ýë½ß?¾xwk?ÅX	Tk ෙR?SP?±?pQ°ϛSÙ?¾­»÷ÿ ù~æúVǪ¿?}£zCq?È;?e{Døê?­8£3ò¾r,'qµ ¸;TX¸«'ë]{ ì_:`h*?ê¶?ê?8£¨l}Úúqº.ùkdkÅ?Ûȃ?9æT¨«?LÄæg?p4û ûÁG?`?D?LЖK\ϣÄ	ñ$"²Á7[Jý¦?mk$äJ¬f-?«ãQ6u³~>?ìÃ3q?r/©"¼۹r¨ñªxJ°Æ×Jð?ÕÊ!´v|c!M²m¨ ²x<Â^?ƺ뫌»?ùÃUў?Ä-²mlì£%©t?ÿË?¡ÜÈË˯?ڑN?¡ìʬÜ?^?F??Å?°·M@?{k?kµ½Eì˿ÌjGQLCÊ.¢Pûj¼?¸{e?¢?ykñ{¸LÀ?&A	'	XÛ?ä;!OB?B°)3?̮ÂÆãܳïYÉåiÎÄ#?ålt­¼L8ñÊr»´2±¢)á ê
+©	f¢tÚnË@ 9%¾´gËk?^1z|?2ÀQ?Û?hۮÕգ	¦R´Պ̨£?ÀR´÷?&ڎöä?6;ذމ)?9̉K??¤¤éEB%o?Mº£ƀ!ù ,`?ï ÿ !ù , C???: ÿí H° Á *\Ȱ¡Ç?#JH±¢ŋ?3jÜȱ௎ C?I²¤ɓ(Sª\ɲ¥˗0cʜI³¦͛8sêÜɳ§ϟ@
+© cùr9tY졖vz¹|9?qٗ?9³yé??¹ù?aYy¹?ٙù ?¢9¤Y¦y¨ª¹¬ٚ®ù°?²9´Y¶y¸º¹¼ٛ¾ùÀ?Â9ÄYÆyșʹÌٜÎùÐ?Ò9ÔYGÖY !ù ,a?ö? ÿ H° Á *\Ȱ¡Ç?#JH±¢ŋ?3jÜȱ£Ǐ C?I²¤ɓ(Sª\ɲ¥˗0cʜI³¥¯8sêÜɳ§ϟ@ </text>
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/images/citizens-pulse/citizens-pulse-mob1.png
+SPDXID: SPDXRef-item4112099
+FileChecksum: SHA1: c796b3631ff3f78d63ea8eba391cd6f734a24acf
+FileChecksum: SHA256: 6a762ca6c21f268c6c10ad7e174935e140a06521d68f876491fad6eaec92f19e
+FileChecksum: MD5: 31ca9ab1f48f1526224211b502149b2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/images/blockchain-automation-framework-corda.png
+SPDXID: SPDXRef-item4112100
+FileChecksum: SHA1: a59cd07f8f3ddd240e0e5e924d6ca7ecb7be25b5
+FileChecksum: SHA256: 98e82edee8e51d58da7f620e342cbc164a3d37a7a3192840546474c00f6792e1
+FileChecksum: MD5: 917ecc0a0eeea2f37bbf9283b20a918d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/images/PerformanceSandBox.png
+SPDXID: SPDXRef-item4112101
+FileChecksum: SHA1: 1ab0900d3fc9fd8211f5c93deea48c0986763f10
+FileChecksum: SHA256: 80f35fbe1f7c3dc0de8ed4eb53a459ac7d04a03ef3940b217b05574324b7c7f0
+FileChecksum: MD5: c45d2fdba0e2b36038917377db66cee3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/images/ElectrodoDocImg.png
+SPDXID: SPDXRef-item4112102
+FileChecksum: SHA1: 4e01ad124f48339ae2183c837e71a19036578536
+FileChecksum: SHA256: 6f8317e411131f9c93d6f7d5d8ad74aa39610473da87b38f844df8f1671223d2
+FileChecksum: MD5: 6ed96396f8883249f4451d0ac8cd9893
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/images/orion-architecture.png
+SPDXID: SPDXRef-item4112103
+FileChecksum: SHA1: 4556a6a4664d934cb840d5e143df8debd0a80669
+FileChecksum: SHA256: dc67f05f16a6de64f8e033c9604e2f1cd25c5c63a6e3eb116fcaff2862da80dd
+FileChecksum: MD5: 4f9fd9d8781e0c2907de99795277f797
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/images/blockchain-integration-framework-high-level-workflow.png
+SPDXID: SPDXRef-item4112104
+FileChecksum: SHA1: a1f59076c814e26be19af8fb35a8cb97fddba06f
+FileChecksum: SHA256: 891ce4e263f3a95df09cbdc42ef7328d84365eeb69bb566c9062528d5d551c74
+FileChecksum: MD5: 31fd55d3bfaa0f3bd77f4b14f40fa34f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/dancap.md
+SPDXID: SPDXRef-item4112105
+FileChecksum: SHA1: bbeb1ae5ec96409f074d7c75d642ea224edd1883
+FileChecksum: SHA256: 63e0de5575c74c1512f0f944913ceddb4c1e7c5ae326c02028d32a25c99d1f89
+FileChecksum: MD5: 39d5bd87ff3b4313a4c066c5e0cd06fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/PerformanceSandBox.md
+SPDXID: SPDXRef-item4112106
+FileChecksum: SHA1: 7a71118519da5c1ac1b94b4d88443b18d893af34
+FileChecksum: SHA256: 544e705b96521274f0667ed0b960fbbb2180d221f9b58627c0709dff07ac5bb1
+FileChecksum: MD5: 20bbbe5b654312ca9dbb8370043474bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/mir-bft.md
+SPDXID: SPDXRef-item4112107
+FileChecksum: SHA1: 19237702db1f80716947f65ca6a64c9c8f1f7269
+FileChecksum: SHA256: 4999bef2bfdc0028161b0ae2698425b5edc3ff94506db2ccf540bcd6a4cf0812
+FileChecksum: MD5: 8f41365575de4311409c6dd12ed5e32d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/ElectrodoDoc.md
+SPDXID: SPDXRef-item4112108
+FileChecksum: SHA1: 356863237bfadc2212e606dc6f1fd675b9878334
+FileChecksum: SHA256: 3a43d85bc006121c3916e50d066afc23f42f0bb2bfd899ced8fe9bd9d25f41c5
+FileChecksum: MD5: c3a55f4c9991b5d26c246b2eee482ee1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/nft-auction.md
+SPDXID: SPDXRef-item4112109
+FileChecksum: SHA1: ab9f7ae870bf272e90fb61f851bb57facad508d0
+FileChecksum: SHA256: aa6d583e5484b63455d06bf9f8c046f685efa292b75edac98da6a40b7d2ee64f
+FileChecksum: MD5: f92bea0feaad7d50dc42c2721b89addb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/private-data-objects.md
+SPDXID: SPDXRef-item4112110
+FileChecksum: SHA1: 44d7eb7d09d25707416946ba00ac262e9d61879b
+FileChecksum: SHA256: 9a3b164ab55702e1c32f207a1f8a8798e45e75d7e09761287529c7d4dc651448
+FileChecksum: MD5: 233da027b5aa373181a0131d85ffefee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/trustID.md
+SPDXID: SPDXRef-item4112111
+FileChecksum: SHA1: 3eb47ae0970a55a7993b304b70e550e2c41c7799
+FileChecksum: SHA256: 9fd97b8ba93d5921a9c155a5a615a1d13102578d41a6e5d48df9036955573796
+FileChecksum: MD5: e11053bd6d3104dcca9574a846738fd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/neferti.md
+SPDXID: SPDXRef-item4112112
+FileChecksum: SHA1: 6a0b9144bc37e24bdc5ec9eeeb2b3124b7394e3d
+FileChecksum: SHA256: 3266acd291227af9f42cc02fe9b7f8ce9bc79c362c85cc01694075e7b8302d81
+FileChecksum: MD5: e14df481f96be7989d105561fe17c9bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/karma-charity-platform.md
+SPDXID: SPDXRef-item4112113
+FileChecksum: SHA1: e8c25f440f929de027ee48c419d151392e66b47e
+FileChecksum: SHA256: 48369389d4a1605fcadc7cf71f8489cfaf9f96de7d137ec1a28d564fdc3e0ebe
+FileChecksum: MD5: 0b47eb71aa064e8c15bdffe04198e9f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/fabric-weft.md
+SPDXID: SPDXRef-item4112114
+FileChecksum: SHA1: 7fe158102d61caeaa8490e0de57f52d53b3e7e21
+FileChecksum: SHA256: 309c9180ec215e133fb55ef5895fde759a46fc3dfd53c02f7bb84a1e0cde6080
+FileChecksum: MD5: 0e10861067e29de7b67951e6a5579e1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/aries-fabric.md
+SPDXID: SPDXRef-item4112115
+FileChecksum: SHA1: 6737a00839f1cd11161f8a917859353e16f64c27
+FileChecksum: SHA256: 86a70d03be005b79b8180d8269bb88cd24f4e5c7b6f446c7b5d11ffae938e03e
+FileChecksum: MD5: 3fcdef031c7d124839f69bda14296763
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/blockchain-verifier.md
+SPDXID: SPDXRef-item4112116
+FileChecksum: SHA1: b30f241e832ac05705fea2672e0073e970630e7b
+FileChecksum: SHA256: 85de0a2e60d2630fdb6372b75d8c92679b775af1df572400796e7f7b5511ae34
+FileChecksum: MD5: d681237b5987f307d8bc5a97e42cb7a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/fabric-opssc.md
+SPDXID: SPDXRef-item4112117
+FileChecksum: SHA1: cfc445c4703f70832a69f4a69f89fe4dabcf8e34
+FileChecksum: SHA256: 388f83ecef0cf6b60547e44934bdf5d46295970ecfc028b0afad79709b587722
+FileChecksum: MD5: 16b3a51eaf7696d803f483a42742d0a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/orion.md
+SPDXID: SPDXRef-item4112118
+FileChecksum: SHA1: dd76298d24b4a6e7171778a2d884b84888da5878
+FileChecksum: SHA256: 0077771ed5f64bfff1ab66026bc5a57b8618ea4947f857e8a473690b886bf2b8
+FileChecksum: MD5: 88288067681fa67faf908b8eff5ddd34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/avalon-sdk-py.md
+SPDXID: SPDXRef-item4112120
+FileChecksum: SHA1: cf7b1ace17d6ce1bd59c5f2600a0c0a93fdb54f8
+FileChecksum: SHA256: b7d17d45b4d7088eb9dff18198a10af18807f0b67001434b2257c6cf6f567b12
+FileChecksum: MD5: 0b05d577bc95a946a38c76266b16d196
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/ethercluster.md
+SPDXID: SPDXRef-item4112121
+FileChecksum: SHA1: e52619d483c802301927d59fc9e5308c5e56f4eb
+FileChecksum: SHA256: a5b7fa2491d6110f7025d9f3c8e86462c3eaf2a4183fec7268539b566bf5625d
+FileChecksum: MD5: 99c926a8305ce0d40d8d84eeeff53a33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/byzantine-config.md
+SPDXID: SPDXRef-item4112122
+FileChecksum: SHA1: 41b47340862ad83c1ac75d4a51e0bbabdb02eb03
+FileChecksum: SHA256: f3a111565708cc96d8442316ad3099ae818d3468244eca9dab4f0cc4af4797d2
+FileChecksum: MD5: e8da3e1064015e60b774a10ae7c7d36b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/fabric-chaincode-wasm.md
+SPDXID: SPDXRef-item4112123
+FileChecksum: SHA1: e0b8039c33ae471dee3b0d086f44b2e44ff45a1d
+FileChecksum: SHA256: e30bfb9ed9f2a4ba738d9acfc4075039b41e2eb7e795b1892ccf293f12ea7ff4
+FileChecksum: MD5: a6bb208ac533aeebba56337993cb9fc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/fabric-block-archiving.md
+SPDXID: SPDXRef-item4112124
+FileChecksum: SHA1: 63d42d5dfbc7e9910df01f8854870f68a079982e
+FileChecksum: SHA256: 99c8b4cb92bd036d85f3622c0721d527fc4e3798b0ec0b2dab7414eeb7b1e0ee
+FileChecksum: MD5: 3b943849a4ea4222768b84427f1b5a29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/fabric-private-chaincode.md
+SPDXID: SPDXRef-item4112126
+FileChecksum: SHA1: abd654ad1cb483c885d927167632f5a025d16366
+FileChecksum: SHA256: 634f4eda10942a96ba4b8008f2c54817d0375089f9b387d1a141721f0ef95542
+FileChecksum: MD5: 3fee715001d076f1ca78a47830079dad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/solidity2chaincode.md
+SPDXID: SPDXRef-item4112127
+FileChecksum: SHA1: b3a4268dfaef95992e927f835392d8f1fdfa1c8a
+FileChecksum: SHA256: d7766d3017f79f4005f222857434d15b2e32c10d50113907dfca6ae2fa35f801
+FileChecksum: MD5: 14bd76b7216ab1d04e22f497fd180fe8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/convector-framework.md
+SPDXID: SPDXRef-item4112128
+FileChecksum: SHA1: 2dc4e8aacc62334a58be96f3d7174f3adbaa1e80
+FileChecksum: SHA256: 194dd67db67b89292be233a73b89f51a9022a18a5466758ce04e43990e78876b
+FileChecksum: MD5: a9c2b0a64ce673ed7fc1b6dd3045a232
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/chaincode-analyzer.md
+SPDXID: SPDXRef-item4112129
+FileChecksum: SHA1: 9051fca51ce779ede71a591e21e29e256b44c69c
+FileChecksum: SHA256: 6f6436b67016b277540fb0803b85d6fc5e5c71088e9a200df1680e90fdbd0af3
+FileChecksum: MD5: 4dd5b084569a80a383b7f1d5a54c7592
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/fabric-vms-provision.md
+SPDXID: SPDXRef-item4112130
+FileChecksum: SHA1: ab60385d5266f475d3a7c519caf42862f82e9b7e
+FileChecksum: SHA256: d7e4ac3f14c8ead0b9da79f46bb6d8771d0f3a9408c16afd4b2a156eca015e01
+FileChecksum: MD5: 17412d4bc2a7cb6c0de753172d052e9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/firefly.md
+SPDXID: SPDXRef-item4112131
+FileChecksum: SHA1: c2b5e571a0386520f7aafcfe6723f11542082fd1
+FileChecksum: SHA256: d2c2e3b089a5f378c5d0d28c4ec231e21ab364f29d2af558e7754b562c7441a0
+FileChecksum: MD5: 127c9e6313cb324ff5440a0758cd5fe1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/fabric-docs-cn.md
+SPDXID: SPDXRef-item4112132
+FileChecksum: SHA1: d827d6f1a9ad957ad6246d4d04f265c96784e942
+FileChecksum: SHA256: eb58dc4f674a1e1e3045fbff0aa048789f3432820fad5412833b79c71bd20a38
+FileChecksum: MD5: 4387a19f625b18b688fe28221cb3a75d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/fabric-consortium-management.md
+SPDXID: SPDXRef-item4112133
+FileChecksum: SHA1: a99fa0f4c3542d74feea506d77e95304b04d225c
+FileChecksum: SHA256: d7b11e1c33d0136ac004e3294ea94554511b80583b678818e2641af168d45632
+FileChecksum: MD5: 98909f8179b0e4cfbb7f89a7024ff12f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/xcsi.md
+SPDXID: SPDXRef-item4112134
+FileChecksum: SHA1: fb0dfb10f913fa44877c16b39a1be9018d742c51
+FileChecksum: SHA256: e455f98efcc2cf0086138b48b2f8d7896983d80155b8b0a025049292076bde05
+FileChecksum: MD5: 26b961e6292854e0a92c2c8269f7ac74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/solang.md
+SPDXID: SPDXRef-item4112135
+FileChecksum: SHA1: 0c9f7c573f0c49231ae5ec4eeaaff4f6311c5efd
+FileChecksum: SHA256: 896e3a960e9bd1fab974f3258d1f97c4de01f90213ded9f4525cbe01c022585b
+FileChecksum: MD5: bdd72b1955d923feb6873d7bfab35093
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/fabric-multi-channel-network-samples.md
+SPDXID: SPDXRef-item4112136
+FileChecksum: SHA1: 69db326c2a139ff0f92348bc29b734ce31418827
+FileChecksum: SHA256: 81b12ddb2b1643060be4dafddd2b073498133d0a12b1351ed80f915b63da2b10
+FileChecksum: MD5: fa51262ab6226a9a3996593410391746
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/SParts.md
+SPDXID: SPDXRef-item4112137
+FileChecksum: SHA1: 31b4d2d6c0d91544825fff3b676a2d9e2ad8440e
+FileChecksum: SHA256: eb7c00cd644a2c3bdff4d1a1d6255f866a462475ca7de6ce33d508a11f46fb41
+FileChecksum: MD5: a0c6037d5a69d1163e4f0c93886914bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/hyperledger-fabric-based-access-control.md
+SPDXID: SPDXRef-item4112138
+FileChecksum: SHA1: eb0e010c2e7808ec1e482d4fac0fd2e2566ffeac
+FileChecksum: SHA256: 513c1dd518de1e582c24d82d86eaf0e1cae4d960b457f9a2ed3e7839ea673a44
+FileChecksum: MD5: fdbfd0bf4429c200fecaa115833f4133
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/pubsub-interop.md
+SPDXID: SPDXRef-item4112139
+FileChecksum: SHA1: 22b1b248580aec57476b42a765379d143f274925
+FileChecksum: SHA256: 27a9ba3e6edecb111d88a013cca77e123b33c2dd595be496dd6f60333c2c8cad
+FileChecksum: MD5: 47b1b01f9b2ecf9524777a3cd52d71ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/fabric-chaincode-haskell.md
+SPDXID: SPDXRef-item4112140
+FileChecksum: SHA1: 8a058941096694e6eb7256021d26ec84dd250cf9
+FileChecksum: SHA256: c51da45bab30e38f4f527b17da9d5656c776e566734f73c0c4c2ae3afd790571
+FileChecksum: MD5: eadba5773224e64339cd0f71f31cf84e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/besu-operator.md
+SPDXID: SPDXRef-item4112141
+FileChecksum: SHA1: b68dd907869b1d3cfb22bba20f60cb44313bbbc6
+FileChecksum: SHA256: b0b6d35c819ceeb284febcafccc8e1a13cb5efef8ec23292a70b25804521d8e8
+FileChecksum: MD5: 7c8a95939133a785e1a7bb97a3fdc424
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/pluggable-hcs.md
+SPDXID: SPDXRef-item4112142
+FileChecksum: SHA1: 7b60a1b74c52812cc38daf30023c9e49a118ba34
+FileChecksum: SHA256: 762093eaf73ea43853a6deda7f98e0cd0c49bed7574595d77ae2e6d94a35c0fb
+FileChecksum: MD5: 6473f3c8ede3965c0f86e32b93dbc3a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/fabric-client-flutter.md
+SPDXID: SPDXRef-item4112143
+FileChecksum: SHA1: 8b4062a112331ea1962068a26ccb4efe628a0c1d
+FileChecksum: SHA256: 0661787939f70fd27d993413ff6b7b805db37020204a94372245c64370af0095
+FileChecksum: MD5: 5bf0a788f3cbc2744584c3793ca35364
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/nephos.md
+SPDXID: SPDXRef-item4112144
+FileChecksum: SHA1: b1aac3c74af89d9ef8ffb654d7137ea3631acc4f
+FileChecksum: SHA256: 4298cb0eb073ee5a31a320c7c9bbcc76c72133d6e828b8b4532439008d23456b
+FileChecksum: MD5: 6d4543ac1b1ccf2ce7b59411a82e1587
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/z-mix.md
+SPDXID: SPDXRef-item4112145
+FileChecksum: SHA1: da712f61efbf0ee7d054f8cfaeca33598bcb3c0d
+FileChecksum: SHA256: 2a5d4507a3c0bad7f843c194f21e9017adde9949341f007c260d9c47737d1d1b
+FileChecksum: MD5: 2f6d687a807762c3a204d97862770b99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/private-transaction-families.md
+SPDXID: SPDXRef-item4112146
+FileChecksum: SHA1: 840905f92138a5b0187262195f48f8d63e11be7e
+FileChecksum: SHA256: e7fcc7865e8181750e06f47725ee66316000876eb44099bfd564f65c5228ff52
+FileChecksum: MD5: 145cb18155ad04caca1b1486b6d1bf1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/fabric-docs-ml.md
+SPDXID: SPDXRef-item4112147
+FileChecksum: SHA1: 49f4251864252eb39f4d1897a34546920b1bb1ab
+FileChecksum: SHA256: 087d5328e35c4cce6cc22ffdca7b6e532a280659932aac13e5a2dac2dc2b1144
+FileChecksum: MD5: c52f7e56a95836c7347c6e764d84351c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/patient-consent.md
+SPDXID: SPDXRef-item4112148
+FileChecksum: SHA1: 128d56767ddb278691d64c2f7950077202e81f4c
+FileChecksum: SHA256: 0cdb9dceded4ed5680547be741be65e6c6a5cdf5dbcfd3a409e472494dc5be9d
+FileChecksum: MD5: ea90da9480bcab099eedb2e90d5387dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/blockchain-integration-framework.md
+SPDXID: SPDXRef-item4112149
+FileChecksum: SHA1: 304b4c1478fd0e4a4404c8b1d094f766e5e0c068
+FileChecksum: SHA256: ecf4a39926b69ef4f81551d8af22fe13ab8706f394058499842cb112d0a10615
+FileChecksum: MD5: ecd2d736dd16fa2e6973690fa9b3d8f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/blockchain-analyzer.md
+SPDXID: SPDXRef-item4112150
+FileChecksum: SHA1: 832b8e2f07a467c4bb1dd60b420e887b45561113
+FileChecksum: SHA256: d10d48b7c64b4172573b1cb9876b449601864dcde69472ae743213d0208127d6
+FileChecksum: MD5: a4adcf6fbd892f2a858f35c2c2f6d893
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/fabric-chrome-extension.md
+SPDXID: SPDXRef-item4112151
+FileChecksum: SHA1: 6a42bc349efee8d87ff95f44836c7fe5a3376640
+FileChecksum: SHA256: 1d438abb4ee2eab720cf770ab11d82c3f4d042a4d65fdb3f6e7332b0785a1bcd
+FileChecksum: MD5: 5bb6b9d609ddfd7d5847d36a914c0688
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/modern-pharmacy-management.md
+SPDXID: SPDXRef-item4112152
+FileChecksum: SHA1: 58fcb3c3634fa18fbf0b9e15b3c83adf23d095d3
+FileChecksum: SHA256: 7c040693077ea5992cf351651af2290da787702e6c2322c86f9ad971c77d025f
+FileChecksum: MD5: 3405abd858be3ba5a5e43f42c7ef1e59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/crypto-lib.md
+SPDXID: SPDXRef-item4112153
+FileChecksum: SHA1: 67030a7cda6d1a316f9a5e3a8b70d4229197422a
+FileChecksum: SHA256: 160beae6a24dfb2041c79c2cdb8d73654b25782f4af5a2dabbd8ab7367208473
+FileChecksum: MD5: 49332cdc43ba7939be93a6e8e48da9ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/README.md
+SPDXID: SPDXRef-item4112154
+FileChecksum: SHA1: 0ec5c142c940054685f93aeb46e1d71ffcdc3308
+FileChecksum: SHA256: 0b2b3a8e4402f3050e3ee5ff032278e21f1e282590ffdc246d6658a4ffe96fba
+FileChecksum: MD5: 5bb5c2c240470bc9ac747e4a5df9c11f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/inter-carrier-settlements.md
+SPDXID: SPDXRef-item4112155
+FileChecksum: SHA1: 509aa47a878944f132ed8182337fd0661523df34
+FileChecksum: SHA256: 826a4f5c4aede578e52354c9ccc93e0e5e0c5dfa5070eae42113db4f1c0ff49f
+FileChecksum: MD5: 146a1b80aaa034ab432e3e47b2dbc2b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/sawtooth-healthcare.md
+SPDXID: SPDXRef-item4112156
+FileChecksum: SHA1: 9e393df18cec3b99359a332ecc59ab2f4c559dbf
+FileChecksum: SHA256: ae8205c613cbc731afd5b8647097508658a829f3e383899bc449d2c80ca2dd3b
+FileChecksum: MD5: b95b0be16968e084870e141fe3bc4304
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/keyhole-fabric-api-gateway.md
+SPDXID: SPDXRef-item4112157
+FileChecksum: SHA1: 953533ed53497c62c6e823c8f7bfd06c64286bc3
+FileChecksum: SHA256: 23ec1b1c1eabc969823f2c83af47365f9bb144a300403edd04277fd89ff9ff4e
+FileChecksum: MD5: fa0df0630435a0edcdb06a9555975849
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/fabric-lightweight-client.md
+SPDXID: SPDXRef-item4112159
+FileChecksum: SHA1: 544da0184ee52d9774691466c62c0408312b2c3b
+FileChecksum: SHA256: 6ba4883e469aa2a204f02e1de9f17914fddc038ae0904f45dd8d9c55efc54c37
+FileChecksum: MD5: 108af808082810a19f24e73b3b136e3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/citizens-pulse.md
+SPDXID: SPDXRef-item4112160
+FileChecksum: SHA1: b33b90854f334fdb9d0bca3f5b9ca448cc72d71f
+FileChecksum: SHA256: 0aa295b55e52cf2dd872facde15b66eab3c4531e86842f9024bc06698223cf9a
+FileChecksum: MD5: 45b9c3c97937b90a2f8e9e2ffd6aca46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/gardener.md
+SPDXID: SPDXRef-item4112161
+FileChecksum: SHA1: 5421b4929cfa080409fe6f7205a87b4c98ec0f30
+FileChecksum: SHA256: a9e99a5055712c7e48189df45e0057f381d9da10eb8f695a15cfcef25457685c
+FileChecksum: MD5: 42c8de1ea2c69bc8eefd0e759f114758
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/StarterKit.md
+SPDXID: SPDXRef-item4112162
+FileChecksum: SHA1: f70155d83dd95122574a13b4cb3c19c6ad64b898
+FileChecksum: SHA256: 66529bb8ce70510961499dce762880363d660d2c3f217b3585ed1db75e68aca2
+FileChecksum: MD5: 3322ada10336ceb0b466ea468d617c4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/payments-performance-test-harness.md
+SPDXID: SPDXRef-item4112163
+FileChecksum: SHA1: 80496f7a7439b5d90a29d2b110e582f655122816
+FileChecksum: SHA256: 15973068d89da7d98f5cc620f8bd432126d2d06bb8924e0e2e930a2beca01239
+FileChecksum: MD5: 1857ecefe7eb4446bd5d15b773af4d98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/milk-donor.md
+SPDXID: SPDXRef-item4112164
+FileChecksum: SHA1: 93971a5c3985d8699a1d5587808badfd3e757484
+FileChecksum: SHA256: 69ca65662638da9dfaa897a0511a769115b1fe557163b31c16a97e02294b8909
+FileChecksum: MD5: c7ee8bbd8f2016be9cc3e07a3d49dc8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/sawtooth-poet2.md
+SPDXID: SPDXRef-item4112165
+FileChecksum: SHA1: 71df17e1514cdc0dd7c0e38fc9712a93bf418933
+FileChecksum: SHA256: e2b9e056d8b7424c9fe6df2d6dd48cdb2f8e876756a160c0dc9627c340764d70
+FileChecksum: MD5: e8ab584c8856dd2d91decaa54556e952
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/cordentity.md
+SPDXID: SPDXRef-item4112166
+FileChecksum: SHA1: 0f71538fcae2b6f53198a591adf2e71d48042332
+FileChecksum: SHA256: bc522946546ca714c64524bce7c992d17adc8654744e9b4de5e89640b97a61fa
+FileChecksum: MD5: 7a12e948eb1b10327686e71334bf231e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/umbra.md
+SPDXID: SPDXRef-item4112167
+FileChecksum: SHA1: c56d7208a8b41d29cc848a75bc14527a19cc34a6
+FileChecksum: SHA256: 1949caca7acb78f07de5bd9c1b71ddee4e119ff7cd7a6639f846c5ab5dc92b7f
+FileChecksum: MD5: 79d1e9f56f0f3f473c104a2ac0c9cd05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/blockchain-automation-framework.md
+SPDXID: SPDXRef-item4112168
+FileChecksum: SHA1: 396e11807e2a35a2c402819f99a4a5b93e2bdd5d
+FileChecksum: SHA256: 40ccedd77f788cea7000088ab193bea518c5e4d0b9057edd63130c232ecd3d5e
+FileChecksum: MD5: 7fee1cebfc2733ff43e7224761630a5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/archived/eThaler.md
+SPDXID: SPDXRef-item4112169
+FileChecksum: SHA1: 227c4fbce5877362cc0917f0ede7b2d4934d5af3
+FileChecksum: SHA256: 8b17c6c0ece9883b1cfbfa34c8e82b76d7650dacedb0fb1c18b353c466511489
+FileChecksum: MD5: b2ec01b430f8109a0bbe654f66d6286c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/documentation-template.md
+SPDXID: SPDXRef-item4112170
+FileChecksum: SHA1: 0709aa0a10a66a710d608b3672c22407a64885da
+FileChecksum: SHA256: 1e7332755ee60501222b00ceedc8e8b51d651712e299e25691cb6d91f9b68b92
+FileChecksum: MD5: c922d919b307638d5fc8b6b73cc36973
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/perun.md
+SPDXID: SPDXRef-item4112171
+FileChecksum: SHA1: c2a9f2578fea52d3421b8c9f901383b426d19f6f
+FileChecksum: SHA256: 3ab10ef9d01a2a7a0ed232d386716147dfc909c623ffb48213c562a6bbf0ce3d
+FileChecksum: MD5: a1899492888eccb4be1f5326d7c62930
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/fabric-builder-k8s.md
+SPDXID: SPDXRef-item4112172
+FileChecksum: SHA1: e7138149e760f2dcdc48d9b987d47c09b20fd8b5
+FileChecksum: SHA256: 834574d524ddd56b0facd1f2b8e212e3ed97c935c30c0afc7adc31eb05817b29
+FileChecksum: MD5: 1b0ca0ae7438d899cb2538494dcfa5b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/university-course-fabric.md
+SPDXID: SPDXRef-item4112173
+FileChecksum: SHA1: f1771644dd04bba724ecfde7fd596fad62954b1d
+FileChecksum: SHA256: 6290b0b4fe322a65151e5043c626794c4c3f87bb5048238cae6775bceadc46a4
+FileChecksum: MD5: b569d5d498c2b7dec3c964dae195650a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/blockchain-carbon-accounting.md
+SPDXID: SPDXRef-item4112174
+FileChecksum: SHA1: 8936e3cb37877935b620c96288599d0e8043f63e
+FileChecksum: SHA256: fbc349cfd0bd72a398003a9b220adb8af9cf4b8772f2c38af1290194a464929b
+FileChecksum: MD5: ff3a09e7fd5999e60c1fd180c5229c39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/cckit.md
+SPDXID: SPDXRef-item4112175
+FileChecksum: SHA1: 4eb1e28b10a0b414234cc6ef3f64fed251668510
+FileChecksum: SHA256: 7e942f636c4851dd2eb9bdae4c7de83ee4179c18b51490bbe2458331f7c32b07
+FileChecksum: MD5: 871f85116121fc8e39fa37438c94c36f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/weaver-dlt-interoperability.md
+SPDXID: SPDXRef-item4112176
+FileChecksum: SHA1: 283892a48c6738b1a804c08adfd53a871c44db8c
+FileChecksum: SHA256: 705e1136d10a47dd3a431da0f4b549aca9933fea63c362f9eff59c893c9dd581
+FileChecksum: MD5: 7bd369c51bb2062313871d096a7256dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/HyperFabGames.md
+SPDXID: SPDXRef-item4112177
+FileChecksum: SHA1: 57b238e6993f3942b0dec0ba342514b99d6761b1
+FileChecksum: SHA256: 725a1541ca752ad3ba2ea3420b55a0fbd8132e55fea6997543e6ef32d9288254
+FileChecksum: MD5: c759274d55ce1a107e3dde12dc87c9e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/fabric-operator.md
+SPDXID: SPDXRef-item4112178
+FileChecksum: SHA1: 89a8e1b4a0ddd7eef5ceb6e53b8da7e56303b348
+FileChecksum: SHA256: 633ec5052d931f18db7dca8362674917ad172875d11bb8c0b1cf452f638581e0
+FileChecksum: MD5: c1c80bdb03c4df23630f2a7b0954b79d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/yui.md
+SPDXID: SPDXRef-item4112179
+FileChecksum: SHA1: 6e3527e327d22bb539050832a4a4613cb674d72e
+FileChecksum: SHA256: daf24462a360c1740c32b415436232e7e88d0f8a61de630fcce219d4deca3fc0
+FileChecksum: MD5: 5bfd2ad2abe7c0a2977ecb95a7abf52a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/fabric-smart-client.md
+SPDXID: SPDXRef-item4112180
+FileChecksum: SHA1: 89fb9df5d474ea8cbc76775a56cffc57ca45c25f
+FileChecksum: SHA256: ff32f54eb6a632f73645e82bfc1b5a2208f72747f20b2a8c932bf760091a3358
+FileChecksum: MD5: ddd835c501cc33e34853247d38ed7559
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/business-partner-agent.md
+SPDXID: SPDXRef-item4112181
+FileChecksum: SHA1: 41a0a9ebf344b48ea2ff2e8408ed81c15527b975
+FileChecksum: SHA256: a727d49d9ef6ab29040df518f5ce92c33ddf8e687d59b08a256265a905089263
+FileChecksum: MD5: 3a26c795980989c01394e223b09f4b52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/README.MD
+SPDXID: SPDXRef-item4112182
+FileChecksum: SHA1: 310637d3c0d96b4d84710d564c832e1ca401e24b
+FileChecksum: SHA256: 28bf48de6319194e04ecbac5e62c558fdc3b9b98cbce42d0fa69eab8dfcf9a11
+FileChecksum: MD5: b255463784718d04616ce9da78e10255
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/learning-tokens.md
+SPDXID: SPDXRef-item4112183
+FileChecksum: SHA1: 855c19ff1973283e44c11262ced7d2f76316d19f
+FileChecksum: SHA256: e40281ff3685654423539c1fac842118b8c59b7aa2cd417cec0740d97fa0fd16
+FileChecksum: MD5: b07c5a8681500bd9853dec6367dc81de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/minbft.md
+SPDXID: SPDXRef-item4112184
+FileChecksum: SHA1: 818acaec56fc68745e02145a5c6a776a286dda65
+FileChecksum: SHA256: 83d82a6b49c582a6af80f9083aa2859a71dc1d6341214ebdc36f12b8af884dfe
+FileChecksum: MD5: 082a12909efb0690cf52c170d2a6a8a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/Cardea.md
+SPDXID: SPDXRef-item4112185
+FileChecksum: SHA1: db53e006a19b135767bc69b7076fd20085eef590
+FileChecksum: SHA256: d3417ab1490da88e4ba70ba587b0b51147473ba8b62a9c8411afa7ba44e1bcc3
+FileChecksum: MD5: 1fec211ff1b4bafd69b1b42194540a91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/minifabric.md
+SPDXID: SPDXRef-item4112186
+FileChecksum: SHA1: 9a059d3a9f563238fed6fed89a9c0a2377dd2686
+FileChecksum: SHA256: d15365eca238d9856cfbc8c04f4b30cb7e896f6e01b12f0c110da9f4f95e0169
+FileChecksum: MD5: b8e552b1fa20161105b98580c1c60c19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/fabric-machine.md
+SPDXID: SPDXRef-item4112187
+FileChecksum: SHA1: 0ad42795be24f35501fbdf642e20ba7eee69322e
+FileChecksum: SHA256: a879c44f0eb2aff0c0790edf6a3b408003b474c05184911e246487f1986ac808
+FileChecksum: MD5: 4e01f48c82a20a8739182605462a3303
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/fabric-channeled-add-ons-gen.md
+SPDXID: SPDXRef-item4112188
+FileChecksum: SHA1: e2c56cc721f314ad6971efe3e30b2212d21fa06f
+FileChecksum: SHA256: 273166c09889c4e6b571566520cf92c68cea1d74a8dd627a77da9e6c979f887d
+FileChecksum: MD5: 151ac6b64ae5a67ed27c3bd90fd16355
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/fabric-operations-console.md
+SPDXID: SPDXRef-item4112189
+FileChecksum: SHA1: 69e2e3db814cf71a8b96326a455373c7c7da3e41
+FileChecksum: SHA256: ebf8f014f7abe532cefdb4916e76735facd37117d8e2d10558b8d8722621ae84
+FileChecksum: MD5: 362c765fc03e643ddc2144ace0354bb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/hyperledger-community-management-tools.md
+SPDXID: SPDXRef-item4112190
+FileChecksum: SHA1: 96a418bc5aa28aeacebb6a5dee8ade14f127324c
+FileChecksum: SHA256: 541ccc75781e3155f71b8b14b6d983c256608435765e22963eb0d2548cb13a99
+FileChecksum: MD5: 9f8b4257ba6cec8f5cc88b70e4af42a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/hlf-connector.md
+SPDXID: SPDXRef-item4112191
+FileChecksum: SHA1: c462fe3fd59563fbd0418deb1e4ce1b8318925f6
+FileChecksum: SHA256: d289c52c515b9adf9a4ce53b0c7e17bec7c8106506b0af52520ba1c36ee02e3f
+FileChecksum: MD5: a0a27d76f383106e2b71b5ad6ee9da29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/fabric-ansible-collection.md
+SPDXID: SPDXRef-item4112192
+FileChecksum: SHA1: 8283399d9a21e26ba090829e69704e57b2ebc236
+FileChecksum: SHA256: ac31838665180f0e1fbb0236e5fdc8767e7d404b7187d878e54a51098dc6831a
+FileChecksum: MD5: a0e665b8e647b9dba414595fc75f7694
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/sunyar-fabric.md
+SPDXID: SPDXRef-item4112193
+FileChecksum: SHA1: 0767c76bca285e27445bec7c3e374bb2642fe4db
+FileChecksum: SHA256: c028e59926787747587e70be1803ce7ee940187f63fe08a587dd2fa6e84987c3
+FileChecksum: MD5: 9135ca7f0c169fe1716acc76af9f855c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-profit
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/fabric-server-node.md
+SPDXID: SPDXRef-item4112194
+FileChecksum: SHA1: c9ad26c3cddeeedc9481896275ec3a49933bc81b
+FileChecksum: SHA256: 9bdc616c980ec6ad65e03d96e5f2e78f64accb539809b648e6a6fb923cf7fe56
+FileChecksum: MD5: ab3078447f4f0b13b7e6f305e501ce85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/labs/fablo.md
+SPDXID: SPDXRef-item4112195
+FileChecksum: SHA1: f6a051dcef1aabb9b2bf4cf386e4c31138e241f5
+FileChecksum: SHA256: 4ea2c8c4ceaf9fbc611ce00135a0d15500d8bb83f9a1b6300f5d6de1ba1daf3f
+FileChecksum: MD5: 582afacf80564db8abaec38f69134926
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/CODEOWNERS
+SPDXID: SPDXRef-item4112196
+FileChecksum: SHA1: a430c9833cb6b13de70b74d0be60a7e7eb746117
+FileChecksum: SHA256: 7995f564bae539b91cd320d3a1e4e65f9382e70da53a778d23dd506ae58d9eb0
+FileChecksum: MD5: b92f8d53680cad20506df34b0ccf9fc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/CNAME
+SPDXID: SPDXRef-item4112197
+FileChecksum: SHA1: e04085d2787e87b370141d4ebec2f7dba2600960
+FileChecksum: SHA256: 4e2c2604d6b7bc907583df791f14c6af2576d448f2c07d3d5a9882b89f8127ec
+FileChecksum: MD5: 5cbcf2f1dec7575dff4ad5e97490913a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/_config.yml
+SPDXID: SPDXRef-item4112200
+FileChecksum: SHA1: 470126836c1b24cce1ba8cd1d809723ebd983f2b
+FileChecksum: SHA256: 1aba1f9cad41b86e64efb407dcc6557b3b4b89ea3f98061d93be7472699503a0
+FileChecksum: MD5: a9e5772a92fbb138e0e6dfd996d20864
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/stewards.md
+SPDXID: SPDXRef-item4112201
+FileChecksum: SHA1: 5634a358d4c21970608a4cb1fd2092f6b381cc9f
+FileChecksum: SHA256: 5fad600d4ada11e773894f16815b4e984306a6c35c40cc3623c49ac4a0de6594
+FileChecksum: MD5: 78acf7913e8d4215ef419a78692eb985
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/.github/pull_request_template.md
+SPDXID: SPDXRef-item4112203
+FileChecksum: SHA1: 5b4d3d41033bc57ef7f7952e83c195c1e3812722
+FileChecksum: SHA256: fcf3a43082eaf56c638e69d216a178dbe4c996125a2094cf7baaa2f5fff9be2c
+FileChecksum: MD5: d9ce8ea6616a41647fc5a4af8bd764e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/.github/settings.yml
+SPDXID: SPDXRef-item4112204
+FileChecksum: SHA1: e0183104f771518944ac9b039ecdac023573b892
+FileChecksum: SHA256: c09df9fdc288e489d9e66887f9c187f5ea1716a1129123366a6ed82f3b5b2060
+FileChecksum: MD5: f68f26ab3c661b4212e59a6df351dad9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/mosaique-decentralized-workflows.md
+SPDXID: SPDXRef-item4112205
+FileChecksum: SHA1: dc364d9fbaf9ed905de6d2c91b0f0721b221e152
+FileChecksum: SHA256: 2c8987e3eb67e33072c36d56123d349ebdb567cf2d051cea08284e05938205d9
+FileChecksum: MD5: 12bc01ec301ee92d434d3647f1a19d20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/.gitignore
+SPDXID: SPDXRef-item4112206
+FileChecksum: SHA1: 38be59e286e7ebeef0fdcb061dc44b770d82d187
+FileChecksum: SHA256: 09b15ec9f183b4aadf3720edf68f046693cd6310e9046b4840a047e61014a904
+FileChecksum: MD5: c60e795f3f1053373140410a2f8910e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/favicon.ico
+SPDXID: SPDXRef-item4112208
+FileChecksum: SHA1: 8c1368491017386adf08e3dfb4c4ef6392a5b9a3
+FileChecksum: SHA256: 6c4ca77e4b2d1c8aa9eb59f95262facce467ef8c37f5a2a9a2e0cc8f977b8630
+FileChecksum: MD5: 9d80abf38467d23f90396de6f87a47ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/hyperledger-logo.png
+SPDXID: SPDXRef-item4112209
+FileChecksum: SHA1: cf50243a907848f4fad8f91ed8612492af5c3e00
+FileChecksum: SHA256: efc7b503aed9f7148c45967feb449ead9e8343b2831bdf8874537f0345c44cb6
+FileChecksum: MD5: 3ec6e8c362c0855854a7438b3cce011b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/proposal.md
+SPDXID: SPDXRef-item4112210
+FileChecksum: SHA1: f00b1869db8c10d41d93b19a70bfe8500cbb9c99
+FileChecksum: SHA256: c51ec1ebe7dfed8dc8931676cd2dc45a0daf9e7da8fe75792cb2c4cbf0519e21
+FileChecksum: MD5: 651c9a25aec9575786d0ca021c7e2a6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/proposal-template.md
+SPDXID: SPDXRef-item4112211
+FileChecksum: SHA1: 10aa075d705b7810718ffb9626d01dbeacb44ddd
+FileChecksum: SHA256: ff64b365967123ecaad31557b0e2a73c23cb3f6862dad5e9df8dd72a1dc1219c
+FileChecksum: MD5: e03a3dbbe8d833370c0b775e634e6160
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-labs.github.io-2023-04-02.zip/hyperledger-labs.github.io/MAINTAINERS.md
+SPDXID: SPDXRef-item4112212
+FileChecksum: SHA1: 1d4ee7732eb1a879060ba973ef16e65796238e2d
+FileChecksum: SHA256: 9fe8e553cb7f2b9867d1e369d1f5d09e9e59e59c70648edad5bc0dc9953fed54
+FileChecksum: MD5: 8d3821ce0982656d498c0e0563ff5597
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Non-profit
+LicenseName: Non-profit
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
