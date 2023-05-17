@@ -1,0 +1,465 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_documentation-template-2023-04-02.zip_1680848572.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-04-07T06:22:52Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: documentation-template-2023-04-02.zip
+PackageFileName: documentation-template-2023-04-02.zip
+SPDXID: SPDXRef-upload837
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: cca26321eb7fdb07177dfcafb7b16be979c54467
+PackageChecksum: SHA1: f9b6f2fe1d4730a9551bba857d868c0c251a5850
+PackageChecksum: SHA256: 8b8e2bbf89b94c446da7e8610fb93e15920a9a5b44af093100fff9f06b445307
+PackageChecksum: MD5: ebd0eb1927231d3d89ae9de83cb9ab50
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload837
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/LICENSE
+SPDXID: SPDXRef-item4101666
+FileChecksum: SHA1: ea50605ca80f45e1cac988d15acfc06ff950b0d7
+FileChecksum: SHA256: 9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411
+FileChecksum: MD5: 2ab724713fdaf49e4523c4503bfd068d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: LicenseRef-Public-domain
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
+copyright. More considerations for licensors: wiki.creativecommons.org/Considerations_for_licensors
+copyright--then that use is not regulated by the license. Our
+copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. More considerations for the public: wiki.creativecommons.org/Considerations_for_licensees
+Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
+copyright and/or similar rights
+copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights
+Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+copyright notice;
+Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically. </text>
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/contributing/how-to-contribute.md
+SPDXID: SPDXRef-item4101638
+FileChecksum: SHA1: cf8c873eeee781ae5f199b3887f0399c02dd1920
+FileChecksum: SHA256: 0d468e487a2e62a1f63b440388ef9282997bff6b6be80b39f97848d5d9ce5280
+FileChecksum: MD5: 42c844bf0b4d3e6f4435546ac33bc64e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/index.md
+SPDXID: SPDXRef-item4101634
+FileChecksum: SHA1: 45c9d7f7f0fe47dd97c2a161a896c8394053629e
+FileChecksum: SHA256: 801d296b5d71bb0139d098448be080a1bb762e7c7c99c6633037424b853c8601
+FileChecksum: MD5: 263157ffd988f98e495f0dc4dd47ef71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/faqs.md
+SPDXID: SPDXRef-item4101635
+FileChecksum: SHA1: d4d1e0b1fd2e672dbe61ba657d82d790052fe16d
+FileChecksum: SHA256: 9c781512b1973e36c67bf5a8f3934f07c2df2c48149ea50a0d6e7d564944f38e
+FileChecksum: MD5: f38087b62dc9363367015deea4f7a2a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/contributing/requesting-a-change.md
+SPDXID: SPDXRef-item4101637
+FileChecksum: SHA1: 569b964b7b4d7ff02940901050840ca4f366ac47
+FileChecksum: SHA256: 438175d1f9bc9e9a4d8560182f10efab7439d8a7e6466431fc15e68b7d638840
+FileChecksum: MD5: 9a8d6e73d619f964d0ad4012f53b3e30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/contributing/reporting-a-bug.md
+SPDXID: SPDXRef-item4101639
+FileChecksum: SHA1: 157cb5d4ebb8a77631a285d2671445ff70ac6e58
+FileChecksum: SHA256: 8a7a39df00fbafb53292b41198267a61a98a31298479c9c6b66a08569d9f62ce
+FileChecksum: MD5: 7fc71dbea04db3daba4eda2372df0cf0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/contributing/asking-a-question.md
+SPDXID: SPDXRef-item4101640
+FileChecksum: SHA1: 175ffaf7a837f210225523f46127f4892a669a8e
+FileChecksum: SHA256: 949cde09d7a7bdd3aa370815751484491bbd5f11676af6c3399f82293717a0a7
+FileChecksum: MD5: 58016b47125612412e81caefaf4347e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/guides/upgrading.md
+SPDXID: SPDXRef-item4101642
+FileChecksum: SHA1: a8d618964fbfc46cde75472b870a9f512838b2a5
+FileChecksum: SHA256: 0b892547ab2320dbd9955d6ad9b2b8fa174b10f20c43e83963a3bb65e1a7760f
+FileChecksum: MD5: 88869a61527ca02456ee575a98babe2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/guides/developers.md
+SPDXID: SPDXRef-item4101643
+FileChecksum: SHA1: b811d71ff96a5f11761075db805935afe46b3bc5
+FileChecksum: SHA256: 4c7b9324d8b113ec44e2f8b43e6f92fa726dcb0ed1876e4fd85ca92a8920a2da
+FileChecksum: MD5: 8cf5ec357d0ef543d887f9b315c7490b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/guides/operations.md
+SPDXID: SPDXRef-item4101644
+FileChecksum: SHA1: a72e9a1b9d3e69c43b6d030c77b100e878afe8d9
+FileChecksum: SHA256: 29699973c6a509911054be7e72e1bd66062fb36abb47a6ecf5450abd8a4986bd
+FileChecksum: MD5: 8c37cd6cfaf1cc99bad20d86ae505731
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/references/architecture.md
+SPDXID: SPDXRef-item4101646
+FileChecksum: SHA1: 33246639a288c380abd6258370d5f8429d753969
+FileChecksum: SHA256: 346da26ff6af1d46c2225d60562a64791b1215d849e6bf3e06e1d921ad6b0819
+FileChecksum: MD5: cfd681e1860800f16e85f061a33febb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/references/commands.md
+SPDXID: SPDXRef-item4101647
+FileChecksum: SHA1: 70cf5644c0301fb32f88bf4fd8ed68ef5326a5b2
+FileChecksum: SHA256: cddf8d483f33dfd30141911791c129f07587392399c723e53553bff60d46e30a
+FileChecksum: MD5: c6df6aa3e710b21436637ef26be33d0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/references/roadmap.md
+SPDXID: SPDXRef-item4101648
+FileChecksum: SHA1: f4d7315e2c5507c601a90c680a97684461e0d782
+FileChecksum: SHA256: 4b6abf0479d4f2f568d970c82b06a75eef3db423c93f26f969c6a2620da92027
+FileChecksum: MD5: 19799a4af89a5eda3c1a3e95651ad96c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/getting-started/running.md
+SPDXID: SPDXRef-item4101650
+FileChecksum: SHA1: 6d19ff3302287628741f267a762bfc2fb4b98cbb
+FileChecksum: SHA256: d98049338cb5fc528561a5ead666326bfffb16243b6b1d33edebe2a81885b28e
+FileChecksum: MD5: f2b3483523025ce31ca203deb471b05b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/getting-started/installation.md
+SPDXID: SPDXRef-item4101651
+FileChecksum: SHA1: 093af8b7cc85031332291b9afe8accbd21369db9
+FileChecksum: SHA256: 485f75e4efbbe4f27250e383bf196f3280677421715dd0980cace6312ee8b182
+FileChecksum: MD5: a48eaec044ff6d228bea3f5f8b67d11d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/assets/project-icon.png
+SPDXID: SPDXRef-item4101653
+FileChecksum: SHA1: 506c42f3914c6e568f248ce330fa461b7eb362d8
+FileChecksum: SHA256: bd1cc82c6d04fe8692c9268dc29a70080c78a9c0319cddfde9bfaca4422a5cab
+FileChecksum: MD5: d1734f8fb810368ea11ee4d205facfe7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/assets/project-logo.png
+SPDXID: SPDXRef-item4101654
+FileChecksum: SHA1: d3238c50c72c1cd3f8d3686dd199bd42a83a7d75
+FileChecksum: SHA256: 2a7f8427d7b0cb85cbec31767a90776b10dece8448f773f29266f0782c2f38ff
+FileChecksum: MD5: 22344d076aff725cdd06cf983c80c159
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/concepts/concept-2.md
+SPDXID: SPDXRef-item4101656
+FileChecksum: SHA1: 8e9f42bf12c9569581f01e1862498557e36822d6
+FileChecksum: SHA256: 7e2bed06504df2af9f886313c9f4da524673c1046f74689a0d2bd5e8edd355d0
+FileChecksum: MD5: 14a15784908c5063f58961c28748dd31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/concepts/concept-3.md
+SPDXID: SPDXRef-item4101657
+FileChecksum: SHA1: 1e9ad832fc576f6d6e2984fb7180c34fd9945aa5
+FileChecksum: SHA256: 7fdc88498bff1d64705627602ca7cb5664e1cae319ed0735aabd04e75e0236ba
+FileChecksum: MD5: 7505da47b80f7dd19607501d9f6fdc11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/concepts/concept-1.md
+SPDXID: SPDXRef-item4101658
+FileChecksum: SHA1: 0c63d9bd0e2eb7397bc7999304e1eeabeb7f4622
+FileChecksum: SHA256: 4e9e7026c35a5c6d7f207436b4d7e8d1d7d44bc3cae6ab08594c906d5436cc15
+FileChecksum: MD5: 31239063eeda3cfed90d846623029bb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/tutorials/index.md
+SPDXID: SPDXRef-item4101660
+FileChecksum: SHA1: 48a954a48f1a59d0a6fa617a97cb4c12de9f7fb7
+FileChecksum: SHA256: d007b6af3067fd449ed18626ac7ad21c5bd0acab928d0bbe50eb2adda62eeb85
+FileChecksum: MD5: c2e2f9aa2b4a497cfa2d5fb95e740b93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/tutorials/tutorial-2.md
+SPDXID: SPDXRef-item4101661
+FileChecksum: SHA1: 63fb29b1c83774471c637e6cd48548f99a041411
+FileChecksum: SHA256: 17bfdc818198421beea41d051cdf647333f89466dec6910530f70a60b27ddaaa
+FileChecksum: MD5: a5186f4cbcb6d66fd0b41ba9987c713e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/tutorials/tutorial-1.md
+SPDXID: SPDXRef-item4101662
+FileChecksum: SHA1: 40c1aa018d6ede6626123a3a8e5a0953084a3549
+FileChecksum: SHA256: cdcb4b51d902f1d36b3a58fee247fb644aa03f4426c87da0c1109051d92d8cf8
+FileChecksum: MD5: 91a4b21774c6239118fa61e7388ebc9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/tutorials/tutorial-3.md
+SPDXID: SPDXRef-item4101663
+FileChecksum: SHA1: ae72bf78f15ecd5c291ddd7821b6ce43f1b782c7
+FileChecksum: SHA256: b262fea61a48abf2f1d247bc098b06ca581a29cd94d4fcf76f9798ececd97e77
+FileChecksum: MD5: f1806469269ad08276bf336cbc39a56d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/docs/glossary.md
+SPDXID: SPDXRef-item4101664
+FileChecksum: SHA1: 50a37f374a6359726b3e4ef82a5d3aa840bf6b91
+FileChecksum: SHA256: b9ecc82f8e03e46a7c5d41ccd199bcb1dc5644c5fa87a00489ef2b7773ad483f
+FileChecksum: MD5: 3400c1776459093aab7dfd42568f1c9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/CODEOWNERS
+SPDXID: SPDXRef-item4101665
+FileChecksum: SHA1: 13054780a19482c7cfcc1b47bb00c61d6f0a3de3
+FileChecksum: SHA256: fd8c46822aa923fac0491518c40e976a80350ee6df51418b6bc9ccf451ac55d1
+FileChecksum: MD5: 9c938bf9113028eacd23d86d2c7fd4b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/.github/workflows/ci.yml
+SPDXID: SPDXRef-item4101669
+FileChecksum: SHA1: 3acc5da5572d54780619149e0048de75875c4b67
+FileChecksum: SHA256: 1c6081ea0cf3d4d8a9dd6b3298cd09349044740d1e02a603ae51eb385a48c473
+FileChecksum: MD5: c0bafbdd75d8d4a98ff832770a5a5b3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/requirements.txt
+SPDXID: SPDXRef-item4101670
+FileChecksum: SHA1: 269555b68f423751939e9b7558c93926e116dfc1
+FileChecksum: SHA256: ec479e95563a9e2d0989fdf2ddc4b68ed0bf6dacf3582e7f0837be98a8924492
+FileChecksum: MD5: 084d453d5a49a3502cabace43975d2dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/overrides/main.html
+SPDXID: SPDXRef-item4101672
+FileChecksum: SHA1: 2448045f1509f012f7605bcce4ae799c130043b1
+FileChecksum: SHA256: 10fe88380c38a640e3dd90aa51dadd175002642dc4493a3a92e1733b379218f0
+FileChecksum: MD5: 913941a4a47328386066e1da01d0b63b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/mkdocs.yml
+SPDXID: SPDXRef-item4101673
+FileChecksum: SHA1: ff36e094081e14402adcf139159fa15530ea9201
+FileChecksum: SHA256: c0b698e4773520bac1e419c8cd95386832005790a29300bb9dc64648ee7596f6
+FileChecksum: MD5: b3086f6b32e0c49bb4588bfe4ad1cf8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/README.md
+SPDXID: SPDXRef-item4101674
+FileChecksum: SHA1: 89670b649d3fd1f0cf61a441ff50a2c49edf3d6f
+FileChecksum: SHA256: 96740f455ab3c94fbc118de5fef8b81c41bd88e156a2c4f4800bfc55717eda6b
+FileChecksum: MD5: 631749cad13c8f05034e0335c1fef449
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: documentation-template-2023-04-02.zip/documentation-template/MAINTAINERS.md
+SPDXID: SPDXRef-item4101675
+FileChecksum: SHA1: 897ca9c0164967a9fbd36aae11ab7fe88d74b5b6
+FileChecksum: SHA256: e6ffd6df163c0ef6e2da5a4c902b0b278e95bab47749ad88f796ef6279873214
+FileChecksum: MD5: e0fe7780daacbe87e9427e1660b81495
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
