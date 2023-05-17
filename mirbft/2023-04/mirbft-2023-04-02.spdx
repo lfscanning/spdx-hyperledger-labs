@@ -1,0 +1,1312 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_mirbft-2023-04-02.zip_1680848664.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-04-07T06:24:24Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: mirbft-2023-04-02.zip
+PackageFileName: mirbft-2023-04-02.zip
+SPDXID: SPDXRef-upload849
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 40d8d487bff523425279a8afac796bbf1f792bf8
+PackageChecksum: SHA1: 9888c313176a0e8d217d97c23547601a25d9e8da
+PackageChecksum: SHA256: 587a54257b7a8414c0d60c4e2d0ca6d38274986531dd4bbb609fc6c57718b928
+PackageChecksum: MD5: 8a716e9ac0afe5968e1599a6c281c544
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload849
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/README.md
+SPDXID: SPDXRef-item4116466
+FileChecksum: SHA1: 9f5a1222083ccccd40299eec14c650291a9458ab
+FileChecksum: SHA256: 5b015c7a9ebc89dc98f00ce59e56a342e7216515c985a7f3f0df9536b8f191ce
+FileChecksum: MD5: 1485eec3438f2b1bedaf350e256deac9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/MAINTAINERS.md
+SPDXID: SPDXRef-item4116583
+FileChecksum: SHA1: 94759dd2c82226c289bb3e60f046dd85a042a928
+FileChecksum: SHA256: 7c6c38bc26811fcc3fc23da1167a4df8b53463b2f8a6ff3ba5d7ef8876abde19
+FileChecksum: MD5: b410bd578fe2f07d0ce8a54ceff1b3c6
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/LICENSE
+SPDXID: SPDXRef-item4116440
+FileChecksum: SHA1: 669a1e53b9dd9df3474300d3d959bb85bad75945
+FileChecksum: SHA256: c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08
+FileChecksum: MD5: fa818a259cbed7ce8bc2a22d35a464fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright {yyyy} {name of copyright owner} </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/CONTRIBUTING.md
+SPDXID: SPDXRef-item4116442
+FileChecksum: SHA1: 3e077850cd0f3b5af77fc8011dc4d5ad63eb60e9
+FileChecksum: SHA256: 8bd8262376909012319ed369c1110c59db4d0a00428fdd163736d8052a70c3a4
+FileChecksum: MD5: f71562c8485e5fc011ed91e05a02a265
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item4116434
+FileChecksum: SHA1: 7e0a99f2d42a13a95f7db0f35c5f4dd52529520e
+FileChecksum: SHA256: b083bb7601eaa87902488e170ff2304adf3a839fc30f115b47d965e354700234
+FileChecksum: MD5: 6225afc6fdfb77aa09e0949d425f58b5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/workitems.go
+SPDXID: SPDXRef-item4116441
+FileChecksum: SHA1: 210e68adcfb0232f9430d0aee845d0f9a67792a8
+FileChecksum: SHA256: d039205a4123034145fbab97d82e56bd7a10754c859021d1017ad629d6882f6c
+FileChecksum: MD5: 882a13079e131129ef0f5b16f786c50b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/.github/workflows/test.yml
+SPDXID: SPDXRef-item4116445
+FileChecksum: SHA1: ed5a935dedfc5102eee8e4e40880f4843a68780e
+FileChecksum: SHA256: df892557ce0017a51c07f68a7f91ac5994ab4eac77633d600c5d6b8a95d86611
+FileChecksum: MD5: 10a8fbfab079f97b809b918441a6a65b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/config.go
+SPDXID: SPDXRef-item4116447
+FileChecksum: SHA1: 453e9863ab6737f750dabecabd8c52f7813a8202
+FileChecksum: SHA256: 6355a45c06fbcebfba7c6e10e9c8a2f2daa587addadf49d8224248b7f47b0614
+FileChecksum: MD5: c0edab0d1a369ec0367da37bf8d29733
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/node.go
+SPDXID: SPDXRef-item4116446
+FileChecksum: SHA1: 22dfd7cb769d1c97021b447c4ab9302203d4851d
+FileChecksum: SHA256: 184f81e70411a78250f84a5c252718d458ce5bf8bb860fb26be57f4855fdd5f6
+FileChecksum: MD5: ca713964b3c375b825c154f0475484ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/mirbft_suite_test.go
+SPDXID: SPDXRef-item4116456
+FileChecksum: SHA1: 03033d1461f33e5cbee058a11326f93e50856a2e
+FileChecksum: SHA256: e30a1a53bad55c0b5a35e1653e1ba4c06056c10e98355e99b963d9007d63fb17
+FileChecksum: MD5: fa6ba28499cbe6bc8ee59a5191d66441
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/mirbft_test.go
+SPDXID: SPDXRef-item4116457
+FileChecksum: SHA1: 718fb9533eda4ebd31d0166a5a3ef5040a71c524
+FileChecksum: SHA256: c9d8e95e68dac1e661dfa6d23de65377ae49227883afdc6387ea7e92a89bfdf2
+FileChecksum: MD5: 36bb191c9728d9ea8e36be1aa10ea548
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/samples/chat-demo/app.go
+SPDXID: SPDXRef-item4116461
+FileChecksum: SHA1: d36dc74eaefb537a0297ea14f375d47a4a8c4256
+FileChecksum: SHA256: 0971866f58872cfdc482cd2e5de2df5348db1895b4f34f5c6feb82de8c6b9625
+FileChecksum: MD5: 1644af5794cd94faa0454d9f799b595b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/samples/chat-demo/chatdemo.pb.go
+SPDXID: SPDXRef-item4116462
+FileChecksum: SHA1: e89c71ce50a30c11c580a4cfd04cf8a735d292fc
+FileChecksum: SHA256: d91eb9e4b66ebd2d0253aed752dedf146f0fc1b744cacb1253ba4186ee6e8d9f
+FileChecksum: MD5: 9c218a97d59abb123e76c23112eac7ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/samples/chat-demo/main.go
+SPDXID: SPDXRef-item4116464
+FileChecksum: SHA1: 258e5622fa44e62af41e12228d1795c7dd71f0fe
+FileChecksum: SHA256: 1c1da3be49fbcffed537ae6d43d9014340d3a0a1cd00a1ba755217375f3afee2
+FileChecksum: MD5: 3632640423bc24685a7e9ff8eef2b6fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/workers.go
+SPDXID: SPDXRef-item4116467
+FileChecksum: SHA1: 353fdd41b83b220282d3b62a6d694943d62d0406
+FileChecksum: SHA256: 01d2f12beac9a3479c0a293a80dbde0767143bea7f6c9db583bc0cc2a0fa56f6
+FileChecksum: MD5: 83e16a1b4b111ddb5fa8074ffe287d89
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/grpctransport/grpctransport.go
+SPDXID: SPDXRef-item4116471
+FileChecksum: SHA1: 93d3921fe5db6844d9b87fb84d89d459459c0052
+FileChecksum: SHA256: 8d14c9a0a8678aca880e96013abf2d512788db65b197bc2270ed1ad547553666
+FileChecksum: MD5: 535e4375c137e0643069ee2cc95ae556
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/grpctransport/grpctransport.pb.go
+SPDXID: SPDXRef-item4116472
+FileChecksum: SHA1: d961beb7c9dee1840fceab5876cdeb847a769e52
+FileChecksum: SHA256: a11c76ec8d4ff14aa345c39b4073766f0046ec40fe472a092353dcef3d5f7071
+FileChecksum: MD5: 2791759b02533aacb1430d297ee88cda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/types/types.go
+SPDXID: SPDXRef-item4116474
+FileChecksum: SHA1: db525d52ee69db8178cd4643d06b7efaaf54c4ff
+FileChecksum: SHA256: 05a75a0ab84cb13521bccdce5c5bddfebe8899d7c9e5b5157df027434f553cd3
+FileChecksum: MD5: dfecd242cb06ec3117efad5ec7bd9f54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/deploytest/fakeapp.go
+SPDXID: SPDXRef-item4116477
+FileChecksum: SHA1: cded6f36a98e4c3894d890413ef6e3dbefd7f160
+FileChecksum: SHA256: 2b264d7eec319fc2a4a5886f1e849cc48ab28daafb702994185bccc9fcc6b569
+FileChecksum: MD5: b338eb79d293a585be5d1b90615ce873
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/deploytest/faketransport.go
+SPDXID: SPDXRef-item4116479
+FileChecksum: SHA1: 3ae00b725aadc9e048d2ee0a9bd2162be90852a2
+FileChecksum: SHA256: d8a9f065fdaa70ad80111c057d0f212a48524dc845cb4120f7e86a441c0e9446
+FileChecksum: MD5: 39fe8820d73d198346a7c84c75dab146
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/deploytest/deployment.go
+SPDXID: SPDXRef-item4116478
+FileChecksum: SHA1: 690db15bae51309dc60142b03646e7c5d93075cc
+FileChecksum: SHA256: 3e31d4adf104b402f4b9a3d7bf17229edf221264d013c5ae8211f4c3d6269437
+FileChecksum: MD5: 1ce67c06584c9a2bd70a22fab63afc97
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/events/eventlist.go
+SPDXID: SPDXRef-item4116482
+FileChecksum: SHA1: a22fe5ee8dba276e512586e86567c5b974ecc3a2
+FileChecksum: SHA256: d891bcd83349e42f119e06efce472244844217e37de000bd254a19729b896be4
+FileChecksum: MD5: 4491addf16eecadc53967635f8a5a2c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/events/events.go
+SPDXID: SPDXRef-item4116483
+FileChecksum: SHA1: 24b8916c7abcac4403f16f95c3f83fcf5e74b92d
+FileChecksum: SHA256: c7a7d940ab44376c74780f58001bf5a8ddfde46fbca5dcf2918bbb652a4d2df9
+FileChecksum: MD5: 9fd1d96a2cc2cedaf4b3a8695343ddd9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/crypto/ecdsa.go
+SPDXID: SPDXRef-item4116485
+FileChecksum: SHA1: 919a262561e5ee092f223b86fdde966f975e8d93
+FileChecksum: SHA256: f9386b3209d4b91acfa30b2bb3db015ed5e3682eed5a327fbdc06f23e79503c6
+FileChecksum: MD5: 5c70adb63f8bd37de9f92c9933c69a70
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/crypto/crypto.go
+SPDXID: SPDXRef-item4116486
+FileChecksum: SHA1: a21debc9306ff74668a90f247fec703e8373223c
+FileChecksum: SHA256: f6c497dd478837d2455de1722b8e73d76eb94bbf410792be27cac851c24ce5ee
+FileChecksum: MD5: 216a75c53eddb8336efba211d4fe4efe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/crypto/dummy.go
+SPDXID: SPDXRef-item4116488
+FileChecksum: SHA1: 283b59d0ad1796d95097ec8021601b1f6c241162
+FileChecksum: SHA256: 90ea4143387d4c7cf1cb59a36f5b28574de6321154f3b4e9e68bb61d6394724f
+FileChecksum: MD5: 95bedb45a855ff3ebba423b4b1461ac8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/crypto/pseudo.go
+SPDXID: SPDXRef-item4116487
+FileChecksum: SHA1: c61b37050e0a7ff29cb82e49eb500ce32572e490
+FileChecksum: SHA256: 25fb0d2444937c8898b8a0e1a556b9695194b3bebe1c37bf66e343bea4b1c4d0
+FileChecksum: MD5: ddb7e991fd562f5032b0c4693151f9f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/iss/sbinstance.go
+SPDXID: SPDXRef-item4116490
+FileChecksum: SHA1: 345087c9e00d3bead591377d06ce89b1f8498d45
+FileChecksum: SHA256: 6ea055f83e3a352f0eddb28cfe184c9ea70c4a289fde072d9d1b6e4dc10c4cb8
+FileChecksum: MD5: 539574e1dd9d49096af3e47db00fe4b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/iss/leaderselectionpolicy.go
+SPDXID: SPDXRef-item4116493
+FileChecksum: SHA1: 6973a44a2277d002a9bdf81dccb38bfab5cbb8c4
+FileChecksum: SHA256: de685b43c09c79f781e6a8b7e5c337266e8e5144d021410dd9bf87084a3f1ac8
+FileChecksum: MD5: 3d2e94620e0fd66d6626e2018d3b9d8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/iss/pbftprotobufs.go
+SPDXID: SPDXRef-item4116492
+FileChecksum: SHA1: 4a2c6d0c537240e4c330ccd9a9904203c85429da
+FileChecksum: SHA256: fbec4a1ee6fa2ad9c5b1f0575b47a29a91d5488bd110ab27aa52bcbae05f48ec
+FileChecksum: MD5: a1376edf5a9ca7a1cffee687abc8d45a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/iss/protobufs.go
+SPDXID: SPDXRef-item4116491
+FileChecksum: SHA1: 9dec0173fdfd7a854cdaf3c23bd94491780c399b
+FileChecksum: SHA256: fa106fbbfe474a1df45729260caf9e9e9bbe1f5474ad8cda37a77a29653cad9f
+FileChecksum: MD5: c4c17f47184807a02abaf83c2863d128
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/iss/iss.go
+SPDXID: SPDXRef-item4116494
+FileChecksum: SHA1: 0e76e490e30fa3f1af30c0243953f0db120d4ad6
+FileChecksum: SHA256: 124a21e52c742d3eee2f78a3466d2797fbc16c94e6f46340654ec0c4ffd6f239
+FileChecksum: MD5: 4bbbfaf02d96bc63fc1e3e164f940045
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/iss/config.go
+SPDXID: SPDXRef-item4116495
+FileChecksum: SHA1: 0c9e86bd0640381924a813884a2c216af044f1b9
+FileChecksum: SHA256: 465e1fe6010ac7adcec4b759f9d7b706324f798db87362237d3fbec17d5cd08c
+FileChecksum: MD5: a8d904f71947dab939e76532f1cb4e98
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/iss/sbeventservice.go
+SPDXID: SPDXRef-item4116496
+FileChecksum: SHA1: 22fb5d9414697d666a75f986d58f68fecd52ef39
+FileChecksum: SHA256: f581124b299209ef000af6d14e1ac8d1a92c497502a0f80e73cd354c2aba82ec
+FileChecksum: MD5: 1d7a52364cd64875b0675e2e8aad143b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/iss/pbft.go
+SPDXID: SPDXRef-item4116497
+FileChecksum: SHA1: d448252390f2415ef36cba1beb7cbd3e13472772
+FileChecksum: SHA256: f9cddead2a71b3380a38da80b7597b81dec0703d69115f66e4ec52f4944aa338
+FileChecksum: MD5: b5f2f62fe88d54471e3d689785502a5c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/iss/bucket.go
+SPDXID: SPDXRef-item4116499
+FileChecksum: SHA1: 5df0f3bdd75e92dbd5c8d5dec4c65f95fbecef5c
+FileChecksum: SHA256: 3bdea43bece29398ac1784634486c966509b9f2904d2f52bc24934e9deba1326
+FileChecksum: MD5: afa4a831f3ba6ca0439d8bb38dc2fa6c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/iss/bucketgroup.go
+SPDXID: SPDXRef-item4116500
+FileChecksum: SHA1: 124becb3a7b1229515b25f411f9dd69d320ef9d0
+FileChecksum: SHA256: d13995500a91f80fd3de0890ddf8cb6e59b0b4672c012b0e6385a28b849199bc
+FileChecksum: MD5: 54cc53f81fd46b251d9e2b9e08dc59c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/iss/checkpoint.go
+SPDXID: SPDXRef-item4116501
+FileChecksum: SHA1: fb47b8a12e415be6b3cc1cff49b73b31ab68e3ef
+FileChecksum: SHA256: 4fd0c240ed6577e9297813e084f6349e98cfa97ffebbaabe122c394b75a60eed
+FileChecksum: MD5: ff18d6bc3616754748ee4cefc2c638c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/requestreceiver/requestreceiver.go
+SPDXID: SPDXRef-item4116503
+FileChecksum: SHA1: 2c86150f95b4d63905bf53587bb6216fb20b398f
+FileChecksum: SHA256: 75ed607948cae37aa312f45c46502d15f01b03398c5b730548a31e76e8792e44
+FileChecksum: MD5: 851a7a64c10b6d219622483c84716848
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/logging/logger.go
+SPDXID: SPDXRef-item4116507
+FileChecksum: SHA1: 702208066e67ee467f81ff434ead68ca8b52986e
+FileChecksum: SHA256: aea88c681de1384eb9f1505559376d01f0514bc46d423e51c2514bf004024b94
+FileChecksum: MD5: 628578cf02f2c97fe58d40c74f0e3152
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/requestreceiver/requestreceiver.pb.go
+SPDXID: SPDXRef-item4116505
+FileChecksum: SHA1: 084e770fb7c40cd46a8f13bcfec6fc9ad71fea7e
+FileChecksum: SHA256: 679d1fa7e4c59cbe1c88129241f17daa20e13800c6e3d7d83272eee0ded63431
+FileChecksum: MD5: b1478ed27c000e54b4ce0034ceb5fe8e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/ordering/dummyprotocol.go
+SPDXID: SPDXRef-item4116513
+FileChecksum: SHA1: 23f536bb479d2e3ec49ed8db52f652b99d3bb5a1
+FileChecksum: SHA256: 13db8300812375fbe0d4c98750502b2c0a894d5471958e86a229e0b0d87a857c
+FileChecksum: MD5: ea9da9d5285ed59c59dea11aeba0de99
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/eventlog/interceptor.go
+SPDXID: SPDXRef-item4116511
+FileChecksum: SHA1: 939e9ac011712ec31ddd809a5121fbf2e7fc254c
+FileChecksum: SHA256: c00386207a9cf23fc1d4e9b8d747c3c8252863a2b50418b98ba2587d65d3c26b
+FileChecksum: MD5: f65036e68895523530705b62fa785be4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/dummyclient/dummyclient.go
+SPDXID: SPDXRef-item4116515
+FileChecksum: SHA1: 6adba5bfbc22b4b3f1167c1cc70cca9d06d95a25
+FileChecksum: SHA256: bd4a4adf2644818c4f6563e61fe858a40509bd932e1e09be9e1381fb9f73f47b
+FileChecksum: MD5: 4cd1ed27a6887538111ee8b19bd2cc08
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/reqstore/volatilereqstore.go
+SPDXID: SPDXRef-item4116517
+FileChecksum: SHA1: f5c09f94cf410d94e5c4d7a0778a3e7cbf19801a
+FileChecksum: SHA256: 3b5692e5efe06c8622c602de876ff64228962fe94c85503d4de3772cff983cb7
+FileChecksum: MD5: 6db4ae6748b8f7506146a804ae1d0f22
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/modules/app.go
+SPDXID: SPDXRef-item4116520
+FileChecksum: SHA1: 32c62804633fd027d8c12c4f916b5b4b9bf1105e
+FileChecksum: SHA256: 69807f8b5928aee0f4bea21894a9345e2f8d97d8a2bd427cd7ad28da829b47ca
+FileChecksum: MD5: 77bf15bcaf26081f7e890c7091ce8355
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/reqstore/reqstore.go
+SPDXID: SPDXRef-item4116518
+FileChecksum: SHA1: 360a7c587c51e217b30f2ab18c249410adb2f968
+FileChecksum: SHA256: 55a1ea1b38bdd612d99d5a378fcbf78abb845e221bf88924e3f46eb505034909
+FileChecksum: MD5: 38c5b7813a8542eddbc174f4dc613aaf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/modules/eventinterceptor.go
+SPDXID: SPDXRef-item4116521
+FileChecksum: SHA1: 30c19b26b715d1447658aaf5845aad29a876885f
+FileChecksum: SHA256: 0d323e1dd758ba9f4bc0951338b470043c365cfb2c40e75cb5e8f4519b79b5ea
+FileChecksum: MD5: 952a62ca4d53c493aca2249e34495af6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/modules/net.go
+SPDXID: SPDXRef-item4116522
+FileChecksum: SHA1: 8d0fb34d8e3092dd3b4d8eab32c73c1fb14b8fb9
+FileChecksum: SHA256: 62cc5e1610204dd99536b586e96745019f1d97fd8fe505202eb94a5ac017afb7
+FileChecksum: MD5: f13a27f34280f2952a30d4ff71a65dfa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/modules/hasher.go
+SPDXID: SPDXRef-item4116523
+FileChecksum: SHA1: 5fff0feff7d6fb65fffaa8c515204d18b613b475
+FileChecksum: SHA256: df757a5b902f5e741493b65a9ecbd0c089c08af68635e2d182de33bc98f2d37c
+FileChecksum: MD5: 0bc6fda69be15184172f1d9853c2be80
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/modules/protocol.go
+SPDXID: SPDXRef-item4116525
+FileChecksum: SHA1: d08ef6c836abd9c4ddd0dee3bcecf3dc073e687d
+FileChecksum: SHA256: d762c22035bf6192f647a63274e6c2e327ecaa77ca13ee86d11379a00739da80
+FileChecksum: MD5: 7f8b1dc1a4fb7bf86743f7d5544511fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/modules/requeststore.go
+SPDXID: SPDXRef-item4116524
+FileChecksum: SHA1: 35322c37518221793277dd16c03e0004e33d26ca
+FileChecksum: SHA256: 58b4b6dd8dfec1a16f42a9b59f27ff46d4552b8b74dafcfc776ead3f298cae28
+FileChecksum: MD5: 854e633bec7e7b8903afc295a7cfb5b9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/modules/clienttracker.go
+SPDXID: SPDXRef-item4116528
+FileChecksum: SHA1: b8419881fcb8b604d1a4883bbc525e39315736f8
+FileChecksum: SHA256: 7188856ff2153b9ea8bd6ae04e70d04144b5196601cd4e0812a55febb5c1b746
+FileChecksum: MD5: bd9f7dc216ca440e3ce739f81bb01f77
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/modules/modules.go
+SPDXID: SPDXRef-item4116526
+FileChecksum: SHA1: 6141aea0af0edb0d2032674541cc76a11c6e378d
+FileChecksum: SHA256: 571381e358d0470d3315b5874eff49fb345ce7bb3d7523397825d14e24033c86
+FileChecksum: MD5: d358181dc31e13714f132ea7cf4fcb4e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/modules/crypto.go
+SPDXID: SPDXRef-item4116527
+FileChecksum: SHA1: 4f25942acdd9bec308c5573708338f395b602852
+FileChecksum: SHA256: 44fdd3ab5c25d73d4432b0d13944c5130e8f59ad15af1a0984daa8ccef07a85e
+FileChecksum: MD5: 7619a11d45a80f9661987fbe315c7ad5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/modules/wal.go
+SPDXID: SPDXRef-item4116529
+FileChecksum: SHA1: 5a53a764d44e770a2e555aec47540ef6594da7c7
+FileChecksum: SHA256: 01200077f4339de259984422801472540e7da71c8a22bf8540d6d89f06639e8a
+FileChecksum: MD5: ed93f0c2c7283ec9b13d0e0a0cd62932
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/serializing/serializing.go
+SPDXID: SPDXRef-item4116536
+FileChecksum: SHA1: 404fbbaec4da2231aec4b1b1bc1ee198ab9d7097
+FileChecksum: SHA256: db9d9c4c639a5b108e6b069c6285ea342fdd12e11daa5e921a579449718e4768
+FileChecksum: MD5: 49c7fb217b62e5cae79fe51634346336
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/clients/dummyclienttracker.go
+SPDXID: SPDXRef-item4116534
+FileChecksum: SHA1: 6cb54f9c22beed96527e944979cb2d1b5d93263d
+FileChecksum: SHA256: e5e58a89023a133584b511450a3eea919febf417d88b5e95d4a4d073de7e319f
+FileChecksum: MD5: d436b62580987e7b86c55dc67d6ffe53
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/messagebuffer/messagebuffer.go
+SPDXID: SPDXRef-item4116531
+FileChecksum: SHA1: 8236f6204ab1ffa76c11ded689bed12b0ed23fbe
+FileChecksum: SHA256: 53ea842f3d4b82d2ba327961d0431418698940408225da1f19bef193dc17cb93
+FileChecksum: MD5: f8840aca3bd79246c671474c5c13e826
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/clients/signingclienttracker.go
+SPDXID: SPDXRef-item4116533
+FileChecksum: SHA1: 66a27b266003952e1926d8e0d257f7cb7336a4cc
+FileChecksum: SHA256: c330db605c48a00fdfe51b0aa651743c5764c612e93876082d7ca082f13018ca
+FileChecksum: MD5: f06672a3e92069c56845094185f335ea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/pb/recordingpb/recordingpb.pb.go
+SPDXID: SPDXRef-item4116539
+FileChecksum: SHA1: a97509a57518c453dd56505ed843d5f52426a3ee
+FileChecksum: SHA256: 0378289d42d5bfb631869c5d89b2b38ab2e31b092442ebe31e145074b783b7a6
+FileChecksum: MD5: ca5d9cd07cec6a20d1c9df860feb52cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/pb/requestpb/requestpb.pb.go
+SPDXID: SPDXRef-item4116543
+FileChecksum: SHA1: b585da0f1f31499aa6a789b766f7c22196a61448
+FileChecksum: SHA256: 825c93ea8b6740583213ee05ebe32fac3e2333b4b191026e9b3c9ab155d23ff7
+FileChecksum: MD5: f59f981eb685d80ef4d79266a3a46dea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/pb/isspbftpb/isspbftpb.pb.go
+SPDXID: SPDXRef-item4116541
+FileChecksum: SHA1: 87f06b3fcda248e3f6391401ffd7c43b68c3cd9e
+FileChecksum: SHA256: b195e37e383cab7846f78f3bd8305da6622517deeb14bf3be0139c508074a804
+FileChecksum: MD5: e15fda272ea85c9ab923c3a9f2113373
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/pb/eventpb/eventpb.pb.go
+SPDXID: SPDXRef-item4116545
+FileChecksum: SHA1: f68b0266208c15031172e87cbfe6241aad9fb15c
+FileChecksum: SHA256: 6f07cd1a6df2a2ad6ef3e0f2e5b6625a7a183828350554f3975f56ef6cb38c4b
+FileChecksum: MD5: 7f3ca1fb21856273b69dfdda72f9f46c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/pb/messagepb/messagepb.pb.go
+SPDXID: SPDXRef-item4116548
+FileChecksum: SHA1: 837d1f3d7f34fee320a6d5ed08ea09d335cd7804
+FileChecksum: SHA256: 44da841a475bb6a32d6940236f7c0a7a6bab3919b2140f8fa873313e229d0a92
+FileChecksum: MD5: 0151eef4078ea177011173309e7aff1d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/pb/statuspb/statuspb.pb.go
+SPDXID: SPDXRef-item4116552
+FileChecksum: SHA1: 5267f4741f8437db4435e47b0e84312cfd1efadc
+FileChecksum: SHA256: 9854dd5960e6a5ebc0cc9f18dc42ecc33ef1d2288051a22c2e2b063166d62c78
+FileChecksum: MD5: 53cbf1ff71813045e9f42dfa708c262c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/pb/isspb/isspb.pb.go
+SPDXID: SPDXRef-item4116550
+FileChecksum: SHA1: 72d4525e26de0f4f0f504ed939d078b0533cdd96
+FileChecksum: SHA256: b6d637f63c642ecbc241bbb3af9e5a76234e674ece41e2dfd80a26b48bdf93a8
+FileChecksum: MD5: 4cb0b45e13f62b6c2e0996c41fa54974
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/simplewal/simplewal.go
+SPDXID: SPDXRef-item4116554
+FileChecksum: SHA1: 16ed4530100f14d1e4e59513943393f5f157a2f5
+FileChecksum: SHA256: eef03eb0a90365017cf4f5b5e7f454fcb37bbfb35a45a7be508e813b0d9685f7
+FileChecksum: MD5: 090dcd1fce2183fc1fedc97672cd866d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/simplewal/simplewal.pb.go
+SPDXID: SPDXRef-item4116555
+FileChecksum: SHA1: bef02c1a58bf61adb6396535ba328b4eb32a47d8
+FileChecksum: SHA256: 48b7b2990a7c1d59b7e21f7812c0705bf72c71ae7dc28b9babbc768f7ecead52
+FileChecksum: MD5: 3c8b98430c6649077b7054f715288f2e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/protos/generate.go
+SPDXID: SPDXRef-item4116560
+FileChecksum: SHA1: 0505c2bc280f34e2f884acfc092b0e4e70e63908
+FileChecksum: SHA256: f99ceecf817d410b1f2d096dc17e88bfa80f8188c99d56fd974f91e67d35b255
+FileChecksum: MD5: 7f7d888ddf4a466c17fa7c7da1bfd0b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/workerrornotifier.go
+SPDXID: SPDXRef-item4116558
+FileChecksum: SHA1: 64460ba919285551574597cc8f0e8591152c2d84
+FileChecksum: SHA256: 6340a909e619d2de41137f1b7fb0e4603455dfa8d512d6d09c53859baaee8ad9
+FileChecksum: MD5: d2f8e231e2cda00122e9a16f7e2bdde3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/protos/grpctransport/grpctransport.proto
+SPDXID: SPDXRef-item4116562
+FileChecksum: SHA1: 1428c9043150ff1691a3d39325e42532a2e6ff7e
+FileChecksum: SHA256: 8f378e44b4d9db81a09fa898ef7ae30ba8707afaa886466788b87b492146af84
+FileChecksum: MD5: 5d3ed13c25ef8f5814a67c4af9c0b713
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/protos/requestreceiver/requestreceiver.proto
+SPDXID: SPDXRef-item4116568
+FileChecksum: SHA1: 33b2c606ff012e29e95f9dea87591d25f988b42a
+FileChecksum: SHA256: 62f394d6d388319bb90323e94a740f7b2c0df510822857cbd3a12089538c0450
+FileChecksum: MD5: 2357ee66f06cfb016cc232e2473c28b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/protos/recordingpb/recordingpb.proto
+SPDXID: SPDXRef-item4116564
+FileChecksum: SHA1: 567dd519906047acadd8bb8dde6834ef5146c6ba
+FileChecksum: SHA256: 83a3e7bf84f9325d81446d4711f0a4f3ec743c0f6ab680f8412c4b6853e0a45d
+FileChecksum: MD5: 630987f95a51b37d886c92e5459d963e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/protos/isspbftpb/isspbftpb.proto
+SPDXID: SPDXRef-item4116566
+FileChecksum: SHA1: 0a020ebe44c95262332b80d32e12e0ae460ad92e
+FileChecksum: SHA256: 36b27cd3af301bd0806c5c041cb2bd003de619d9a0c253041bc25d8d6ca1bdfe
+FileChecksum: MD5: 4e6934b17da258a169ecb4f2a3b8c395
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/protos/chat-demo/chatdemo.proto
+SPDXID: SPDXRef-item4116570
+FileChecksum: SHA1: 78e8d3404634a7fd5245c3e8843c57dc2c1c8fa7
+FileChecksum: SHA256: ea4a5dad542c14343c15b6a8aa4190b8d1c648907158073b25c9ee053b5a47b7
+FileChecksum: MD5: ea3bed1d08ef129ee36b87225119c854
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/protos/requestpb/requestpb.proto
+SPDXID: SPDXRef-item4116572
+FileChecksum: SHA1: 876f5b8f30c5e29f6f194cf6674e970d44f91fb2
+FileChecksum: SHA256: d5575d4e8ad8bfba54a6ae938c224582a5c5a2cf68dce0f8d164f59036448555
+FileChecksum: MD5: b6637efda9e29dcec9e59711f14da87f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/protos/messagepb/messagepb.proto
+SPDXID: SPDXRef-item4116576
+FileChecksum: SHA1: 2922a729be6158afdfc39ed08bdab304776d7a62
+FileChecksum: SHA256: 91d524056edf5e392478167bead5e94c50fe90a9b0b74a556283663eaa66f7d6
+FileChecksum: MD5: cdb0c5c40304addfae567674ff6d4bc0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/protos/eventpb/eventpb.proto
+SPDXID: SPDXRef-item4116574
+FileChecksum: SHA1: f86788f054760ab52c250986d39d42766c25628b
+FileChecksum: SHA256: 31b85b38edcd046325fde8fd477d0850e8887bc84bd0ec8bb51283955dfd3ffd
+FileChecksum: MD5: 6483ae8280f5987388f0a8732b9dbcdc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/protos/simplewal/simplewal.proto
+SPDXID: SPDXRef-item4116580
+FileChecksum: SHA1: 2fba5700bd0d6b89ab60cbf6cc394fad02a0ae6f
+FileChecksum: SHA256: 76ece8968e3c41485418916fb39671fd78410b5c676d469ae3f3f5431d9991c1
+FileChecksum: MD5: 4916d07685444d6bfa0b05b766c17473
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/protos/isspb/isspb.proto
+SPDXID: SPDXRef-item4116578
+FileChecksum: SHA1: ba3ffda7753921e3f7e5fee53d3750f500e774f3
+FileChecksum: SHA256: 7740c76c47f211bede16e314a6cfde8676f754fa01fff26d3ea65cf371554b07
+FileChecksum: MD5: 626c9c9934e3b298743e6b9beea23542
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/protos/statuspb/statuspb.proto
+SPDXID: SPDXRef-item4116582
+FileChecksum: SHA1: 3973f1fd3fdc39d1c2f195023eaec847cf20424f
+FileChecksum: SHA256: 2588a90b0573b245f05f5684088751a762ebe7f67017902790ee4f015f403ea2
+FileChecksum: MD5: 388a562594920f06bc99ff8808b6afc3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/docs/images/high-level-architecture-iss.png
+SPDXID: SPDXRef-item4116437
+FileChecksum: SHA1: c5e8fe8e9d6be2c566893ad87352c8b320cccf80
+FileChecksum: SHA256: e11d89c37ba492fdc25bb29d429ab998f4240405ca7e76b5400074d7a0762b00
+FileChecksum: MD5: e7647a248c0833522fcec2c95bbb1c82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/docs/images/high-level-architecture.png
+SPDXID: SPDXRef-item4116438
+FileChecksum: SHA1: ba6dfffa6a541fdb161040b2d7bf38d8dab13e5c
+FileChecksum: SHA256: e78bc4ce66040fdb55a2f23f1ca626c606b709febba2112ecca3ef69d2e71cdf
+FileChecksum: MD5: 502f11988030aac91800e0c1f8b9b7b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/docs/README.md
+SPDXID: SPDXRef-item4116439
+FileChecksum: SHA1: 997431d2c4694262027a95c853918f6bfd273b33
+FileChecksum: SHA256: e13630aad16f8d1496050e0e7871bc7f9392980e5c696e1535bb6bdd20483eb2
+FileChecksum: MD5: 4dc254185af3eca5d036cae2be22541d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/.gitignore
+SPDXID: SPDXRef-item4116448
+FileChecksum: SHA1: 4a80539a040db62a2c97a3778e3f659947524d9d
+FileChecksum: SHA256: 86bc1f84e91e1e1db1491488b09c3fc9a849139cf940c3a6d0a64689b6fca63b
+FileChecksum: MD5: 592fd44e9a046c66a948cee77b6d4bd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/cmd/mircat/eventhandler.go
+SPDXID: SPDXRef-item4116451
+FileChecksum: SHA1: 6a9ced42bc408c5be7a3303279a57cd2a85d1e4b
+FileChecksum: SHA256: 7bf3421fa2955e52ada4bd87fa0026e6810b0e71c82406e890fc31a4843c34bb
+FileChecksum: MD5: 86260769bf5941a7e6162d8941cd8e4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/cmd/mircat/mircat_suite_test.go
+SPDXID: SPDXRef-item4116452
+FileChecksum: SHA1: 166e550b5a9f885e02a15a65c18bbfd3e5a5e099
+FileChecksum: SHA256: 570f76a596b5fa02739fdd5d4d0ac442726c28e7a00c0af16d0406f9e8bc1861
+FileChecksum: MD5: 80c6dca0a08621b302c6e7d742b40070
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/cmd/mircat/main_test.go
+SPDXID: SPDXRef-item4116453
+FileChecksum: SHA1: 2f5006c42a05acb618a96ec659ac3bd480aaf828
+FileChecksum: SHA256: 2462ab6164c7cba2c3123fb628834b4ed40d3b0d5945fe92f00c06caf2af4d24
+FileChecksum: MD5: 62815e8df8cf147ce2f0079c4ed3f4da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/cmd/mircat/prettydisplay.go
+SPDXID: SPDXRef-item4116454
+FileChecksum: SHA1: 909862eaed9e0d369408e3eb5ad1bc717735f42a
+FileChecksum: SHA256: 06adc8238cbdcaca343e4011f19bc22d4bf571451d9414ffc0bb548c22916455
+FileChecksum: MD5: 5282316c17bc03057fa727bc03e9163c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/cmd/mircat/main.go
+SPDXID: SPDXRef-item4116455
+FileChecksum: SHA1: c7c974092a53a114e0b9e62aa5e46341fb9929f2
+FileChecksum: SHA256: 4a5c7555aceb28c758bc1682ba9e11d9c971435d109a65de3e983f5d6cac23e9
+FileChecksum: MD5: 9e391c8ce59d00c1408ca09644d56827
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/go.mod
+SPDXID: SPDXRef-item4116458
+FileChecksum: SHA1: 04056e8b7aa7792c9b6d5d8364ba2f5f1564a13f
+FileChecksum: SHA256: 46d8aa694f547bb5a214aef89ef0dbc2cc2af0ec6f96aff798fbc3c09c8fc8e4
+FileChecksum: MD5: 680a50d444664dedbf5cc53b5aaf2a5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/samples/chat-demo/README.md
+SPDXID: SPDXRef-item4116463
+FileChecksum: SHA1: ef46e0a1b53233f32f4f315a515167c1d43d6af2
+FileChecksum: SHA256: 70335b5890a5a932e5062dc381cb01a626265500dd0bc81317e541ac3dfcbf24
+FileChecksum: MD5: b11f2e09df117e0d3da401302b400a2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/NOTICE
+SPDXID: SPDXRef-item4116465
+FileChecksum: SHA1: ba521e6632e05bb5cdc4bd41d96d26cdb8e223cd
+FileChecksum: SHA256: 4f7a12da9811ed24a7dd039f40f6a91bdc82ecb69920e11fa1988475b65de379
+FileChecksum: MD5: f568bf38f572adad72a151c018f9d471
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright [2018-2021] contributors to Hyperledger MiirBFT </text>
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/grpctransport/grpctransport_grpc.pb.go
+SPDXID: SPDXRef-item4116470
+FileChecksum: SHA1: fe1b8269ada911c85c11a069aba6f9844b541836
+FileChecksum: SHA256: e3904039811af77f95b2a539bfee6593170c12f5f7251c8d7ee4ab5e82154a8c
+FileChecksum: MD5: f955f7d3cc785e1e345c8d33599d7097
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/deploytest/testreplica.go
+SPDXID: SPDXRef-item4116476
+FileChecksum: SHA1: 3cc9d6328a66cf5f52f64ab9b52f1e95e751afb3
+FileChecksum: SHA256: 4b3749cd060c19639bc359e0e0e169d086084ee5fb95132b338eee4c05207acc
+FileChecksum: MD5: 6c1449a3a548c8bea9c26c88ce2bf88c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/deploytest/localdeployment.go
+SPDXID: SPDXRef-item4116480
+FileChecksum: SHA1: d8ac132b6fa7a0045235abcb5a705c0a574e0daf
+FileChecksum: SHA256: 2716fe4bc0c802d89262306e0e3a3f02d22a3679d832afceb70db4df9225182d
+FileChecksum: MD5: 1a20259c95a861b8e1d484a86b0209bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/iss/README.md
+SPDXID: SPDXRef-item4116498
+FileChecksum: SHA1: 6601502853cd99478f49821a3f6a0f33f65db68f
+FileChecksum: SHA256: bdee2c7f31e3e2eefa1fe36e6f1aaf57d939909e8501e73f3b117621e6281936
+FileChecksum: MD5: c08bbf8df66c34a4ac5c07269f0132d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/requestreceiver/requestreceiver_grpc.pb.go
+SPDXID: SPDXRef-item4116504
+FileChecksum: SHA1: ee072fda231b4bfbc0ce6c359ac7087404182af6
+FileChecksum: SHA256: 6f54d6c2b903fcf6d4843fbab8edeb24f79b16692162b5dc77cfcc8081f1eca0
+FileChecksum: MD5: ba69322331757e8c3e8801eec2680582
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/logging/decorator.go
+SPDXID: SPDXRef-item4116508
+FileChecksum: SHA1: d53c95625d7ec3c078d570af752713be0dc9fba6
+FileChecksum: SHA256: b83654989f500506bdd06a3014ff0d08858b6cd2524c0587e6fa19dd17abfd4f
+FileChecksum: MD5: 9fc0b46d4d2069ab563bf67ec117cfae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/logging/synchronizer.go
+SPDXID: SPDXRef-item4116509
+FileChecksum: SHA1: e689e9a65eefb764fdd05b5918a79c56922d81a5
+FileChecksum: SHA256: 8b40b6cc6fa0165b3dbc40c05ee31f3870d30a9299a929c39cb112a48590b33c
+FileChecksum: MD5: 9dbd43df9f7d70bb7c6f9859eb89df94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/pkg/pb/eventpb/methods.go
+SPDXID: SPDXRef-item4116546
+FileChecksum: SHA1: b17e9165b2af483959ed6f45e3f21e87c1b78018
+FileChecksum: SHA256: 553a65c37e6c1e34e7a0796201af2894403fffa90562ec8b3c5298b1c4cfc371
+FileChecksum: MD5: 5626a506947eec6936e7238c10a58f8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/SECURITY.md
+SPDXID: SPDXRef-item4116556
+FileChecksum: SHA1: f45f10458361dabab811ef0803ae89d44425e81e
+FileChecksum: SHA256: f12cfc5466f9613003981f7662356cccaf1b60d0f843d934316e66ae9a412579
+FileChecksum: MD5: 566955b454711bcda09ccba2f0492890
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mirbft-2023-04-02.zip/mirbft/go.sum
+SPDXID: SPDXRef-item4116557
+FileChecksum: SHA1: 2c6a5f6fb57c7d398d8bcc46f9190b1325d5fc6b
+FileChecksum: SHA256: c641b78bedeae86df76edeee74cfe93fef11c19578d98a24b6900c2ff792421d
+FileChecksum: MD5: 103a4667974efee7c141b5e34777110f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
