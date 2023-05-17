@@ -1,0 +1,220 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_toc-eligibility-check-2023-04-04.zip_1680848731.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-04-07T06:25:31Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: toc-eligibility-check-2023-04-04.zip
+PackageFileName: toc-eligibility-check-2023-04-04.zip
+SPDXID: SPDXRef-upload858
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: ad5fb0ef9fc290c32372a2910a10f3f2ef8da4f0
+PackageChecksum: SHA1: d7c2f2cdfc7e490b539bed27dc4c0fbae8b17229
+PackageChecksum: SHA256: eb5d69fb5d103819f6f5a2429bac49b84440aa41628cd7bcbf689156943e4bcd
+PackageChecksum: MD5: ec65d50d2bd9741e38ecb4f826127277
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload858
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: toc-eligibility-check-2023-04-04.zip/toc-eligibility-check/pure-min.css
+SPDXID: SPDXRef-item4127191
+FileChecksum: SHA1: 0211cf901b16702258ae878278fc6e94120e98ef
+FileChecksum: SHA256: 0188d6a1db80d01278bf0abe212cb0e6eaf22d744bbcdc31d9e299fbf1a1b3da
+FileChecksum: MD5: 4be3ba8ea4058e8d340dc6290b8b3d7a
+LicenseConcluded: LicenseRef-BSD AND MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2013 Yahoo! Licensed under the BSD License. https://github.com/pure-css/pure/blob/master/LICENSE.md
+Copyright (c) Nicolas Gallagher and Jonathan Neal </text>
+ 
+
+##File
+
+FileName: toc-eligibility-check-2023-04-04.zip/toc-eligibility-check/md5.js
+SPDXID: SPDXRef-item4127192
+FileChecksum: SHA1: 0021d0100cbd33908c3f43ba9aefed5d7be712fb
+FileChecksum: SHA256: 5f14f0efb563db7b23efaf394339a78bced6fd5ba649f049961a65476d928af5
+FileChecksum: MD5: 7fd110c041f18a9bafafd4ae9e221954
+LicenseConcluded: LicenseRef-BSD AND MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2011, Sebastian Tschan https://blueimp.net
+Copyright (C) Paul Johnston 1999 - 2009 Other contributors: Greg Holt, Andrew Kepert, Ydnar, Lostinet Distributed under the BSD License See http://pajhome.org.uk/crypt/md5 for more info. </text>
+ 
+
+##File
+
+FileName: toc-eligibility-check-2023-04-04.zip/toc-eligibility-check/grids-responsive-min.css
+SPDXID: SPDXRef-item4127194
+FileChecksum: SHA1: 3bce059a37564a188ee5cd83c2a60fdd4eabcf27
+FileChecksum: SHA256: 0e40be72fc3406b1e5a1738d384b9effc94a53573ce7d33afc04e79279ec6c5b
+FileChecksum: MD5: c87a77668c8aed9eaf9bb909aa6edf81
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2013 Yahoo! Licensed under the BSD License. https://github.com/pure-css/pure/blob/master/LICENSE.md </text>
+ 
+
+##File
+
+FileName: toc-eligibility-check-2023-04-04.zip/toc-eligibility-check/font-awesome.css
+SPDXID: SPDXRef-item4127190
+FileChecksum: SHA1: 2a8eccf4ac288eb99979b62dcc1cc1036d8ff8fa
+FileChecksum: SHA256: 3083e8d3b21ddc3f0e6d65ec3580aa6edfaadca5d9737d9caa27e6a233e1ccf3
+FileChecksum: MD5: 1f9e9d1a5a1d347d945ef4b7727f2ea0
+LicenseConcluded: MIT AND OFL-1.1
+LicenseInfoInFile: MIT
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: toc-eligibility-check-2023-04-04.zip/toc-eligibility-check/LICENSE
+SPDXID: SPDXRef-item4127188
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: toc-eligibility-check-2023-04-04.zip/toc-eligibility-check/hf-logo.png
+SPDXID: SPDXRef-item4127187
+FileChecksum: SHA1: ffe2457a88722a9a10c31ae4819aa1ec47d11119
+FileChecksum: SHA256: a7c1687f2f66508bdb569f298773942396c4f27eb8b80b2b7d415bfbd73ced64
+FileChecksum: MD5: ba1b26980489bbffa1cf56e00fe4211d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: toc-eligibility-check-2023-04-04.zip/toc-eligibility-check/hashes.js
+SPDXID: SPDXRef-item4127189
+FileChecksum: SHA1: df07896f20dac657a30c38a2108e8bcbf22bb146
+FileChecksum: SHA256: c85e2ceb77eccd04f73df49401985cfc48df95bef663cc88e94ce54b8480ae17
+FileChecksum: MD5: 4a27f2d295d577d2acf5a4bf5d9d3ebc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: toc-eligibility-check-2023-04-04.zip/toc-eligibility-check/styles.css
+SPDXID: SPDXRef-item4127193
+FileChecksum: SHA1: 487a9421e869202e8d1c8804dd298eafd194f73f
+FileChecksum: SHA256: c5a736ece4616f270c4c93f8b909ca974b8f5306de05692f838a4d3d0c296957
+FileChecksum: MD5: c6792feefd105ff5058eaf3715653e79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: toc-eligibility-check-2023-04-04.zip/toc-eligibility-check/HL_Homepage_Slider.png
+SPDXID: SPDXRef-item4127195
+FileChecksum: SHA1: bec1de424cd6fccf1e38a9526994523930e52f77
+FileChecksum: SHA256: 71c3e8aec1782c2a324407a00b4f1f27abefdaf2dcf81aafae6a92cfd1c7c929
+FileChecksum: MD5: aebd389e90953590bcf153ccff60e22d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: toc-eligibility-check-2023-04-04.zip/toc-eligibility-check/favicon.ico
+SPDXID: SPDXRef-item4127196
+FileChecksum: SHA1: f4ee974319a89ac161871eaa120ad6f9a74b8cef
+FileChecksum: SHA256: 9b50613d01b1cfbafeac696dbc21d7fc7c3c3751756340eeb00644a61aa77257
+FileChecksum: MD5: 31c39dca4fac0a859096b37ac5efe764
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: toc-eligibility-check-2023-04-04.zip/toc-eligibility-check/MAINTAINERS.md
+SPDXID: SPDXRef-item4127197
+FileChecksum: SHA1: d7514c4d2b4b14e67be458bc511927f97bffadd5
+FileChecksum: SHA256: 5f0c24b4b4ad5bc3961fc62bed8e9b160184bcc918297d91fb10ae77fdffa326
+FileChecksum: MD5: 54cb75214dac5ad3199da562a71651f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: toc-eligibility-check-2023-04-04.zip/toc-eligibility-check/index.html
+SPDXID: SPDXRef-item4127198
+FileChecksum: SHA1: d744959ccc44da226d49791942dfb03ea27e1bf1
+FileChecksum: SHA256: 71d3491cff7c7484ba1005bb09b009a7f1c2276f0a2ade3054f538c1c897c926
+FileChecksum: MD5: aee586a0a7075c23db1bcfd4f8ed8f35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
