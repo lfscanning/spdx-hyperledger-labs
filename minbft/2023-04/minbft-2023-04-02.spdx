@@ -1,0 +1,1942 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_minbft-2023-04-02.zip_1680848650.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-04-07T06:24:10Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: minbft-2023-04-02.zip
+PackageFileName: minbft-2023-04-02.zip
+SPDXID: SPDXRef-upload847
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: bf50e2c29f805725a441b8f3654a68344986104a
+PackageChecksum: SHA1: f7ac17f036f3df3322f2eec44d892fb4118f6cd7
+PackageChecksum: SHA256: 15a1a3cc8204333f2456be7d662a8a61a24506dfebd14e99e1b6c3177ff0c13f
+PackageChecksum: MD5: 9376355ef65df8f6b1ed511533d777f4
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload847
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/README.md
+SPDXID: SPDXRef-item4116087
+FileChecksum: SHA1: dc2a3bbdf4883f77b15b5f16c5c1944a21151c6d
+FileChecksum: SHA256: c838c52bcb6e6d012f038952a6b80c7b7e96df6c99369d0cd8e5cd30dee35ace
+FileChecksum: MD5: 53bc417ad8fe57353de8e5b8d5305903
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/tools/sgx-capability/check-sgx-capability.c
+SPDXID: SPDXRef-item4115961
+FileChecksum: SHA1: ad45700e0a6f9e4dd49de469e17c3748c329abac
+FileChecksum: SHA256: 35f6db4d3657c1296da4580693cef580fa0f771b85e6ae1e22de751cf9718508
+FileChecksum: MD5: ab22f8d23ed673d090e9e8273c6386e1
+LicenseConcluded: Apache-2.0 AND BSD-3-Clause
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2020 NEC Solution Innovators, Ltd.
+Copyright (C) 2011-2019 Intel Corporation. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. Neither the name of Intel Corporation nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/Makefile
+SPDXID: SPDXRef-item4115938
+FileChecksum: SHA1: ca4123349b66a22d5e77dd722b2c094efc35d81f
+FileChecksum: SHA256: 1fd8da3e6fac328e72c280320fa3ea767c9941de2c795f7de904581869d52ce0
+FileChecksum: MD5: efb9847ed78e38df7e3b9c951cc20038
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/LICENSE
+SPDXID: SPDXRef-item4115939
+FileChecksum: SHA1: 2b8b815229aa8a61e483fb4ba0588b8b6c491890
+FileChecksum: SHA256: cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30
+FileChecksum: MD5: 3b83ef96387f14655fc854ddc3c6bd57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/client/message-handling.go
+SPDXID: SPDXRef-item4115947
+FileChecksum: SHA1: 179371443e1e1ff27d658e50025d7514d0b35311
+FileChecksum: SHA256: 0b346b3561e806510ba215e249e3135dc4fbaaf01ebb3de16515b0337c32e34f
+FileChecksum: MD5: 5f6454eaac36936b1d766456e6bfc0a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/client/request.go
+SPDXID: SPDXRef-item4115948
+FileChecksum: SHA1: edd0756b47107a873d46051879f9d3d007f0cb00
+FileChecksum: SHA256: 69783321b4eeb1cb03e6e089c7ec6257bc59189593c26d27e16a1c84ee373d64
+FileChecksum: MD5: 832351f211a2ae8f4c53abc3ade33a8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/client/client.go
+SPDXID: SPDXRef-item4115949
+FileChecksum: SHA1: 65546d5f1e34d4021c08be3713a7bf3041708929
+FileChecksum: SHA256: 8cc5babe6a18296949f0cf19f0ee124b499dc2810ed707e04ebe3c3143221cd4
+FileChecksum: MD5: 43fd1f19f451b5c9840d179e3c1e1a32
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/client/internal/requestbuffer/requestbuffer_test.go
+SPDXID: SPDXRef-item4115952
+FileChecksum: SHA1: e14446d064efd2c6850b8ca8d324b4bef0ad015c
+FileChecksum: SHA256: 104fcea4df33d6a8af8ca34e894a974061808041e0462c7788fa7ffe10ab85a1
+FileChecksum: MD5: cc9bdefb772d42e567e7970d388a6ded
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/client/internal/requestbuffer/requestbuffer.go
+SPDXID: SPDXRef-item4115953
+FileChecksum: SHA1: 1eb08979a084ed5bc12372e4217f5c4d0ea5358d
+FileChecksum: SHA256: d12ae59feef428a5ef34110ed01a3011917bd492d3f7cdb671e2b751063ad800
+FileChecksum: MD5: b16fff3dfe141f89509172098e4f9ae5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/common/logger/logger.go
+SPDXID: SPDXRef-item4115956
+FileChecksum: SHA1: b8970328d03b18c3bd1dcbb303897a121930fc98
+FileChecksum: SHA256: 8c5d1e2b1f341b6ed29276d1d9005e4f652167baac2021778f1c48602b267e82
+FileChecksum: MD5: 7716cd95f404e1bb9e20d118d0ac52dc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 NEC Solution Innovators, Ltd.
+Copyright © 2020 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/usig/mocks/generate.go
+SPDXID: SPDXRef-item4115966
+FileChecksum: SHA1: 3b260f9a576f9b620108940b51e4ec85df896064
+FileChecksum: SHA256: 864a8bca3fded01ae026be57b9487fbd8228174e2e1ca80529ac3de1a3e637eb
+FileChecksum: MD5: e90a3c625fb9d7ec8bc54e323080fa79
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/usig/sgx/Makefile
+SPDXID: SPDXRef-item4115969
+FileChecksum: SHA1: 5d7f33eb265223270a797f6078f5403e6449a5ac
+FileChecksum: SHA256: 44074fb4f4a4dd70098c23d740cefd30bd76ad82816ab724dbca4d07c7a66a69
+FileChecksum: MD5: c32ec076f5eae2b80641f1cba7602232
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/usig/sgx/sgx-usig_test.go
+SPDXID: SPDXRef-item4115970
+FileChecksum: SHA1: e315462800f822b88d0e8d90bf8043d05a904702
+FileChecksum: SHA256: cdcb7de65ca5b08ca66129d8211903ff5ae23e014fd1ca472dc54363edec1d9d
+FileChecksum: MD5: 8adc06f42b1f423a8ef2358f4c2f6885
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/usig/sgx/enclave/usig.config.xml.in
+SPDXID: SPDXRef-item4115973
+FileChecksum: SHA1: b6413c8d254331e4592577a147ac7e5184dcbe0f
+FileChecksum: SHA256: 3b676c578d9af77d8241caa5643c7aa168473e3caba6f737f85757a44e09d080
+FileChecksum: MD5: 6dc8558600c9d54fed4eb408d660ae73
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/usig/sgx/enclave/usig.c
+SPDXID: SPDXRef-item4115974
+FileChecksum: SHA1: 989d01e69753bebf008c2cf5227011732fbf269f
+FileChecksum: SHA256: 30c9a6b61c873836eac6f79a5b0515951ea56c099ce6581c21baa92bc04c8ada
+FileChecksum: MD5: 4ff3b07cf6682f029ab4ebdae5aa637e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/usig/sgx/test/usig_test.c
+SPDXID: SPDXRef-item4115978
+FileChecksum: SHA1: 57d4e8aa8f8d299fadb6805313ec65909f307e01
+FileChecksum: SHA256: a81388c6a39da4171997b53e9e914825838943e3151b8401b1e9c05155e1869a
+FileChecksum: MD5: 60f23b12e0aa9ced2fd7122e7ba21747
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/usig/sgx/enclave/usig.edl
+SPDXID: SPDXRef-item4115975
+FileChecksum: SHA1: 5ff716ca30dca6c348e00bdfd2c26ea12ac19fe9
+FileChecksum: SHA256: d5460ffed467e2bffa556d0d83a02488d93845e38b910fc55f6fc6cef5456bd2
+FileChecksum: MD5: 75d4a77e75ab5f758f5fbbf3fcf8677c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/usig/sgx/enclave/libusig.lds
+SPDXID: SPDXRef-item4115976
+FileChecksum: SHA1: 5f6f2202c601bf87de04c1656d31136e27834a3d
+FileChecksum: SHA256: 74128833b85d7927b496ee61488999254d5c176b817befb655aa4404c786f068
+FileChecksum: MD5: 2397a57b09650938ea86d88840dc8a8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/usig/sgx/shim/usig.h
+SPDXID: SPDXRef-item4115980
+FileChecksum: SHA1: cb1b66f1037a6498d85705561bf70b8522558df2
+FileChecksum: SHA256: d4a21ccdd05cadf7089c03a60556c680aaa44980ebf681b12820949042ed0883
+FileChecksum: MD5: d8cfb2929ed635d6b5685c5a3b3c09d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/usig/sgx/shim/shim.c
+SPDXID: SPDXRef-item4115981
+FileChecksum: SHA1: 64323c2e944c04c5fd28048007d4591724cd5350
+FileChecksum: SHA256: e1b657048f3098472ca85faa49e24a214b3f0ad3e96bc54940c6e9a8e20afbc4
+FileChecksum: MD5: 4940051375ae95c3b787e2157ad96f39
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/usig/sgx/usig-enclave.go
+SPDXID: SPDXRef-item4115983
+FileChecksum: SHA1: d5fff7527df925d47533d137c3b96501e1d4d1c1
+FileChecksum: SHA256: 428387917391e4161176563af78b4aeb5f1379c6964eade7c661cc1d0d864e61
+FileChecksum: MD5: dd00bc4aaa4709d05c9ac4d4360e7a3b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/usig/usig_test.go
+SPDXID: SPDXRef-item4115984
+FileChecksum: SHA1: 5f4bcbad678cb24fb9b8277aad5b763c369b5fc2
+FileChecksum: SHA256: c4dadddcb768d5be7d078e587c40759a08fa0861e4f4058ff73d0abc01b501e9
+FileChecksum: MD5: 1424e9b95253a24c7089c37fb0a8470b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/usig/usig.go
+SPDXID: SPDXRef-item4115985
+FileChecksum: SHA1: 8dfa795b49e1b90c794e320465071ae974fd58a6
+FileChecksum: SHA256: 3ff53b76cac37cbdd6acd03d4d115285dc6c46fa0606893987dd4d9a3e8eb352
+FileChecksum: MD5: 116401a4e8c2543c28cce0676e4732f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/usig/sgx/sgx-usig.go
+SPDXID: SPDXRef-item4115982
+FileChecksum: SHA1: c066062f88c019ecddf2da23e8d518fa349242d4
+FileChecksum: SHA256: 0074826c32a0534c2c873c8d98f348dbfcd3a3d2c91187d08ec657875bb01a7c
+FileChecksum: MD5: 50885bf5f666e4423d9cb600208663c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/request_test.go
+SPDXID: SPDXRef-item4115988
+FileChecksum: SHA1: c978f5cc928c8c2985a0c63f5fe0fa6db16c37cf
+FileChecksum: SHA256: aece54d236f21fe1b6ddf80a0a6fcf4ccab347bfe957ee5677c67800487628c6
+FileChecksum: MD5: f88b225197409bed98bdf48369beecfc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/integration_test.go
+SPDXID: SPDXRef-item4115989
+FileChecksum: SHA1: c2cba882764fa28a76dde826ca548cc63b2af9ec
+FileChecksum: SHA256: 5e5c0576bc5e2a72f213fcffd4e261622d2105c9e4870580540e57db243a5ac2
+FileChecksum: MD5: 08ad13dd701e0441cd5c3960c735041e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/view-change_test.go
+SPDXID: SPDXRef-item4115990
+FileChecksum: SHA1: 3a75fea32806ee097b4de732ed90a1436cf72323
+FileChecksum: SHA256: 8dbba489b0418b0da8140d3d9aaaa2522ca1a18a70557a1bb100c0f86cde63aa
+FileChecksum: MD5: f41beff60384af3ee1ffa30a186dde85
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/message-handling.go
+SPDXID: SPDXRef-item4115991
+FileChecksum: SHA1: 9ad12fb858c12a3dc4c9969b609b428686fd7ed4
+FileChecksum: SHA256: 1ecab498511231791e147a897e529506602a13dfeb65e408bea31031451b6467
+FileChecksum: MD5: 1750fc3c12292c3dae0739e2d6ce798f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/view-change.go
+SPDXID: SPDXRef-item4115992
+FileChecksum: SHA1: 44eea33c91157f89b65e8e87c5fc9acfd8151613
+FileChecksum: SHA256: e0ff151d0ccd1bae677cfffb4ef9751bdf75dcdb982d78a189323ae0f70e6377
+FileChecksum: MD5: 2493a1b26f296cd601abc7290bf97080
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/req-view-change_test.go
+SPDXID: SPDXRef-item4115993
+FileChecksum: SHA1: 7415bc63b6eed6352069fb0cca051f689e12b791
+FileChecksum: SHA256: 7b1efb6a30584430ce0a00baa184a0d9ac2545272e2a1ce59d87df812c51779e
+FileChecksum: MD5: eefcb54adf2d3af0f85e50295d5cae22
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/utils.go
+SPDXID: SPDXRef-item4115994
+FileChecksum: SHA1: db3747da791e0a83a87b3fcd5cb763fa35e5bcf7
+FileChecksum: SHA256: 98e22e90be6649dfd5720e4ff203c7ece3bdf4a360802444914e2099dff66b0b
+FileChecksum: MD5: 205bf306426ad2080afc39f27dfdefbc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/usig-ui_test.go
+SPDXID: SPDXRef-item4115996
+FileChecksum: SHA1: 45a67f8652f282d82a168443ef6a3b3223f8ccfb
+FileChecksum: SHA256: 836edabdfb356e7b735d9c2af304a5e836d44fe21cd455cf3a71eec8af0e75ff
+FileChecksum: MD5: 485993facf0d92c527eb814f36afbf04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/req-view-change.go
+SPDXID: SPDXRef-item4115995
+FileChecksum: SHA1: 55b7a8b30df59ae873e5d5a0ac50ebb0a3e2fb1c
+FileChecksum: SHA256: 0c4bc3653f5c6ea5edc31f651ece120312a89d2cbd381b06d929d1f35f421ac9
+FileChecksum: MD5: 45645a1580646d80bbf82d2a9155d033
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/commit.go
+SPDXID: SPDXRef-item4115997
+FileChecksum: SHA1: 00afe907c01689b7e7e0a381172db6a7abdd3299
+FileChecksum: SHA256: 1e30d5d84fc4127b5bb33d6ab7a1a7db606b1b97eed373915e2557734b612886
+FileChecksum: MD5: eca8346638a1c4f9afd32396b630f17c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/timeout_test.go
+SPDXID: SPDXRef-item4115998
+FileChecksum: SHA1: 0912797eddb8fa564803881b965d195b8adcb23d
+FileChecksum: SHA256: bc3789ab97b3872753625e08a4b7399121b6a77886df7f0e0f440ebf6f70f84f
+FileChecksum: MD5: 8bcb85ce050968e68655dc1b432c1636
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/prepare.go
+SPDXID: SPDXRef-item4115999
+FileChecksum: SHA1: 178d95e23427f18238b1174ad559d0546cc7c47c
+FileChecksum: SHA256: f6ca679a249898968763ebb711e2fca7ea37e2aed6cb2b42e0e4f45b024f94e6
+FileChecksum: MD5: f0cae30bf11ab85c589746890ce2372c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/new-view.go
+SPDXID: SPDXRef-item4116000
+FileChecksum: SHA1: 84e6ddd3793097851e3b61786ddebac50700f7f9
+FileChecksum: SHA256: 30ea0c673394b53b2633ada5127e0fdb079783b0fdef310e89c4126b3a9ae887
+FileChecksum: MD5: 15671518cbf74ca55f65b1b08e769b9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/prepare_test.go
+SPDXID: SPDXRef-item4116002
+FileChecksum: SHA1: 80dd7d1f9a6971925069d3cae474d0b73886b20b
+FileChecksum: SHA256: 7d37049d548876fb2692cb7d2e650a076809e6981051b6220acbbac533307d68
+FileChecksum: MD5: e37c1e9ea1697fa75e766622c8ab7d57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/request.go
+SPDXID: SPDXRef-item4116001
+FileChecksum: SHA1: 2973aa25b86edd74170b9d97c9130509c2bd43f9
+FileChecksum: SHA256: 7808c95e1c35f2ee3fa76948ec60ae0f9283620b4a26c5d9c18eb934ef105dfa
+FileChecksum: MD5: 52efca275aa85e1e89110cc4a24e9f23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/new-view_test.go
+SPDXID: SPDXRef-item4116003
+FileChecksum: SHA1: d05e2ae08ef927882eeb36bcc802abe285f3e497
+FileChecksum: SHA256: eb7cb7c7b24aa827985c5ef9141b9808021edfa0e9a0d192f810adac50fb7075
+FileChecksum: MD5: d35984ab7d2d232b42f8b951bb3dfda8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/timeout.go
+SPDXID: SPDXRef-item4116006
+FileChecksum: SHA1: 396b3fffd49d9bc56043f3da9d9be3b2e6a25f5e
+FileChecksum: SHA256: 5a8cfa49b1aafc175fb046b63820819ac6adcfd1b60e8acec1a8e33635d2a756
+FileChecksum: MD5: 2a131f4ffe35f383f62ebc550ce86371
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/message-handling_test.go
+SPDXID: SPDXRef-item4116004
+FileChecksum: SHA1: 35cb81c2ca1d768f59daae9e11689dea68ae854f
+FileChecksum: SHA256: 28c18a5c6cbc1750ff679fa4ca847b7744b8891baccb4f737099877411a092ec
+FileChecksum: MD5: 80ef585e8e6bff8326b046789ee2090e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/commit_test.go
+SPDXID: SPDXRef-item4116005
+FileChecksum: SHA1: 39626222ee7872491d4fedba2c014a01883d3a02
+FileChecksum: SHA256: 6f8f8f46bd89bf016adce827dcc098b30e5404dce5739f582919e022fbcad8b7
+FileChecksum: MD5: f4227204832fb6c23df84deef3d904d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/testutils_test.go
+SPDXID: SPDXRef-item4116007
+FileChecksum: SHA1: a03a10502bc292a5683c0907d34e166274f8a2df
+FileChecksum: SHA256: e4cc7cda3768d8eb747e1efd4528751392eca5293d7ed13ff95a6bf62c22abaf
+FileChecksum: MD5: cc24ceb079153e1172040edde5289a12
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/clientstate/request-seq.go
+SPDXID: SPDXRef-item4116010
+FileChecksum: SHA1: 4fa6a522ab1fb35d90c5d8de73a712bae7ecc792
+FileChecksum: SHA256: e5f152dcf65f234877c05c295b060eb3dee8e486f999c8cd3b4374c93f619c77
+FileChecksum: MD5: faf46a732d39d066ee7fd2e4adf5d62a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/clientstate/reply_test.go
+SPDXID: SPDXRef-item4116011
+FileChecksum: SHA1: 07605c2d54e71e4fc39eb29ffe4d7b1a60571798
+FileChecksum: SHA256: 21bedd0acdb36cc84f1e6fc8aba0268e17ec5c5a22f0127dc1d64ff214e3e592
+FileChecksum: MD5: 6ea01c0f9848604496c726470f5daa2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/clientstate/timeout_test.go
+SPDXID: SPDXRef-item4116013
+FileChecksum: SHA1: 9c82f81067a66984d3c9217e9c5464f9f640aabf
+FileChecksum: SHA256: e1450cce871f0c88db1dc52b52a32528398149dfe419a76472db152803c23ee7
+FileChecksum: MD5: 816d45c6da6defb0753a3238a1f891dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018-2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/clientstate/request-seq_test.go
+SPDXID: SPDXRef-item4116012
+FileChecksum: SHA1: d4408e797e47f260a52547760ce9455315587f71
+FileChecksum: SHA256: 8d73a138ba2f34ecaa5c93f2268aa4d2bf8256ec065374b251a4b115e6e71edc
+FileChecksum: MD5: 63c4f656190af46c633f45e5f09417f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/clientstate/mocks/generate.go
+SPDXID: SPDXRef-item4116016
+FileChecksum: SHA1: 4a330283fa5f000800c1b35dacee6049e662b2d7
+FileChecksum: SHA256: 92a1eb1878b04abe107c3cb0c970f45d5bc2911a8b93a68a85c8f4b1d2409e53
+FileChecksum: MD5: 27af12c2e130442541f1bd6719f722ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/clientstate/client-state.go
+SPDXID: SPDXRef-item4116014
+FileChecksum: SHA1: d3f8f228afc7cfd009dc8f345fb22973ba66c4e5
+FileChecksum: SHA256: 6354ca9168e0011ac256c2f735f0a4977aa3e34ca116bf69e37c2d8ea26fab8a
+FileChecksum: MD5: 0896e40b3c6b20a4dc1c18bbd4a7567d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/clientstate/client-state_test.go
+SPDXID: SPDXRef-item4116018
+FileChecksum: SHA1: 01360ce51a97792e86fe4058d372cd2761830a1c
+FileChecksum: SHA256: 2ea2e909dd91a109fefac55c7fd3412d82d195e8ad0b355ba846dca325fca656
+FileChecksum: MD5: a39650b29b87c3108f85a933427c60a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/clientstate/reply.go
+SPDXID: SPDXRef-item4116019
+FileChecksum: SHA1: 940148bc34f63855ec3edc839bded211b4df0681
+FileChecksum: SHA256: a62e7ea98caedd1890606b8b7342ad694a97f7f367f133684c432115a20fa7e0
+FileChecksum: MD5: 2ca1044e34f5404a9778bf1c2ea1297e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/clientstate/timeout.go
+SPDXID: SPDXRef-item4116020
+FileChecksum: SHA1: 96fc4db8374228e4e8074ff4ecbf601e33606216
+FileChecksum: SHA256: e7880569ca29d01774206c6d6d3f31d2f9dbc3a6b4da08c9b7dd63165b9629c7
+FileChecksum: MD5: 87c9cf36ce6b874b7639264aa63eb7ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018-2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/requestlist/mocks/generate.go
+SPDXID: SPDXRef-item4116023
+FileChecksum: SHA1: 632560a57488bf7060c5676a0e036ec2e1ac448f
+FileChecksum: SHA256: c6d9810d4348df1f44ca8f2da7b116d0f8726d804ae8b7267faf6a156ad55e5f
+FileChecksum: MD5: 7ec00248ec3b79e63dcfb23a9c8ea24c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018-2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/requestlist/request-list.go
+SPDXID: SPDXRef-item4116025
+FileChecksum: SHA1: c51b8e8283758907b01ac1b440691478d6e41c82
+FileChecksum: SHA256: ae6a8a9a00a9f18e1aed8b41b9d3db1d63a5b362d78ba0c3133b9751068057ec
+FileChecksum: MD5: b6b24aec7fe1cfcffb4319f404046e54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018-2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/requestlist/request-list_test.go
+SPDXID: SPDXRef-item4116026
+FileChecksum: SHA1: 0db9d9502a49fbd2ac800a68841a3a2ea4ed7f09
+FileChecksum: SHA256: 22fa2aa30c3b82e0872b795fd7ba9f55eaa0d262ed6d50e922f51b4c6dec9c75
+FileChecksum: MD5: b4d53bd39c0c012158954a25cb8176d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018-2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/viewstate/mocks/generate.go
+SPDXID: SPDXRef-item4116030
+FileChecksum: SHA1: 30b3c3cac14f39aa7c655b83026253b75956e98f
+FileChecksum: SHA256: 4ab7a0b5f9db2a501418d1937cb9607b50489e4aaf369f8b3298b06c72aaaf24
+FileChecksum: MD5: 8aa4c72ce39270f67fe5e0ba9459529a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/viewstate/view-state_test.go
+SPDXID: SPDXRef-item4116028
+FileChecksum: SHA1: 9b339a39760b23339d884725ea78dd4a47ee8938
+FileChecksum: SHA256: 903d47081d32c3192ff7e7956a3d83704017ca16475309bd382bd7021b38b160
+FileChecksum: MD5: 37a41a324aa93f937a951896cbb654c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018-2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/backofftimer/timer_test.go
+SPDXID: SPDXRef-item4116034
+FileChecksum: SHA1: defdc4ee5a23ab0886f3f8683a49cb57d03d292b
+FileChecksum: SHA256: 80968bfb31e804b9e1355f4052f235271bbba95e2a78cc25182f0450f33bf910
+FileChecksum: MD5: aa6869ee3d14a698c97a6ac9f6b7f46d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/viewstate/view-state.go
+SPDXID: SPDXRef-item4116032
+FileChecksum: SHA1: eb9ee195a01d380d2d20c10080fe83d34718e0da
+FileChecksum: SHA256: 49a628dade0a26a7c50021ecf110d02d8b5f4f36f9a49436a7526b8ddd21d38a
+FileChecksum: MD5: cbec6387eac5a9a61d6ab1426e7ea11e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018-2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/backofftimer/timer.go
+SPDXID: SPDXRef-item4116035
+FileChecksum: SHA1: 97135d7e7cda3a7559a4b5e248d56e3a548a80b5
+FileChecksum: SHA256: dd4898a9c10ca561643a1803fc619e5776845031c0222ef4a74aa1aa5714fc2b
+FileChecksum: MD5: bdb67f6e38dcd97494f03c57f2c56763
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/timer/timer.go
+SPDXID: SPDXRef-item4116037
+FileChecksum: SHA1: 52c1bd69f12bf601670b2bbd50f7aa1a5322aa84
+FileChecksum: SHA256: cb6aa2936dba21412b6907824d658b2e632442a447e78fb6cf0a0413313099a1
+FileChecksum: MD5: 8e597f8fa1ce45fe718cf977d4e41f8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018-2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/messagelog/mocks/generate.go
+SPDXID: SPDXRef-item4116043
+FileChecksum: SHA1: 98dafa72c52212b2164b14b56bea15d3047a8985
+FileChecksum: SHA256: e5a8b4cfbb55ef6a8fac8ba21fb7d55c2393e668d6c0fc37f73a280931835227
+FileChecksum: MD5: 7e7fddff034bd5b61daef269b81f531e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/timer/mock/generate.go
+SPDXID: SPDXRef-item4116039
+FileChecksum: SHA1: 86fa2e29946bca53a7077b9dadc03f4c0b19cea3
+FileChecksum: SHA256: 963299ad9cfbb03fcd914bee321469dd2389d23b7a72f8a63676e73740ec5a41
+FileChecksum: MD5: a55d975a27bbee485597933205af112b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018-2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/messagelog/messagelog_test.go
+SPDXID: SPDXRef-item4116045
+FileChecksum: SHA1: 8fe2b56724a8bcbb298cb3bcce97a8457e752447
+FileChecksum: SHA256: e5e162953cf834e4bd8595c8957f140668a419ac452a074a545025a05b912f3a
+FileChecksum: MD5: fd6c274419d832862ca83a1ee8beac27
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/messagelog/messagelog.go
+SPDXID: SPDXRef-item4116046
+FileChecksum: SHA1: 496f232195a5cf4c39db6b43efd8cce1e6ecfd28
+FileChecksum: SHA256: 8319d82675bae45e49b32cf237e1768730df21dd15f7f33a82a32da64a6f65ba
+FileChecksum: MD5: 28cc4fb7f366f3ce6f910003a4f78946
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/replica.go
+SPDXID: SPDXRef-item4116047
+FileChecksum: SHA1: d14cab454911bff9286347e2578a4e802b9076c2
+FileChecksum: SHA256: 722b6986aed0d31c679e98cdf7b0d6c9bd1ebc3b906edbdcdfdfbbe5eb2cc55a
+FileChecksum: MD5: 21c2dcead7e43a7f0b0bb49ab6900afa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/usig-ui.go
+SPDXID: SPDXRef-item4116049
+FileChecksum: SHA1: 07911973c3503d836f3cd34dde39c3ded7f8c0c0
+FileChecksum: SHA256: 443e0902f323277be0c48ed824fd061c63ee11b3eaa1243beb7d42541e4539a7
+FileChecksum: MD5: 92307ded326f26c385345f4e971c09bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/utils_test.go
+SPDXID: SPDXRef-item4116048
+FileChecksum: SHA1: 3195858f6227a1713d771a9e28b220105c6eb928
+FileChecksum: SHA256: eeb0ff51586014dfc4fe648da0350a43f889aca187bb9c516ed3458a96bef992
+FileChecksum: MD5: 4542cebbf1ac006bddb7d0bed478d7d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/protobuf/testing_test.go
+SPDXID: SPDXRef-item4116056
+FileChecksum: SHA1: 0f996d10376ce01d3bbf4a1729585a038432c260
+FileChecksum: SHA256: d38fded6c0084eae8338a73e667cf84ec12f0e5b43839bdef28fb8bf5f6500c6
+FileChecksum: MD5: 1fc6b0303121fd55a3fc93a2d0ddddca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/utils.go
+SPDXID: SPDXRef-item4116054
+FileChecksum: SHA1: a5074d9903db634799ce5068d7d26aff2f1af017
+FileChecksum: SHA256: 677418112b89ef692c1e6e94049e6ed385307b24fcef4077bb7c8e95f2762537
+FileChecksum: MD5: 63db35ed370d95d15375c8ea642bb42e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/api.go
+SPDXID: SPDXRef-item4116053
+FileChecksum: SHA1: 86473455ac6562cec0066a210c592fcce4f9cd9e
+FileChecksum: SHA256: 9b31fa8a5c6fe0bb43c131dd8acae80abf1feee5239f950644854f576a82a73a
+FileChecksum: MD5: 5723878d847cbf1cd6ac5fe6e7dfff73
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/protobuf/view-change.go
+SPDXID: SPDXRef-item4116057
+FileChecksum: SHA1: 05dbfbb260e8a4d6b008bd92bfafb54b1d1a9683
+FileChecksum: SHA256: fb6e4212b420362e20c8fe056d4984774e222eb02ffc0bcc08a52deb227fe94f
+FileChecksum: MD5: 419be005890969e83815d05e515b7968
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/protobuf/req-view-change.go
+SPDXID: SPDXRef-item4116059
+FileChecksum: SHA1: 442764f73079392c0d8e172f95e02c5d81f06a80
+FileChecksum: SHA256: 1fc49f108dba32eb0f87241598516932e8cc5ace2b9e9464b04efb3ab54943ee
+FileChecksum: MD5: df83580eec7e34432c2f15ce840dc9fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/protobuf/impl.go
+SPDXID: SPDXRef-item4116058
+FileChecksum: SHA1: 3c2103eecf68e751750568d17ce43e7c3de2c9d2
+FileChecksum: SHA256: adcaad1e1f0a44157abe2cd8160c9bf86bbc30c94fc3d990ba2e37e1dcabab01
+FileChecksum: MD5: 64fa0f25c443da76ac82f005348b5e3c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/protobuf/commit.go
+SPDXID: SPDXRef-item4116060
+FileChecksum: SHA1: 15cef7025f2281c050db55944bbe0c96e3157aa0
+FileChecksum: SHA256: 691a3559c57164460013c0b3177df19f21fcb66a1a9c65d206bf257e801a7b89
+FileChecksum: MD5: 3e279673e1d8b13409fb7aee86a23762
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/protobuf/prepare.go
+SPDXID: SPDXRef-item4116061
+FileChecksum: SHA1: 89d33c68a34b61740ad03275f24ee697bc8299f4
+FileChecksum: SHA256: 256670c9394fd7b559b4721fb1619782e73c483df018085d7f96023da8388c6c
+FileChecksum: MD5: cbbce40b7ae59f06e5c93ed46d6c3b4a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/protobuf/new-view.go
+SPDXID: SPDXRef-item4116062
+FileChecksum: SHA1: 5b3d19f9cb27c307a9f8bbdb235e6de8b613162d
+FileChecksum: SHA256: dc4757a79478e5d694c282c62f43e6da917f2520670d333c446784157bc53834
+FileChecksum: MD5: b89207cd3065bcf9413a30a21a87510f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/protobuf/common.go
+SPDXID: SPDXRef-item4116064
+FileChecksum: SHA1: 0f81843d5c777c22f70edcbcac45f064da7aa811
+FileChecksum: SHA256: 740f60665f87decfb3ad587fa7541e9d67b46d045f4d179f120cd4bd3877fbf3
+FileChecksum: MD5: 83e3da7e620e31bc4bf6e9f7c8982124
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/protobuf/request.go
+SPDXID: SPDXRef-item4116063
+FileChecksum: SHA1: 0945aef39014ed0df6f375876d4d6207da80160e
+FileChecksum: SHA256: f3e5561a3db012ad5581910dc9e9d693e35b89f78188531fe617ce0956322754
+FileChecksum: MD5: b974a2ba46e6f33c2d3adb913b5c4587
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/protobuf/hello.go
+SPDXID: SPDXRef-item4116065
+FileChecksum: SHA1: fd8f9e4b12d5f6cad76e4791c12275bf794ec684
+FileChecksum: SHA256: ac5146c4dc8ccefe6a1496e7683471fb7f65916313e3a736640a45ee23ac798e
+FileChecksum: MD5: eef00d7784ac71bf472603f88b6d85cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/protobuf/pb/generate.go
+SPDXID: SPDXRef-item4116068
+FileChecksum: SHA1: 7addf2e85c8a2f6e0cb93260aca088e7a014726c
+FileChecksum: SHA256: f093251f81b5cd125230e51c023aef0a8fde219f3bf91a94ce716210435d1098
+FileChecksum: MD5: 34ac2dda1ca61cc38dbe0ddfd9297989
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/protobuf/reply.go
+SPDXID: SPDXRef-item4116066
+FileChecksum: SHA1: 19771091e621423e6a83cbb5e2c923b9fb24b6cc
+FileChecksum: SHA256: 19bcf31923bf07391b81b3e0a873d2e9bacb0bb744d6e5e04401777d7876b578
+FileChecksum: MD5: 4dad0a0d28a9797cc0b133986a3eadc2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/protobuf/pb/utils.go
+SPDXID: SPDXRef-item4116069
+FileChecksum: SHA1: 7707880ecdab20179fe35d62b59fa6737357412d
+FileChecksum: SHA256: 641acacc8e10c09676eff53f9958d09b25d5d78375640c0497753f118cf27a7b
+FileChecksum: MD5: c392abb6d6f7fa16217522d094eb0877
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/mocks/generate.go
+SPDXID: SPDXRef-item4116073
+FileChecksum: SHA1: f378515e35488877d9dae983b042d9a950448e72
+FileChecksum: SHA256: 503d9248899a7bc724f961de03b624397514555b25281c432a85793a5ec0712f
+FileChecksum: MD5: 8ec702296697958ef172412ad49fbe2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/protobuf/pb/messages.proto
+SPDXID: SPDXRef-item4116070
+FileChecksum: SHA1: 775e2201bcbb30f1b22cfaf32da88b8c83cc169d
+FileChecksum: SHA256: fa6a71ac1c2a2e8de7fbf03c73c35035386bbcfbce9ad59196579f7914a173b5
+FileChecksum: MD5: 50b5b455a1aa0b89e9819678840168d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/protobuf/pb/messages.pb.go
+SPDXID: SPDXRef-item4116071
+FileChecksum: SHA1: 90ce55b62b3fb0ba139c0f0edf441accf70d480d
+FileChecksum: SHA256: 7ae0b8a083cb620fb400ec15bbcc61c8da8ee23e2cb5fe32908fdd5671f2f0cf
+FileChecksum: MD5: c0ebced731aad933a22a62ec6f98257f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/testing/testing.go
+SPDXID: SPDXRef-item4116077
+FileChecksum: SHA1: 2f2ed3d4fe91fa86aec18e7818b6439bd855553f
+FileChecksum: SHA256: 04394d77fe8365c778472f06280533ad8bc8444bb031320fec41f216707bec85
+FileChecksum: MD5: 60c196b06c6a11dd59d020c0d73d53d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/authen.go
+SPDXID: SPDXRef-item4116075
+FileChecksum: SHA1: 2d56354a825fda3fc02105b216fb33f88921ea79
+FileChecksum: SHA256: 900517cbc53f5d0a64a5eb647998bdd457984c0e859e7616434bd68875d33c90
+FileChecksum: MD5: 0d8e7c19973786160bee469a83733602
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/testing/view-change.go
+SPDXID: SPDXRef-item4116078
+FileChecksum: SHA1: 0b288090bb967baa26b01ee49f096cf3a23978a4
+FileChecksum: SHA256: b3936613597d3cc1d5b6ec4c327d123ea53d6296343a9a53c295d8e774650696
+FileChecksum: MD5: 8b977f215b41fa1e8cb5ab5ff50d1285
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/testing/req-view-change.go
+SPDXID: SPDXRef-item4116079
+FileChecksum: SHA1: fff4afcbe80ebe9925a01b8ff73d3fdc70bb9867
+FileChecksum: SHA256: 4d505962209c265586bfca60f8aaf71f89ebf640c06734bc6bae87a4e1319330
+FileChecksum: MD5: 340758f0254e977d437c3805c4f08ea3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/testing/prepare.go
+SPDXID: SPDXRef-item4116081
+FileChecksum: SHA1: 519400870001d29e0e99f1b59dcbcb0cb65542d2
+FileChecksum: SHA256: c429ee3a51c7a1b8a75b9bafb9581c25dc402a06f62e501cb881c058fd7658c3
+FileChecksum: MD5: a1917590c0272763377466c9d05535f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/testing/commit.go
+SPDXID: SPDXRef-item4116080
+FileChecksum: SHA1: 5e376e8eb8706e1a72db5be45f4e706bcab0167c
+FileChecksum: SHA256: abcf583b2c8aea7562ab72725e37ebff772525a5c7113d9ed9b6ca025b213b13
+FileChecksum: MD5: 17dc22a2a615dd010929e6e5262da7dc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/testing/new-view.go
+SPDXID: SPDXRef-item4116082
+FileChecksum: SHA1: a854f8868303aee12450d14874bff928d468d39e
+FileChecksum: SHA256: d768a57759b82c0cdfb919ff844ee6f1932ce26af4e6daafc678ad9d30578aec
+FileChecksum: MD5: 666f72e7a3fa80c45b656b7ea8a07982
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/testing/testutils.go
+SPDXID: SPDXRef-item4116084
+FileChecksum: SHA1: 3b0e18bb3c89d8ece7364062941358edad3f2942
+FileChecksum: SHA256: 874d7f395df5461b6a4aa8c49011f9ca8c4b0124fea5c3ba3a8f54d5e25af938
+FileChecksum: MD5: bfb667419864acc404acfa4cec7ad352
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/testing/request.go
+SPDXID: SPDXRef-item4116083
+FileChecksum: SHA1: 87155917f00f7bd2e248ca76e23f1ebe3e203d13
+FileChecksum: SHA256: 1ab7918706ff2c4a32db2eff05e86dc1dc6ee6c9aab84a7fb9858b7289f64e63
+FileChecksum: MD5: cdf8f8cde9ba1898f9d4353a5e696171
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/testing/hello.go
+SPDXID: SPDXRef-item4116085
+FileChecksum: SHA1: 09616c9fcaf8e0d63c1998d3c209fc306d37caac
+FileChecksum: SHA256: ff614a1ecbfd01438c5ff426efb673dc2f477fa2a84d22bfe1f417695a36ebe3
+FileChecksum: MD5: 6392321788c7d03fcc744c81b42826a4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/testing/reply.go
+SPDXID: SPDXRef-item4116086
+FileChecksum: SHA1: a370b016cebedea28dc7d50ad85bbc677a4261e5
+FileChecksum: SHA256: bf3b978ad4018c9c90a9ce8898ec0d0f610979b3424dd87930f8416cebc0d245
+FileChecksum: MD5: 58e814fa47e76dca63de365fa23b9416
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/api/mocks/generate.go
+SPDXID: SPDXRef-item4116091
+FileChecksum: SHA1: 8f3db7f53365d431650b3ca78345f3c123b4a8e6
+FileChecksum: SHA256: 5b1259e9321ebe02608516d29290da573596c469dfc1753ade3272b10c92148a
+FileChecksum: MD5: bf8ea5952a0e306db59abc0b285d4a0d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/api/api.go
+SPDXID: SPDXRef-item4116089
+FileChecksum: SHA1: 38ab8a793292fdbdc2d71a5f86ddd8e1b19eade3
+FileChecksum: SHA256: d806237140631f43d6682255118652c503348cb07c583cdfa924736c6f21026c
+FileChecksum: MD5: e1ac16653efd415168173ec63da848c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/authentication/authenticator_test.go
+SPDXID: SPDXRef-item4116096
+FileChecksum: SHA1: 74330aabf708a147e8936ffee81550c0fb6fd0e3
+FileChecksum: SHA256: 9237d7e2178e3bd707f6db01bab18b6c89159f62669885e2435bd408ede5c3c7
+FileChecksum: MD5: ff38eb9f2abd3a0510a79f61ca481684
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/authentication/crypto_test.go
+SPDXID: SPDXRef-item4116097
+FileChecksum: SHA1: 9c8786e6d492149762982a8e2c555c8b05af50dc
+FileChecksum: SHA256: 270c8cb9c13a2f063e757e3a5e7cb8996333c397e3db60b98a8fec7ab1d84862
+FileChecksum: MD5: 18cdb8ee4647ebd40defa37248284ee1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/authentication/keymanager_test.go
+SPDXID: SPDXRef-item4116098
+FileChecksum: SHA1: 7d29d29920a883d88ea7373d3f2b7daf0af0ee5b
+FileChecksum: SHA256: ab3d08460277eb2d6aef47258341b79707c992625dfb831f2f435c84db957a47
+FileChecksum: MD5: 435e4666eb5dd89b4a5925518e83d97b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/authentication/keytool/main.go
+SPDXID: SPDXRef-item4116104
+FileChecksum: SHA1: 49e6fcd433685d157919bc871f283c249f283e93
+FileChecksum: SHA256: 38c6b85de0b2a79f623fa97ad689780a75b8a7cbd01f968a13e7b640ffefff7e
+FileChecksum: MD5: 2453ad168a82fb0ea956e08ef2d9e1ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/authentication/keytool/cmd/root.go
+SPDXID: SPDXRef-item4116103
+FileChecksum: SHA1: 523b23b2573d7fe4086a7f4646ef9da5c7a29a62
+FileChecksum: SHA256: 5c76f6fde3b32691be3c688ed84c775fe2c6f6037b3fad8473acb1a78b305c9a
+FileChecksum: MD5: cd601913fb699287a5b5476fcc9b7deb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/authentication/keytool/cmd/generate.go
+SPDXID: SPDXRef-item4116102
+FileChecksum: SHA1: f6b37e5406bcdb5cd035274c1934f6dbff18151b
+FileChecksum: SHA256: 809200692f14b7e5ac65bec086d3d5619fbc5fb847d52bbb25ba3515bb024f24
+FileChecksum: MD5: 0c6af384c92453aab2549f356a12ec7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/authentication/crypto.go
+SPDXID: SPDXRef-item4116105
+FileChecksum: SHA1: 6383a2b1285f365835a5c6f626bdff4e4bdc3e49
+FileChecksum: SHA256: 8f4ed80ce75b5bcb3085c71ca4ab9d0d9ea7765e3355a5de1f453da2a55b23e9
+FileChecksum: MD5: 2a674f91ac33091652f196edcaa3d039
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/authentication/authenticator.go
+SPDXID: SPDXRef-item4116106
+FileChecksum: SHA1: a1418f3ac953c723d98368352df3a81eca43becd
+FileChecksum: SHA256: c13d7f5a30fd7c7862c8e0bc64c2072f6001d19dc503923bf4f4677281b4affd
+FileChecksum: MD5: 3cb912997bc0d6eb8308589d0cd5b637
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/authentication/keymanager.go
+SPDXID: SPDXRef-item4116107
+FileChecksum: SHA1: a4aff6cc9a595dfe6b964f4ee7a66a73918ebe2c
+FileChecksum: SHA256: 058571fe1b743712f3a2e470380afffe3dc65f7d8052d2b4178df2fae1200366
+FileChecksum: MD5: eee944806d5113c7b43c183b4711c88f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/peer/cmd/root.go
+SPDXID: SPDXRef-item4116113
+FileChecksum: SHA1: 582db6fb20148b6e9ffdc6fd5d5cad4a5f61b93f
+FileChecksum: SHA256: 1c2f35d9a59268902f81fa42482b823a7e03f88dc58f9178e4c6a16f382ffc1e
+FileChecksum: MD5: f4233d86445351a0a7b6e57888cc4965
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/peer/cmd/run.go
+SPDXID: SPDXRef-item4116111
+FileChecksum: SHA1: 5ab5da91ce4989938056208006a1aeb7abcce9f5
+FileChecksum: SHA256: 9b1365de5b541132a2c184e96b2669c724f56bc11e00a96ecc62407719df3ef7
+FileChecksum: MD5: 483237ccc1e3200edf61fe72f653b4a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/peer/main.go
+SPDXID: SPDXRef-item4116114
+FileChecksum: SHA1: bb328bb99cc232d0c2daf26416aeae09304e7310
+FileChecksum: SHA256: a3291a960b7c4f8a4dbf9cbdb67a54f8d4ed31b3a0f0773cce28e9b5b13e7b40
+FileChecksum: MD5: 969d79e988baa6d4983bf74e96e50fac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/peer/cmd/request.go
+SPDXID: SPDXRef-item4116112
+FileChecksum: SHA1: 20f95ad80d414e45149f5e38c15f4de97a9174fe
+FileChecksum: SHA256: 9f027239e8039196f89e3a90d291eca8d6e71c3b6001226857689c652c64a6a1
+FileChecksum: MD5: 52b6723dfdb5b518934b463c2d90f90e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/requestconsumer/requestconsumer_test.go
+SPDXID: SPDXRef-item4116120
+FileChecksum: SHA1: a69ed90d3024819fdc027494771ec0ac64148b14
+FileChecksum: SHA256: 83d97a8d682c32034c73934a40c75578eb19ba808b9be00fa05c3514b978278f
+FileChecksum: MD5: d91d8c0e31960cdba1f7324abec3f2e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/requestconsumer/simpleledger.go
+SPDXID: SPDXRef-item4116121
+FileChecksum: SHA1: 8439f919b3c8ea997f7bb617fb8e67a9f6f8140e
+FileChecksum: SHA256: 141c5ab5b4a50517057aae8e95f7277a991595cff69f6d8817987a32aad9b826
+FileChecksum: MD5: 2d4c86e67f4303a159cc2bbe79e249af
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/conn/common/connector/connector.go
+SPDXID: SPDXRef-item4116125
+FileChecksum: SHA1: 3bd36d15bc2b312897eb1025219fd2501fa737f0
+FileChecksum: SHA256: 84b87934c1b90ac1833a4fdee9a0c94908252d45cd67a6503e9679632f3dd801
+FileChecksum: MD5: 76bbacc4089f587477c43e56d345ad74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/conn/common/replicastub/replica-stub.go
+SPDXID: SPDXRef-item4116127
+FileChecksum: SHA1: 98958cf37c8e4c3506a4598052a246014f612178
+FileChecksum: SHA256: c97a1b818404f8d6bad60d772c89fb8364d40b4746cbcc1a133db77fc1b5019b
+FileChecksum: MD5: a064ec8652d4e3ede62cee0b5998aebf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/conn/grpc/server/server.go
+SPDXID: SPDXRef-item4116130
+FileChecksum: SHA1: 95e979923d8d388e6c9293f5d6d7ee6b1c89aa2e
+FileChecksum: SHA256: c9146dba4eb3c81cc47194c1cc1bd4102eb53877869e76549c46b2ce03d25a97
+FileChecksum: MD5: 59507015aeadcb626376221729b5dd20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/conn/grpc/connector/connector.go
+SPDXID: SPDXRef-item4116132
+FileChecksum: SHA1: fb43d494e49dfe106bc57aa476628ce2e6374301
+FileChecksum: SHA256: de35793f6ae93b5aa6ad38b063f7ca38558093e7e6c963660bd9a7fa50433f0b
+FileChecksum: MD5: 4fb71b985c2b609aba17773d6c5131de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/conn/grpc/connector/replica.go
+SPDXID: SPDXRef-item4116133
+FileChecksum: SHA1: aff322767efee25f7f5c91b5c6fd4616f42f1cbc
+FileChecksum: SHA256: d8f881c4ae0e815afcfaac9feb7d3b108c4e3e69197d8bc3a92015c31e46f846
+FileChecksum: MD5: 55316eda405be03508c48f632326ba65
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/conn/grpc/proto/generate.go
+SPDXID: SPDXRef-item4116136
+FileChecksum: SHA1: c779137a0809416c35d1190c4b7903591dc74351
+FileChecksum: SHA256: 8045d3258c9d489249b593b2500325ac80bfd6db6276f1509805ea1cc8bf1de8
+FileChecksum: MD5: 17ca695f3adf637fa38431183edb5642
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/conn/grpc/proto/channel.pb.go
+SPDXID: SPDXRef-item4116135
+FileChecksum: SHA1: 61cdc76689f041d8036e8fcd1ff6433e926a14f9
+FileChecksum: SHA256: 428b2ce54119f9557310378cf6bb126a0a5057f43856c9b403dfcb099f4934d4
+FileChecksum: MD5: 12400d2ab2756a7b4d19a81a8ea19f31
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/conn/grpc/proto/channel.proto
+SPDXID: SPDXRef-item4116138
+FileChecksum: SHA1: 49dab80a83e6b8b9b9fe5ef7b31b14fab7814605
+FileChecksum: SHA256: d43ad19499a9791831a68ee642c34838390004247fdee3029f128529618e605a
+FileChecksum: MD5: 293e2c039e35f3edbd54602ffe992562
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/conn/dummy/connector/connector.go
+SPDXID: SPDXRef-item4116142
+FileChecksum: SHA1: 840c9d77810714d8343923dd7c4dacdb9b4f3305
+FileChecksum: SHA256: afe174bbe8036c52d141d204cf21502e8da35466e35059e4ee175a813aa7effb
+FileChecksum: MD5: af14904908a8edea131e8b33a94e97d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/conn/grpc/grpc_test.go
+SPDXID: SPDXRef-item4116139
+FileChecksum: SHA1: 7be4cb30bb953764ebae92df999dd7992f2cba35
+FileChecksum: SHA256: f26fcafb713b219639c8290cadbd35a30822c8f5e812c17d40652c26b0490c5a
+FileChecksum: MD5: 783aa6c042b6b006f631e987fa2061b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/testing/suspend-resume.sh
+SPDXID: SPDXRef-item4116148
+FileChecksum: SHA1: 4e3787e662a6df8bb8d6d0480d61eca2aa2793b0
+FileChecksum: SHA256: f6f015ca1ae4f9cdbee3c77ce40da6ab04a0c775d9057b8150d36f033ca0bf69
+FileChecksum: MD5: c8ea8e2c00c96c3ca134da47181c55f1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/config/config_test.go
+SPDXID: SPDXRef-item4116145
+FileChecksum: SHA1: 66b719887227aae444dc5d6cdb119055de4a6828
+FileChecksum: SHA256: 3bcfc717f7edee08dbf893a88544a5a9a0c9f7b05169f7be584ef079ccca56f2
+FileChecksum: MD5: 906bd311830f2327c0c915276ae85b55
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/config/viperconfiger.go
+SPDXID: SPDXRef-item4116146
+FileChecksum: SHA1: e9c2a7b0273266e6b6b74110d72a269f0b4abe3e
+FileChecksum: SHA256: e7a93cea4d5889d20e3035df728da6abc3e73ba10dd3b1c9a37227dcece6fb04
+FileChecksum: MD5: 7578d3f252c49835ade29a686c62c40a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 NEC Laboratories Europe GmbH. </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/CONTRIBUTING.md
+SPDXID: SPDXRef-item4115940
+FileChecksum: SHA1: ca755cadaa7408e7403db400e2823e1502d0f63f
+FileChecksum: SHA256: 1a5aee572e902a21dbdc5b2ab8e4e39647ae53939a9687cd98bc408f216716c5
+FileChecksum: MD5: 11fcd6ed8956b4c1af2c68a559340b25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/.github/CODEOWNERS
+SPDXID: SPDXRef-item4115942
+FileChecksum: SHA1: 332e1b85613fee89eb46bcee2f2d950437918078
+FileChecksum: SHA256: 4bed9bb883dab32e405a546d81400da30cdff5520744bfc0751f3a448b297874
+FileChecksum: MD5: d17e473651e1868db5e570a288014bcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/.github/pull_request_template.md
+SPDXID: SPDXRef-item4115943
+FileChecksum: SHA1: cf594873934fb142f5497de9ffb939acbad29379
+FileChecksum: SHA256: 8ee51e461fee1389c4c5fb93319d4cb39ae671987bf532f668e8dc587cb3d048
+FileChecksum: MD5: d35541399fabdb2ffbd603cdf9c561e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/.github/workflows/continuous-integration.yml
+SPDXID: SPDXRef-item4115945
+FileChecksum: SHA1: 2e0d83451710184cff3ce10f3ea5eff04474ce76
+FileChecksum: SHA256: 6ad37385650e15ad97b841fb96ce2b599dc4581affd849d43819822ccc7013c3
+FileChecksum: MD5: 389e04836990d96540cc891713bd797d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/tools/prerequisite-check.sh
+SPDXID: SPDXRef-item4115958
+FileChecksum: SHA1: 8e3feca3d336a221384145e0d6f88d0872f9e10b
+FileChecksum: SHA256: fa3af44d80d9bbfcdd1c2725b0d814e112f057a149df09cc9b4f4bd3dc7e30d5
+FileChecksum: MD5: dea0c5ee1755dd16490434e9122abf5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/tools/sgx-capability/Makefile
+SPDXID: SPDXRef-item4115960
+FileChecksum: SHA1: 2368a8bda14c8cbfbe484b81a3c0b3857bde9b14
+FileChecksum: SHA256: f7dad036e5a677fd2b2862ed6208b3b12539415c3ada7bcb89d5527c1bc02f8a
+FileChecksum: MD5: f4ebe825c113bbc36777f32c1b55b1b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/tools/install-sgx-sdk.sh
+SPDXID: SPDXRef-item4115962
+FileChecksum: SHA1: 34bb7c2fd82a122fb492d5fd02539a4e782b79be
+FileChecksum: SHA256: cac3b0894792457e9d53138b3e87cc845490c1f3a09606a1071ef7ca9c2e52f9
+FileChecksum: MD5: 80c40aab88543fdc5ef2462507d7b799
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/.gitignore
+SPDXID: SPDXRef-item4115963
+FileChecksum: SHA1: 0982f023f2b3582291ba773e126208d216a23362
+FileChecksum: SHA256: 3267d1914c91c030ce1c65b4017429992929f89aad286a9f5f071e5c687f74e9
+FileChecksum: MD5: 458772df5cd9cbfcdf0d85eb2e3a1078
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/usig/mocks/mock.go
+SPDXID: SPDXRef-item4115967
+FileChecksum: SHA1: b162c173b87646bb23c4fe6cac7514cad5c1ae2a
+FileChecksum: SHA256: 690efb5679bc73d54e483ef42ce3ec7c4f7b340c5f5e47aef91737b6bb87b0ea
+FileChecksum: MD5: ae21a7a5d32fed124f57ee9b70af39ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/usig/sgx/.gitignore
+SPDXID: SPDXRef-item4115971
+FileChecksum: SHA1: f00f6167140bca658f4c47ba25d61e1d51fe4732
+FileChecksum: SHA256: 7fd290d7bdeee810d5e5aea3bd143176f755444e0e71b616e364cfdbb90b9818
+FileChecksum: MD5: 1132aa416b533905a4ff0836cd67efad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/go.mod
+SPDXID: SPDXRef-item4115986
+FileChecksum: SHA1: 84dd4cb27f8427fbdff574025821622f648954bc
+FileChecksum: SHA256: ca2dd9f536397cd3407e6fea62413639868748ff1452e0e83168831ee1eb2244
+FileChecksum: MD5: 25a08708b991812b85a273965a9706ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/clientstate/mocks/mock.go
+SPDXID: SPDXRef-item4116017
+FileChecksum: SHA1: 52ebeba0766bfb4716b091b7a4c4b92e419ca007
+FileChecksum: SHA256: fb92b07bcbfd4045c4b6923e39320e704b2b0ad5bfb375d56a5d050234814938
+FileChecksum: MD5: cba2381652b9322c2de62c741e7ba42d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/requestlist/mocks/mock.go
+SPDXID: SPDXRef-item4116024
+FileChecksum: SHA1: 7b81b38e683a32cadf20b42d138a7e1fcb99c994
+FileChecksum: SHA256: 1a7a5930faf41e3793258c104d4986ffb7eb94ab48881fdd57ad2c53f13905e4
+FileChecksum: MD5: c5a518b49b8d403290de656beebad0f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/viewstate/mocks/mock.go
+SPDXID: SPDXRef-item4116031
+FileChecksum: SHA1: 63773fbb653d8cd689c734accf5d446c2391cb81
+FileChecksum: SHA256: b261134407e3f69027a61ca342049923ed39e22a892c9334e18ffc1750cd0280
+FileChecksum: MD5: 220d8e93636d11ae6f5355435a84b943
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/timer/mock/mock.go
+SPDXID: SPDXRef-item4116040
+FileChecksum: SHA1: c042ca06bc38b6c4521c287dc90a01cf05a7d313
+FileChecksum: SHA256: f2afdfa4c35e3d7d6da776d2aa72fe9feb1c90efd236a718e458e51a0aa7029d
+FileChecksum: MD5: 2835f1294f2b06e54660b1b8cdbb0f7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/core/internal/messagelog/mocks/mock.go
+SPDXID: SPDXRef-item4116044
+FileChecksum: SHA1: d7909360d4fd95d785f5a333a74603cba7619d7e
+FileChecksum: SHA256: 857e43db3879a8427f01d0a4501d641341545b318c21f2d4a259b508afb30b1e
+FileChecksum: MD5: 9c8ed6adbef4f4cfcb7c5fd4878406aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/NOTICE
+SPDXID: SPDXRef-item4116050
+FileChecksum: SHA1: d0a7e605c2e9e9fba3b6a26cc5530513da30e555
+FileChecksum: SHA256: 403c607ac20c24368dfa0fcd2f1e179b78e6690c66c61bc2f13724e31a1023d9
+FileChecksum: MD5: 5110e670ec97afaf55126132f941ad63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2018 NEC Laboratories Europe GmbH </text>
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/.golangci.yml
+SPDXID: SPDXRef-item4116051
+FileChecksum: SHA1: 3b7434ea8eea7fbab31e54e67772a9c67dbb254b
+FileChecksum: SHA256: 4f5908c15e7aedfe43cccca22894c14ec051c02d65db50ea6640df5d6ff3e80a
+FileChecksum: MD5: a417858281e64a2337eaecb1aa73fd3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/messages/mocks/mock.go
+SPDXID: SPDXRef-item4116074
+FileChecksum: SHA1: d7481b3d653fcc27062523c0b2069cb6e754ae53
+FileChecksum: SHA256: a684905228d8937d826928ea5e1ed5ff9439cc924d727955866196d87d072fd5
+FileChecksum: MD5: 7ba60c1521c7340be6311df2775782cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/api/mocks/mock.go
+SPDXID: SPDXRef-item4116092
+FileChecksum: SHA1: 71466514c3d7b784713b8008469c57cb7d0c787f
+FileChecksum: SHA256: ebd3236a3ba8ef4fb91fb97bcebbe5e69b3ca0b2ded47434673c0635c271662e
+FileChecksum: MD5: 2423432e4d6a6044feff498106455937
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/go.sum
+SPDXID: SPDXRef-item4116093
+FileChecksum: SHA1: 5f82977144f872378a6ebd5322edd97d210f31d6
+FileChecksum: SHA256: 79d6dba00d79e9901226640cbb50c3ecc2791eb9325312240d8a06c13672eec0
+FileChecksum: MD5: a7c5f74d7feaeb3e6c6c4f9ec1225fda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/authentication/keytool/keytool.yaml
+SPDXID: SPDXRef-item4116100
+FileChecksum: SHA1: 44dedfe4c1c5894fbcfa7d3336f8d1429893c75f
+FileChecksum: SHA256: 56348c1d1c0f09b0a3f9bb17994d73086aa61d0801faf6529036b87bc672d48a
+FileChecksum: MD5: 44659463b72bfdc91fedd8a4319ffa83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/peer/peer.yaml
+SPDXID: SPDXRef-item4116109
+FileChecksum: SHA1: c6d14c36184f61535d1f0348ccb7d56dd127a006
+FileChecksum: SHA256: 7520c8f585aaf6edc432bd42da3b7d2c07b4c8eac9ba66eb649393ee08a49a41
+FileChecksum: MD5: 28fbeb814f5b368c55f2e3fb1f4628c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/docker/docker-entrypoint.sh
+SPDXID: SPDXRef-item4116116
+FileChecksum: SHA1: 3058ef36b912df56966a2cef9144f3a9b5522902
+FileChecksum: SHA256: 037bf4c460865d70dab0362ed7025f3c884cbb16754a4c1972c69826e25d6638
+FileChecksum: MD5: 11de038c268af2ed8e45c2be9d60780d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/docker/Dockerfile
+SPDXID: SPDXRef-item4116117
+FileChecksum: SHA1: 6e9d994493a4de167e58dccbce2f653084147741
+FileChecksum: SHA256: c288f9cf6c4a884e226e15e03e1fee3934fcf2c86656df6424a967ad8c31e999
+FileChecksum: MD5: 8d01f63c298b4f75322c8e8b73e583d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/docker/docker-compose.yml
+SPDXID: SPDXRef-item4116118
+FileChecksum: SHA1: 1b69c4246db99fccce15956e2d8181502794304e
+FileChecksum: SHA256: 403f2549b9f2929a8f353a0a6493898b38a1767c45df8fa6253e448c7c8de57f
+FileChecksum: MD5: 0d118f287168a31e65b136dd67d21cdb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/conn/grpc/proto/channel_grpc.pb.go
+SPDXID: SPDXRef-item4116137
+FileChecksum: SHA1: 3e2516af102efe758fad6922d6a30859ecf75c24
+FileChecksum: SHA256: c12fe610cfee4b49a23fb043647abb3dbaa85e4e110423409dea51b0fd227b03
+FileChecksum: MD5: f8a78d4d5fd0486c45a8a536d98f2b1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: minbft-2023-04-02.zip/minbft/sample/config/consensus.yaml
+SPDXID: SPDXRef-item4116144
+FileChecksum: SHA1: c19a8d2bb1cfbdc6c847decf7dde70d36538e02f
+FileChecksum: SHA256: de7a5be81159d700d6534492fa4a04d915c4c6acacbb212e857e2641aa29f2d8
+FileChecksum: MD5: a36f90a4321f2abedf0623459a174788
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
