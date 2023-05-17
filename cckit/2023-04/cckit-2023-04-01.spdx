@@ -1,0 +1,5301 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_cckit-2023-04-01.zip_1680848565.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-04-07T06:22:45Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: cckit-2023-04-01.zip
+PackageFileName: cckit-2023-04-01.zip
+SPDXID: SPDXRef-upload836
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 56d5f8c6a287e73a8655e4f4fd3f24741d557ca5
+PackageChecksum: SHA1: 20f6db4863f38301eb2f53bad5b6ce2d77e59c50
+PackageChecksum: SHA256: e485884471dbf0378118b06d797a1093f5568ce3999559ab6d23b2686c57db37
+PackageChecksum: MD5: efaaa90f5e4112893cebaf35f9bd90ed
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload836
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/third_party/hyperledger/fabric/peer/proposal_response.proto
+SPDXID: SPDXRef-item4101480
+FileChecksum: SHA1: 521febc67475ba7b551c2fe36da985f29d11f8e4
+FileChecksum: SHA256: 71a0c34551d08d08146ebbb270d15cb6a5e3e26c8dc61e6c82d15c200c71a7df
+FileChecksum: MD5: 262f22731a8d6b939d6d8259e185b51a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright the Hyperledger Fabric contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/third_party/hyperledger/fabric/peer/chaincode_event.proto
+SPDXID: SPDXRef-item4101481
+FileChecksum: SHA1: 129801eb616d6f4dd676a5eebc6e27bd1a8c789a
+FileChecksum: SHA256: 2b3648d6e59aeaa623768b5a15d3e3b52f16a3b496737c7e1292e48edb6646c2
+FileChecksum: MD5: 5f331e363c01a59a2116f26b48ecf07f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright the Hyperledger Fabric contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/third_party/google/protobuf/any.proto
+SPDXID: SPDXRef-item4101484
+FileChecksum: SHA1: afc8735a3b3557a1241b6655614694df9e5138f4
+FileChecksum: SHA256: 600c26ede4f583a16ae58164b25cd6445eec7c4cd556158d04edea99229334ec
+FileChecksum: MD5: 08d71d2f3fd5b3d18becf3be0fbf5ce7
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008 Google Inc. All rights reserved. https://developers.google.com/protocol-buffers/
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/LICENSE
+SPDXID: SPDXRef-item4101174
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/third_party/google/rpc/error_details.proto
+SPDXID: SPDXRef-item4101486
+FileChecksum: SHA1: 8f356ce51db356682253471e1632eb18ab55bb70
+FileChecksum: SHA256: 750987cf801a8d5566c1f500b1b57bbdd6de9d3bbf152d6b7568608208bf2449
+FileChecksum: MD5: 4baba82b6657acfdf4aa386f0d4c06b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Google Inc. </text>
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/third_party/google/rpc/status.proto
+SPDXID: SPDXRef-item4101488
+FileChecksum: SHA1: e4a01c78e0fc788188af30857278669f00b5e3f0
+FileChecksum: SHA256: b3b93ae74faf0fffe17a8fcd4dd25394cf772515e24e0af06e79155feeeeac2f
+FileChecksum: MD5: 61d41d7432be845d5956a0849e53dc84
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Google Inc. </text>
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/third_party/google/rpc/code.proto
+SPDXID: SPDXRef-item4101487
+FileChecksum: SHA1: 5d396741f7d29121866c259e788d4d9c4d60fd5c
+FileChecksum: SHA256: e68ee68c29ae8c792e89d9eb16cc15032a7b96c26c829f70f195027775a76360
+FileChecksum: MD5: 891d253450b273dcba76d07bb2b8665d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Google Inc.
+(c) Use `FAILED_PRECONDITION` if the client should not retry until the system state has been explicitly fixed. E.g., if an "rmdir" fails because the directory is non-empty, `FAILED_PRECONDITION` should be returned since the client should not retry unless the files are deleted from the directory. </text>
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/third_party/google/api/httpbody.proto
+SPDXID: SPDXRef-item4101490
+FileChecksum: SHA1: 664e79b1e0f62dfa157121821b0013b655253130
+FileChecksum: SHA256: 58e2caa8823478017712e21c717c93030f1e45b55ccb412ff6cf70299f459e7f
+FileChecksum: MD5: 934a9ec9e3b14c43bc8ff5f72dcad520
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Google LLC. </text>
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/third_party/google/api/annotations.proto
+SPDXID: SPDXRef-item4101491
+FileChecksum: SHA1: c934f932f6ac0a5577d13fc9afcb0694765a4401
+FileChecksum: SHA256: e677cf3a83ba0f43a70bc625d85d942d5798fb48fa7d01b6d9281794671758e5
+FileChecksum: MD5: 0052f649fb2635dbd36005c97b6349ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2015, Google Inc. </text>
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/third_party/google/api/http.proto
+SPDXID: SPDXRef-item4101492
+FileChecksum: SHA1: b3f4cb2eb674fb2ddb6e3833a7f938554918c510
+FileChecksum: SHA256: ef1cc4a3dc1950c9fcd15b7d98cf585dfdd99b2fcd49872d6e4c51b2c423b549
+FileChecksum: MD5: bc005d66185f25be26b570c6a3143923
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Google LLC
+(c) All other fields.
+(c) fields. 4. Any body sent with an HTTP request can contain only (b) fields. </text>
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/context.go
+SPDXID: SPDXRef-item4101106
+FileChecksum: SHA1: 708220055b3ec2e93d225b9e92121c492e8f5796
+FileChecksum: SHA256: e3d7120062d3a82969ecdb098145565b15e354b873be4c24837f1b2f4f8d923f
+FileChecksum: MD5: 7fb100e839581611dd98d17c804a6a42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/invoker_input_output.go
+SPDXID: SPDXRef-item4101107
+FileChecksum: SHA1: c5bedae61367241c0a73dc907d7722986a544d4d
+FileChecksum: SHA256: b33dc415358cafd910fb42577c58eb839dacdba98ae534ed3776044de5c35a46
+FileChecksum: MD5: 0ee19321d296c2d9e02a27c258d9460b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/chaincode_service_test.go
+SPDXID: SPDXRef-item4101108
+FileChecksum: SHA1: 9a92b2389a02e78f6fe7abfe1bafb42e46ccb1dc
+FileChecksum: SHA256: 674881757046cd2d9d52d83a894275f6dbe56e9c261b02f2136d47c710f29fbd
+FileChecksum: MD5: f032ab2e9d02d8b8da3f7cfeb922fe68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-commercial
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/protoc-gen-cc-gateway/generator/opts.go
+SPDXID: SPDXRef-item4101111
+FileChecksum: SHA1: c828cbc6f4a80beb500466b470a94adcb870c68f
+FileChecksum: SHA256: 5d8852142b5189e9b59ff828b49febf0d83336d07c48a7a8eeea6f17354d6f52
+FileChecksum: MD5: 25058158bf6bff3f943fb18cd819a0da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/protoc-gen-cc-gateway/generator/template.go
+SPDXID: SPDXRef-item4101112
+FileChecksum: SHA1: e04b837e5d539d91e53a1edab1511bf499f7164f
+FileChecksum: SHA256: 11d0f4b28838e9c8b2ee6ecbbb26ca7c6dea72a12cc1656bd6b8d2396f2dfdd0
+FileChecksum: MD5: 7608cafdecbd1757ecd576c5bcaf37ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/protoc-gen-cc-gateway/generator/template_func.go
+SPDXID: SPDXRef-item4101113
+FileChecksum: SHA1: e33472276cf90cf4e02ae8bda67f8c97dfa8247a
+FileChecksum: SHA256: d9bb766e5884a19b4d9c9be1a3ae9fd6f527af07ecdb7c7fd4ab726c02de2611
+FileChecksum: MD5: cec0bfe92d7eaffd12f1d97fe3ae1799
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/protoc-gen-cc-gateway/generator/error.go
+SPDXID: SPDXRef-item4101114
+FileChecksum: SHA1: a6d0310d6156f9b928c6fc9f5d792416bcaf5357
+FileChecksum: SHA256: d878af068911cc2263b05bc05ab9f7c91bfbe02949cbe65e478ced54ab1c4494
+FileChecksum: MD5: 2bc32d19ef7c3755c8dafe441d36e5a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/protoc-gen-cc-gateway/generator/generator.go
+SPDXID: SPDXRef-item4101115
+FileChecksum: SHA1: 99cf2c81313151831cf2cfb25f3b1dd9ad7bea1e
+FileChecksum: SHA256: 35002b1e2cb7471d35d616afb6f967eaea39d8dab475763ca553cac390f837b7
+FileChecksum: MD5: 9fd38a865a9212b3d14b58ebbb6885b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/protoc-gen-cc-gateway/README.md
+SPDXID: SPDXRef-item4101116
+FileChecksum: SHA1: bf0e9a90fc423c0f197615ae5fc484e3a55f4b6f
+FileChecksum: SHA256: 69ef2db2e8ebe2a237ccc7fdf5674b1eab08b30f1031bd1f14db30c94cd6cecc
+FileChecksum: MD5: 22951423f32fd518c9a91a1b251d1ea0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/protoc-gen-cc-gateway/main.go
+SPDXID: SPDXRef-item4101117
+FileChecksum: SHA1: b527ba6319c8b0e7dfc15e74b1f677beace443a6
+FileChecksum: SHA256: 82d53997ad21c4fa5d64db84620f3fb01df76b847fdd64fdaa3b8e58ac556ea9
+FileChecksum: MD5: b941949cfd4a324555a9c9f9af760983
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/event_stream.go
+SPDXID: SPDXRef-item4101118
+FileChecksum: SHA1: bb76ddcb4b53c48eb06dea01c0e86db1c107c831
+FileChecksum: SHA256: 8df989f95438d080fdc55789818a5643ad96ed521a4da99d6ad3a1a0d20ea70a
+FileChecksum: MD5: c5ab1ad40718e7b8f7b10b6a26a2bb50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/api.go
+SPDXID: SPDXRef-item4101119
+FileChecksum: SHA1: 64c0ae388370db4ec62a52f637fe797581332685
+FileChecksum: SHA256: 7285d6706ebe7d6c0d845e3993d7834acdc65b66fd7625da3693a10cbbb9b9b0
+FileChecksum: MD5: 11152624d2cb613fe3e71ecf9ebf4a4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/service_def.go
+SPDXID: SPDXRef-item4101120
+FileChecksum: SHA1: d6ac52fc00f3cbfebddfab46485845d5e78f5b45
+FileChecksum: SHA256: a3176f7d2360d71530172aa7887213736ca1eeb24dac9dc82fd731b09b0f9837
+FileChecksum: MD5: 40fc57f8076a5f19867847f7eafce8c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/chaincode_instance_event_service.go
+SPDXID: SPDXRef-item4101121
+FileChecksum: SHA1: a91649052125084a4659c6b23e6336fd98b13ff4
+FileChecksum: SHA256: 8e011ce82563bc9648f72163e58b07176e9d79ad369b5adab3dba5be0fb30f9a
+FileChecksum: MD5: 21f0cded8d5c68a967e37808201d6ceb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/chaincode.pb.go
+SPDXID: SPDXRef-item4101122
+FileChecksum: SHA1: 595f6f23946a91f11ff35818db6967c5ec3397c0
+FileChecksum: SHA256: e489d34063ed93351c3f8c95681085e06c742b9bc07b82e48e3ef60733b63bf7
+FileChecksum: MD5: 0e610067efbf953762f1c869f14a8aae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/tutorial.md
+SPDXID: SPDXRef-item4101123
+FileChecksum: SHA1: c5a664fd1da2be51c9ec98908fa9f20ee71f4ef5
+FileChecksum: SHA256: 448cfebc19a25788c92a69b9e90320615d47d9f2c872e856b798499fc477ba4a
+FileChecksum: MD5: 352e47ad874e2ff855ae56976fd932d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-commercial
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/chaincode.validator.pb.go
+SPDXID: SPDXRef-item4101124
+FileChecksum: SHA1: 5f1f598592ab1dbf7852e6aaf88ddc0d825ad9df
+FileChecksum: SHA256: 8daaa20f68bbcfe51ee2e737e57191e0cda4b506a7809e1ab1e0b1047fb94c02
+FileChecksum: MD5: c5150eb87ad2e772d41d03885f4a438b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/buf.yaml
+SPDXID: SPDXRef-item4101125
+FileChecksum: SHA1: 03186222246f888f7d1a449a33a2304290bdfc96
+FileChecksum: SHA256: 7630010b3500eaf3f1bd63a4666a0052b74aeb932098578ed9031c13c742b3ab
+FileChecksum: MD5: 41430e210f58f1ca0ac698f243208c90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/chaincode.proto
+SPDXID: SPDXRef-item4101126
+FileChecksum: SHA1: ee5f90bbb1c02b2d5882c9ae7e7d2d3e7d353586
+FileChecksum: SHA256: bf7ca0f4090bb9bd3deaf8de43503cf5c85466d65251b9767bb0927d8e266091
+FileChecksum: MD5: d9fa4236aa2fffd0330d22edff497c72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/errors.go
+SPDXID: SPDXRef-item4101127
+FileChecksum: SHA1: 5f143ce618091b6f25d00fb4b7d885449e3c4249
+FileChecksum: SHA256: 40b542ee450b17eba558f3946c744362b8b3e11ca796de864ec70cce1ed59e21
+FileChecksum: MD5: 3bfae952268107e9ebc4a851bf2605f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/raw_json.go
+SPDXID: SPDXRef-item4101128
+FileChecksum: SHA1: ca87a613de427af1d787269d7f0847cc6f634d91
+FileChecksum: SHA256: 9c0af23498347b77050492c541edab57c0774936f58b45fd6286a65303691dea
+FileChecksum: MD5: 03aa78f60308b6b0904152a9ae9c0411
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/invoker_stub.go
+SPDXID: SPDXRef-item4101129
+FileChecksum: SHA1: 0dc0cdd9d4c24cdbe7e761ab13386c547edc789b
+FileChecksum: SHA256: 23af931d3cc77a973e4b900a83516e7281c85c76d03e1671daca54f13b073a40
+FileChecksum: MD5: e0a772ff3c13f37e7ab93fa990c92fc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/chaincode_service.go
+SPDXID: SPDXRef-item4101130
+FileChecksum: SHA1: 41857197875dfdfef29b8e60c9a6d9f93a714c4b
+FileChecksum: SHA256: 6ccf122a436bc4ead72f37943438520b9e6ef3088806f688de10a0ed8092b4a9
+FileChecksum: MD5: abd4d5a408cd1ee9a28942afd8307351
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/README.md
+SPDXID: SPDXRef-item4101131
+FileChecksum: SHA1: 3b9bf4cf7eba2b5456eb55aac5be8e07fc9799a7
+FileChecksum: SHA256: 957d4b3a4e79ad587fe1dc226b1510815debb1594abbec95c9a2bc1112a83781
+FileChecksum: MD5: 22f6319b7625cda48e93a7a229164b0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/chaincode.swagger.json
+SPDXID: SPDXRef-item4101132
+FileChecksum: SHA1: f44b53b49b404537f56fe4c02022817c434c2001
+FileChecksum: SHA256: 64499d768b32f6e92bf97716c9f62e49eb2d3294ab40e4a0192db1b5b4a76463
+FileChecksum: MD5: e5e77a2f092bf2e9e9ae6c0513220240
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/opt.go
+SPDXID: SPDXRef-item4101133
+FileChecksum: SHA1: 54ff620497f231da8c086b22e5a1c9485940651e
+FileChecksum: SHA256: 1d1df14b66f997c13010aba0aac3024124ecf81f11fe57ee9d84ef682cac647d
+FileChecksum: MD5: 29d86ac352e9bd5688f95df2937bdec8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/chaincode_instance_service.go
+SPDXID: SPDXRef-item4101134
+FileChecksum: SHA1: e60d3d54b6f853076e0a4bd30eded2db198a436d
+FileChecksum: SHA256: 84b9e293540e22404c75b1c0503519ff38106d023b2dd2bf238c34899fde25bc
+FileChecksum: MD5: 42b336a8f4f0cd9a12c28cb4d45924c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/doc.md
+SPDXID: SPDXRef-item4101135
+FileChecksum: SHA1: 97a01e4a9fdb3d10cad0d49165d902db6db2147c
+FileChecksum: SHA256: 3658aeebc0a0336517860199030318897e2e292b9293dc2ddb56b73c3ab31e3d
+FileChecksum: MD5: 727c780623d0cca355584f34cdb35a7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/chaincode_event_service.go
+SPDXID: SPDXRef-item4101136
+FileChecksum: SHA1: b2655af125bbe6be85f537a235689b427b5b54d5
+FileChecksum: SHA256: a6d4ada4a9d8a42f60ab3d4f4324fb743d6a4237369d00069be15edbd14cb6a5
+FileChecksum: MD5: 697c8703d1f3ba674772232af2a89572
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/invoker_instance.go
+SPDXID: SPDXRef-item4101137
+FileChecksum: SHA1: fecdd8655a052a7f61342aed354b7138664d2992
+FileChecksum: SHA256: 7a410fe29aa7890625baae11f5fdfebb8cfe53b84ec809cc7cde40684701d3c5
+FileChecksum: MD5: 5d55ca3b6ab0154b2bce4bfb26623e59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/chaincode.pb.gw.go
+SPDXID: SPDXRef-item4101138
+FileChecksum: SHA1: e6a6b142e59d9a2ba9a7c6947acc2149f8c6998e
+FileChecksum: SHA256: c0d245a8ba3919faccc5f256e5ae68e1e43755a6575b3556eed5d76b2dbaa999
+FileChecksum: MD5: e30c2044e51b8fdc297b1c71e7c3e031
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/gateway/service/service.go
+SPDXID: SPDXRef-item4101140
+FileChecksum: SHA1: f310233afaf274ca2bc1ab73fc3bdc218c62eb96
+FileChecksum: SHA256: 00976bee4d6b14fe41c625abc9e911e474d1ddd9f9fe10c9a23642ec2b501299
+FileChecksum: MD5: cb3dff155754c96a80318b65d6d78dd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/buf.gen.gw.yaml
+SPDXID: SPDXRef-item4101141
+FileChecksum: SHA1: 549154ee8ab165fbb43b56b196233c76bca0bce9
+FileChecksum: SHA256: aacc1bbdff2b8351838fe0a0232610214220ee605b2c7c31a748374be200072a
+FileChecksum: MD5: c5816a1a8f1ca4a29c473e0ae9829aea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/identity/entry.go
+SPDXID: SPDXRef-item4101143
+FileChecksum: SHA1: 495ea5c744360b96c102b753159cfbaafec205db
+FileChecksum: SHA256: a57cbef3e3e403231c4089dcf099b86605b9ec0737f2450ea8f3cae5ea33d194
+FileChecksum: MD5: f3e5586d3635c5b056d5ccbf9645fb4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/identity/cert.go
+SPDXID: SPDXRef-item4101144
+FileChecksum: SHA1: b4235ff8688a60fb124121dfa46556034eb4f8b3
+FileChecksum: SHA256: edac509097e158e8ab898d83543434076d17e544558cb17dc3513831df358221
+FileChecksum: MD5: 2b55b3c329bc384793ecd05698a0de91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/identity/key.go
+SPDXID: SPDXRef-item4101145
+FileChecksum: SHA1: 5644c3e9931ca83e76ee8ca2136e21596a9534c7
+FileChecksum: SHA256: 559468f2cef4fcddafa01bf75b2f514eb42f9042c4c529bc20e26175f6c33c13
+FileChecksum: MD5: c37bb84d85350ab3df7ff33df6b361b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/identity/cert_identity.go
+SPDXID: SPDXRef-item4101146
+FileChecksum: SHA1: 9082fc305db7b6568973d80759000b3f92e3bf01
+FileChecksum: SHA256: 498b685279e5162218784807d94266c86222be0b5cebb7159a6f8723e30f786f
+FileChecksum: MD5: 69a2302b2f991024273b5031c27fafe0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/identity/cert_test.go
+SPDXID: SPDXRef-item4101147
+FileChecksum: SHA1: bf1e84b354ed4c0ff5ecd22cfe573fcc3352e95d
+FileChecksum: SHA256: 7d6cabb85e03770d5e28b27320af6fdd8ae8aadbccb5515945b9d8ca1d8e19ef
+FileChecksum: MD5: 6f929d0411f0b2125dcdc8466f1dff35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/identity/schema.proto
+SPDXID: SPDXRef-item4101148
+FileChecksum: SHA1: 7609bbae205e735f9f909a4d13e54bc980e5c2a7
+FileChecksum: SHA256: 411d407069eb2ef21b2caf1ec4245e30bf3ad0ba01b34c3256c6b928cfcd6f00
+FileChecksum: MD5: c56558121ade19e0df3911ea994f7d93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/identity/equal.go
+SPDXID: SPDXRef-item4101149
+FileChecksum: SHA1: c1f59dd8515d5b8bfb41590bba1f8d1274297c99
+FileChecksum: SHA256: cb7dc00ac71f81699a599a2d31d1cef646c4e6e9ba9173e86e5084a5a69996db
+FileChecksum: MD5: 0720753e1c6c28d3c373accf3197f4a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/identity/identity.go
+SPDXID: SPDXRef-item4101150
+FileChecksum: SHA1: 778fee42c00be9d8b2d347b23d3ba426c8b06c3a
+FileChecksum: SHA256: 44170fd89da63b8141cc8f048f8289fcdd31393c2d81b07958f5b46800bf0dcf
+FileChecksum: MD5: 0140cb3aad7ad15d12218b5ed66a5728
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/identity/testdata/testdata.go
+SPDXID: SPDXRef-item4101152
+FileChecksum: SHA1: 45544997e9208fce053c1e6f9d3992e4c1969871
+FileChecksum: SHA256: 73840759a5189907b074bb4940e3c7805e50d6d615292f794d48217660e81f81
+FileChecksum: MD5: 572f271a40c76a5cfb28ed63617665f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/identity/testdata/victor-nosov.key.pem
+SPDXID: SPDXRef-item4101153
+FileChecksum: SHA1: b33f8790328b1b705647344f9cefc21c9771fd27
+FileChecksum: SHA256: ce8ad6bca979c55cc48a4c0e6872d71887b4a814fe9fe472026012b2d15547d8
+FileChecksum: MD5: f0c19acdc2c106dc5e6b3e74dbcd0623
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/identity/testdata/some-person.key.pem
+SPDXID: SPDXRef-item4101154
+FileChecksum: SHA1: c89ed417eb2817794fc396dc5d38ae791ce2b5bc
+FileChecksum: SHA256: bc7a919d9c54dd608cca866e225fe450bdc825d8b92250c7cc4ad829f33e273a
+FileChecksum: MD5: db76bdf2bc90a1c91813f60ed837fbe7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/identity/testdata/s7techlab.pem
+SPDXID: SPDXRef-item4101155
+FileChecksum: SHA1: c47ed3615222611c271ea1aaf847e70b972d2a41
+FileChecksum: SHA256: 48fa2138daa6828607d6aabb60a73500c8198012bc827b412c5bcb576c5bf8ab
+FileChecksum: MD5: f537ae2d22fdc6533e9b6b7af5d4b712
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/identity/testdata/victor-nosov.pem
+SPDXID: SPDXRef-item4101156
+FileChecksum: SHA1: fdd4d4bc71ef37dcba44fad3e4ef8d1c80287705
+FileChecksum: SHA256: 36ce998cefa9c3c92a4c899cfecbcac583f0d2f582bf0f61715bd57d058433fe
+FileChecksum: MD5: 746b059ed499567534ea820c0d68def9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/identity/testdata/some-person.pem
+SPDXID: SPDXRef-item4101157
+FileChecksum: SHA1: db854a61c4de0d329aa6cef50a25c9283cf0a5f7
+FileChecksum: SHA256: bca7e2bcc98d6858af03b83f794136991ac02357579bdd4e92cd2fa42193fec8
+FileChecksum: MD5: 003cab37786b7fa62ec5c97f77af846b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/identity/testdata/s7techlab.key.pem
+SPDXID: SPDXRef-item4101158
+FileChecksum: SHA1: 2427cd57da3a139c1c90a856aae1380f1f97d151
+FileChecksum: SHA256: 215a67ced7603ebfa4a2bee6ff4399f6896031a7ee1e3473f8b880bcfa0540cc
+FileChecksum: MD5: 42128ce3c0a7257500e66670e59d0589
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/identity/error.go
+SPDXID: SPDXRef-item4101159
+FileChecksum: SHA1: b12b1f148c5fdec59ba86d775dbf74a296345a05
+FileChecksum: SHA256: dd851b5586d3a039bf5f7ed12155bdfb1c2c9fc05ed471bac66f9140e09cc6d6
+FileChecksum: MD5: 11c8499d900765fb6dd72a2752830cd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/docs/create-test-cert.md
+SPDXID: SPDXRef-item4101161
+FileChecksum: SHA1: 6b9547eb29a5f7fcf34034f7751b7c76b9f4db01
+FileChecksum: SHA256: 4817e6878d28939bfc9e649ee5d8ae0aade1b6a24233b3172a76e16d92a6434e
+FileChecksum: MD5: 948cbc560450e1f1403f2f2cd8dd3b0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/docs/debug.md
+SPDXID: SPDXRef-item4101162
+FileChecksum: SHA1: d97b77b8c31728d72a3b575bb7aa98d0175d5e16
+FileChecksum: SHA256: 2f83c2372d871f461479630dea4e4852fd2cb035353043a32244f08f41485a5a
+FileChecksum: MD5: 7feb34f2ed58b75a294cd42e80adcdd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/docs/img/mockstub-hlf-peer.png
+SPDXID: SPDXRef-item4101164
+FileChecksum: SHA1: cfa4aa0461c99c0278d53c5caac7ea75ee6fefa2
+FileChecksum: SHA256: 74aeeba9b83d7ca99bbdc823ce1a0c73e5324fc57b05e522cde0973231431e9f
+FileChecksum: MD5: 636761b71d3ad7ba16b670bd769d894c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © 1mXuT1È)À¤Q(?À ÊøÊø퟿mkkkiiùæoî×X³©ñ$zÊd²ÐÐÐÕÕUµZ ~çΝoÿüíÇ??liiyóæͯ¾üÊÙÙymmÍÙÙ?¿s1""â÷?pttüò¿¾\]]MNNær¹qqqú[?ãããÙlö­[·ÂÃÃu:݇?~ éììÌf³·¶¶T*¾ñqkk«¾¾þ?ÿð?úÄápjjj@ ?؅£Lkk+N: c?U +**ÌY?!1ÊøàdI___G{Ƿ?þö­·Þ"??¼ÿÁg}[ãÿõ¥H$ÚÑËèëëûñÇ?GEEMOO«ÕêØØXý5noooDòöÛo={ö­·޲µµEQ4''ÇÁÁáÝwß={ö¬V« KNN¾v횽½ý?ï?+fllìÐÐÐòÒò?üÇ? (úöÛo?õåW|>ßÇÇgkkK§Ó ޺uë³Ï>{°2^½z5000ès±±±MÁW?$¦!1}D(,,"? </text>
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/docs/img/gateway-mocked-start.png
+SPDXID: SPDXRef-item4101165
+FileChecksum: SHA1: da9c3ba535413837e33cfe84866854e324c1fc22
+FileChecksum: SHA256: cc26c0b8b093185d34d2bc63625a1a8f53c0dd2d544806e2fd9141778baa58eb
+FileChecksum: MD5: ad3150622d8f8d68204f409ac7d446e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © 5íE@+Yd¼j~îbt7OM,4ººZóå§î?Õq' `Ù?Áï®Ð<6çؾ]iÿΌE?Ü 1?¬qMM?¬îò|áÕgmRt¯ÉÌ?ҖtwÐϹ1q¿ÀtӋ׸3ÐÝ[]hóY?ù£è;Ám÷Ý?ݧ΁¥³QC?§¹ßݥW\~c¤½´µÝÆyýùÏWGkÙý̇⹖??~anҁ\:Goh÷;¤áO«~?Â?ժÖ?{áþr?¬Ŕ??ãh?Ô Oԗï£	t×5*°pm¯`v,-q&?+?ûd¿¹úuãßÜË7|¡@®Ê<þ?ee?N{\5հFeeÕĲځµÑ4®ǉ³kë:ZAÒ?Jι5Ævð]ê_Ç¸Kݥ?­µqާÜMÆ?ÍÆ?\±yy'rü·'V´¡?xº!®??îºìÛìÓ^/Z?Ûßrý]Ñ%} 9²ο (7?n^ 5psn </text>
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/docs/img/gateway-mocked-usage.png
+SPDXID: SPDXRef-item4101166
+FileChecksum: SHA1: b80d5409748ac46958f8839b5ebc293ac1bf4a2e
+FileChecksum: SHA256: 3044f1e4b57e61ad7789bd61bf101fedcbe0fb11bda7644c0d0698003220f633
+FileChecksum: MD5: ee81ed7348de85fe5cf109f71bf8e154
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/docs/img/cc-code-gen.png
+SPDXID: SPDXRef-item4101167
+FileChecksum: SHA1: 71c5730e2fed76d9318a4c1186edacf1ffbcc199
+FileChecksum: SHA256: 7326d90a359c3fa7e10c0ebcedf744e5367dbc05f4894c0c3b584d9c4e9cdf0b
+FileChecksum: MD5: d683dbe0646f821cd5da96d8411851f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	D.ôt78Rç¾ vnô?ñg~r¤$?Q¬u? öԯÖ?_èV¾` «¯ ɹ6]d´1õI¾?nCéDÛ,è?b?û?¬ãX-?Û p1Qè?xv¼æñ?ÿ¾íó?=?·ßIa*Kû?3&Î?óº0@x@dJò¦4Áî?äfÎVý)¬u_ޒÀ<¦ntEÔë÷e| Ӯ©݇̗7;ÇÁ¨sO¡o»-¥xp¸ ^ù½)Fü};?Kö{?ú|?P?õᓖK¯OÙÿÜÒyá?ä&yZéaʩN?¢(£OQÇqZ KÙ </text>
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/docs/img/blockchain-app.png
+SPDXID: SPDXRef-item4101168
+FileChecksum: SHA1: 70d5fedae0486b33a2b9420afb61570e81333ad4
+FileChecksum: SHA256: ab4bd8fc1a9d4f154076908e01a4d137163afbb1a863ec92579cf444fc4b54ba
+FileChecksum: MD5: edb00393742728fe548867785781231e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/docs/img/gateway-cpaper-swagger.png
+SPDXID: SPDXRef-item4101169
+FileChecksum: SHA1: e8120b5b09b439fb53fef4f16bf2777b1855409d
+FileChecksum: SHA256: 7d3d30b6ea21f667513fc8938781cbc89ef83c89b6bb73706623781dd08bd29c
+FileChecksum: MD5: 376360ef0add29822716db52dfae7ad1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/docs/chaincode-examples.md
+SPDXID: SPDXRef-item4101170
+FileChecksum: SHA1: 9a23dc02f828d7a5fa4a9f6fc8ae34f1bbe17b85
+FileChecksum: SHA256: 05e91e7fcb9761800b9ca93b12f5f5311582100e0d7378e87f1288bcfc889c7e
+FileChecksum: MD5: 810e4d1664564daeea712bcd2a81309c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/docs/README.md
+SPDXID: SPDXRef-item4101171
+FileChecksum: SHA1: 4ce6d9ab849c8b984c293c755676853f013dd65c
+FileChecksum: SHA256: 55e6f24b76c0405f887eaf4dde1e5fca237e4eb87615cca0deb07de61818feda
+FileChecksum: MD5: dada55df2a8e45d6e2f1d115ce113d08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/CODEOWNERS
+SPDXID: SPDXRef-item4101172
+FileChecksum: SHA1: 34a3b87247ac5fdf491599b62b4b5fe934dd4170
+FileChecksum: SHA256: a5c1b348a1b63b5ca92babae341917b56835230d8b1f00a6eb8318f59126e040
+FileChecksum: MD5: 29b9104c2f0fd8df02c006d710ebed48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/Makefile
+SPDXID: SPDXRef-item4101173
+FileChecksum: SHA1: a325309fe83b314ef7889dd799dc1e844fc1ac81
+FileChecksum: SHA256: 8907843c70000abc64c4e0f658496b51e154312a78d43b48099a1c597ba635c4
+FileChecksum: MD5: 3b129316a86a140aa677d2f0a24b85e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/sdk/all.go
+SPDXID: SPDXRef-item4101176
+FileChecksum: SHA1: 82001ccede9c1407abd8368c7981b06902b5ed69
+FileChecksum: SHA256: 1776c0d45ba5b51b666373639ef872e9c165dea3b418e8fd506b51e49b05c387
+FileChecksum: MD5: 83881837cd62b788ace954ef6b487ed9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/sdk/invoker.go
+SPDXID: SPDXRef-item4101177
+FileChecksum: SHA1: 2b94a110d37047ba32d45898f09f4527a0d653f3
+FileChecksum: SHA256: 7feca917d672b18d0f43971054900f2943e0b76222e53945f56206841f66136d
+FileChecksum: MD5: a6e28b6e69fec9ff96a5575d3a3182d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/sdk/event.go
+SPDXID: SPDXRef-item4101178
+FileChecksum: SHA1: b947e676c0dd326abedc7b3d642f373f3ac7b40e
+FileChecksum: SHA256: a6a3de6ac223b008fbaa274a1e56c741f24a0f72b9e81ee7a41856a178785eaf
+FileChecksum: MD5: bfc8d870de5a70e8159e66ef0ff86086
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/.github/workflows/golangci-lint.yml
+SPDXID: SPDXRef-item4101181
+FileChecksum: SHA1: 2590f126159500f3da061e571081b02871a69ee5
+FileChecksum: SHA256: 0d05c28d116803f4d5327a4c009a1018350944e8f3012675f39ea59e6f21e212
+FileChecksum: MD5: a744fc973c8c51907a24d0c5f6d642ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/.github/workflows/go.yml
+SPDXID: SPDXRef-item4101182
+FileChecksum: SHA1: 6a3c7785b234af3162ada82076d4cecb6dfff220
+FileChecksum: SHA256: 28dd709f84c775f04adf8ca0dc30431dc48bfc2967caf1c0af5f60976b07545b
+FileChecksum: MD5: f9a5c3fc2664a98fcb5694b3336f10e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/buf.gen.cc-with-service-prefix.yaml
+SPDXID: SPDXRef-item4101183
+FileChecksum: SHA1: e3684bed07aba57a31ceef0589eabf7b9123bf50
+FileChecksum: SHA256: 9b9a002b6d0e4c36d948f9bcdb123f1555d73fbbd041e9229f6e99cdf1b83e7c
+FileChecksum: MD5: 1c4a92812aa4b08011870669faf54588
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/MANTAINERS.md
+SPDXID: SPDXRef-item4101184
+FileChecksum: SHA1: e44602f3b7c353cd4d644a17b867ed045b7bc1f9
+FileChecksum: SHA256: c052ea3be22d7491ed96281e595ed0623e63c34c3e0ad81a71053f57bcae9fd3
+FileChecksum: MD5: 8bc17fc2328c5b8dc14f1eabeab3fbc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/decimal.go
+SPDXID: SPDXRef-item4101187
+FileChecksum: SHA1: 85fec6786a141474b5e35b69910279e45c4fede9
+FileChecksum: SHA256: 20a515f8136ef10b04032130d0494f269fe99e0a39075299fef4af6d947e030a
+FileChecksum: MD5: cfd2c7bdfd34e6e4f33c1ab2beed1e3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/token.swagger.json
+SPDXID: SPDXRef-item4101188
+FileChecksum: SHA1: 611fd7399b9575b329ff4fb85b6cde8839efcfa3
+FileChecksum: SHA256: 01d9c6b1b39966a1be854f75a3334638d3020fe02d016e9361d134370c54c091
+FileChecksum: MD5: d3661813b4cb1f2c913694ca82c14cf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/balance.proto
+SPDXID: SPDXRef-item4101189
+FileChecksum: SHA1: 128a7adcc3f6375b324d59579b36fb7217ef2c32
+FileChecksum: SHA256: 16449c0e61d119f38ebec31283324b1a95a4350e57b3e0680b225a5fb35eade7
+FileChecksum: MD5: 906b5b2db625befeaa752fb3716203fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/balance.pb.gw.go
+SPDXID: SPDXRef-item4101190
+FileChecksum: SHA1: 29ba28a511de0f7095819a1a0ed417b89b788108
+FileChecksum: SHA256: d5429f2114fe1e60a324aee39210bba95edddd5bb6fcf4b646428c46a03c5c5a
+FileChecksum: MD5: 7bc056047a26a983c3ed97686ec324de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/balance.validator.pb.go
+SPDXID: SPDXRef-item4101191
+FileChecksum: SHA1: 1fc15e581c587d9b4f08436cbe78822e2043fb98
+FileChecksum: SHA256: 4ed87140468dab5baf1ca2634120e71b55b7d6efaca0d965fa58fa553d7959eb
+FileChecksum: MD5: 74ea674e6b7a43f412cdc76f51d979c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/balance.swagger.json
+SPDXID: SPDXRef-item4101192
+FileChecksum: SHA1: 146308ba8c46fa6f008710feffc81a6973ea77c7
+FileChecksum: SHA256: 4a74312dd0b10188e3ae9850fae67cee42237c972d522d447541195883cb8cbf
+FileChecksum: MD5: 94f1f4b19068d98d7c3ea429f6a0975b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/balance_utxo.go
+SPDXID: SPDXRef-item4101193
+FileChecksum: SHA1: b0394ce37cea2dd791932ff302ecac255da260cd
+FileChecksum: SHA256: a79f6df529c90cc94d9af502df780e63193f63be5fa797d96a9ef85c993974ff
+FileChecksum: MD5: eab0be6628a9f1c0c36f9cd6bcd74206
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/balance.pb.cc.go
+SPDXID: SPDXRef-item4101194
+FileChecksum: SHA1: d40f8a8f339623efb37d33cbb1400bd9c80ea03f
+FileChecksum: SHA256: d8801c0d3fc93216f0bc3a88916c07394ede8ef771318013e794eda6378dcd42
+FileChecksum: MD5: 4b6226d8435d876d3712f857450274d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/token.pb.cc.go
+SPDXID: SPDXRef-item4101195
+FileChecksum: SHA1: e93b8e7227cd77a271a1d2111331ece65277dad2
+FileChecksum: SHA256: 04e51a10529563e5033b0acf66ac7156f0ba22d83758742b0bc45aa95dbbab92
+FileChecksum: MD5: 44aa006a09854db2e220f09d29a7bfd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/balance.go
+SPDXID: SPDXRef-item4101196
+FileChecksum: SHA1: 1d297383188847af89343893d3de2e9d962aeaf1
+FileChecksum: SHA256: 14303ad8522ab439b6bc88756cd9a2f02025e6bf291baaac8a35e7d72c56c4af
+FileChecksum: MD5: 205477b1d0d3af536cf19bdf3d4778f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/state.go
+SPDXID: SPDXRef-item4101197
+FileChecksum: SHA1: 0b5ab78e47712343723c5000c3c080ced6f02381
+FileChecksum: SHA256: 7d847ade978d2c29176cfcaf9cbadc02ff1fbf33e3c643c0b2f6cd3c4265cf61
+FileChecksum: MD5: 5e022b4ba1c02f2a408016c98f753feb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/token.pb.gw.go
+SPDXID: SPDXRef-item4101198
+FileChecksum: SHA1: 5a479ea6885d259cb0752853e0516f0e60b41557
+FileChecksum: SHA256: b418e673f4687ab29665bee1f399559862bb1d6a95409589ade472ef60802ca7
+FileChecksum: MD5: 4b1af048325a8de34587494d9b3892c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/balance_account.go
+SPDXID: SPDXRef-item4101199
+FileChecksum: SHA1: d69824801f664f62144b0b2a2b1a2468f75efddc
+FileChecksum: SHA256: 92c19e80d3b36ec5a2c00df097ed700ea8c70bb17fdda67cbca7ca74e9bc519b
+FileChecksum: MD5: a05d7c58814676cd77759530e9c9154a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/token.pb.go
+SPDXID: SPDXRef-item4101200
+FileChecksum: SHA1: fe7a1b3b38b3d0a71617912be9516d37c09cc64d
+FileChecksum: SHA256: 13c975777939071965c77e55ba0cc2157242f0abc6097cd8ed49f29823a727dd
+FileChecksum: MD5: 68206162e00222c111f7bfe21e81268f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/balance_utxo_test.go
+SPDXID: SPDXRef-item4101201
+FileChecksum: SHA1: ed46536efb3d77ebbcf1aec4e59762f003fbb5a2
+FileChecksum: SHA256: 9e56f8931f55c6cf3085181e75db1c9cb2c54f51ea0c9518606f84e404edbf2a
+FileChecksum: MD5: bf8cce0a35d220d7d9a494e354fb1148
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/balance.pb.go
+SPDXID: SPDXRef-item4101202
+FileChecksum: SHA1: a4933506cdf2d1208d793e3d2eedf18e3d381ab6
+FileChecksum: SHA256: 1e713c20a66322f6d2f6c7dda90e1a1c34ff1788fe5e17c77c8027fbe174aa93
+FileChecksum: MD5: ee82b7d06e5aa6072e94bac34a776c0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/token.validator.pb.go
+SPDXID: SPDXRef-item4101203
+FileChecksum: SHA1: fcd11a5d3615356514ef500f0e42d4eab0d26193
+FileChecksum: SHA256: 2a0d491d1ea45a27e77494b06a1f6cb860860cd5c39b01fffb99642bf9525793
+FileChecksum: MD5: bb84300b901779935327e1ed597875a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/balance_store.go
+SPDXID: SPDXRef-item4101204
+FileChecksum: SHA1: 7fb37274234d2ffc193b5f344152d0c11beb2252
+FileChecksum: SHA256: 70224d1ca105418b47592b45dce3a426edd7ddc571d4a4a7e0aca243ee99c134
+FileChecksum: MD5: 3a742e0c80a72497663cfc24e6da7104
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/token.go
+SPDXID: SPDXRef-item4101205
+FileChecksum: SHA1: 8a096511598c3e023089418921b425e031229312
+FileChecksum: SHA256: a217df0111bb9ca222c68b0f4e1862128e0a4022654bd51e46a1de7c86f8a868
+FileChecksum: MD5: e49715f83fb278e8aaa8124ff338ee08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/token.proto
+SPDXID: SPDXRef-item4101206
+FileChecksum: SHA1: 232d029c13942ef2a4edf3358ece8ad78d86069c
+FileChecksum: SHA256: 0c718293936ce1cd6e6d6a524ee7a2c86ee5a64e7fee8f4053617dbacc2e8b9c
+FileChecksum: MD5: 314d7390daa1766638cee30dfbb2ccca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/token/decimal_test.go
+SPDXID: SPDXRef-item4101207
+FileChecksum: SHA1: 55202877aa49e1d313705599dd7c3b6c442b6c9c
+FileChecksum: SHA256: b2b3406cd3b3611abd3e8e8086a397dd1c6d6a4b208df272d877d3d3b4c264fd
+FileChecksum: MD5: c761cb3d83d945f35416505c7ea5d3b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/encryption/encryption_test.go
+SPDXID: SPDXRef-item4101209
+FileChecksum: SHA1: 48389370eaf680304b31bb0033f3f845dd01741e
+FileChecksum: SHA256: cf2b37953d01a5e893b70ee0f616efa327c6a3420c2fa469c0c6fc955930ebb5
+FileChecksum: MD5: 829e4cd6740328748cf2b285991b9fbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/encryption/serializer.go
+SPDXID: SPDXRef-item4101210
+FileChecksum: SHA1: bb758a41dfbfd4cef9326708c671966d39ce5e61
+FileChecksum: SHA256: 60359bd40c6d0e31d67d9c1c0bd9dc5f805d993a7157530c5e5816513f992557
+FileChecksum: MD5: 5f8e649a51048583e8990905a6fff277
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/encryption/invoke.go
+SPDXID: SPDXRef-item4101211
+FileChecksum: SHA1: 2e4abc8ba6524cde08b4539ea52902b3f6b76436
+FileChecksum: SHA256: 5ae80b06c1d537b46c0eacd0d26677616a07479141018d15aba2cf7b12facb39
+FileChecksum: MD5: 109a64dbad7742553398fba8db3aac13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/encryption/state.go
+SPDXID: SPDXRef-item4101212
+FileChecksum: SHA1: 3378cb83ccd163c755f868e04f9cac96b7360348
+FileChecksum: SHA256: a043b5312eee29626c0e501806f212334ea40a55955b8a684b9d1bbb7755d34e
+FileChecksum: MD5: 3b297cfe9efce127044bc48a0cee281f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/encryption/middleware_pre.go
+SPDXID: SPDXRef-item4101213
+FileChecksum: SHA1: d7a53c70f01118451143170cd88335df5ea35beb
+FileChecksum: SHA256: a6f429a1aa63ca1c0d244db5dfc636838430fffc015187fe3dc1c9593bca3128
+FileChecksum: MD5: d4e3d1552e3ee3e6d156e8fa5ee79197
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/encryption/middleware_after.go
+SPDXID: SPDXRef-item4101214
+FileChecksum: SHA1: 2e1550dc5cab73d033645844d5775357156f0f2d
+FileChecksum: SHA256: dc76b2364b5484dafd5e8d44d1409dcd47461c5a999eb120ecc6b60fbe143694
+FileChecksum: MD5: 30a6231b8864407111008a58ce8a71c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/encryption/encryption.go
+SPDXID: SPDXRef-item4101215
+FileChecksum: SHA1: b6b5984baa667099b3ed660d11260b1f481f1537
+FileChecksum: SHA256: b889ba67a158f5190c79426908ece9154452deed9fdc82f3410ab25cbd804185
+FileChecksum: MD5: 9ef6a224280a0384adaf5a30162c88f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/encryption/testdata/cc_external.go
+SPDXID: SPDXRef-item4101217
+FileChecksum: SHA1: 49d2c0236a4e397dca98730c1429e91b0b1fd553
+FileChecksum: SHA256: 390bc9d7f8de6c0d59d1c04c18450d2026a010098218db82709b763b078a8d5e
+FileChecksum: MD5: 18ea99eedf73a86fd7088d2e6450a272
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/encryption/must.go
+SPDXID: SPDXRef-item4101218
+FileChecksum: SHA1: 5a2096de17dcecca22bd7392e9b293a1e5e11892
+FileChecksum: SHA256: c5e401daf3b7b4121f7230e470f13e8be8931b45ecf1f25a9d6cfbf61af7fd80
+FileChecksum: MD5: a15e7486d4ca22107348640e73d94dba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/encryption/README.md
+SPDXID: SPDXRef-item4101219
+FileChecksum: SHA1: 09155a2488534ffe7d192c06517ba7fd4b19f219
+FileChecksum: SHA256: 3f9da4593d35ac61da6c9fb1e689eb62fb16703de51f037ef671a7b7170029eb
+FileChecksum: MD5: 97d67d633c132b4d10715d3c3ecc8d9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/encryption/aes.go
+SPDXID: SPDXRef-item4101220
+FileChecksum: SHA1: bd7f24d6060248fd51c635d49c83b21720c13c76
+FileChecksum: SHA256: 0ddbbf60ed68024ccd5b7b021b3528ab2344344d779ac0a61a5b3ff8525e6386
+FileChecksum: MD5: a5c3a9e6a0eb4e8cfc13dc182b8b3df0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/encryption/testing/mockstub.go
+SPDXID: SPDXRef-item4101222
+FileChecksum: SHA1: 753afbac20fa7f7a3da56322ad256c491e422276
+FileChecksum: SHA256: 2861e312a78b98b933a15d79b61a76c1a40aad339963a09c8755147bf8dbf703
+FileChecksum: MD5: 978e1717da2ca3fd90b050cd4782aa19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/encryption/testing/invoke.go
+SPDXID: SPDXRef-item4101223
+FileChecksum: SHA1: 77eb9362bbf4df204d66c94fee4b54d27f4ef890
+FileChecksum: SHA256: 43095fa29db955bfc0e0c4b63739430a058f7914d6f81f32ee73ef50864f7916
+FileChecksum: MD5: 11385adce4dbc7e5cc12a3c71cca4b50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/encryption/event.go
+SPDXID: SPDXRef-item4101224
+FileChecksum: SHA1: 4001a6f3e27652405712e9ad6356b2d05de71b2b
+FileChecksum: SHA256: b3ed45a29412543fab3602c5b642bd0af4be5ca4bf08117a3092b6d4f0230a87
+FileChecksum: MD5: 34f3ce508284c4a6b4f43fa4aa4c53b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/envelope/envelope_test.go
+SPDXID: SPDXRef-item4101226
+FileChecksum: SHA1: 40fab6fc430111f012db7a88fa26a406f504c6db
+FileChecksum: SHA256: 718a2ed7fe37a6ff0cf6ba6b7019d75aa952d41f62b7a396b58ce429f3b2018e
+FileChecksum: MD5: 1ec955f8add54d2b0517352a1205593c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/envelope/envelope.pb.go
+SPDXID: SPDXRef-item4101227
+FileChecksum: SHA1: 55edcdd2a1402ef66e96a6f4343fcaa599415c8b
+FileChecksum: SHA256: 83ec62bbd6c5cf0bb4594e370a4d4be245173827b5bba739c81fb9aeea3991df
+FileChecksum: MD5: 33fe9e2c5a6ed8a3fa418b9016fe5a7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/envelope/signature.go
+SPDXID: SPDXRef-item4101228
+FileChecksum: SHA1: 40e2ec333b11627e2e7435b6083c6d4366ce68bf
+FileChecksum: SHA256: 3e104e7d6a95ac8d96b2008af23bef99ef16c299b6624ff9c217f54d03aa2755
+FileChecksum: MD5: 023b0bd66e784d9afcc49e5ef3363ddf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/envelope/testdata/cc_envelope.go
+SPDXID: SPDXRef-item4101230
+FileChecksum: SHA1: 8db6c5a7f34000e6c97a12c5c01c2e4c9641a511
+FileChecksum: SHA256: 6b3d46c6f44ece73ad48430931f0d84baf11758e93cf0b88e96961fb677448d1
+FileChecksum: MD5: ef4d5168ae948eb8f1e5d562b4109cac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/envelope/envelope.proto
+SPDXID: SPDXRef-item4101231
+FileChecksum: SHA1: 40755dabee57f3102ea0738c977b3c06a309d0e6
+FileChecksum: SHA256: 38d67c32ae727e6419c36bbb7d0647b16b2a8eca577a4eaa10834e818ac8abae
+FileChecksum: MD5: 134847dd61dd26f9956abbe8755eb992
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/envelope/header.go
+SPDXID: SPDXRef-item4101232
+FileChecksum: SHA1: 3baa372c20fb6be8e3dc30a07b8ef6ea33a705e6
+FileChecksum: SHA256: af964606335545d6e09d2f921b32432c33d6cd3bded57d6d304a6a5435412a29
+FileChecksum: MD5: 617f052122341826f63642bc14cbcc7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/envelope/errors.go
+SPDXID: SPDXRef-item4101233
+FileChecksum: SHA1: abc855dccf009a51a4eb3441f089387e8701551d
+FileChecksum: SHA256: 3c050d852f40acf6edd865873e6f83f6cb96a03f26d64577cc3f12fb6a9620fd
+FileChecksum: MD5: b040f5903b240fcc33277841d69aee87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/envelope/middleware.go
+SPDXID: SPDXRef-item4101234
+FileChecksum: SHA1: 46d2343804851f193ba8871be030392e2c2f30e2
+FileChecksum: SHA256: 3667f5e1f0bf49f698eac028963bcbe6ccd9a1f2c1a06a82a016f505d8b75487
+FileChecksum: MD5: 08fbea24eed0945c8b0e505c0e03e3c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/envelope/README.md
+SPDXID: SPDXRef-item4101235
+FileChecksum: SHA1: 99c9150212196323a450687427e180a055b4d44a
+FileChecksum: SHA256: 3034adae14ebd8e882b60589d4c241d9bd948f6273f79ac875a4be4ba62c2a24
+FileChecksum: MD5: ee6a9a08ef5cde36f959c085e558e35b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/envelope/opt.go
+SPDXID: SPDXRef-item4101236
+FileChecksum: SHA1: 96a8128189c31c75db970752fbedd8af071277a3
+FileChecksum: SHA256: 97ade82fd1242a5e57fd7865337bf6debbe7d09ad9cc77c9eeb333bcbd9fc6af
+FileChecksum: MD5: cfa0d390640ff18c59ae5757468574b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/envelope/envelope.swagger.json
+SPDXID: SPDXRef-item4101237
+FileChecksum: SHA1: 12558be0a7c8f1965b89c436f05f19681f2681e2
+FileChecksum: SHA256: a7e3a18001642b90f9785b9ca0c5b82932863e98a1367d0262e36f8ec092fe39
+FileChecksum: MD5: 0cc8334751d51991b10f801c9bd11e77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/envelope/envelope.validator.pb.go
+SPDXID: SPDXRef-item4101238
+FileChecksum: SHA1: d1a09a7e08c07291461024bb210aacec603ad5d8
+FileChecksum: SHA256: ab6f1aece61c66739e3ff590293482cdb5ae87245dd8631b357973c1444fd046
+FileChecksum: MD5: e911e4899872538e2c37efcf8feae29e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/ecdh/ecdh.go
+SPDXID: SPDXRef-item4101240
+FileChecksum: SHA1: 1aff470a6a7950217a328259982b3c3c397e6a75
+FileChecksum: SHA256: e06b42936679bb3698d3139569c31fbd9a233528d8d54179af3b1e81c33d7a86
+FileChecksum: MD5: 3405e75f3ae06bf067bda53830ad7d3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/ecdh/ecdh_test.go
+SPDXID: SPDXRef-item4101241
+FileChecksum: SHA1: 4bacb52275bba28bb8957fd0b2cda8b22d2f0d74
+FileChecksum: SHA256: 06afe944cee262ffa3da2697cae0dc09f1b61ce4431635a25308f67b6b179297
+FileChecksum: MD5: 05f4d7eaa22796140cef90b7b5317bdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/debug/handler.go
+SPDXID: SPDXRef-item4101243
+FileChecksum: SHA1: a8fa62ee1df99572c30cf470c12ea689c933bb6b
+FileChecksum: SHA256: 55646b4bb3caa96708006b46e45352cc8b84c8df52ec03071f7f111b02a39855
+FileChecksum: MD5: 46be4638661863f89b42060e615bc89a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/debug/handler_test.go
+SPDXID: SPDXRef-item4101244
+FileChecksum: SHA1: 5da342cc759931053d9dfdd11eb443554a2f58bf
+FileChecksum: SHA256: 23be60f1f54127fa05e0becf7ce046283eb5dae1caa36c992a55d40a50ec55f2
+FileChecksum: MD5: 9f76c6376cb527a42aa1c5a7694732fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/debug/state.go
+SPDXID: SPDXRef-item4101245
+FileChecksum: SHA1: 18db1c8d725607aca067f4f21a525259e6d1f592
+FileChecksum: SHA256: c7ea257092db8a3bd7183e859ec86bbc7f4cf332cadd173aa1e0db20c40e10ef
+FileChecksum: MD5: af0406de599cca18d5ed1cc4dbd780f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/debug/debug_state.proto
+SPDXID: SPDXRef-item4101246
+FileChecksum: SHA1: 59722de261deac1fc96ccc27b1f9106db4e5058b
+FileChecksum: SHA256: fb37886e75fb6126480350d21ec2b665b95ab53cd67e675d047a2f5a494a4c94
+FileChecksum: MD5: 1c66d143feac998eea3483eae54e61e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/debug/debug_state.validator.pb.go
+SPDXID: SPDXRef-item4101247
+FileChecksum: SHA1: fc77b3b20aa2a438859a7dc1255e562a21ce0bb3
+FileChecksum: SHA256: 1c1992f54105c312acfb921c1a2136bf4c01048369ec24c61cc3017a5e3c9fb0
+FileChecksum: MD5: 79420418a0cf47432fac601bd6b17bbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/debug/debug_state.pb.gw.go
+SPDXID: SPDXRef-item4101248
+FileChecksum: SHA1: d09da0015f2b97806b80faf41dc4883d71c80cb5
+FileChecksum: SHA256: 32290f14d2c8cd9ce37a8d0ebd0f5c3c6a7f3ae68c5da8e647e0c4afa81796d5
+FileChecksum: MD5: 82e8ece97aabf5f8971a31dbffbb7ff5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/debug/debug_state_test.go
+SPDXID: SPDXRef-item4101249
+FileChecksum: SHA1: c8efe747fb81aca000e0e8e0b751bbf21456d2f0
+FileChecksum: SHA256: 6b9645e40acf36bd3f56f54a95890f5760ca56d49933ba66f9d72aa9eca81b94
+FileChecksum: MD5: 12618dd4c574f0a02bb74fe94d2ddcfb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/debug/debug_state.swagger.json
+SPDXID: SPDXRef-item4101250
+FileChecksum: SHA1: 2f72e48dcbbeccef590e0e38d37fa454019eda18
+FileChecksum: SHA256: bec3e3d5df34488cdede7ff67c97548e7772d2a1ecadd7b73bc0e88cf11ee5d2
+FileChecksum: MD5: 04a04027e89f4c015133e190e6cbd3ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/debug/debug_state.pb.go
+SPDXID: SPDXRef-item4101251
+FileChecksum: SHA1: 3c42595592d996696ed69abb3c7ce2548257c262
+FileChecksum: SHA256: 67a27f2c5d217f3c55f926e46d4e4f30bb8281568363edc01fba3090626ca707
+FileChecksum: MD5: 57a881fb4f5b38cc4314ecbc9d6e52b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/debug/doc.md
+SPDXID: SPDXRef-item4101252
+FileChecksum: SHA1: d968f1d0622db9f569109bec773636ab3cdaf74c
+FileChecksum: SHA256: bcb7f0632a9c0219e0e3d33ec2fc3c66b1308dfab93626b0d0b8b2b921f73d1b
+FileChecksum: MD5: 7517c9f84fd2e0f91ef1cacdb3fa7bad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/debug/debug_state.pb.cc.go
+SPDXID: SPDXRef-item4101253
+FileChecksum: SHA1: ec44a7ac4a2212960efb4c6b8efcde80d886d89e
+FileChecksum: SHA256: 80f6d487eb8be13cc235976b8c2351f84882184e39ed31c510d88204f2eb79f4
+FileChecksum: MD5: c28eedda9e2335e67e5724aab0610259
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/debug/debug_state.go
+SPDXID: SPDXRef-item4101254
+FileChecksum: SHA1: 1e677191727672aafde89d6dd9bcae8eb7bd80d6
+FileChecksum: SHA256: 0aa88feb7a8d1013b84f444f3da6e50bffb30f4bf104bc72c85a29c549e23574
+FileChecksum: MD5: c1c01619abc9cffa0c0d672383b52963
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/buf.yaml
+SPDXID: SPDXRef-item4101255
+FileChecksum: SHA1: b855e0c3786bfe7229352233c4916d3a8fb5ea8a
+FileChecksum: SHA256: f8944b234c108fee011fea12500c03d462597dfb6d69b0cb4e2c8446c95cae1d
+FileChecksum: MD5: 816ed935f4ac5083a63599bff903251e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/account/account.validator.pb.go
+SPDXID: SPDXRef-item4101257
+FileChecksum: SHA1: 78b12de00c2b03b4736c15de327b8a955a1d10ab
+FileChecksum: SHA256: a28831995976dc038c3ad4aab1657fc9009b21f3892887ed55c298a4ea77236c
+FileChecksum: MD5: 29d842f7488e553e643285b0d1806b36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/account/resolver.go
+SPDXID: SPDXRef-item4101258
+FileChecksum: SHA1: 4a2d65fc21c48b4a95657c18f0d84ebadf0229dd
+FileChecksum: SHA256: 1396efdfa36ad5d3e0944cdf418558a8e4d1eb29fb35cc0b67ed9e9eddca43a2
+FileChecksum: MD5: 8664c9abc52751ad0bc96b092b7a41ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/account/account.swagger.json
+SPDXID: SPDXRef-item4101259
+FileChecksum: SHA1: ecb1f53a60e9476c0a2f3ccaa1f5c9d5efe7436e
+FileChecksum: SHA256: e649e8e8d9b163cba6b181f33b16427374f7ae0a98a0240e7fe3313a51583b5c
+FileChecksum: MD5: 6f35fe1ddcf7ad2046a0780333b81aff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/account/account.pb.gw.go
+SPDXID: SPDXRef-item4101260
+FileChecksum: SHA1: 1ace3ad1fe4ea407fe3883500d0381035fb74755
+FileChecksum: SHA256: 8d41273f9d970256fd87bf05d63145ab74d5dd6ddedaffb2a631e41507d74b7a
+FileChecksum: MD5: 5eee3e525fa13aebca3e68916a53b4ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/account/account.go
+SPDXID: SPDXRef-item4101261
+FileChecksum: SHA1: c7c983b61b1419a4f14b747ec1152665839b9ec5
+FileChecksum: SHA256: 509f97063fd442349f28451fb88c75451a3bb89045387f7eeb8626b482011466
+FileChecksum: MD5: 35b624f527c69375588402d73232ff66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/account/account.proto
+SPDXID: SPDXRef-item4101262
+FileChecksum: SHA1: d80e3c66c468b4d6e88fed83af4cfd9f4e7bc4b7
+FileChecksum: SHA256: d9a08a2d86a3d83dfeb5451df4fb7f66c4a160258c984022aeaf2c31d0112ea8
+FileChecksum: MD5: 8f96522f259d5ce8ca10b395eb99a1ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/account/account.pb.go
+SPDXID: SPDXRef-item4101263
+FileChecksum: SHA1: 35b7ce09416ebde1c4057de317a6f45e5171398b
+FileChecksum: SHA256: 4f39287cdc335d5f0a58ba81f1b0a1ce111f14b782b43e7f17b96b9c258b12ce
+FileChecksum: MD5: 48b7315013d2e2385d79721fc9ce23e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/account/account.pb.cc.go
+SPDXID: SPDXRef-item4101264
+FileChecksum: SHA1: dd2ca85d91c95f616c2995bb27b43204e23debc5
+FileChecksum: SHA256: 559d5ae309c7b20f79abf27ab9b54623863a4333fd51e5c5408e4229e7bc948c
+FileChecksum: MD5: 32009f9ab9a97dedf7c8e7be424af119
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/pinger/chaincode_pinger.swagger.json
+SPDXID: SPDXRef-item4101266
+FileChecksum: SHA1: dc1e97746ca5935ad7895ec57a8bb0d7642bcbcf
+FileChecksum: SHA256: fc83d5b8e24632e84866dbe91d33cae66db19a3617f6a71fa57e1d81b923ba64
+FileChecksum: MD5: fe4c4b4aff3eb900feda375fcf8732c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/pinger/chaincode_pinger.validator.pb.go
+SPDXID: SPDXRef-item4101267
+FileChecksum: SHA1: 28b63f5f74e59080dffdc7608946fd1488b495fa
+FileChecksum: SHA256: efdb3305312d86d8032e74bd9acf38b1b32b6e91ff5970dd9fbc568fdb1d49fe
+FileChecksum: MD5: cfc62c3e6f75235667b18b95da5ee9dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/pinger/pinger_test.go
+SPDXID: SPDXRef-item4101268
+FileChecksum: SHA1: 24bc1e0f7b93f2b13ebc1570f12fc8b5132fe79e
+FileChecksum: SHA256: 133d6c482a8421de41c0ac1c01e4a53be8677ad1ee2512112ef80061397de2f3
+FileChecksum: MD5: bd7040316c1e1ef7580420f713cb4c40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/pinger/chaincode_pinger.go
+SPDXID: SPDXRef-item4101269
+FileChecksum: SHA1: 44e7a61348f36fd099229283318d92578a79e8df
+FileChecksum: SHA256: 9aee7ac9310a763c5f6c517721b6fdb046f50ab176842de6ed8cd4be4a499bf1
+FileChecksum: MD5: 358204eb22a5d34ba9870018f634f89d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/pinger/chaincode_pinger.proto
+SPDXID: SPDXRef-item4101270
+FileChecksum: SHA1: 5bfb2c151fa7fb65b8f5a8f769d783f37ff87ffd
+FileChecksum: SHA256: cf7c3975b0e0cf69d11a9936ae73f489112a179ef1807cfe413c479d5c42e33e
+FileChecksum: MD5: 2d33ef3ee65f91a769595731f36a7866
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/pinger/chaincode_pinger.pb.gw.go
+SPDXID: SPDXRef-item4101271
+FileChecksum: SHA1: da8dc874e79822f3ad3e84b921eeb85dacc77ab7
+FileChecksum: SHA256: ba1db32b859b5db33b289a3d67af3c94d9374b5478eccf40ece1e79254784035
+FileChecksum: MD5: 50c9fac0d03907f39f4b7d4a4d9c1a33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/pinger/chaincode_pinger.pb.go
+SPDXID: SPDXRef-item4101272
+FileChecksum: SHA1: a367d0463d97e89bfffbe32641fde049bbe607ec
+FileChecksum: SHA256: e9395ccfda8f479b0cc62826146994797a4b316abe748821d868daa9a1e3a684
+FileChecksum: MD5: f50042a47db142d79b9dadb1a685da85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/pinger/README.md
+SPDXID: SPDXRef-item4101273
+FileChecksum: SHA1: 0d5416f47a942ec048294f604e395747cfa81a3b
+FileChecksum: SHA256: 46384882219383bd3fc05b989c72289168ad713375c625a1b03087ebd8800e94
+FileChecksum: MD5: fc31a188a03de411d848590dce69f141
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/pinger/chaincode_pinger_test.go
+SPDXID: SPDXRef-item4101274
+FileChecksum: SHA1: e1d6e9689f23c7eae58961225907617c7b0537b1
+FileChecksum: SHA256: fba9e66b4e96bd36fe31c88a21b745ff713c3d8f414a89656f5e965de2a9811f
+FileChecksum: MD5: 213b51c477341a58e4fd83bfa1c4f8f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/pinger/chaincode_pinger.pb.cc.go
+SPDXID: SPDXRef-item4101275
+FileChecksum: SHA1: b6aa90e31d600a683b8c1482119ab3e7bb059a4e
+FileChecksum: SHA256: 919aa4f2540cf7ee54be7fba0560234b7a0f8edf74c38e66eaecb925cdd43f9c
+FileChecksum: MD5: 16a213496dd1c37a0e65f480a51d0cc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/pinger/pinger.go
+SPDXID: SPDXRef-item4101276
+FileChecksum: SHA1: 879a88ca10417c5858ac8ad42fa3ec6495e91609
+FileChecksum: SHA256: 6cbe1909b35353e119e43057d738c7312e27eaf12a603512875e3de6492425bc
+FileChecksum: MD5: e9817b442ac1a51e63741da830ca21f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/pinger/consts.go
+SPDXID: SPDXRef-item4101277
+FileChecksum: SHA1: 878c8e2e385e5b51dda02c13cf130284e9815dc0
+FileChecksum: SHA256: 38affe2cf6f9743d48b6f68401537e3b9fa7a4802a3251b303095c967e01bdb2
+FileChecksum: MD5: a9d967dea53ff3e21234e4ca41b7c2fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/owner/owner.go
+SPDXID: SPDXRef-item4101279
+FileChecksum: SHA1: 732dd3b4a87bf543c33c8c214eee21fbc164c3f0
+FileChecksum: SHA256: 34c7d7b011bb62ee8bc0d4650dcecad45c43dcdf84ec54f46a04a16abc59ea03
+FileChecksum: MD5: e3b77af42f999d10a4dee8481593a426
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/owner/chaincode_owner_test.go
+SPDXID: SPDXRef-item4101280
+FileChecksum: SHA1: c5df41170bba0534437cd2709eef3be399aae76c
+FileChecksum: SHA256: 7cb7d23925548e157d8116aee0ae86110e5e4f842da6aded276c8869db77f23e
+FileChecksum: MD5: fe434ca88711ba1d5a267148cdbf6732
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/owner/chaincode_owner.go
+SPDXID: SPDXRef-item4101281
+FileChecksum: SHA1: f43bf3eba713ac38d7e88f35126c7f22d68beea3
+FileChecksum: SHA256: 2ba5361f139893f34f9602230a16ff334ea8a3554121bf3163cc92631dd44644
+FileChecksum: MD5: 4fe2f752557961b238508b3ba0da3282
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/owner/modifier.go
+SPDXID: SPDXRef-item4101282
+FileChecksum: SHA1: 945839d582aeac4d0caa55b0759f3dc8b017ecd2
+FileChecksum: SHA256: 0f46f4831af805618c6f80b846d203ef857d2779975bfa3c944f1aced4ed6155
+FileChecksum: MD5: aa16f993e8a0084a6f5a1b4ff95030c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/owner/owner_test.go
+SPDXID: SPDXRef-item4101283
+FileChecksum: SHA1: 89da6c35ee771c7d9defda933189d211164a8848
+FileChecksum: SHA256: 9029cb1b08a42c1bab9e22e1747c78bf343f9816ebf7c50564a3ec7aa590edd5
+FileChecksum: MD5: 4643506ccd70278b49a1cf11284a98af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/owner/handler.go
+SPDXID: SPDXRef-item4101284
+FileChecksum: SHA1: dbcbc1e117f739363b652e854e5ea13a98f7fcd2
+FileChecksum: SHA256: a4b8f15578c651a5292593b5d7f752e45e0f6fdbd79d03c238d996ad38bcf4be
+FileChecksum: MD5: 6b75d088bfbb4dc4a9f51a32d55063db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/owner/chaincode_owner.pb.go
+SPDXID: SPDXRef-item4101285
+FileChecksum: SHA1: 1c06313c898641af096ba666b2d55aff57455c66
+FileChecksum: SHA256: 172715d42273c71ed40b76b1e86e173e1f4021c60d2659b71f669f571a0dce04
+FileChecksum: MD5: cffacf551d440749277a2d47f0e21658
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/owner/state.go
+SPDXID: SPDXRef-item4101286
+FileChecksum: SHA1: 1ce709d226610ea43999499ca18feb7144a29e95
+FileChecksum: SHA256: 4ee2382ac9c1442584d131c6c2bced304c7df95c58ea8540e186db445fce0a82
+FileChecksum: MD5: b8195a0073329dbd0bfe61555d2b1ed5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/owner/chaincode_owner.proto
+SPDXID: SPDXRef-item4101287
+FileChecksum: SHA1: b68fc50ea4b9aa225be0d67b1408f4772065e069
+FileChecksum: SHA256: 908f8f22c539b462395bb0b798f1cb061ec6969387b62d65238767d5acfebed7
+FileChecksum: MD5: 2cb27597d5f4d13df4f95d6eefb06ea2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/owner/chaincode_owner.pb.gw.go
+SPDXID: SPDXRef-item4101288
+FileChecksum: SHA1: 95fa2015eecbcc1b478761ec2902787772bee9dd
+FileChecksum: SHA256: 930e47abe17a41ae7bb7bdb92a1cba3120ecba0ec6ff48aa6cee4c6399b797b0
+FileChecksum: MD5: 0cb315645105f53ac465f10752b6db0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/owner/chaincode_owner.pb.cc.go
+SPDXID: SPDXRef-item4101289
+FileChecksum: SHA1: 583deb2c9523a0571b4cea5692e415885019ce2e
+FileChecksum: SHA256: 1405218c04c18c8ff91c623fa44ad424eb64d604ad3a203d1e489b03b9e4dc6e
+FileChecksum: MD5: 7c91cbce6ffcfb13a65b24ea75b7bc36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/owner/chaincode_owner.validator.pb.go
+SPDXID: SPDXRef-item4101290
+FileChecksum: SHA1: e06e3081b5e33818f5d200d5117cd9229ffe0df7
+FileChecksum: SHA256: df9dd954624be002b0092a4814a723baf4e401fce732bc9f283be41a0e7f6183
+FileChecksum: MD5: d0edfa911c0ffc925a95cbf59abdf180
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/owner/chaincode_owner.swagger.json
+SPDXID: SPDXRef-item4101291
+FileChecksum: SHA1: 6a3c088fd987407b11f8275bd1c927187cde7d2e
+FileChecksum: SHA256: 1f2f231b4a36610aba746dbbd64f1430f5c5c99fb3a2f36d744e826a6737a925
+FileChecksum: MD5: a11cacbb4df6cc2d9e950823663b2d7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/owner/README.md
+SPDXID: SPDXRef-item4101292
+FileChecksum: SHA1: dbbd63ecbb245213bbb2309c8c127092f703089f
+FileChecksum: SHA256: b91c033f6454d39b7c022f11136fa9cbde78246158a581e1d173f6d781e87a56
+FileChecksum: MD5: 71b55a980c314cc7ae2c7f73a37563d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/crosscc/cclocator_setting.pb.go
+SPDXID: SPDXRef-item4101294
+FileChecksum: SHA1: 97c6a511d9427fa222365ff9a6ba993811600930
+FileChecksum: SHA256: 921cde7335ab041ae8f1dbe8de2e9c0d37cd28952eb6e939c95dadab293ab7c8
+FileChecksum: MD5: 2fec14f531b193b96815cbbcf142257c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/crosscc/cclocator_setting.swagger.json
+SPDXID: SPDXRef-item4101295
+FileChecksum: SHA1: 18d2cc8d842c6fad984cca5caa22e2f956ba3af7
+FileChecksum: SHA256: b1795448b895e1ab06d1453e5bdaa68299fc9dbccc6ef232cc28e01bdcd5e98e
+FileChecksum: MD5: 137ce47917859ef0ecded58573c34711
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/crosscc/cclocator_setting.pb.gw.go
+SPDXID: SPDXRef-item4101296
+FileChecksum: SHA1: 470027a99643b9de9205c27b2febd098cefff696
+FileChecksum: SHA256: 35bf426ff2cb56a245bfc01977e556bdda21adf7c9520995ce6870afcef167f2
+FileChecksum: MD5: e0f352e3884cbdfd1557a371587ef6bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/crosscc/state.go
+SPDXID: SPDXRef-item4101297
+FileChecksum: SHA1: bc35601268dd92c10760957e7119ba083cd308c3
+FileChecksum: SHA256: cd1f5965ae9053e518a178eae3b3cc609b5e6059fced4c1f5940031071f01e4e
+FileChecksum: MD5: 70bbccec8b898fc3047117938247318f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/crosscc/cclocator_setting.validator.pb.go
+SPDXID: SPDXRef-item4101298
+FileChecksum: SHA1: 1c0a36a4e7f6803872ae899252b5d79cebd27e66
+FileChecksum: SHA256: 83758db1fea27cd25b848ba209d544bf18e63e6a07692fd5933cc890bacff365
+FileChecksum: MD5: 968017b39d1e48988626f0af8b67b149
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/crosscc/cclocator_setting.proto
+SPDXID: SPDXRef-item4101299
+FileChecksum: SHA1: 8a5631c9b4716a795cedce91d9e75afec5d72d58
+FileChecksum: SHA256: f39ecfd56def82a60da8d395d4a708a0ebb38c75a5f86c962d2e27dff346d500
+FileChecksum: MD5: b14eeddea297ccdf77db2394acd885ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/crosscc/README.md
+SPDXID: SPDXRef-item4101300
+FileChecksum: SHA1: 5a1a02568328a6afab013a510f3662ae227ac264
+FileChecksum: SHA256: 184d3856e1ee8529868aae80516dddf6c49c10675360d2e14ca7977b35d259ee
+FileChecksum: MD5: 8f265f85eb409f5c902cc8f65ba93527
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/crosscc/cclocator_setting.go
+SPDXID: SPDXRef-item4101301
+FileChecksum: SHA1: 6597d7e10bcb0e9e8176051b38665ba11b2e9c63
+FileChecksum: SHA256: 59a17d174ba7dfb686af8e2e3c5e17ee3fd17a80941ba5f2fc2c6e13e4d98e4a
+FileChecksum: MD5: 2022c8c5aead6358368ee4a55e470395
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/extensions/crosscc/cclocator_setting.pb.cc.go
+SPDXID: SPDXRef-item4101302
+FileChecksum: SHA1: 83bb2055bd811561e3ce5f7e0206dff02b4d58ad
+FileChecksum: SHA256: 717144b9dc5158afa886b76d96ff1fca653039234efe64000229fbbdb7ed4ef3
+FileChecksum: MD5: 36200e799262bcf406772e0d85bf8ab8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/buf.gen.go.yaml
+SPDXID: SPDXRef-item4101303
+FileChecksum: SHA1: 206a703020881fd1c192a97720755a4e825cf7e9
+FileChecksum: SHA256: 022e3033be75fdc3bb3ce42bd72de2a230d7265845108573463bf0f9034832bf
+FileChecksum: MD5: 4caaf9336213645c4dcb6a62c4a94b5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/bin/chaincode/main.go
+SPDXID: SPDXRef-item4101308
+FileChecksum: SHA1: a212ab24056597e9fc22aeef87505daa85743b76
+FileChecksum: SHA256: 850e7101aff3ec2f101e2b19bf9fc40936297ad96b9842af800464c8fa82e112
+FileChecksum: MD5: 6773c483ef2cc49c77a7eaa0a71462e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/bin/api/payload_cpaper_2_issue.json
+SPDXID: SPDXRef-item4101310
+FileChecksum: SHA1: 42a063a96e9f1038bfd46835d586d93adf593ff7
+FileChecksum: SHA256: 6869b33c514d3f601bd32f7ddc2ce41c3634edb1820119bdacb3067ed951601c
+FileChecksum: MD5: 674c42dce91f5b26b91e9e6144a5326b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/bin/api/get.sh
+SPDXID: SPDXRef-item4101311
+FileChecksum: SHA1: 7b5c09fe7734580ffd6da32be255d48b14650166
+FileChecksum: SHA256: 9ec26a7f2db6f59454b323192eb7c3a5c3605dd40d4ff2a228896fd49c3bf8d1
+FileChecksum: MD5: 1e44dafbfc389c1c473ad10af8c28a9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/bin/api/list.sh
+SPDXID: SPDXRef-item4101312
+FileChecksum: SHA1: 6253c173f83004ca15fe585052e052208aca7986
+FileChecksum: SHA256: f9631a7e4876bfe1b856eb1b23a548a215c786c40b6c06003cee96ff58820b06
+FileChecksum: MD5: 60c62d6c6023dc430a9bd38e5acc2abe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/bin/api/mock/main.go
+SPDXID: SPDXRef-item4101314
+FileChecksum: SHA1: 4240f923270b9c839ae5c219a9655e10dbdec67c
+FileChecksum: SHA256: 4041dcb96296e13ce4ed95c9571261161420533666cc6ac2657f39115a699511
+FileChecksum: MD5: e868d81db404368e941725d2ec918f72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/bin/api/payload_cpaper_1_issue.json
+SPDXID: SPDXRef-item4101315
+FileChecksum: SHA1: 6581ef1918773b29e291e0849af593be8b4597d2
+FileChecksum: SHA256: 1b46837f955ae5ed586050f588f4f023af18359a75e05f4fec5e0137e89f7d3b
+FileChecksum: MD5: 5913297a1e7970d42e5172b566bd50eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/bin/api/issue.sh
+SPDXID: SPDXRef-item4101316
+FileChecksum: SHA1: 742783446e9a67bd83250d93a7121996f01f10ff
+FileChecksum: SHA256: a96a483fd028af3d710640aa92192788fd341e65590a4646dfe73c16530e10c4
+FileChecksum: MD5: 20a44c09f158d97e7827a70272c19aae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/bin/api/_common.sh
+SPDXID: SPDXRef-item4101317
+FileChecksum: SHA1: 71f5ffcf92368473543550319d9d173ffd4cab6a
+FileChecksum: SHA256: 6e0da23da8143ec16f742ce4306b53311eaedf580ac6daebf6334def7a9ed0f0
+FileChecksum: MD5: fdd61bfe415516da9e1d90aa90a06641
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/cpaper.swagger.json
+SPDXID: SPDXRef-item4101318
+FileChecksum: SHA1: 59f9247d7d23c62e86d5e4dd4abb26cf3c99b1b4
+FileChecksum: SHA256: cde15ddf45509a9f1a6a712b8fe671af354fa28aa2e59b9f736e372d6231c6ae
+FileChecksum: MD5: e33b766671132f17d89b0d2633cfb123
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/cpaper.go
+SPDXID: SPDXRef-item4101319
+FileChecksum: SHA1: 5189ad02ca68d6bf4103d05c78e9b8368b269a9e
+FileChecksum: SHA256: e3798d82bc8ab5ed31589d5bf84b76b4f2f05d5b37fdf4929f8da3bc121f0b8d
+FileChecksum: MD5: 761a16e70ccbbce8d4e963960aba3ebd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-commercial
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/cpaper.pb.cc.go
+SPDXID: SPDXRef-item4101320
+FileChecksum: SHA1: 49bd86c4eb43dc609c51bac1246443220acc1c5e
+FileChecksum: SHA256: f69aeee65a6bcabf0cb687d27666e884a01f7ccc46c4060bdae15703451dde16
+FileChecksum: MD5: f73c7f2771ea52fbb2b99c906679f06a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/state.go
+SPDXID: SPDXRef-item4101321
+FileChecksum: SHA1: 80ebc0aeee6f0aeab00a868b54db86f00f63e7b7
+FileChecksum: SHA256: 91b6000135f2c6f753dc0ceb90904897e3ae24c6b21539ce94583d5232969271
+FileChecksum: MD5: a1f3aa80a7500e68934a8bf8f3e34f83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/cpaper.pb.gw.go
+SPDXID: SPDXRef-item4101322
+FileChecksum: SHA1: f6ba5643bafa7b8cc6ea4c170ad0163a5edfad7a
+FileChecksum: SHA256: effa896f9dc41b44af83ffe99acccf5900dd57b1e3440155e2303db2cd99c89c
+FileChecksum: MD5: 6eeb8dfb75e1f39d95b2eccd4070b358
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/chaincode.go
+SPDXID: SPDXRef-item4101323
+FileChecksum: SHA1: 4443dccc10e10ef236e2f9ba691adac1c08c7694
+FileChecksum: SHA256: e3b9fa101b586a7da1248fdd3a23c7ce71faecdbed90524e55c135f11f593017
+FileChecksum: MD5: 0deee45592ac8ccc456f3694dea1da6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/cpaper.proto
+SPDXID: SPDXRef-item4101324
+FileChecksum: SHA1: a34644fdd1ee39f95e0af44efe7953533f298347
+FileChecksum: SHA256: b03e26672e41109739d06dd2c51e3005b6ab0f679ecf9ae005ad4b5cdd998c31
+FileChecksum: MD5: 86f10df5285b1083dbc3cf07f29bb5eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-commercial
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/testdata/cpaper.go
+SPDXID: SPDXRef-item4101326
+FileChecksum: SHA1: 29d797f61c6150ad75cf5c92180b1372878fca83
+FileChecksum: SHA256: 264b1139278e14875761944cf4a7c7dbae6d93bc5c0c4b2f27140ab91b3086b0
+FileChecksum: MD5: 00bf36356b7e87fcfbe211b39b1fd1ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/testdata/admin.key.pem
+SPDXID: SPDXRef-item4101327
+FileChecksum: SHA1: 2427cd57da3a139c1c90a856aae1380f1f97d151
+FileChecksum: SHA256: 215a67ced7603ebfa4a2bee6ff4399f6896031a7ee1e3473f8b880bcfa0540cc
+FileChecksum: MD5: 42128ce3c0a7257500e66670e59d0589
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/testdata/admin.pem
+SPDXID: SPDXRef-item4101328
+FileChecksum: SHA1: c47ed3615222611c271ea1aaf847e70b972d2a41
+FileChecksum: SHA256: 48fa2138daa6828607d6aabb60a73500c8198012bc827b412c5bcb576c5bf8ab
+FileChecksum: MD5: f537ae2d22fdc6533e9b6b7af5d4b712
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/chaincode_test.go
+SPDXID: SPDXRef-item4101329
+FileChecksum: SHA1: d6462ccd2fa8ceae52d7d853aec6bc2eb0debeea
+FileChecksum: SHA256: 4ffc47f45ea0974e1f0b31e21aa2d101485f76c51e24675cffc8478a4a24dbdb
+FileChecksum: MD5: cb77f5b13e44f4f036799e1a6104a63f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/cpaper_test.go
+SPDXID: SPDXRef-item4101330
+FileChecksum: SHA1: d3e92b25595f7f83138d3db77b8e9c420a54abd6
+FileChecksum: SHA256: b2ce36620e6a7059bf847e63bc68d2a5baeaa684cacde5af38e412922a391df1
+FileChecksum: MD5: ac864215622ab27368945e0d0035d833
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/cpaper.pb.go
+SPDXID: SPDXRef-item4101331
+FileChecksum: SHA1: 1ece447efecf9762047be237c249fee37fc2e8d3
+FileChecksum: SHA256: dc0a51d113da3379ab4ddf536392fb4fa70e7a228030564b37c29fdf62c093a9
+FileChecksum: MD5: b5abe2d41214cf62e32c8175b050898c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_asservice/cpaper.validator.pb.go
+SPDXID: SPDXRef-item4101332
+FileChecksum: SHA1: 72f66f2ceead4a9fcc363d4dc18657934717f8c2
+FileChecksum: SHA256: 0e7e12993958c4a049b0c5b6125fe83d1cfde510ada52f8602f683b1e80e75ec
+FileChecksum: MD5: 758a38030bfc55b9b423346a5baa1461
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/private_cars/bin/cars_noac/main.go
+SPDXID: SPDXRef-item4101336
+FileChecksum: SHA1: a7cb091dc14ad25abf0a5dd90ec5920f77cf1b99
+FileChecksum: SHA256: dbf1c8683dc957c24e2ed2c812750fcf4f00a6d5b09d554bae3142a325920b37
+FileChecksum: MD5: 1d2dc80fc5d1cb31ff163654f4e08fdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/private_cars/bin/cars/main.go
+SPDXID: SPDXRef-item4101338
+FileChecksum: SHA1: 4ebbefb573b5e29715a1ee9ab9b97efddaecce1e
+FileChecksum: SHA256: 28a5587e61c5936d2eeedc7003ee3982e85afefa14ab71afcfdeacde80b255d3
+FileChecksum: MD5: ce0e45e9af8292b19808c4942711ee4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/private_cars/cars_noacces_control.go
+SPDXID: SPDXRef-item4101339
+FileChecksum: SHA1: 72a395a1b80895f2e1d7be8f4ef0bf80920ffc97
+FileChecksum: SHA256: ba80aa07c1a2a140076aa0b0f68d151be4bc1b706e5ac72f0e80d563e6ad21d5
+FileChecksum: MD5: d569c2c03e901e6f4b216d1e225ec438
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/private_cars/cars.go
+SPDXID: SPDXRef-item4101340
+FileChecksum: SHA1: cfa9c1bd605f5d74acf64ecd2abdc29bebd7577c
+FileChecksum: SHA256: 7e770410fe87d0a802f51967bc95e02d07e37600896a257ee682e8b8b0d41375
+FileChecksum: MD5: e72effe30752abde2e3a6af3877a5ac1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/private_cars/cars_proxy.go
+SPDXID: SPDXRef-item4101341
+FileChecksum: SHA1: 9a7490a474d0becb78cd6660382dd116d67925d4
+FileChecksum: SHA256: a34e0c68d7470fece5791f06431ac257d0a7de9a9dae8653b124a622d2bedb70
+FileChecksum: MD5: fc63a98eee28cb0a511f6d44cc96ae87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/private_cars/README.md
+SPDXID: SPDXRef-item4101342
+FileChecksum: SHA1: f4a1058d3669f70af0021e0706668949c5e02f57
+FileChecksum: SHA256: 1514100735b2e2714cc53c3946f8fcfb64e197cb7e9de976039fcfc56351ac27
+FileChecksum: MD5: 03e534fc2ba05968eb6b0cf4a3e7dec7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/private_cars/cars_test.go
+SPDXID: SPDXRef-item4101343
+FileChecksum: SHA1: c56854942f8bca16cc759680f500bb1d03ceda11
+FileChecksum: SHA256: 47cb2acaad737b6bcdcba1e0685a4fc44a1e7736a34bd7c8bb285cd8840870ec
+FileChecksum: MD5: dc7e32a601a1a1c4643c0ced0b397276
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/private_cars/payloads.go
+SPDXID: SPDXRef-item4101344
+FileChecksum: SHA1: fb8a53a1a228d9a5544943b8813c5dd46090b09d
+FileChecksum: SHA256: 799191e1d19e4f71353c0462037ae31e60780998d99bb6a18fcce33546526a69
+FileChecksum: MD5: 5238726ff58da95b08032db1f7e8ed58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_extended/chaincode.go
+SPDXID: SPDXRef-item4101346
+FileChecksum: SHA1: b97a4d6147bf3d660c626f37c1dae724c0e073e1
+FileChecksum: SHA256: e8c801f863bb3de8bf4b86376683fc4370a47aa8e853e6a7ba738313a6a2c668
+FileChecksum: MD5: 7bfca4c2b0ec1b8b159e09b138b3c0c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-commercial
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_extended/testdata/testdata.go
+SPDXID: SPDXRef-item4101348
+FileChecksum: SHA1: f413a3233bf6146c6b77d6c043f3093023ea4558
+FileChecksum: SHA256: 14660fbf5f11f1c2d371fa3cbbd916520e2050c7de1361f32c14a1736be01a71
+FileChecksum: MD5: fda2d7e39538ab11b14d5820d9579b5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_extended/testdata/admin.key.pem
+SPDXID: SPDXRef-item4101349
+FileChecksum: SHA1: 2427cd57da3a139c1c90a856aae1380f1f97d151
+FileChecksum: SHA256: 215a67ced7603ebfa4a2bee6ff4399f6896031a7ee1e3473f8b880bcfa0540cc
+FileChecksum: MD5: 42128ce3c0a7257500e66670e59d0589
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_extended/testdata/admin.pem
+SPDXID: SPDXRef-item4101350
+FileChecksum: SHA1: c47ed3615222611c271ea1aaf847e70b972d2a41
+FileChecksum: SHA256: 48fa2138daa6828607d6aabb60a73500c8198012bc827b412c5bcb576c5bf8ab
+FileChecksum: MD5: f537ae2d22fdc6533e9b6b7af5d4b712
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_extended/chaincode_test.go
+SPDXID: SPDXRef-item4101351
+FileChecksum: SHA1: d74b33cc8b40d3d723344f6c8ea06eb30417670f
+FileChecksum: SHA256: 0a5f701c2e8152eaf7641dfde77fb8d36fd2e425255f19f60834854df702464e
+FileChecksum: MD5: 47b62d1d47aa4c94d46c69477be2a678
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_extended/README.md
+SPDXID: SPDXRef-item4101352
+FileChecksum: SHA1: d61fd1d5ca4e690881b93d6e7e824839a2709d8d
+FileChecksum: SHA256: 899e1601021f770e9b38b78ccf3f34d33aec2d662dacd079f95fb260ee50dd8b
+FileChecksum: MD5: d79a1036206f5ff87ee8c692ec8bfe97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-commercial
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_extended/schema/payload.pb.go
+SPDXID: SPDXRef-item4101354
+FileChecksum: SHA1: e1bef52645e308e04224b6b7402e17eff1c73d51
+FileChecksum: SHA256: 06ce19c98d66c31ed6ac96d59a7aff634a32d01c4124c9583ee92b103f4e16ea
+FileChecksum: MD5: bcb882b3a2798f5643fb986e30a14fea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_extended/schema/state.validator.pb.go
+SPDXID: SPDXRef-item4101355
+FileChecksum: SHA1: 139d51982f2014ec23a140b19fb36302b1ae0141
+FileChecksum: SHA256: e744ac81248257faf31daac647ae0479ed3734b58247fc7807b340dc8bbeb76f
+FileChecksum: MD5: cdf4cf7fdd5c1f2a4ff14debed78b5d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_extended/schema/payload.swagger.json
+SPDXID: SPDXRef-item4101356
+FileChecksum: SHA1: 905460a8434b1fc9459b66e196bafc3871e2ff58
+FileChecksum: SHA256: 7e0124663cf5eab6b00808366ad0fe5b25c1fad5c8468b9c4cd05acb58344609
+FileChecksum: MD5: 9580a2281d6dcefe69743aadf641727e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_extended/schema/payload.proto
+SPDXID: SPDXRef-item4101357
+FileChecksum: SHA1: dbcfbd3e21784c913efac177da46957d1d40e28a
+FileChecksum: SHA256: 9d08630724efc1cbc24bff0db7984c1bbc9074bbe73702e8b9e049e9f2ea8843
+FileChecksum: MD5: 792e45f5be73bf46a6c9a0b9d4de9055
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-commercial
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_extended/schema/state.pb.go
+SPDXID: SPDXRef-item4101358
+FileChecksum: SHA1: 2c70b5e35b521ef01dd8d103dd29e97baf87bb4b
+FileChecksum: SHA256: 84d516cbdb8c490a20835857193a26300b5f46a57dd6be150465d624aee87219
+FileChecksum: MD5: e492cfb9e95d405085697ebd0b6bfee1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_extended/schema/state.swagger.json
+SPDXID: SPDXRef-item4101359
+FileChecksum: SHA1: ec88de9970642c993121f098f8c24edb803acf14
+FileChecksum: SHA256: aff60dbae37ba18b08c55ca39783f3e9c47636cf3d9b81eebf63d6b0677b4fb6
+FileChecksum: MD5: e4cac27b652697d7ef8e388ba65682c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_extended/schema/payload.validator.pb.go
+SPDXID: SPDXRef-item4101360
+FileChecksum: SHA1: 520fccf29de3aee450cad8594bec2d418d6ee54b
+FileChecksum: SHA256: 8edcb2a86e8bb7e762f14070544e1a9ccc35f0700b6ae3fad03712920a3b8a55
+FileChecksum: MD5: 9735ea7e0ad73f078fc3d4732ee62bc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_extended/schema/state.proto
+SPDXID: SPDXRef-item4101361
+FileChecksum: SHA1: 884102a688e11994f3d069997cf026fa0299e125
+FileChecksum: SHA256: 829d36753056087490d4b71f2b7aaf7f234ab866ba5408e824b1ff7091caff2a
+FileChecksum: MD5: 796b160f0892499ce721c9462c6a3885
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/buf.yaml
+SPDXID: SPDXRef-item4101362
+FileChecksum: SHA1: b855e0c3786bfe7229352233c4916d3a8fb5ea8a
+FileChecksum: SHA256: f8944b234c108fee011fea12500c03d462597dfb6d69b0cb4e2c8446c95cae1d
+FileChecksum: MD5: 816ed935f4ac5083a63599bff903251e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/fabcar/bin/main.go
+SPDXID: SPDXRef-item4101365
+FileChecksum: SHA1: 6d767435a6491cf5d843d592f8cb4e66bbce1773
+FileChecksum: SHA256: dbe00923b0a143f0a76e5e71e8f7559a497431ba0590e7a613022e5078172caf
+FileChecksum: MD5: c41d63cd851e9c72361da0eaee7d3933
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/fabcar/fabcar.pb.gw.go
+SPDXID: SPDXRef-item4101366
+FileChecksum: SHA1: 4e89e8350d6007d1254320045d0935d6df9b5225
+FileChecksum: SHA256: 79223c2aae9260efb951af5653c0b714e0e2b0ce305dda1736a828dd3902a2de
+FileChecksum: MD5: 3e40e67987bc956abfec97cb0b33fafd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/fabcar/fabcar_test.go
+SPDXID: SPDXRef-item4101367
+FileChecksum: SHA1: b2efbc174599ada8b92d25c1b11e71c6df0807fd
+FileChecksum: SHA256: a5af957cf99ab750957cf723a78c975c08dcec5ed0f03243baa582cb177465b3
+FileChecksum: MD5: f58d77eb33b1c2aa83934a95853318ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/fabcar/state.go
+SPDXID: SPDXRef-item4101368
+FileChecksum: SHA1: 8bb980e72c3fba05ff6db9215042dda36010b3e4
+FileChecksum: SHA256: 8fa188b629fb7d3249f1540cac29c4f9d4785b7c5d55e2767ea99e273751d5af
+FileChecksum: MD5: 75c8ac386cfc240cde9443dae622f8b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/fabcar/fabcar.go
+SPDXID: SPDXRef-item4101369
+FileChecksum: SHA1: 3696838bccd0eb82d6f862c4a56c2cf5fba59f3f
+FileChecksum: SHA256: 23fc58b434b40da1c1daf622ccd8cf59dda74334346e2a50332a6b19d700b45c
+FileChecksum: MD5: af1e7b2db680ce220e29085a776ca58c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/fabcar/chaincode.go
+SPDXID: SPDXRef-item4101370
+FileChecksum: SHA1: 6a78c19de978410ec86ed985de14fdd8addf893b
+FileChecksum: SHA256: 43c841333d68c3507768f5903c3b168dcf09a6acdf21ed6f7cb8bee9207e29cf
+FileChecksum: MD5: a5f7e2ca62716ea219811cc2deeda75f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/fabcar/fabcar_mapper.go
+SPDXID: SPDXRef-item4101371
+FileChecksum: SHA1: 6441480262e5d6eb6c274b8bd7859bc75d1c78ab
+FileChecksum: SHA256: 5f0a0f56dcdb321432aae5a81e43e90473278a3cf90b93e8f559d761947e4c37
+FileChecksum: MD5: 5acb10e4894836da6bf646b1c894f26f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/fabcar/fabcar.swagger.json
+SPDXID: SPDXRef-item4101372
+FileChecksum: SHA1: 4f35c7283dc39ae3e431113b06df1d7fcfaaf7f7
+FileChecksum: SHA256: 37562e209734fd94f02bfbffee1fcee8b67d7a7ed1f5ed36b6dc2328ec5199f8
+FileChecksum: MD5: c9ffdc3b7628503b8122416011a82439
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/fabcar/testdata/car.go
+SPDXID: SPDXRef-item4101374
+FileChecksum: SHA1: c579ce303451b5fb384487b2066dcded1bced41f
+FileChecksum: SHA256: fd9b0571dde70c8735976316de64ea8bb3860627d804fc540a4994bce06f1f0d
+FileChecksum: MD5: 7ce570f37d9382c37cb41d335d0439dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/fabcar/testdata/car_detail.go
+SPDXID: SPDXRef-item4101375
+FileChecksum: SHA1: 41ff11d7dd5ff9509b926b8bb1f8789d78e778c1
+FileChecksum: SHA256: ad590c35f25ddbc613fa75db37db0bd72b03cf46c13860f2912f2d13d0dd6b1a
+FileChecksum: MD5: c29e6a86d3fdfdad10909968e5229602
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/fabcar/testdata/maker.go
+SPDXID: SPDXRef-item4101376
+FileChecksum: SHA1: 6952704c23ce022aa0bf8acaab80475fe1dbaca0
+FileChecksum: SHA256: f94e407b3e2e08051c404d8adf38f9c1c5760041f1eed73ac3d1304e3067cd9b
+FileChecksum: MD5: f229a935e91abe49fd4eb29823b73b54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/fabcar/testdata/car_owner.go
+SPDXID: SPDXRef-item4101377
+FileChecksum: SHA1: a37a178c6c59c7f625f2d00e89473d7f75f201c3
+FileChecksum: SHA256: 3cb0d8a0c0b6535550facbfd6d16e0f6cbdbb78ec2fd7616ca9c2196cda76d69
+FileChecksum: MD5: 0c09be06152b8741ecaaac3e7cd598d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/fabcar/fabcar.proto
+SPDXID: SPDXRef-item4101378
+FileChecksum: SHA1: f163f997aa2e545f37395417494e8d76bc24cc78
+FileChecksum: SHA256: 65755c85c89ff022715cd18217f078e2a69d23c050ba79250573f1aa03f3525f
+FileChecksum: MD5: 4aac841d9118bf6fa73e8675caa63430
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/fabcar/fabcar.validator.pb.go
+SPDXID: SPDXRef-item4101379
+FileChecksum: SHA1: 5a7e54ad474fc41f16fc7485ecd4dc8d59a81449
+FileChecksum: SHA256: 2804a92a1cf33005aa71e194860c81f0d658555cdaee7a4ded3e467c5acdc2ab
+FileChecksum: MD5: c366582676b1470d66169d77faffafdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/fabcar/fabcar.pb.cc.go
+SPDXID: SPDXRef-item4101380
+FileChecksum: SHA1: 28dc69847385ae5493ac5528a744e4abc408c46d
+FileChecksum: SHA256: 770f3672af7cf2f4ded2408dc4d123d9338efc2febc1b30c86aa93796d238804
+FileChecksum: MD5: 882b512eddd580ee6561838a45362477
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/fabcar/README.md
+SPDXID: SPDXRef-item4101381
+FileChecksum: SHA1: f5990747e535e21d55ffded458fab6a944701570
+FileChecksum: SHA256: dc8cab59f80276f4402d5487ab4cd804a8a51acff8190735a31f46d3842b127b
+FileChecksum: MD5: 4c6700e883d08dc9a883c64e72678e3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/fabcar/fabcar.pb.go
+SPDXID: SPDXRef-item4101382
+FileChecksum: SHA1: 3a8656b5d0091d6eca2f0060e010147f95c3f6fb
+FileChecksum: SHA256: c6672c5981b54ab7c44ab2a65c26351cf46c0cede53e45dade5fec86017c4664
+FileChecksum: MD5: 676a663aed62788c2ad184c96bd11504
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/hello_world/bin/main.go
+SPDXID: SPDXRef-item4101385
+FileChecksum: SHA1: 018549022b04c7a901fcd546ac10cadfd4f11bd7
+FileChecksum: SHA256: e59c82b488a1fe8dfe4cd831c0782bf724aa1f4dc30078d498ff1b9bbd5254f9
+FileChecksum: MD5: f6ae312585cfec65c904208ea1548508
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper/chaincode.go
+SPDXID: SPDXRef-item4101387
+FileChecksum: SHA1: 619764ed357c9bbdb22e66a27a643e99b8677de9
+FileChecksum: SHA256: 171705b9c830d4e18f49a04d9c56c9e0a8759b3e854ce0a78172a2feb33ba464
+FileChecksum: MD5: 01ae3463dff31c415bbe27692c97ae73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-commercial
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper/img/state.png
+SPDXID: SPDXRef-item4101389
+FileChecksum: SHA1: f8e91213810f3831c355b70174120bdaa11b0e20
+FileChecksum: SHA256: b7dfcfe708ed13ac33527c601144bf2d38843dad0a2da799c7bfd8fb723eaaf6
+FileChecksum: MD5: bb2da52a08899882e4d963636a51e3fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper/img/cpaper-network.png
+SPDXID: SPDXRef-item4101390
+FileChecksum: SHA1: 7ecaf0773c4cec54f227048159aeea74a6c6385c
+FileChecksum: SHA256: 44ab76576e0fd73eb0fc89fd4285c341c9ef83331bd77a510c90962c965186b7
+FileChecksum: MD5: 859561c8b11cd86152a1879c398b0347
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper/chaincode_test.go
+SPDXID: SPDXRef-item4101391
+FileChecksum: SHA1: 6987dfd5dd9aaab87e5805e211d7a0a399d5102e
+FileChecksum: SHA256: 30d4c2c183ae22db011ba371369044952b9dd708f5c93f0452788f404308f27c
+FileChecksum: MD5: 2191a60dc607084b86747ba28dd71386
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper/README.md
+SPDXID: SPDXRef-item4101392
+FileChecksum: SHA1: 46a1fbdc793dd3f69e85b9e54e882c23ba77b288
+FileChecksum: SHA256: f539992539c2095e402fcc0e0fbeea31c1616ca758df2a96716e30f23dc3c171
+FileChecksum: MD5: e58bf29b302461ff9032ac61f0cd71ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/bin/main.go
+SPDXID: SPDXRef-item4101395
+FileChecksum: SHA1: 0d81cbd22a656976962ebf832e81c3fed2363234
+FileChecksum: SHA256: 1ff729c24121c687340568765eb62fadee9c72e550e1c578f754dafaf313fae3
+FileChecksum: MD5: 205a53c6d34c490974bde606385cb23d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/erc20.go
+SPDXID: SPDXRef-item4101396
+FileChecksum: SHA1: 79796bb020a48ba28ee488865632af022826551f
+FileChecksum: SHA256: 8b383343d3b1de02496aba16a25c0a320626f2733c4b43b5c8e88831ca9c9083
+FileChecksum: MD5: c6b3488a0dffd547747b7ba6b29cb51f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/erc20_test.go
+SPDXID: SPDXRef-item4101397
+FileChecksum: SHA1: ef2485e4356e14c50f3584e2b92702c8d8e8b6bd
+FileChecksum: SHA256: 4807bcc3581f49e5a0b95d08ffb420bcd278d89b8ccedd3ba3e72524778716a3
+FileChecksum: MD5: 0e69021cee89c5bb2b27d50f4e240fac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/README.md
+SPDXID: SPDXRef-item4101398
+FileChecksum: SHA1: 8f7f3010295fd3b90a523305472b8b349eaa6cd2
+FileChecksum: SHA256: 4973e85480b32c85bd16cd62351689afe2667c6a633592cb80c966fa99a48a6c
+FileChecksum: MD5: dd435af96a183674815c448c861f32d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/service/allowance/state.go
+SPDXID: SPDXRef-item4101401
+FileChecksum: SHA1: 9ba0bc421f8a395f327d4e1d9b8eb10acb6cd6aa
+FileChecksum: SHA256: 8304f40b6333f46e97c4fd6f4a2d7923dafc54e0b5157e45048bee9e5822ed57
+FileChecksum: MD5: b8663c062b17406ebd288383b1ce8e62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/service/allowance/allowance.pb.cc.go
+SPDXID: SPDXRef-item4101402
+FileChecksum: SHA1: e029a908b8cdbfa569b2f7fee6175812c1ee3b7c
+FileChecksum: SHA256: eedcf79660e4e250423d7248255a0590a7e160f1e8dac2627ce461429e1fca16
+FileChecksum: MD5: 7d351fe03346d40e00cea28c2bf3c763
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/service/allowance/allowance.pb.gw.go
+SPDXID: SPDXRef-item4101403
+FileChecksum: SHA1: 9480a007ebdb66d26c02f65ed89807f76d15db24
+FileChecksum: SHA256: 3b9e91239c74b038a1b304759b2977ce01f01d7a49dbb7ab7951d567a7e5e9cb
+FileChecksum: MD5: f8cb31dcef3542414e6d91cdc924668f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/service/allowance/allowance.proto
+SPDXID: SPDXRef-item4101404
+FileChecksum: SHA1: 5254d9b8fd88b7826d156d95bc75402914c35b53
+FileChecksum: SHA256: 522e0b437346ed19d4ca65b5f07cc6dc1bd27a266bf36b02241ac61a308a8813
+FileChecksum: MD5: 8d93d69ce7bf42af7e94cf40922bfa55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/service/allowance/allowance.validator.pb.go
+SPDXID: SPDXRef-item4101405
+FileChecksum: SHA1: 3f20f13b96eea8399814656aa88ad70d9d722bb8
+FileChecksum: SHA256: d1f64741e3db12e9e7e1231c83384815c80972782370c4967f84ebde03ca595c
+FileChecksum: MD5: 8797a734d0f7609fc75649ffd972baa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/service/allowance/allowance.pb.go
+SPDXID: SPDXRef-item4101406
+FileChecksum: SHA1: 9c5aea2f48c41daeadcb39155c95c8ea72d0a03a
+FileChecksum: SHA256: 914f69e60fdfffcb61dcec68af71051516c914691f47debd42b9e59adca5b3b4
+FileChecksum: MD5: 69fe3a95a047e5e70229309f2d939029
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/service/allowance/allowance.swagger.json
+SPDXID: SPDXRef-item4101407
+FileChecksum: SHA1: 23d796559e782e3da11c85635fbf3f5d0ba9ffd7
+FileChecksum: SHA256: 2dc0b10ca6f0ee116baa31659c9367ea9fada2b1a0bdec4853d074ce0eccc493
+FileChecksum: MD5: 9ca96cd7e7d8abcc58091b7c34db3610
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/service/allowance/allowance.go
+SPDXID: SPDXRef-item4101408
+FileChecksum: SHA1: 30fbe9cab41c02bcc353f9f641e70095bc30ea9f
+FileChecksum: SHA256: e060226fb9f9dcb2e4a1af14bfe1275830b0b6ae0a2b7a32eae8a3ccce02a06d
+FileChecksum: MD5: 30a7a86cb6af133a8f75a767efb39985
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/service/config/config.pb.cc.go
+SPDXID: SPDXRef-item4101410
+FileChecksum: SHA1: e927e072d92a53ee2140b08b2265465e0ff7fb9e
+FileChecksum: SHA256: fb9c5285b226353348b1e7c325e8db08c1c2200f60f8d55924be48d4e2049050
+FileChecksum: MD5: 2cfeac866f036876b981a21e82196e05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/service/config/config.validator.pb.go
+SPDXID: SPDXRef-item4101411
+FileChecksum: SHA1: beeea187d407ce7f4e05d965570f22cd44dcda63
+FileChecksum: SHA256: fe37fdd972af3974395ced6d59971e7980bd2c78c0d2f2e0cef1018b4ceecd35
+FileChecksum: MD5: c7493d8d5d44b76fbba12a2956111a1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/service/config/config.go
+SPDXID: SPDXRef-item4101412
+FileChecksum: SHA1: 8d67d78056996c81765167989f99b6c96f7d08dd
+FileChecksum: SHA256: 3d29114f76f979ca3188f1805bd688836ef7fc215933134155c2d81af7aa2fe5
+FileChecksum: MD5: 1c96b7bb707afd783cd98f67eca78de4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/service/config/config.proto
+SPDXID: SPDXRef-item4101413
+FileChecksum: SHA1: 56c45e7fe3f565341ed980c77db6565faa3c0984
+FileChecksum: SHA256: b47c0df3a38a0026f1bce44ef94935d64872e62c4cf21e5e9b173d3d03d34148
+FileChecksum: MD5: 922fe73d6b534d8f72a3c0cf63746246
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/service/config/config.swagger.json
+SPDXID: SPDXRef-item4101414
+FileChecksum: SHA1: 480f189220260939ec6244c45a9e32baf757a354
+FileChecksum: SHA256: 45307b59c7aeac0912df764782e75d3a8a4e756cc857066a98bf20f2a868cb1b
+FileChecksum: MD5: f6dcd85dc75058cb8190ec469ab88ef2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/service/config/config.pb.go
+SPDXID: SPDXRef-item4101415
+FileChecksum: SHA1: 563276ff605dd5655c841541eafd705176fc6f62
+FileChecksum: SHA256: 09caf4b03d943265fe9f2ede375db228e2eb4c688c1df684d37941b0fd117417
+FileChecksum: MD5: 2e3fe4fc2a6ebb42ff9bc3320d8d31d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20_utxo/service/config/config.pb.gw.go
+SPDXID: SPDXRef-item4101416
+FileChecksum: SHA1: 045bed28854dbcb60e83644ecaf123e8165ffba1
+FileChecksum: SHA256: 3a43a69dcd918aa29da0519feb896444d0eb171e73907165f57eb1314c125a8c
+FileChecksum: MD5: 929060b5c3c35d0b1bfb53596fe6097b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/insurance/app_test.go
+SPDXID: SPDXRef-item4101418
+FileChecksum: SHA1: 1d32a6e0642fc0f5dfdb3044948c9bcfa0641b2b
+FileChecksum: SHA256: 8def2d02b479d0eccef27cebe61e98c2ef35c234bc6ae1aaa00103ef5a3b3ed6
+FileChecksum: MD5: 31b7ca4f531eeaf24b9b685429570bff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/insurance/fixtures.go
+SPDXID: SPDXRef-item4101419
+FileChecksum: SHA1: f1786a682c0d4058c675fc6f9b80703d9f2fc089
+FileChecksum: SHA256: 9d26fba34b4b08f096f970316745609016f769847497093324b78c1de5c0b24b
+FileChecksum: MD5: cb680a6173dab3c85c8032e43e11831a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/insurance/dto.go
+SPDXID: SPDXRef-item4101420
+FileChecksum: SHA1: 121388576cde65360cb6729382dc93628d8db4c4
+FileChecksum: SHA256: ff3f59dfd560a1d3cab6ab443c5f6c3a7123c2cbca4425c73e97c194560421c6
+FileChecksum: MD5: a681629980f8a90413e29d77c3055a3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/insurance/README.md
+SPDXID: SPDXRef-item4101421
+FileChecksum: SHA1: 1db0efb0552037f8ff2b1f3bc7a211c0f69453c8
+FileChecksum: SHA256: 52e772c09e5fbd3b9f6a4807f6a991fc3afcfa0b862f891dd81dfa87f03546c0
+FileChecksum: MD5: d03ca66779ba708b18e74ad23f0827d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/insurance/app/bin/main.go
+SPDXID: SPDXRef-item4101424
+FileChecksum: SHA1: 03af17f55d5bae0f9d86aa92c132ac66d1fae2d2
+FileChecksum: SHA256: b3906d764288ffd4bea043dd8a7678d9f1a0e47dd59ac7377e48bcadf3c2c03e
+FileChecksum: MD5: a755caf37ff84b9c60a6b4486d82ccbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/insurance/app/invoke_insurance.go
+SPDXID: SPDXRef-item4101425
+FileChecksum: SHA1: 0b59aa1176966b10f6146f7112ad9bb990af14af
+FileChecksum: SHA256: a1f47590cfcc92fd740f39dd49d8dfd25d5805d3e15d8ba703b502171db15ac0
+FileChecksum: MD5: ae56f73b3fb64a00bf929fa35c6d3550
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/insurance/app/images/arch-blockchain-insurance2.png
+SPDXID: SPDXRef-item4101427
+FileChecksum: SHA1: 477cc06a5ca67aba1f4a4bca9b35491326322b6a
+FileChecksum: SHA256: 0e5a138c39a887216f4c9defd9e7e6db6097b76eca209f471c708c8c425706e2
+FileChecksum: MD5: fe3a1c8c058c53b51e20a9ba58588e36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/insurance/app/invoke_repairshop.go
+SPDXID: SPDXRef-item4101428
+FileChecksum: SHA1: 5dc2bfc4b8f9bbd0c5b644592684f6a1aaee6e2e
+FileChecksum: SHA256: e2e0877e1a139d04f128b5f4a6238da80ecfd5251dee1d756105ccb9a340e2f0
+FileChecksum: MD5: b0177b66d2532cb10426bb67785787e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/insurance/app/invoke_police.go
+SPDXID: SPDXRef-item4101429
+FileChecksum: SHA1: 96b7c5366a383fd18b099b723760204bff78bb7c
+FileChecksum: SHA256: 8da64a942afcbbc52fa1db342926809a8d49ad3302b1f4e297fda50c975b7fa9
+FileChecksum: MD5: 139809679e9c8f906cdd3470552fc15a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/insurance/app/invoke_shop.go
+SPDXID: SPDXRef-item4101430
+FileChecksum: SHA1: 70ab8eb86fcf1f55fec38bf5ee73b06f7c20fb07
+FileChecksum: SHA256: a1a96db57d87ff6a06b9dcb0faccdef9e3ae34adda66989698ea1f7775e3e468
+FileChecksum: MD5: 970307374faf5c1839b8b4412458bb9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/insurance/app/data.go
+SPDXID: SPDXRef-item4101431
+FileChecksum: SHA1: f24992e24e14935f6051b2ee41d8360d95b73df4
+FileChecksum: SHA256: 6f37fa338e74ee61f28a8753da01b1f9658f27cbcb501f6f4ef7f8382025671f
+FileChecksum: MD5: 7a9d477355af2fbe7c316379467a6e98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/insurance/app/main.go
+SPDXID: SPDXRef-item4101432
+FileChecksum: SHA1: fcec50e143b0abe37b4113f19be0670b67f3ae09
+FileChecksum: SHA256: f76331a9462b73dc4fd887a6106e32057673c043e9ec629fa667db2e2f983346
+FileChecksum: MD5: 0f1ccd1a95ed204cc77871d3c0900a5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/README.md
+SPDXID: SPDXRef-item4101433
+FileChecksum: SHA1: 65cd8661198088a276c74307093df917c07dac54
+FileChecksum: SHA256: 73ccb3b07f64efc1e9d93cef7cd1a1713072987fb980a10c5145cfe608e991f8
+FileChecksum: MD5: db00182c8bdd310a4f3091dc0f863384
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cars/bin/cars_noac/main.go
+SPDXID: SPDXRef-item4101437
+FileChecksum: SHA1: a7cb091dc14ad25abf0a5dd90ec5920f77cf1b99
+FileChecksum: SHA256: dbf1c8683dc957c24e2ed2c812750fcf4f00a6d5b09d554bae3142a325920b37
+FileChecksum: MD5: 1d2dc80fc5d1cb31ff163654f4e08fdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cars/bin/cars/main.go
+SPDXID: SPDXRef-item4101439
+FileChecksum: SHA1: 4ebbefb573b5e29715a1ee9ab9b97efddaecce1e
+FileChecksum: SHA256: 28a5587e61c5936d2eeedc7003ee3982e85afefa14ab71afcfdeacde80b255d3
+FileChecksum: MD5: ce0e45e9af8292b19808c4942711ee4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cars/cars_noacces_control.go
+SPDXID: SPDXRef-item4101440
+FileChecksum: SHA1: 72a395a1b80895f2e1d7be8f4ef0bf80920ffc97
+FileChecksum: SHA256: ba80aa07c1a2a140076aa0b0f68d151be4bc1b706e5ac72f0e80d563e6ad21d5
+FileChecksum: MD5: d569c2c03e901e6f4b216d1e225ec438
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cars/cars.go
+SPDXID: SPDXRef-item4101441
+FileChecksum: SHA1: 15f59ffed3a2659667ca36a5219a073ac9684be3
+FileChecksum: SHA256: b82a12144ac8eca6f415ae0d1a9efb0b95c85e47fb33193cc15b0a6f3a41f9b7
+FileChecksum: MD5: 1bad427ec72b510d73591fb802514171
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cars/cars_proxy.go
+SPDXID: SPDXRef-item4101442
+FileChecksum: SHA1: 9a7490a474d0becb78cd6660382dd116d67925d4
+FileChecksum: SHA256: a34e0c68d7470fece5791f06431ac257d0a7de9a9dae8653b124a622d2bedb70
+FileChecksum: MD5: fc63a98eee28cb0a511f6d44cc96ae87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cars/README.md
+SPDXID: SPDXRef-item4101443
+FileChecksum: SHA1: 40e41852db295c6f62740bae52f1cc12f5d5cd04
+FileChecksum: SHA256: c3618c4317f7a0fe4849f2be616deb3013ee58ef88362dabae91f818237d5d9c
+FileChecksum: MD5: 5fd25fa8cb4d0de91e9c696ccaff77a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cars/cars_test.go
+SPDXID: SPDXRef-item4101444
+FileChecksum: SHA1: 29b4d1cef4a28e932db31599780978fb46d74962
+FileChecksum: SHA256: ab052c6bb79d22374b0651aa2fd39304068ca650ada3bb880a0bfbd781d4cbc1
+FileChecksum: MD5: ec6f3c28b4b64e74fb0d19e809fe3248
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cars/payloads.go
+SPDXID: SPDXRef-item4101445
+FileChecksum: SHA1: fb8a53a1a228d9a5544943b8813c5dd46090b09d
+FileChecksum: SHA256: 799191e1d19e4f71353c0462037ae31e60780998d99bb6a18fcce33546526a69
+FileChecksum: MD5: 5238726ff58da95b08032db1f7e8ed58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_proxy/cpaper_proxy.proto
+SPDXID: SPDXRef-item4101447
+FileChecksum: SHA1: 674e757587062723bd1ef9eee075fbc2a0daf5f3
+FileChecksum: SHA256: 70fa73e9466940e76826b54067e88d8fc504be62039dbf62505c32c5160886a4
+FileChecksum: MD5: 2b9edd346c592615f3e21b20e2215cfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_proxy/chaincode.go
+SPDXID: SPDXRef-item4101448
+FileChecksum: SHA1: 705a9c0ea9580c6d7ad0744c960939af40fc7560
+FileChecksum: SHA256: 5170b6e2d7e4cb2d7b559941c1e3a12ffe3ef4ab10415b426f9025b2c4bee682
+FileChecksum: MD5: a47f1be2ca57f23b0cef65aeb90401cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_proxy/cpaper_proxy.pb.cc.go
+SPDXID: SPDXRef-item4101449
+FileChecksum: SHA1: 831929c39f7c1ac18f007c92f12cf2cd8a455811
+FileChecksum: SHA256: 5e253e3afe1fba87664bd15c186608d88b4ac6637c7efeaafd504a1d04869585
+FileChecksum: MD5: edc4ae0743ec65cd9320e00544a2822f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_proxy/cpaper_proxy.swagger.json
+SPDXID: SPDXRef-item4101450
+FileChecksum: SHA1: 6d24f5f4e2686550ed7904de0e6b720370c0997b
+FileChecksum: SHA256: f33ab966156c4a36ce4406d822b98c99c648018b3fb9037291615242c0bf84f7
+FileChecksum: MD5: 70292a7226c1c71cc5723e741d0348a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_proxy/cpaper_proxy.pb.go
+SPDXID: SPDXRef-item4101451
+FileChecksum: SHA1: 2a86f4a8fd5ff7d188f5f4df4229cb3cfe058326
+FileChecksum: SHA256: 6594ac125820f219e70fe9d84b428539cb745b6f251f3f842631dde95bbed07a
+FileChecksum: MD5: 5aed339ca3f5724211f896b11c93b362
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_proxy/cpaper_proxy.validator.pb.go
+SPDXID: SPDXRef-item4101452
+FileChecksum: SHA1: bb62891d63531418c5184661abb3e39582f9e61a
+FileChecksum: SHA256: a914cf0c94b816f0eb2975f92105910476160087bba068b4b2f87ca49ba609e9
+FileChecksum: MD5: 7ff259afc1fbe60acdaad52bfcbc8a8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_proxy/cpaper_proxy.go
+SPDXID: SPDXRef-item4101453
+FileChecksum: SHA1: ab196148c259dc469912333592c2dd04ca2b4f0e
+FileChecksum: SHA256: 6245e5cdd571196eeb72e824c8b88050be2d8a47e90824cd8820604afa99ae38
+FileChecksum: MD5: 2d80536e1830ee07e451272efcb52540
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_proxy/README.md
+SPDXID: SPDXRef-item4101454
+FileChecksum: SHA1: 7922fdb453d2f745923a9d559da99a7db57e0191
+FileChecksum: SHA256: 7e0f9cece3da9ef3666f7ec0e14b100740346c62aba0c79e941be51d9e0e1f29
+FileChecksum: MD5: e580f09f23f19288d37ed567fb9cb280
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_proxy/cpaper_proxy.pb.gw.go
+SPDXID: SPDXRef-item4101455
+FileChecksum: SHA1: d5403976b5e25c5cc480357d5382a571d45e69c0
+FileChecksum: SHA256: cb0bd996e49c739fa1799593bad98c3c892226ab89b0324f9637cf909ec8d255
+FileChecksum: MD5: 61746fe553615cedc3adfbeb26b608f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/cpaper_proxy/cpaper_proxy_test.go
+SPDXID: SPDXRef-item4101456
+FileChecksum: SHA1: 8ff677c3c7eafbc7094d6b14b50c85b0de572023
+FileChecksum: SHA256: 6c2d363fdcf36868db1e33b1f85335180b7cc6c6b2850dde00c1091f9797caa1
+FileChecksum: MD5: 190c78ccff07e50a4b3ac0161391b89c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/payment/cc_enc_context_with_mapping.go
+SPDXID: SPDXRef-item4101458
+FileChecksum: SHA1: 9a910fb5f886abfd0f763cf1342c30ae312d0236
+FileChecksum: SHA256: d3ef190b9c5bfaf83fd5afaa2fcdd530e156d42aaaf4e70a673bc2d85eadedc6
+FileChecksum: MD5: a6405f4ec292712c3e0aca778a6da1d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/payment/mapping.go
+SPDXID: SPDXRef-item4101459
+FileChecksum: SHA1: 49815282b272428f5441a38d0bb7d8939c6fe004
+FileChecksum: SHA256: 44f58aef3bfc5548364c8c5f6fac48e76c841a73cc02c9a3320f94562fee570b
+FileChecksum: MD5: b157bc946555925eb2ffd84493c8314d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/payment/cc_enc_manual_ondemand_with_mapping.go
+SPDXID: SPDXRef-item4101460
+FileChecksum: SHA1: dbf0fcb96528494f06f88bd42dca24a68cbe029d
+FileChecksum: SHA256: dd1ce7381d18b0ffed305ed6a9d09a067fbcda035580c14b5305d2c7eeb4bc7b
+FileChecksum: MD5: 6bd730a5c0a62bf8dec937c60dc813a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/payment/README.md
+SPDXID: SPDXRef-item4101461
+FileChecksum: SHA1: e32df594db0d1e689975432a538ae0f7aa25fc99
+FileChecksum: SHA256: 78c3122bad3bf87a0646637982ba6e78c5eaee3b9af7e079d87af3ee37a8e560
+FileChecksum: MD5: 29be4a1dc7a96dafb6c5de9412fd2be6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/payment/schema/payment.pb.go
+SPDXID: SPDXRef-item4101463
+FileChecksum: SHA1: 7ec6b76ac3e37220ca8473a3d86bc7acbb61fbb0
+FileChecksum: SHA256: 6137f597a830fa1378c0fb1d5c5ef66508507919754f6ba92c60dbbd821c73d5
+FileChecksum: MD5: 5f2aeb43d252e6a9d255f4337eefe288
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/payment/schema/payment.proto
+SPDXID: SPDXRef-item4101464
+FileChecksum: SHA1: 9a70739ac1dadd929d8fe0c2ed628202db32c1c8
+FileChecksum: SHA256: 19614163e6473d7f2116eff96e105d1a131f2b35f793611f2d7020fcf58602c0
+FileChecksum: MD5: f99c6d14cb1730ccf7cb36491950138d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/payment/schema/payment.swagger.json
+SPDXID: SPDXRef-item4101465
+FileChecksum: SHA1: c2ab2fce94cd2ef437960e600c10932e37410143
+FileChecksum: SHA256: 535980c4fd7b3078221d47f2a95af49b420aa816e2380f9a3330e8d62fdd9fce
+FileChecksum: MD5: 812e88c2ba36e5b0c775ee26636076dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/payment/schema/payment.validator.pb.go
+SPDXID: SPDXRef-item4101466
+FileChecksum: SHA1: 6473cde2f0b7f3242c9c106bbb92ee03581b754e
+FileChecksum: SHA256: 6d60b5a52b2d1c2b5517701966849460886f72710a595f74ad055c5ae5e1aa68
+FileChecksum: MD5: 981faa2a31e0432c58a0f8643fe7710a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/payment/cc_enc_manual_required_without_mapping.go
+SPDXID: SPDXRef-item4101467
+FileChecksum: SHA1: a2819db10f3a49fa9fe407caa53f60ce8d0324a1
+FileChecksum: SHA256: ba26cc021b47d5935442dec8cdbd3b6ff5e193f2b31a4a12ce4b37c535ce4703
+FileChecksum: MD5: 0b48e770e6f58fc8127e93420698998a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20/bin/main.go
+SPDXID: SPDXRef-item4101470
+FileChecksum: SHA1: 94fe534384b02d2d4ed1b11f5dc36cf7c0615205
+FileChecksum: SHA256: f7c879c8fb0a9b223db2db7f477c6d7beba119408df8fd54fe840794a3636ac9
+FileChecksum: MD5: 76a42005b35d1ed56055fbf9980c6f1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20/erc20_fixedsupply.go
+SPDXID: SPDXRef-item4101471
+FileChecksum: SHA1: 316cc4cf95c2478e92c5782b13b318774be5b61c
+FileChecksum: SHA256: 51b5faf727aa07c80a4db01a8f83aaa492076b24e5295c39a76ba00a05dae04e
+FileChecksum: MD5: 127e4e0315268ef2690631b7070017d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20/erc20_ops.go
+SPDXID: SPDXRef-item4101472
+FileChecksum: SHA1: 08905fc8a345ca3f9236320b638c50feaa84ca6d
+FileChecksum: SHA256: 58381811e3aa7f1a09f9c7eedbedca426b37ae405ecccab1ba8b2cdd400317bc
+FileChecksum: MD5: cd8c9d6119d697c26366d1e13fcf8d2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20/erc20_test.go
+SPDXID: SPDXRef-item4101473
+FileChecksum: SHA1: cfcaa28ae739f3806494d25c65489dd28d619c3d
+FileChecksum: SHA256: d9943bdd6447425ed477dc51f6e560cb03d59bd0385229b7cd4fe701cf9d9865
+FileChecksum: MD5: e8680d3152d17585f91cbd6117f4c8d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/examples/erc20/README.md
+SPDXID: SPDXRef-item4101474
+FileChecksum: SHA1: 264e0a09c2d6a1503a33c4ec652457583960e8f0
+FileChecksum: SHA256: 57bdd4eba563607c706d5b493930957758dee7f402ba1982b56e37a34adf5340
+FileChecksum: MD5: 7f065236079b8a7bada412edb5c52b1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/.gitignore
+SPDXID: SPDXRef-item4101475
+FileChecksum: SHA1: 34b7b0a88f56992bdbeba92ebb8a915df3ce5b5c
+FileChecksum: SHA256: fa2b762ba505778f6dfe1f2459e1c29b38554a72e8c8cd76285a69323ec91c6c
+FileChecksum: MD5: 5e99e0778cb14ada9f3bf415d2dc36d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/third_party/mwitkow/go-proto-validators/validator.proto
+SPDXID: SPDXRef-item4101495
+FileChecksum: SHA1: b2494c89a5b5a5ec60cb2bda2f15bb028dadbda3
+FileChecksum: SHA256: 96914984ea3d8af62f82e8a20f6fabf1896c9a513b97d9b5acece973aa2c4365
+FileChecksum: MD5: e33de37992c8dab5cb1a4962ffc7e3d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/third_party/buf.yaml
+SPDXID: SPDXRef-item4101496
+FileChecksum: SHA1: 77e391c2591bfe7ce3f05a636f26c7e85b6636a4
+FileChecksum: SHA256: 0077196fcc46329becada685b3720c905f8fb39f59d37a4624f6b056ac53c876
+FileChecksum: MD5: e8992a9e22f79bc9ff162a19e8231b38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/go.mod
+SPDXID: SPDXRef-item4101497
+FileChecksum: SHA1: e2fae1bfb476b3516aadfb78bd3c3102b7257673
+FileChecksum: SHA256: bb312c862e49d7a9a80cb4718d20475fd5779451045d9137b15af3372b2a9cf5
+FileChecksum: MD5: 458269f4579aec1578aa7e9381966ca4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/buf.gen.cc.yaml
+SPDXID: SPDXRef-item4101498
+FileChecksum: SHA1: 124a568f479f950c7e8527c7ac475730db770c69
+FileChecksum: SHA256: 11f229b48a36389b52ba5d6c92cd90c86066e14dbc0bdb8650dc116fac935d52
+FileChecksum: MD5: 72a15c3a1fa3f6558f9a181872949125
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/state_list.go
+SPDXID: SPDXRef-item4101500
+FileChecksum: SHA1: 05889e37ce52a814445f051dab413cb334d31b44
+FileChecksum: SHA256: 9508ee54f41a57efe34d17b89898d39471ddb431334f192f503fbc0318e7f30b
+FileChecksum: MD5: 773992cb10ee000d5711634c38782e6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/private_state_test.go
+SPDXID: SPDXRef-item4101501
+FileChecksum: SHA1: 554cbfbff9d221b86a35efb80dd2edb4e774bd1a
+FileChecksum: SHA256: 6eba6becb303b3255b415dd714624a03c7ba99ab5c3ed7e661d58c441b28f0e7
+FileChecksum: MD5: 8cb7610446a8531d7c4c7db0567276a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/key.go
+SPDXID: SPDXRef-item4101502
+FileChecksum: SHA1: d4bf7cf307426954e6967cbaa0ce068f6344d0b1
+FileChecksum: SHA256: c2052de6417f07906487990486e349530f311c712d95cae3092d687b6516b813
+FileChecksum: MD5: 1f4d357a5b859b0c0b17385a5ffcbc2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/tranformer.go
+SPDXID: SPDXRef-item4101503
+FileChecksum: SHA1: 0be9bf7dcabf63abceddaec63e7a4ea21fa4d56f
+FileChecksum: SHA256: 9d066cd5e6b49692128ed8753fd500085d4238935a0cb2ea465f17f6ec99e4aa
+FileChecksum: MD5: 842701b2141f2549a49c2f48a2e6f7cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/invoke.go
+SPDXID: SPDXRef-item4101504
+FileChecksum: SHA1: bb0b7cf686bfb9f862bf4d71c041e8613e13b0a7
+FileChecksum: SHA256: 45b386f4a698bfd47a431946c6d6be1aa4f7d5d61b24943b2cb0a0afc94b6e0a
+FileChecksum: MD5: 0dddc407b4db8b20347214ad2e91b4b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/state.go
+SPDXID: SPDXRef-item4101505
+FileChecksum: SHA1: 3166ba231c80687f6c00f9c1e5e451842a393f6b
+FileChecksum: SHA256: 604718deac383bc634bb73d3f60cb2d84eedea53053f3cc746eb156c690bd960
+FileChecksum: MD5: 64fdbee36209ac8e009f1dfe1a421098
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/state_cached.go
+SPDXID: SPDXRef-item4101506
+FileChecksum: SHA1: 002044b87603b582235efc32f57ef528c8c89c8d
+FileChecksum: SHA256: df4b565278b83b427f8a2e83ff9dd9f49f1a8c193b15ff3d54ac7125fa07ee9e
+FileChecksum: MD5: 33d84f271deba5b7233ac75e4b0f21c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/state_keyref.go
+SPDXID: SPDXRef-item4101508
+FileChecksum: SHA1: ca3d2caefeb83ae71089079b2c65110a0641fb56
+FileChecksum: SHA256: e4df8cea2513a42429a7e5f1ea1fefa0ce50782ee82ca71f9e89da0f9f641aa1
+FileChecksum: MD5: 41318fb64e0048266f4233306bb96ba1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/mapping_test.go
+SPDXID: SPDXRef-item4101509
+FileChecksum: SHA1: 535930ef5341047cde26e9634cef04e44a356064
+FileChecksum: SHA256: 382b7824fee13003b36c4c1b3af6d3aebee369562522e593a456e6f6245b5b27
+FileChecksum: MD5: 842a8f9cfc6c2a2b2c587cc3e5b6e4eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/event_mapping.go
+SPDXID: SPDXRef-item4101510
+FileChecksum: SHA1: 414c711aa9bccc6803c047f19b957dcfe6346e02
+FileChecksum: SHA256: 8349fc615b6f82daf599d45d31a4306085ff52c71e913ea98b02dcc8f03400ad
+FileChecksum: MD5: 66cee2e583175dd83a43abcf01c8d73b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/state_index.go
+SPDXID: SPDXRef-item4101511
+FileChecksum: SHA1: ad044a203944f8bbf2b38c16b46f6c8391029ebc
+FileChecksum: SHA256: 513a9ecef46b4fb42e2c2f043e7d582d6e59f39ad3c0abc1966156344f0e21f7
+FileChecksum: MD5: 02f5d83eda9a77fcef904d5676d26d7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/event_instance.go
+SPDXID: SPDXRef-item4101512
+FileChecksum: SHA1: da12a0a2f9a923e9fa17ac41a396c8b00af89a01
+FileChecksum: SHA256: bc25f3dcb9e68b8439b81f0253a6534d0bb0ce4f0ce89a95d174605fe4c8d017
+FileChecksum: MD5: ab97d429e522a0860b0de8a656d1f4c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/state.go
+SPDXID: SPDXRef-item4101513
+FileChecksum: SHA1: 1fb209deb0ae5a03fd8c22423345139daf45691a
+FileChecksum: SHA256: 46ba1fa05329af71a70c22916b1e9e08c446279972427cfcfa91ddd405bb657f
+FileChecksum: MD5: fcaecc478cd88703e41114063860cc7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/state_mapping.go
+SPDXID: SPDXRef-item4101514
+FileChecksum: SHA1: d6f02dd1ba4d9684545b881ab9f86605849277e4
+FileChecksum: SHA256: 34293ba01087ab17dd41a54beec7f97efcaec2a1d404530bfbd298465dfc500a
+FileChecksum: MD5: 2dbb52ad08e3cfd3f040ca784ef8ab11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/testdata.go
+SPDXID: SPDXRef-item4101516
+FileChecksum: SHA1: 3d7557ebc0da2acd18d022bc9043502ad766b16f
+FileChecksum: SHA256: 5ec0cba81b35b70191113760e9a074dd229178778d5c11a45396200916f89c47
+FileChecksum: MD5: 3b16f9ad8339a11da37e9f7b56ea10b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/cc_indexes.go
+SPDXID: SPDXRef-item4101517
+FileChecksum: SHA1: 8b8df9789c51421e6f893eeef4b7e44325d62788
+FileChecksum: SHA256: d0ada8ae0aea0f153931ffaede8f08c3fcc6886bd09bf58a72c7323a0dc931f7
+FileChecksum: MD5: 9788d3535e9bac41692b624f84407aa0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/cc_slice_id.go
+SPDXID: SPDXRef-item4101518
+FileChecksum: SHA1: 5409acc91ec6371c102ddbae24867368a15075f1
+FileChecksum: SHA256: 96ac743519df13b49d103dbd928c51c7da3db84272f23ebc5639f364e813d15f
+FileChecksum: MD5: bc79b4a02b3b529f6b5a5c2bee325bbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/cc_withconfig.go
+SPDXID: SPDXRef-item4101519
+FileChecksum: SHA1: 69153d5af6a1f4d10494ca3c973cd7104ad7b3ac
+FileChecksum: SHA256: ac6b9db6617f275ba49aa9627381eb03cb5a9ef33947dd92c2b0768d1b70692b
+FileChecksum: MD5: 3d4530ed1b6352bb8258b1ba108508cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/cc_complex_id.go
+SPDXID: SPDXRef-item4101520
+FileChecksum: SHA1: 1af094fe75e3cfa12e637f111acc4daf92bdb816
+FileChecksum: SHA256: 18e45ea6aa141f89c53ec7534e4fde17841faf0c383c0c8c33c5bd4f06a33ed6
+FileChecksum: MD5: 48c2ee6d9eb1c2eba2e5a0afc65335ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/schema/config.validator.pb.go
+SPDXID: SPDXRef-item4101522
+FileChecksum: SHA1: 30a99428876f41faa565ef8dca12c5789a42dca8
+FileChecksum: SHA256: 43aa0329a54cc3d7732ed2a932ea905a6c41bb3fa9358efb315a0e41ee56b8c8
+FileChecksum: MD5: b2a1d8a5f9f8ff2429a466a795a4b477
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/schema/with_complex_id.validator.pb.go
+SPDXID: SPDXRef-item4101523
+FileChecksum: SHA1: 32e8f17e3fbd62d9f8104c4db1a8900df9a7a44b
+FileChecksum: SHA256: 700fa8be0d5133c2fc20f76a2395ba8a0f3b622be9c80bd8e5a852e9b764a15c
+FileChecksum: MD5: 3ccca0c1bf7bf6de4151606a726e2411
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/schema/with_composite_id.pb.go
+SPDXID: SPDXRef-item4101524
+FileChecksum: SHA1: 1fd3b913ce6693abae94fc0248e79683740e5c30
+FileChecksum: SHA256: 5cb5c5fd3e105b28037220406bca33987d155407c2dfee7cc249abd6ffc327b3
+FileChecksum: MD5: e70493fdd1d61f4d20d48ccf2749ff61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/schema/config.proto
+SPDXID: SPDXRef-item4101525
+FileChecksum: SHA1: 4775ff3d9bc21c158f90d65a7796effeac3133bf
+FileChecksum: SHA256: 2d38dc7bf9c6668a51ab77fb5d296ce20097292c3d155c6dbbe9c21c2b918012
+FileChecksum: MD5: c17bb586452316953b7d04f2d95f4b1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/schema/with_indexes.pb.go
+SPDXID: SPDXRef-item4101526
+FileChecksum: SHA1: e4f7df7ebbae501665347cf97fbf36249fc3b060
+FileChecksum: SHA256: de4be8ada5a5eefea088125bc1e996f0933dc27910c1ed6282c98ee8730a8ab3
+FileChecksum: MD5: 10a752c24860a549e3c8285b59f55b90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/schema/with_complex_id.pb.go
+SPDXID: SPDXRef-item4101527
+FileChecksum: SHA1: b8e99602595e5bdb77caeda3d949554936a44930
+FileChecksum: SHA256: 5063b22c64fb17ef4440fe2b36a94f7eb88858cdb8f43bb97445259996fb063a
+FileChecksum: MD5: 33837379b1d4bdefd2153d2af3402f49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/schema/with_indexes.validator.pb.go
+SPDXID: SPDXRef-item4101528
+FileChecksum: SHA1: 5ed6bd7ec5ac1b97e67e65f2ca3d9eb6d0990faa
+FileChecksum: SHA256: 3a1772803ce9448bf182b36e4268de41c6d62f3012ce5e47dea89dd9db20b8b0
+FileChecksum: MD5: 42bfbe94c33f61c47f7028ee7f279e33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/schema/with_indexes.proto
+SPDXID: SPDXRef-item4101529
+FileChecksum: SHA1: 4b05510f8a84a1ae48b075768caade07de30d879
+FileChecksum: SHA256: b07919b1117bcbd8d61e755900c3b9ea25e48e632cd567e42659ec546e6a4423
+FileChecksum: MD5: 7b436506f9b40a2c18cfd04a9c47b733
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/schema/config.pb.go
+SPDXID: SPDXRef-item4101530
+FileChecksum: SHA1: 1276f5f7c33f722d8be25fdbca9571fe923cf526
+FileChecksum: SHA256: 0a0354fa71b62a1bb37a99339274ba5a0b7ffc6d57ad4e3ace1f27b06b2e30aa
+FileChecksum: MD5: 90b5dda0b70ec44d121af24e607cfc00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/schema/with_slice_id.validator.pb.go
+SPDXID: SPDXRef-item4101531
+FileChecksum: SHA1: b32a762c4972b77262bd08c52a74e16b309548d3
+FileChecksum: SHA256: 7233f34cd92e73a3d3a3e552b8a5883717b1fd22086e276821baa1fd5114c739
+FileChecksum: MD5: afed8ef71eda86200306d164927b7378
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/schema/with_slice_id.proto
+SPDXID: SPDXRef-item4101532
+FileChecksum: SHA1: 1183b292135b4c51e6cad5dbe5536cc15208cb37
+FileChecksum: SHA256: a716d09433f5a1f84426a9cc649013f1b863545bd75fb38f6879308dce7803d9
+FileChecksum: MD5: b9341cfe07e2a67310eac7e0d189e555
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/schema/with_composite_id.validator.pb.go
+SPDXID: SPDXRef-item4101533
+FileChecksum: SHA1: 18f7f4ba6bc725aa57edc1db7513e9e2e32e9ed3
+FileChecksum: SHA256: 7b3187ef04822083115ece94db80f0baf4668b18673c2f02d84fb0b00fbb4e77
+FileChecksum: MD5: 9879032247f9ad638faf55927d0245eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/schema/with_slice_id.pb.go
+SPDXID: SPDXRef-item4101534
+FileChecksum: SHA1: f72eccf4093f2a2e38ad14f97583673702e9f0c3
+FileChecksum: SHA256: 884f0b88c5de319a6ff83966f45004b9ddc6177ad26f2ac01ffc504803e2852f
+FileChecksum: MD5: 32cf36fd93d9173ca2422177bf976e04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/schema/with_composite_id.proto
+SPDXID: SPDXRef-item4101535
+FileChecksum: SHA1: 925e07162c53f086b21961e501f0f524446473a3
+FileChecksum: SHA256: 68631025a5229a2a9d4991e602965c90d10e185a3e5a559e69db94fe6d599a01
+FileChecksum: MD5: dfd204a76cd3769d73ae66c523ef6b6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/schema/with_complex_id.proto
+SPDXID: SPDXRef-item4101536
+FileChecksum: SHA1: 814343a95d0db3716333b084b376f2731bc4a4ba
+FileChecksum: SHA256: 52a8776f0a2d8339e05d281ccd1167ad73121e5cfbe8c285108b82ed04c07049
+FileChecksum: MD5: 4c567eb9bd9fc93d87a3309f575d0ef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/testdata/cc_composite_id.go
+SPDXID: SPDXRef-item4101537
+FileChecksum: SHA1: 3c1a36e9c6f867333f2cac9bcaf9a65484ad460f
+FileChecksum: SHA256: f45d5f0e62b3acb2dafd7a638cca78c266a8140acc4284f562fab79ffd9687bb
+FileChecksum: MD5: d48d4aae89cbb1fd6e93efbddb960bcc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/state_instance.go
+SPDXID: SPDXRef-item4101538
+FileChecksum: SHA1: 6c116917ceee3b8f4cfd732fdebae131b062df4b
+FileChecksum: SHA256: c9b823ea147b2c4dca1fd5862219dd1943a98c6a250583eb222ed796107e17f4
+FileChecksum: MD5: e1f38a16b5cec83792bed517561c937c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/errors.go
+SPDXID: SPDXRef-item4101539
+FileChecksum: SHA1: feff54f3d6292d92f94291396d0f1420fad2ba1c
+FileChecksum: SHA256: 1ddabe05cbc2e87a90aac5b586aae3d25fafce0d893d384c395d532b570dcf4d
+FileChecksum: MD5: 755c6029b67f591982c6e06804f215c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/state_mapping_opt.go
+SPDXID: SPDXRef-item4101540
+FileChecksum: SHA1: ce82b8c6dcc452104bd3feeb4ce0670935986bfb
+FileChecksum: SHA256: cd60be621beb27f94dfa9ea6c831d6c34e759c17cfc99a43880d592f5e5a9585
+FileChecksum: MD5: 0b9d15781b05fa3c47514fbf4132fcaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/middleware.go
+SPDXID: SPDXRef-item4101541
+FileChecksum: SHA1: a40a73149b9e41e5321a64dced139f59900c61e6
+FileChecksum: SHA256: daf152c9c831a2f8d296ebc1a2e7cf491cc9b5b372108e8bc48196a9a3561fab
+FileChecksum: MD5: 3151f48963773642ba93685e0e55c382
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/README.md
+SPDXID: SPDXRef-item4101542
+FileChecksum: SHA1: 71617142341846cfbd6872d8da3bf21b71562958
+FileChecksum: SHA256: 6ce518de678033fdb9ca21d266cc43b8627786eab99053ac06a7121af8a1040b
+FileChecksum: MD5: 69bb54fedf76aa61c21ac5d572164bc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/mapper.go
+SPDXID: SPDXRef-item4101543
+FileChecksum: SHA1: b272758f90b8db241976c5c9d7142b449af84701
+FileChecksum: SHA256: b2062584ee36b59a014c85e98515f272bb31458a993f9093e86dc611dabe6d64
+FileChecksum: MD5: a6f57d738e19f153c32310d54db1b635
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/state_mapping_test.go
+SPDXID: SPDXRef-item4101544
+FileChecksum: SHA1: 1e39fcb1afef07c8c24f8a312c9b0c168d39379c
+FileChecksum: SHA256: d6aebae1a4a3ae4aea6e4dfd36319f32d596b8975b062fa8fc08130f31742366
+FileChecksum: MD5: 9ecfbdc79a0a8c7d69a04d0489cb5b65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/mapping/event.go
+SPDXID: SPDXRef-item4101545
+FileChecksum: SHA1: efb96af3cbf28d119ee30eea66acdef736f99ce1
+FileChecksum: SHA256: 9ab12ed04390c4534f73e4e04eb2908ab8d874d6f5f437087b86fbb88cfa321c
+FileChecksum: MD5: be9dc0909a47d3482df968666cde4ddf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/testdata/testdata.go
+SPDXID: SPDXRef-item4101547
+FileChecksum: SHA1: d5f0f3625eff54bd23cf633ea6d5cf0853cd61d3
+FileChecksum: SHA256: 2e7ee640331e11dd5f36ef397c55b7a6b785f1fdedfb79522714ffeeb2917517
+FileChecksum: MD5: b3bc370620cb09906e35ec69bcea2f86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/testdata/cc_books.go
+SPDXID: SPDXRef-item4101548
+FileChecksum: SHA1: 0afa42325039e9974f5ec040ee8ff800bf135e89
+FileChecksum: SHA256: 96174cf5f0d34909df7f9d8a763a39bfcd39049744cc54b06f109fc8dec9b986
+FileChecksum: MD5: fd270979dc840f105b428a58621e93cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/testdata/cc_state_cached.go
+SPDXID: SPDXRef-item4101549
+FileChecksum: SHA1: 746e81679290c0a0c5d669fac762f8f4c28110f8
+FileChecksum: SHA256: 706c36c40b60567a9d7444b257d988947980cef555c16ad80c458e11e953bd8c
+FileChecksum: MD5: 39f7c61cde162d76d9e6f291b848d9fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/testdata/util.go
+SPDXID: SPDXRef-item4101550
+FileChecksum: SHA1: b16caaf2e784182c48a1d2b46e33e4bc9a398922
+FileChecksum: SHA256: bf79305bb66caa7586cdc4d26925525e4d898e4bdea93910f8b22c80dbc4b822
+FileChecksum: MD5: 8440e1c269587ee5c69b98968b0bfec7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/testdata/schema/book.go
+SPDXID: SPDXRef-item4101552
+FileChecksum: SHA1: 352b47a4f40c224bc98f36e76244e1749ee12337
+FileChecksum: SHA256: 75aba9b765ac349700e616fa1a45eb447401217eb736302658d99fde2ce4409c
+FileChecksum: MD5: d1090ff955fac1d7643011aeeb543a7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/buf.yaml
+SPDXID: SPDXRef-item4101553
+FileChecksum: SHA1: d30569eeda92fc21a3a0df6fb6845ef6d903c9b8
+FileChecksum: SHA256: a4aa4aff9c70582047e1f1d3f28be8b7ada97386ab2780326e670567fc3b5529
+FileChecksum: MD5: 34de77b901bb61a27b2b499ed08daeaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/errors.go
+SPDXID: SPDXRef-item4101554
+FileChecksum: SHA1: 810fddc7b0834cc022f8e965991652edef51d30d
+FileChecksum: SHA256: 2c154024f8c2d1597b4d70eee7bac03d235f20e4d81e23510e6c9402088a3cd3
+FileChecksum: MD5: 679e5f43b5ef843172d92c53f21adf47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/state_cached_test.go
+SPDXID: SPDXRef-item4101555
+FileChecksum: SHA1: f55a74707be380952a65174924a78612f1ceb007
+FileChecksum: SHA256: 9d10d97e3a7a152588c9c37d0b2f77148e383a0e11096b6c15d8665021cd9eb9
+FileChecksum: MD5: dbc6d9d04073db4a37e046b8d5390a09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/README.md
+SPDXID: SPDXRef-item4101556
+FileChecksum: SHA1: b22f5f5141499f41be4863489de758d29a4131bb
+FileChecksum: SHA256: c5d3091a195cb8de37b6ebeab811be3fa60a1bffa5c9c36981529072e87f16fd
+FileChecksum: MD5: 01f032d590491935ba4ecab7c01ac3bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-commercial
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/schema/schema.pb.go
+SPDXID: SPDXRef-item4101558
+FileChecksum: SHA1: 42f1100de68a28c5f5cdb86fa7d5938cbae7edac
+FileChecksum: SHA256: d9bde0754ae47b980e759ace9fc45204b561e9e2ff0b65a4e6759c3b88749923
+FileChecksum: MD5: 97830e1ff1399ef97b6ac0f5f68a00a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/schema/schema.proto
+SPDXID: SPDXRef-item4101559
+FileChecksum: SHA1: 313b96a9603f13c611b441af9279e0877badd594
+FileChecksum: SHA256: 38eaaf9d610c783c4ba7538a24f7b3f7abc00682e03ac353adab2ff72d198f29
+FileChecksum: MD5: c54346dc444b7de591f6461192838df9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/schema/schema.validator.pb.go
+SPDXID: SPDXRef-item4101560
+FileChecksum: SHA1: 797fcb4b0d184591348c72bcc5af724bb38ed738
+FileChecksum: SHA256: ed57eddc448dd0cd0ff5ae3993a2003067829e45e4e6fbd3ea53ef4d0357f40d
+FileChecksum: MD5: 89a2f7857d420ef99b89beb0dbaf050c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/doc.md
+SPDXID: SPDXRef-item4101561
+FileChecksum: SHA1: 21ff02e66ad98173fd398fd4562d2f8ba5a2acf6
+FileChecksum: SHA256: 02af06bed46194fbb941b7ed2aba078fb120eb088493a02f26a6945e098ee19f
+FileChecksum: MD5: d7be7937e1c1ec28ffc68bc1e89117d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/event.go
+SPDXID: SPDXRef-item4101562
+FileChecksum: SHA1: 61a7e7fc60cc5a2240a52efb5e4638878def1a42
+FileChecksum: SHA256: ab52c4ced5656de7352643978396cc85ab792c398f69eeed51c9c7fd7c98dd11
+FileChecksum: MD5: 0ada7266f84c842a58c95aa2a75ecc87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/interface.go
+SPDXID: SPDXRef-item4101563
+FileChecksum: SHA1: 685c10a24bbf5055506735de02f7ffb096ec1b2f
+FileChecksum: SHA256: 86fb9bb5b87cdd442f6b6e4e21eb1b983cb595a6482491215253357b75be2bf0
+FileChecksum: MD5: 1ceaf1f6851a9df1bdc51346de975290
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/state/state_test.go
+SPDXID: SPDXRef-item4101564
+FileChecksum: SHA1: cbd5462a06e05b46fa86bc87853808d0fa0efb68
+FileChecksum: SHA256: 3b116815e4c110574d005fae931dd4052b1f59ea11986d37f78fb8a027838a84
+FileChecksum: MD5: a9e04c26c65bdca4fdc8e93ea3802f70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/buf.work.yaml
+SPDXID: SPDXRef-item4101565
+FileChecksum: SHA1: a4c761135186472581a71c8bffa72c239ff3f057
+FileChecksum: SHA256: 194fae7c5b4c25c0c540d20b70334cdfeb0ab956d79de90758ab8e2d51d7e342
+FileChecksum: MD5: bf24812b6f3cbb75aff2e13fadb5837f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/serialize/proto.go
+SPDXID: SPDXRef-item4101567
+FileChecksum: SHA1: 42892b4cbca88af69620b70a30e0d43e94d1b37b
+FileChecksum: SHA256: 997058ec678d8b96e649f224a4a3910d85590cf77a2e132abb5c422902c4a723
+FileChecksum: MD5: 82ec772d6cca461a706f95d0f6ff842d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/serialize/from_bytes.go
+SPDXID: SPDXRef-item4101568
+FileChecksum: SHA1: 14bf490f095c8c55d28ed99b3f8acdbd76b1a573
+FileChecksum: SHA256: 5ef44eb4ec11f62a2890be59b29ad163cf384aa8141e137cfc57e076b419cdbc
+FileChecksum: MD5: 6e95bbc7ace342a490fd52cd0c2f78d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/serialize/serializer.go
+SPDXID: SPDXRef-item4101569
+FileChecksum: SHA1: 1f12f43665d16feda93cebbd94507e7d1aa569bc
+FileChecksum: SHA256: c8e94ca67b758c445da8bafd23fb1b2c3ff81d1f2a498a5001dffaf9fc6b3aa9
+FileChecksum: MD5: 8aa31bac0678f3ef414487b435ba1367
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/serialize/serializer_test.go
+SPDXID: SPDXRef-item4101570
+FileChecksum: SHA1: e28ff523217562cf57d90944f872f71341ad4744
+FileChecksum: SHA256: 06f6e2f5aca7b7789f616499bde29b12797de14a75c9b117b9f686d563ec655a
+FileChecksum: MD5: b2be75e9c724a91c3edd7fa1f3a65b60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/serialize/args.go
+SPDXID: SPDXRef-item4101571
+FileChecksum: SHA1: bd20c1c365b8b67c6cba76295fff284b946e743a
+FileChecksum: SHA256: cd78621c2a7b92b0cf0840c6ba6d2601f8be634f8d0c34239a066cc7de8491a9
+FileChecksum: MD5: 69914073f3bd858e7f34b264785005f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/serialize/testdata/serialize.validator.pb.go
+SPDXID: SPDXRef-item4101573
+FileChecksum: SHA1: 8b10ce2daccc5b78d987470c95b85f9b449a5e4d
+FileChecksum: SHA256: b2c759eee5913fb2c728abbda5aa0a52fe6275d3ab09751b87d4156e2daf8e3c
+FileChecksum: MD5: 4009578a62b716380a3bc67bfe851f7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/serialize/testdata/serialize.proto
+SPDXID: SPDXRef-item4101574
+FileChecksum: SHA1: 9b5011f46938ae287b67071771064873c5c52e88
+FileChecksum: SHA256: 31e9035471cc9e062cbd581e17e8f86f9ac5576593f781784036823d19c89392
+FileChecksum: MD5: 14e2b3f515ba00bda8490e51922a5fa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/serialize/testdata/serialize.pb.go
+SPDXID: SPDXRef-item4101575
+FileChecksum: SHA1: d48f56ecf504dcb6967e49b15659d789ed66c107
+FileChecksum: SHA256: be88a02d5b9cfc2c3d721c6330f3421731528422335642a4bf99d3e4f2f8aed3
+FileChecksum: MD5: e06e8addcb71bed1d32072a5a839fdf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/serialize/buf.yaml
+SPDXID: SPDXRef-item4101576
+FileChecksum: SHA1: d30569eeda92fc21a3a0df6fb6845ef6d903c9b8
+FileChecksum: SHA256: a4aa4aff9c70582047e1f1d3f28be8b7ada97386ab2780326e670567fc3b5529
+FileChecksum: MD5: 34de77b901bb61a27b2b499ed08daeaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/serialize/errors.go
+SPDXID: SPDXRef-item4101577
+FileChecksum: SHA1: 1a764ec07fbb9388ea77bc30055e05d17bdffa8b
+FileChecksum: SHA256: 6220b2234cb4c0c83ac99adecafdcc3e04971cd4823716d6fbd2b63c873a7fef
+FileChecksum: MD5: a1efc79ec93f07b2d46677135fe99f30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/serialize/to_bytes.go
+SPDXID: SPDXRef-item4101578
+FileChecksum: SHA1: 35ea86d643b12bba6de147e43d257858e3f3214c
+FileChecksum: SHA256: aa0d38d52c30ca693beb822b8870ed40f86ce06e85efbf02181c1cf4cdd09d97
+FileChecksum: MD5: a649ace22fcb0b179665ba79e42ed81f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/serialize/interface.go
+SPDXID: SPDXRef-item4101579
+FileChecksum: SHA1: aa1b2ce03e3dca5ed3f976e749dd8aa49c90073e
+FileChecksum: SHA256: 2a035441f1029a677aed03bf8256d69c8c5135e053e697d0b0b4b79ed534964a
+FileChecksum: MD5: 39fc3bc4c706c5ae98eb4255a4bb4fa2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/README.md
+SPDXID: SPDXRef-item4101580
+FileChecksum: SHA1: 1c6fc2371f13c7bc23a5544e588d25f18b28d439
+FileChecksum: SHA256: 32f36b91d5fdadb2fa6c7713819881fb19a261a06632d0704171d3e163a2444d
+FileChecksum: MD5: 72f94a77f0c0c23208e38e1e559bc388
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/generators/deps.go
+SPDXID: SPDXRef-item4101582
+FileChecksum: SHA1: 15f5c396be65b6c957e2db6e4695792555aca885
+FileChecksum: SHA256: 7a4aecb4980e09680faac081611c61c2a1b0a1a0b0830a7a23928c7027713ae8
+FileChecksum: MD5: 0c8174b08dea6e086f56a91e764e3efa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/generators/README.md
+SPDXID: SPDXRef-item4101583
+FileChecksum: SHA1: 338894933fdf31a7974247b3b5afb0832d053380
+FileChecksum: SHA256: 08166cf77e1545ac761ed9d908064644b9a407a9acc277c5f947fff941ddf372
+FileChecksum: MD5: 6e2c96c05f46ffbac1c73fcc93ac024e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/generators/install.sh
+SPDXID: SPDXRef-item4101584
+FileChecksum: SHA1: e5e5af8d03091fb732d1f5f3fa7555340e11cd08
+FileChecksum: SHA256: 507265311fd04dc530929cec4a25e319cda361d07e6dd4f783a3180e51d4d489
+FileChecksum: MD5: cf29224fd9d7b2cdcfd264b24f93c2e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/go.sum
+SPDXID: SPDXRef-item4101585
+FileChecksum: SHA1: 5bbe87427425c547c399cfd45d2f2760cf98301b
+FileChecksum: SHA256: aa241a70b75160486af6e540d1b3a97bbe8280e13b363acef5cdc9ced9dd3bac
+FileChecksum: MD5: 5af9f5ed10d0724daeabb952b9222404
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/pagination_test.go
+SPDXID: SPDXRef-item4101587
+FileChecksum: SHA1: 6f876fae3d3c479a6fe1ab3e966961b668237ab2
+FileChecksum: SHA256: 1844e6114cfe802db355ebe15d34df1c4a8d9b3b0a8d6b63dd16aae10a7f32d8
+FileChecksum: MD5: 5b81ef6fc0ce99dd2f1205d2a863f8aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/mockstub.go
+SPDXID: SPDXRef-item4101588
+FileChecksum: SHA1: 68bbaffb2f15753e5e24606cd566dfc526200838
+FileChecksum: SHA256: af24f98c9f35267fc90db7848330132f22d0a13f1cedc7c0ed659fb2488787f6
+FileChecksum: MD5: 6b0e6273e896967f639ef268e6e942b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/mockstub_test.go
+SPDXID: SPDXRef-item4101589
+FileChecksum: SHA1: cecb0318be3a023a06337b202caa53926082e786
+FileChecksum: SHA256: 6db1c86a218c317dd84f0c6ece559419aee132217bc973a3df2e1312d5c9b286
+FileChecksum: MD5: 62928f254feb95f796a21763a4cac4d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/pagination.go
+SPDXID: SPDXRef-item4101590
+FileChecksum: SHA1: 3fddf8e18326031abed5682a52e972bc6dfcc314
+FileChecksum: SHA256: c678afaefe547bfd38db3596452c9168d98d3b0828b2a62068471d79446dd560
+FileChecksum: MD5: 29aa64d6c59033efc4f6f22e11c81dc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/mocked_peer.go
+SPDXID: SPDXRef-item4101591
+FileChecksum: SHA1: 2617f8f007385652b4325784e893c0ba3cfdafcf
+FileChecksum: SHA256: b44ae59c8e1eddeceeed4d2375ff13ae127a799e3b29be887f2e021b7ce22bb6
+FileChecksum: MD5: 07fb6fff34d110ca5fef44d334a59170
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/tx.go
+SPDXID: SPDXRef-item4101592
+FileChecksum: SHA1: d1f952420d0f7f293c6cc4e403aa4b4e74eeeed6
+FileChecksum: SHA256: ed6348c411950151774b959c053bcc221b6e19e3b00607265e34a39984fd4552
+FileChecksum: MD5: b3eb259060b78d043bdf5b784ed80477
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/gomega/matchers.go
+SPDXID: SPDXRef-item4101594
+FileChecksum: SHA1: 906f3bcf31b1f6966ef8d6dd5c206fc257c217f4
+FileChecksum: SHA256: abffda0a2b5667269e92b198f01b1e5db32583f45b4e65512d037eaa46ddbfb4
+FileChecksum: MD5: c0d1b195acb32437466306e94e54632a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/gomega/matchers/stringer.go
+SPDXID: SPDXRef-item4101596
+FileChecksum: SHA1: 15d1e19bf0240663811424172861cc16c5b03614
+FileChecksum: SHA256: 2d838a834e5ac0061b831359b6ab2042ff5181019b31a5086347659e907ec086
+FileChecksum: MD5: 5073a7d413ef7e63b573fa66882b1769
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/gomega/matchers/erroris.go
+SPDXID: SPDXRef-item4101597
+FileChecksum: SHA1: 24ffe6f34720ac7a1a71998c074c93647b192928
+FileChecksum: SHA256: 07dad4e510a661a8deab986ab73b375bb9f927fd06a7470fcc7900bfc158ede9
+FileChecksum: MD5: 96d6c607475970d8dce6ee5b8eb298f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/identity.go
+SPDXID: SPDXRef-item4101598
+FileChecksum: SHA1: e76a0e94bd216885076f944633350f8d68931976
+FileChecksum: SHA256: 68dc2530a16f9e49e1f17e2025fab529c250b7858a09a2fac5a0506dbeb160a2
+FileChecksum: MD5: a1ac392c1b920412f43141bd650434d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/testdata/cc_tx_state_isolation.go
+SPDXID: SPDXRef-item4101600
+FileChecksum: SHA1: 5d7d35b01a41d46b71b9ab58057e6357d26c8126
+FileChecksum: SHA256: e00f78a6ed93f36cb659b5c1b273ccc7ab3b8600d2e847e9416283e8582c3dfa
+FileChecksum: MD5: a3495def8339fe9838b6fa90b542e759
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/mocked_peer_test.go
+SPDXID: SPDXRef-item4101601
+FileChecksum: SHA1: d422216014ce8370ac584a48c3256ffc6fcd4f6d
+FileChecksum: SHA256: 7b15144d6bcb813b933752ba46ebe9e50e48eb5647dfbf83c1f9cbb4646c3d0d
+FileChecksum: MD5: 2591542863fee5c20d0acbe253d8c176
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/chaincode_event.go
+SPDXID: SPDXRef-item4101602
+FileChecksum: SHA1: ff5ff391bad7ab07c992f7e408acb60544cdfef2
+FileChecksum: SHA256: 20d86787ac2f88edc6d7d1ffdc186d359e9c31adf7cef80fa806a2235b4a8cef
+FileChecksum: MD5: bf055d654411bee235524c46470dec6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/must.go
+SPDXID: SPDXRef-item4101603
+FileChecksum: SHA1: 3bf183f7fa158aefa86a27fea0dc185310f0b0da
+FileChecksum: SHA256: fabf92c40e67be8476787d4d30039237ab4a4aa3088ca4a20f190d8bf714102a
+FileChecksum: MD5: c7a1e9805e2972596f1029c35bc0d97c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/expect/tx.go
+SPDXID: SPDXRef-item4101605
+FileChecksum: SHA1: 6dd400e23d9cb53e04e30701c421a2127a56655a
+FileChecksum: SHA256: 0b1afced0d5b3a805d36d30b393059547d0644da404fc120aab68141c8f261ae
+FileChecksum: MD5: 5538e03f4785b35d023346ad02bafa15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/expect/response.go
+SPDXID: SPDXRef-item4101606
+FileChecksum: SHA1: 499e5b53ecbc307b039623b061593aa5c3c01239
+FileChecksum: SHA256: 4ded2e2236109dee4411a302adb56e9563653b2ccc7504784e9ccf86ca4eec39
+FileChecksum: MD5: f09a93871b9cd3a7ccd1e4e2cac98d78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/expect/default_serializer.go
+SPDXID: SPDXRef-item4101607
+FileChecksum: SHA1: 69e1a0e2d71e8078ae18fdac9dfc1be377570d9c
+FileChecksum: SHA256: 8e33a310136849d6262f2707e00088d0920d72b3c18ab84f58802742a1d95324
+FileChecksum: MD5: f709fcf474291c063bd1ae91c23df86b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/expect/event.go
+SPDXID: SPDXRef-item4101608
+FileChecksum: SHA1: e84087f875abadda062ebb9818d96495f9d13aff
+FileChecksum: SHA256: 38e6acc80fc3f6b286d192560945fcb3f29e23e3e50dfc1abf241516891e6117
+FileChecksum: MD5: 58aab6267d8237bf197c3ad8dedf4daf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/README.md
+SPDXID: SPDXRef-item4101609
+FileChecksum: SHA1: 9644aed2a34d19e6bdeb17546e063c782cba41b0
+FileChecksum: SHA256: 83c02e326458c7db4b78d6c477ae1d6016b788896a3b4156fcce33e9e2596626
+FileChecksum: MD5: 5976497e7128edda7a0acbdd7c6e8fe2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-commercial
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/mocked_peer_decorator.go
+SPDXID: SPDXRef-item4101610
+FileChecksum: SHA1: f39d921b9107de2ee7f98de62300cf4a179b4f19
+FileChecksum: SHA256: a4425e215d2a7ca97f31bad82c6c1ae20e6f6067e0a5e1e3bc4207322323156c
+FileChecksum: MD5: c6137cfaa63b357266a24841433526b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/testing/txcreator_transformer.go
+SPDXID: SPDXRef-item4101611
+FileChecksum: SHA1: ebb44c06da402b241c26d12a084963dd3dccabd5
+FileChecksum: SHA256: 2866cdc825b8317dc24e6fdf573ceccd77342c6ca02939ac69f226f15e5d5d96
+FileChecksum: MD5: a6c32946fdf853a0793a1a8a83043b70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/router/context.go
+SPDXID: SPDXRef-item4101613
+FileChecksum: SHA1: 249cb0b890c8502c88ffaccf35744ecf8e0c5c0c
+FileChecksum: SHA256: 5a421c9a623bdf7f5eec4f26dabf679dd6623c2fad62e51cb02846279ea6dadf
+FileChecksum: MD5: 918c5b97dc0423f559dd53c5537dc6be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/router/handler.go
+SPDXID: SPDXRef-item4101614
+FileChecksum: SHA1: 9a253e1c93e7de756094b428a4f6f1c9843601a8
+FileChecksum: SHA256: 146dec98e36366d04dcd0f876532dbc7172f900c07fd518af572a6be9bed1e12
+FileChecksum: MD5: f08f0a2f85637dea5ea9f599126e022c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/router/param/type.go
+SPDXID: SPDXRef-item4101616
+FileChecksum: SHA1: 6ae562dfb8a8a935f86868e16a2d88b28702c6cd
+FileChecksum: SHA256: 1c995736221f61a3e88f0181075914b164a23d66e917cd5372eceba7e7393c01
+FileChecksum: MD5: 33434e0b12bc3e2c946bbc12c4113512
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/router/param/defparam/type.go
+SPDXID: SPDXRef-item4101618
+FileChecksum: SHA1: 81c3b4eccb87ff0178970e8148ae5b1694062e00
+FileChecksum: SHA256: f2aa69b3213acda1987f561f20e9f4b2531589fa7a6a68eee5226db1b637d2b3
+FileChecksum: MD5: 7298aef912c3c9937ce770490758998f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/router/param/parameters.go
+SPDXID: SPDXRef-item4101619
+FileChecksum: SHA1: a9c3d7e492a1f6715489146fa30ac8f80e385594
+FileChecksum: SHA256: 8a290e57b82863d8e870d72f98399e7014d08c908458e9b12f031b1bc60fa58b
+FileChecksum: MD5: 32f37b536bfc687f6b18ea98a2ddb444
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/router/param/middleware.go
+SPDXID: SPDXRef-item4101620
+FileChecksum: SHA1: 90b5a89f8fdd1ac8108f445997d4e706ec5bd94c
+FileChecksum: SHA256: 02a6b9482e48335c57b4a358746c7442e55a9d337dffc13d6d9da09bd3bb29d0
+FileChecksum: MD5: 91160fc31442ae5b1925be0a05dc5f48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/router/chaincode.go
+SPDXID: SPDXRef-item4101621
+FileChecksum: SHA1: 828f5a1d9c872debab51d156d484b8c6818b72f6
+FileChecksum: SHA256: 6e53d2e5bdff09e5e1c976ae89d8bc5e384e037de26eb4cdbed6a6066634cf14
+FileChecksum: MD5: 43bc247c04f59c981bd6547d55797696
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/router/response.go
+SPDXID: SPDXRef-item4101622
+FileChecksum: SHA1: 492987b3d1b487c106134ab4980f05f8ef765ed6
+FileChecksum: SHA256: 7ac5b87964dd42fe91eb2f82c1058f8201b52befd860e6176596203c4141f12d
+FileChecksum: MD5: 8dfed9688297e8cc61697293486874f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/router/request.go
+SPDXID: SPDXRef-item4101623
+FileChecksum: SHA1: 64a1f499bd70e2f858fa08304ccc33f6554c707c
+FileChecksum: SHA256: 66012c107f0ec8ec53bdfc3a317a731d614a5b79df36a9d6386045f5ec84977c
+FileChecksum: MD5: 50c1065724468dae8749d99d2ea77bdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/router/errors.go
+SPDXID: SPDXRef-item4101624
+FileChecksum: SHA1: 74d33aa5931e1ddb0e0cd31ad43a36dcfdc878b4
+FileChecksum: SHA256: 9b97303036760959de88a287eb748e528026ccc086b88a2bd28f197788262d58
+FileChecksum: MD5: ac766492ec0a62d6d4fbacb2a1ff2929
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/router/README.md
+SPDXID: SPDXRef-item4101625
+FileChecksum: SHA1: 45f624d2f3ed8798eb07c5a6de18299e64d04037
+FileChecksum: SHA256: e79eb7846b2254fdedfe35f3a7669bb59388105eadc546cf403b32b9f70230bb
+FileChecksum: MD5: 66c1644b60267f097ceda8ccce99fe67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/router/opt.go
+SPDXID: SPDXRef-item4101626
+FileChecksum: SHA1: eed3abbe58beabbe9a47796fcd694d16ae73db4b
+FileChecksum: SHA256: 5ae82ecd8a2da5a31c9eb0acd59566e82a53180cba85a54f099236297f036043
+FileChecksum: MD5: 2874bd7656e42a0630a878defeab0c6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/router/router_test.go
+SPDXID: SPDXRef-item4101627
+FileChecksum: SHA1: 801ebec9fa74afbd236ccef6410081521e17a998
+FileChecksum: SHA256: f3082998686baa3c32056f03131d0bf509f651505a21b0d244b6b938aca2f378
+FileChecksum: MD5: 8c1a6dac58cadb070a6d07127abf104f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cckit-2023-04-01.zip/cckit/router/router.go
+SPDXID: SPDXRef-item4101628
+FileChecksum: SHA1: 5fb36d1a19a85ac436f19960a40734195d825f6a
+FileChecksum: SHA256: f4294d68277dc36d59df2257ca1868da88075572ec4c465921f7bd6f0a02ca85
+FileChecksum: MD5: 3225f7567357fc578bfe18f8019774b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-Non-commercial
+LicenseName: Non-commercial
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+
+LicenseID: LicenseRef-IBM-possibility
+LicenseName: IBM-possibility
+ExtractedText: <text> License by Nomos. </text>
+
