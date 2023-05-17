@@ -1,0 +1,1211 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_mosaique-decentralized-workflows-2023-04-02.zip_1680848672.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-04-07T06:24:32Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: mosaique-decentralized-workflows-2023-04-02.zip
+PackageFileName: mosaique-decentralized-workflows-2023-04-02.zip
+SPDXID: SPDXRef-upload850
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 6267c685c721759944a870ebe91af44fd9339638
+PackageChecksum: SHA1: 5f4eeff802cdc8ee9216c66701635c79637da74d
+PackageChecksum: SHA256: d06596873e7ecf0a1e47100102707ae5e5eb9297ad48d6a9651c483e135e1a41
+PackageChecksum: MD5: 7e6d5de585184dc929e6fbc657ade4f3
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload850
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/README.md
+SPDXID: SPDXRef-item4116627
+FileChecksum: SHA1: 2edbce85478bda9334f6936d2100667617c4f417
+FileChecksum: SHA256: bdc2b4cbd01c193d142c9fd66eae2d287928f45649a9feec0818749557c42343
+FileChecksum: MD5: 7d97f2d4898d7ee60da7e10d21e8a830
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/LICENSE
+SPDXID: SPDXRef-item4116653
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/package-lock.json
+SPDXID: SPDXRef-item4116589
+FileChecksum: SHA1: 1f221bcb71d4953b086df7641e2bf9560bae7a06
+FileChecksum: SHA256: 35d2f90645023aa57324005db190c80d88357742a8434a00aacd7e22b5d7a18c
+FileChecksum: MD5: 983baf3b769998d5e5718935d104224e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/tsconfig.json
+SPDXID: SPDXRef-item4116590
+FileChecksum: SHA1: 00e32236bd1228bd9c2f886fd4ea3f2919712ad5
+FileChecksum: SHA256: eb51473ff1a63eed2f1c8777ce0d01f9fb05d413a4f76ed673af9f26d4bc40d4
+FileChecksum: MD5: bca7bfe87c64c692d467acbb9df6e926
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/template/template.controller.spec.ts
+SPDXID: SPDXRef-item4116593
+FileChecksum: SHA1: 9401bda7aa3f6344f68750cdf3dc422f8370fcb5
+FileChecksum: SHA256: d2955824ee310b81922cc44649a0a18bc77a57b170619cf79ef38dad887ac8a4
+FileChecksum: MD5: 1ec59add3ab203699f71e7450ac71ac9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/template/template.service.spec.ts
+SPDXID: SPDXRef-item4116594
+FileChecksum: SHA1: 05b69860fe8c872e90827e247d306c8f1ac7ccb6
+FileChecksum: SHA256: 58d36e2a6e26786f5662292640df698ad899a8b6a90ad1fde9f0f79a3eb89042
+FileChecksum: MD5: 0132ad61835d642fa928924886df0da4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/template/template.module.ts
+SPDXID: SPDXRef-item4116595
+FileChecksum: SHA1: 31ba41a042421eed6e61d8e3714e7ca53756cce0
+FileChecksum: SHA256: cf75b3c40e457e1a84e07c538311682868ffc388c063dc171ed87439213b59ee
+FileChecksum: MD5: e5b07a9588f07e9ad4a4c610b1b78c07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/template/template.service.ts
+SPDXID: SPDXRef-item4116596
+FileChecksum: SHA1: fe54356e00ab7f4bde264469ac69b871684a0728
+FileChecksum: SHA256: 718ae08cab12d34501a67b74b796ed81fd5657cf6467bc38a2b61faa2a52883b
+FileChecksum: MD5: 085755f654853e5b17c2d65ca802d30c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/template/schemas/template.schema.ts
+SPDXID: SPDXRef-item4116598
+FileChecksum: SHA1: 11592db1d1a269a832317eda0481302a57a2e694
+FileChecksum: SHA256: 5ace0608d1e461c6c4de9462c43182bf535ab251b81c9e4f5e97b03b6ca1d47c
+FileChecksum: MD5: 8bbc3c07716373296578b5d00831e2bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/template/dto/create-template.dto.ts
+SPDXID: SPDXRef-item4116600
+FileChecksum: SHA1: ffc1fc00f4bf997a88e03bb9495af99164ea76c2
+FileChecksum: SHA256: 34e66203b293998dbc9109e15c3d0e713e5aa061f62baf2edb30f552e7a4bdc2
+FileChecksum: MD5: 66ddfd28d93d7727975556aeea8dfb3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/template/dto/update-template.dto.ts
+SPDXID: SPDXRef-item4116601
+FileChecksum: SHA1: 72f8d01634514f325ca35049bbffd06f94e4893a
+FileChecksum: SHA256: 4f41d2f38b81ddd398190b1fcc69d4862e91b4f352e4da151739f8c36696c35d
+FileChecksum: MD5: 8757cbd68e1f1a95b3e4881eaaffa42b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/template/template.controller.ts
+SPDXID: SPDXRef-item4116602
+FileChecksum: SHA1: 89e9e0b2caf0e11db5ff708d09993ae79493924e
+FileChecksum: SHA256: 9cb77a1d880353be824842244f1b82cc3b6bbb9eb15b4f84828c1433e3593c7a
+FileChecksum: MD5: d5c9c6e2292c7cae24da88724d00738c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/main.ts
+SPDXID: SPDXRef-item4116603
+FileChecksum: SHA1: e6c077441364a2eb25dc94634e68fa8d9b81fcb7
+FileChecksum: SHA256: 2f6e75218e9e76ba074bf325bddfb1f3806a147c571ad8e4539669d071a0fab9
+FileChecksum: MD5: c85d784853a9210c63d2eea30aa74cab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/app.service.ts
+SPDXID: SPDXRef-item4116604
+FileChecksum: SHA1: fb235620e673ddf1280bfd9a6d1e1b25190625e9
+FileChecksum: SHA256: bbea8b1986b8fa35a8bc0d6e660bdc98f864100cab70c21c4174927a3bac53fd
+FileChecksum: MD5: c3c8f83a741fe8f688d9fd3409f54f3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/app.controller.ts
+SPDXID: SPDXRef-item4116605
+FileChecksum: SHA1: 6ecb0376ab5a4f05914fffd54e2f0955cfa9b55e
+FileChecksum: SHA256: 260f889b9e2b69f77be1155348eb345166aec664b3efff6720053c6844a41f28
+FileChecksum: MD5: 3ab0e83b7d93b85ea489ab994ec79ea1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/app.module.ts
+SPDXID: SPDXRef-item4116606
+FileChecksum: SHA1: 56700408547ce2a09d59946c83bfdbe532d170a5
+FileChecksum: SHA256: 58738762c31fe064247ea98818171bde28cf50b6c055327ff19c4e5f125a9d28
+FileChecksum: MD5: cf76f96173677286521a23bde2731004
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/parse/parse.service.ts
+SPDXID: SPDXRef-item4116608
+FileChecksum: SHA1: dbdf04f60db9edd6de8ce15120802b6aa92cab97
+FileChecksum: SHA256: fef0b1104dda0aa3f8638f4e40d6cc6da0b2ddc61fd4d3d269e80dbe3c24be05
+FileChecksum: MD5: 1f3d9442a22d6ab59a2a601152c242da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/parse/parse.controller.ts
+SPDXID: SPDXRef-item4116609
+FileChecksum: SHA1: 6537eb6b1136edc09ba0c3102b89622a39031cbd
+FileChecksum: SHA256: eac1a3742a70677cd35ac5c04d33f2937db9c628628cab5e8d157c0cd473221e
+FileChecksum: MD5: e96b92423140b25f6593008a4c24a88c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/parse/parse.controller.spec.ts
+SPDXID: SPDXRef-item4116610
+FileChecksum: SHA1: 0becc724d26271d7c36945987ef77c65641b95de
+FileChecksum: SHA256: 3fe2ebc11a3a853a1c7308b710583f48aff544e4accea68b03d9fbc2601e3b05
+FileChecksum: MD5: fa7f2a50b0e4185e5e7a27497f54233c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/parse/schemas/instance.schema.ts
+SPDXID: SPDXRef-item4116612
+FileChecksum: SHA1: f736b18f69aeaef6c16a37402826399dbfa6154d
+FileChecksum: SHA256: 710b4cdbbff1456a73919130540cf1540eae8b035d30584148d3ece75226e7ab
+FileChecksum: MD5: 7a2358deefd6916f314689b074478fec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/parse/schemas/context.schema.ts
+SPDXID: SPDXRef-item4116613
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/parse/dto/use-instance.dto.ts
+SPDXID: SPDXRef-item4116615
+FileChecksum: SHA1: eb9c9e3db106aff5a2254d2dd54187e5de69da65
+FileChecksum: SHA256: 86e1b3f675a4b4731c75297bfc989f6ef2172dbf7ba0d1c699a800f5b471d83d
+FileChecksum: MD5: 988467d7a43663d648d9254ef862b651
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/parse/dto/initial-instance.dto.ts
+SPDXID: SPDXRef-item4116616
+FileChecksum: SHA1: 8b9c44e248673541d50078777f7229955b77fbc3
+FileChecksum: SHA256: 73ed64243540400c2cf0027bf43c6403f61aa3dbac135c8fbb39348112de39f8
+FileChecksum: MD5: f8f5f5845814d8577288003debb22a09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/parse/parse.module.ts
+SPDXID: SPDXRef-item4116617
+FileChecksum: SHA1: 5829d1749a4c1b4e522b08fde45c806b2995c7f5
+FileChecksum: SHA256: 7ce58a1b8346c4a2759370a7d65cb072ce6e478db4b88e92b9c8746c64c96e6e
+FileChecksum: MD5: 57582deeb8cfde7d4afb46e8b329cf66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/parse/parse.service.spec.ts
+SPDXID: SPDXRef-item4116618
+FileChecksum: SHA1: 723ff5494ee565d8ece9dcd620935bcda75207f4
+FileChecksum: SHA256: c350dd6274206eefa79cae8ea3cf13f0040e363c2fba8f7b918d934975d8a03f
+FileChecksum: MD5: 74b8bb307f701fcb6d7aea3e4311926b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/src/app.controller.spec.ts
+SPDXID: SPDXRef-item4116619
+FileChecksum: SHA1: 5f1067f3197d182a2e24077980579f99b6403396
+FileChecksum: SHA256: 88faf5523fd7f5dae5a6c78be2dd1709eb6c20ee82c64fc399f8a2e8fb767527
+FileChecksum: MD5: 4a1c0e1133dbda6f6e8f3e60d984eddf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/.gitignore
+SPDXID: SPDXRef-item4116620
+FileChecksum: SHA1: ccf45e0491320aacee836f24a3741c3b8301d015
+FileChecksum: SHA256: 820000492856f080ef53909ad453dbf2364501ef3d0319d4357a64673310c59c
+FileChecksum: MD5: 652560e4b1c3fc3bbc35d8823d7d2f1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/test/jest-e2e.json
+SPDXID: SPDXRef-item4116622
+FileChecksum: SHA1: b72413057cdba0393f6859af08b8d1e78f93078a
+FileChecksum: SHA256: 8263868744540f44fb89e142ba721cd92f64918b6b97b115f1f672dba5a1d2bc
+FileChecksum: MD5: 9f2f5b0e1da31d7b04e205c944e85e8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/test/app.e2e-spec.ts
+SPDXID: SPDXRef-item4116623
+FileChecksum: SHA1: dc37fdacfbc84c2c92b2f7aaa7a9d8e3221c900a
+FileChecksum: SHA256: a02dfdc143eeec47c36db06fcb91c36ba1c8c9377c720b831a86ddc2701fcf8d
+FileChecksum: MD5: 9d30320d06669dc70e3db52f72412d3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/nest-cli.json
+SPDXID: SPDXRef-item4116624
+FileChecksum: SHA1: 8e3cda10bc2bbfacd98592a26bd15a656145458b
+FileChecksum: SHA256: 935632ba397740587d24b6566887263f92d31a0915b8d5f3f16169b469bf9c36
+FileChecksum: MD5: 15c969fc6b9a727eb669e9559652c682
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/samples/test-template.json
+SPDXID: SPDXRef-item4116626
+FileChecksum: SHA1: dd96da40285cec6fc59564679dbcd8cba65c3a58
+FileChecksum: SHA256: 668a55f53fec5ae1957161bc8319bcf70b92ad4cbc34e246af7c260229fd10fe
+FileChecksum: MD5: d6a9a07ca403775a531dfabccac6d194
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/package.json
+SPDXID: SPDXRef-item4116628
+FileChecksum: SHA1: 5847cd153e2ed606f791a7ca1b74db9953ece8b8
+FileChecksum: SHA256: 97f13ed2ea1df4df9b8e2098f5dab26a2e520807b43cf6c51cbba1843a324bf5
+FileChecksum: MD5: ae75b34e859b02c0babd3f148244556b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Unlicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/js-parser/tsconfig.build.json
+SPDXID: SPDXRef-item4116629
+FileChecksum: SHA1: 56c4c35568002402df552bf1947eb9e1b2c4fe2f
+FileChecksum: SHA256: 3a016b4ee9713cd16295128bad42e6077e5ecd8c2ed225caa7d1e0e3f1c7f03f
+FileChecksum: MD5: f73d0f011ee462dcdf7f02bbdcde284b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/yarn.lock
+SPDXID: SPDXRef-item4116631
+FileChecksum: SHA1: ef5dfc96211e03ef7862c5b900ed078da9d60c32
+FileChecksum: SHA256: 972384610c2247cb9a947cde4702a886e2aec6e84353b4ae68bd89911d566a24
+FileChecksum: MD5: a5b5b4e0189507d1f0e3dc7ee3c0d2b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/vue.config.js
+SPDXID: SPDXRef-item4116632
+FileChecksum: SHA1: c964851a4bb00d83068b5391072954c880df3ed0
+FileChecksum: SHA256: 19fbfdacde4b4e4278dc051247d11cf1d51937c47374f229e202fc9b15693331
+FileChecksum: MD5: 4bf1cedce7ecbc236f41bb2dbcf853fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/src/main.js
+SPDXID: SPDXRef-item4116634
+FileChecksum: SHA1: 8a50413db7c70a32a2cd662a4ea7cfedab7f8597
+FileChecksum: SHA256: 50cb9f18b1c7115799ae456f0d0038840278b49ea520b5549d468ec76c248fb9
+FileChecksum: MD5: 92c8a1bd64a474be3b9847d896bffa89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/src/App.vue
+SPDXID: SPDXRef-item4116635
+FileChecksum: SHA1: a30b8d565f134214919a9b896f13bd063d7033be
+FileChecksum: SHA256: 6930abacb9fcc7ea0645c5043206e94c51c1602856b4799d1ff7a4b7c5daa85c
+FileChecksum: MD5: 5e8d67755e39d403cb18a4682da3ad2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/src/components/TDropDown.vue
+SPDXID: SPDXRef-item4116637
+FileChecksum: SHA1: 5f3c7229c073ecf2117460a4e3f2d13d8d99f4e6
+FileChecksum: SHA256: bb6c0c891c8944ef874b7ea092eafe86c5b61b344f9ead42894faa6982ac1136
+FileChecksum: MD5: f6764b675ea8ac957f1e610d7f072f4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/src/components/Renderer.vue
+SPDXID: SPDXRef-item4116638
+FileChecksum: SHA1: 37b1d66c196934928b5832aa24a625f113837b18
+FileChecksum: SHA256: ba976d6e3428a7ac929b2024ea28ae16b48806ed75ba5813257b2d9a4009e0cb
+FileChecksum: MD5: 645e728ca082fafd97e20442647efe39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/src/components/DisplayObjects.json
+SPDXID: SPDXRef-item4116639
+FileChecksum: SHA1: a17e4d7c7e39b25c4bb26e127e6725df62b9ca82
+FileChecksum: SHA256: 71cbb569e5041d9d2b5685a181a481fab7e3cc4d7702c8ac00c64b53c87a44ca
+FileChecksum: MD5: 78177a6876fe83f0fced727b8b2f9f71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/src/components/Title.vue
+SPDXID: SPDXRef-item4116640
+FileChecksum: SHA1: 7a433b34ff995a0844cb7090474158fb02732d4a
+FileChecksum: SHA256: 58a7553df598c86af69e197ecad92d77f25efb2c614d1a7bfe47a9c07c86ccd8
+FileChecksum: MD5: 24beedd94055e85492902c41edce2e68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/src/components/Button.vue
+SPDXID: SPDXRef-item4116641
+FileChecksum: SHA1: 24ea1e77c0dfa4d665a5bbceffba5d3228f89f4a
+FileChecksum: SHA256: 8e18e88e4e16bd7d99e1b4e140c1c2a6e8bf4a7eb55defb2dd93a58ebf43fe55
+FileChecksum: MD5: 1bffd2244a6433fa82473e1ca065ef43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/src/components/Image.vue
+SPDXID: SPDXRef-item4116642
+FileChecksum: SHA1: 5ab792cdac8f4805a9e065e5ad31a486d1eeac54
+FileChecksum: SHA256: 9430574b16404d604acd8ebb420c77cf9372c8cc7a6c3744c5724c3ac09f2653
+FileChecksum: MD5: 12755f215e58ae2bbc1e743b476a896d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/src/components/NavBar.vue
+SPDXID: SPDXRef-item4116643
+FileChecksum: SHA1: f23d4b36ef544b0ddf40df410345a9c1715ed761
+FileChecksum: SHA256: aefb2c11c1db8497096a6b3ac3afbd728a9a0cd4d6695357676985dfc25eccce
+FileChecksum: MD5: 27abb577e8b33becae7c5859c0e592f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/src/components/Header.vue
+SPDXID: SPDXRef-item4116644
+FileChecksum: SHA1: d5a92006fb27326aafa67b5819af596763c642dc
+FileChecksum: SHA256: 5bdbd22053be80ce00d4a3b506526ed055891abd288b36e0313a676d74d1e739
+FileChecksum: MD5: 4d5453ca99b9f8191057be42a5b7f92a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/babel.config.js
+SPDXID: SPDXRef-item4116645
+FileChecksum: SHA1: cc413911048c70f086db40e2ea0816af552ee2dc
+FileChecksum: SHA256: 3e9eacd9013b5c4ce3a71e8d1d84fbb78ebe79a68855a6de54d3a16670bbf8e0
+FileChecksum: MD5: f3e7d907f34c0ce5a70096716c501a6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/.gitignore
+SPDXID: SPDXRef-item4116646
+FileChecksum: SHA1: 3617044b135f64098c4e874077f06bbc0922663f
+FileChecksum: SHA256: 3f802a1cbbab09b6ac6e767bccf18c570844f429916c9265efbc536096df2ec0
+FileChecksum: MD5: 57bb31095d802f29058cab98d2250bb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/jsconfig.json
+SPDXID: SPDXRef-item4116647
+FileChecksum: SHA1: 7e988e8876e21d87c3c0ada7612fd59f743ad895
+FileChecksum: SHA256: da25c8b03e216e46ef3d009d08ee52cc18c5f41d8b5f0e3fe1230c3c9b3cb629
+FileChecksum: MD5: f4538e6250b10adea8111f02fa214a3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/README.md
+SPDXID: SPDXRef-item4116648
+FileChecksum: SHA1: 7fcd19fab48da10c3785f8008ffcdd0413afbfa0
+FileChecksum: SHA256: b54ce1550c07ad3dc9c5ad83beb7fb80deda6dc9fa6961cb3623d2c852b92543
+FileChecksum: MD5: 67b296d738d81fd599dcd638c3ca630d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/package.json
+SPDXID: SPDXRef-item4116649
+FileChecksum: SHA1: 4ff194ddbd3d5a57e79f81f265d2c1f37b46dbb0
+FileChecksum: SHA256: 9fa1a53caf7810e6a0c1004676895279252c0e016b5b1c749ecfe995173c32ad
+FileChecksum: MD5: 9cc0c7c64d7ad2190ef60f4a25aa24ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/public/favicon.ico
+SPDXID: SPDXRef-item4116651
+FileChecksum: SHA1: c0605efed936ee2600284e6480521d06fa64f872
+FileChecksum: SHA256: db74ab0b78338c1f778f8398c45f4103c99aea0e845a3118a7750b4eeafd3445
+FileChecksum: MD5: 1ba2ae710d927f13d483fd5d1e548c9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/vue-renderer/public/index.html
+SPDXID: SPDXRef-item4116652
+FileChecksum: SHA1: 1b2fa8a3eddb7cb2ccec4003c981fbbc36d69da5
+FileChecksum: SHA256: d30a46f91b7bcb2f514607084e866096b49ebfe9d2d704dfc76d9d7ca7fc39d9
+FileChecksum: MD5: ec86382aa11c58906f8ca3fe7d756c5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/yarn.lock
+SPDXID: SPDXRef-item4116655
+FileChecksum: SHA1: 504e0ce3f709b3e560e1e7ff30f1e055eecfce46
+FileChecksum: SHA256: 4a3a65e270455632002fbdc36dcb828c18586ecfd0b50c0e22159a500b417326
+FileChecksum: MD5: 67c94178b99cab6fc247fb748f9838b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/package-lock.json
+SPDXID: SPDXRef-item4116656
+FileChecksum: SHA1: 4effef6c3b1784eee2b8513eb9919d19fc297d0c
+FileChecksum: SHA256: 577f34e044e0a6c32c8fc48b6d05e32c8dc586804d99055faf8e35468110848a
+FileChecksum: MD5: da99a5eaba35a407ab255af17e042070
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/tsconfig.json
+SPDXID: SPDXRef-item4116657
+FileChecksum: SHA1: 9baa6a363a7c9bd3edde25a9ab56f2861b69c3ab
+FileChecksum: SHA256: cb9cee8200f8070c9e36ee74299938966d5a10718171bb671a95829b8a6b06a5
+FileChecksum: MD5: 75a54e1abd560b1af0f3f2205a7c90df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/App.css
+SPDXID: SPDXRef-item4116659
+FileChecksum: SHA1: 0be63cf9418edda239b2c4eedf70b0d157fdbedf
+FileChecksum: SHA256: c5ac42e56bf8c34eb741d752bc879144f186d7ca0a48fcbb73b967177f7a9240
+FileChecksum: MD5: 2651f2265d6613947b1cc23282b21735
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/setupTests.ts
+SPDXID: SPDXRef-item4116660
+FileChecksum: SHA1: c094c2f8aa68cd46c90f53284610e6b909a516f8
+FileChecksum: SHA256: 22583759d0045fdf8d62c9db0aacba9fd8bddde79c671aa08c97dcfd4e930cc6
+FileChecksum: MD5: 1a77571e1a8cf36018a41bcedf60db75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/data.ts
+SPDXID: SPDXRef-item4116661
+FileChecksum: SHA1: 65f2580721816a313f05bf7146dd727a5688d0ca
+FileChecksum: SHA256: 9a28e73ffbc46a67d04af712643287a034b612fb8ae16cc4bc1b5dd55865d634
+FileChecksum: MD5: aa6223cc5022c4c4d9f73c85335837c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Not-for-sale
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/index.css
+SPDXID: SPDXRef-item4116662
+FileChecksum: SHA1: 5c1d01fe7c2c646773fff312b7e9574f1e8852e1
+FileChecksum: SHA256: daf22c296c801d3d533083361cc59fbdc22e5bfe528aa4bad1973b54cc5448a4
+FileChecksum: MD5: 6c2104b8d219ed99234ae2d6329f4357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/react-app-env.d.ts
+SPDXID: SPDXRef-item4116663
+FileChecksum: SHA1: c9361f30650fe131ac530a63948fadde69568717
+FileChecksum: SHA256: 57eda4c4c04a1dca45c62857326882ce9cc948c4b52973c0e3c3b7e4c3fa3990
+FileChecksum: MD5: 3b12a2a445e35988cd2eb9f73d12c500
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/reportWebVitals.ts
+SPDXID: SPDXRef-item4116664
+FileChecksum: SHA1: 632fad2ec18dbf9c989885beaffab3bb2ace2c71
+FileChecksum: SHA256: fa208d5a5ab6d20b64122998b074707dea08d12ed619652955f77df958d85786
+FileChecksum: MD5: f62c07c24a14ca699e74938f358baf22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/App.test.tsx
+SPDXID: SPDXRef-item4116665
+FileChecksum: SHA1: 14107318c7fd8ec67e076f369358077f99beec64
+FileChecksum: SHA256: 1f0914ca057e799130da87a78d48021657aba67e01fcbcb50b099944ee2ea864
+FileChecksum: MD5: 3258d962552b258f9162a9e094ab9e6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/components/TemplateSelectionModel.tsx
+SPDXID: SPDXRef-item4116667
+FileChecksum: SHA1: 70a98040008edfd2d5505034cf8c5213b5a2a647
+FileChecksum: SHA256: e6ec88d32a8cdf2c90b6fa352a3366d835f5c6802854e9972f202520ccf5f8ee
+FileChecksum: MD5: cfa85264f44d470201f1193035b783a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/components/RightPanel.tsx
+SPDXID: SPDXRef-item4116668
+FileChecksum: SHA1: 7e3d3d937ae923e0e8bd9e4ccdc060e78b9603c1
+FileChecksum: SHA256: 3ef31b8b43184e0bba3da6388e7992148261b0d5a557ecd556dd3fa2b3aa16f4
+FileChecksum: MD5: bb9c8f037e9a89f0792d60cb3e357673
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/components/TrayItemWidget.tsx
+SPDXID: SPDXRef-item4116669
+FileChecksum: SHA1: 5f0992ba590c98e261518a9826cf9a0c86f6bb27
+FileChecksum: SHA256: 5b884d754a543307a568c9940ae18dd9227dfb8ad4763b0b10273a7dce966416
+FileChecksum: MD5: 98492c077e2730916e03c5811142a160
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/components/Links/AdvancedPortModel.tsx
+SPDXID: SPDXRef-item4116671
+FileChecksum: SHA1: 8909162d5021e08bc5801022078fa69b5d0ab3a0
+FileChecksum: SHA256: c2e265a5e386864f6d608184e765f87a29935b69a4166f6b1ce385de8c732fa2
+FileChecksum: MD5: 31b2631a12d24af0caf8097342589ad0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/components/Links/AdvancedLinkFactory.tsx
+SPDXID: SPDXRef-item4116672
+FileChecksum: SHA1: 3eab1c4a85bee2d42d9438251b46a8a9b7496f81
+FileChecksum: SHA256: b410f8704f6312360778c4a6708a93a8d06b663677902eb8969eb820833f44c2
+FileChecksum: MD5: 57a542591a599dee3a4a8761ad8ec186
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/components/Links/AdvancedLinkModel.tsx
+SPDXID: SPDXRef-item4116673
+FileChecksum: SHA1: fa16ec84d9201c8315e8afc2e384703a938d66c1
+FileChecksum: SHA256: 5d65324cda60a3265721bbe959ca8fb665dd7fcf141363168efa956e3fc825fd
+FileChecksum: MD5: 71065db0e2e07de8c51997b06d86436d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/components/Links/AdvancedLinkSegment.tsx
+SPDXID: SPDXRef-item4116674
+FileChecksum: SHA1: 3f4fcdfa8d14ebed7bf209bfa97ecaa248a70569
+FileChecksum: SHA256: 621f0fbf683deca7231502fb9d3ee11273b578683068ec6fec63b89d2868ad09
+FileChecksum: MD5: 5132a95b9513909c0b19016224d9c6a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/components/Application.tsx
+SPDXID: SPDXRef-item4116675
+FileChecksum: SHA1: fabc6ef55c1e18f674a4f7d46b120ff8516d0d55
+FileChecksum: SHA256: f0f7c15c2cd0add161d830b21f52e49257310ffab0664387bdf601e6ad0a35cf
+FileChecksum: MD5: 7a48ff216b0080fdd528b5ce6d30aa93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/components/ViewCanvasWidget.tsx
+SPDXID: SPDXRef-item4116676
+FileChecksum: SHA1: 74b1a9b1985aa1d3e3fdf1d98bda9aa502ecf887
+FileChecksum: SHA256: 60399bb36564e8d35dcbe54da9ab6a8d8513dd048d5a48b777f7b1ae9f652451
+FileChecksum: MD5: 6fdbb0eef8522f95735741e2f3dc437d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/components/TransitionModal.tsx
+SPDXID: SPDXRef-item4116677
+FileChecksum: SHA1: 5061cd4dacffc47396171d759cc457ea7d92548e
+FileChecksum: SHA256: 885943dcca5dc08946a57c9277a703428e3d253bc7fd8c8c6de617643b79815d
+FileChecksum: MD5: 8746a0e8d2b8955f555b6a51823db4e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/components/TrayWidget.tsx
+SPDXID: SPDXRef-item4116678
+FileChecksum: SHA1: 94b7c01184eb2372aa89d9268a24b935527237be
+FileChecksum: SHA256: ed2f483647dbcda69ec29450985cbdc011f78e79b6c5d12c07fd81ce1d429d0c
+FileChecksum: MD5: 2f0b40074ae0a1d1b8ad419cc920c10e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/components/BodyWidget.tsx
+SPDXID: SPDXRef-item4116679
+FileChecksum: SHA1: 9522da749da6308a4ad8b220b1b81510bb0e8f02
+FileChecksum: SHA256: 4eca3962e2d648a216c8756ea75b3808b3224987f0b3fe508021245f94df6917
+FileChecksum: MD5: 1cd5b8c7379dff0f9a13492a42054b1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/logo.svg
+SPDXID: SPDXRef-item4116680
+FileChecksum: SHA1: df904d014e54fb8b536f2fce3949d9f858d5a86a
+FileChecksum: SHA256: 6000b0e9b0b05b3f112de04f0d039768a1db63588ff9b6ef7099dbd71632f383
+FileChecksum: MD5: 06e733283fa43d1dd57738cfc409adbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/utils.ts
+SPDXID: SPDXRef-item4116681
+FileChecksum: SHA1: c41312885557936bc3c86b03f49bd201d4bb17d7
+FileChecksum: SHA256: 6738fbd6e7181f90befe1ff93b0f106b1fe80a0e3d6f349d3c13e06d22b3945b
+FileChecksum: MD5: d4febc1d3c834bedd608fe4b257a160e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/App.tsx
+SPDXID: SPDXRef-item4116682
+FileChecksum: SHA1: 062e84076fa2e2878591f1047fa8a44ce610c98a
+FileChecksum: SHA256: 5ddf999146e02f99c634a031e38d54f25b3b63f6841d74f935755e355de10ddf
+FileChecksum: MD5: e0c3a375d26f5cee8beb1997e9b063cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/src/index.tsx
+SPDXID: SPDXRef-item4116683
+FileChecksum: SHA1: b9e7a3099fef5f35e066603120253f5b0b8c5bb5
+FileChecksum: SHA256: 5c0e18d9b40803de4dee5d3ab853464e3cb2cd02d01e178e1c614fc180666cf3
+FileChecksum: MD5: 5cab10b74553e6a57c85c7c7d6ab2889
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/type.ts
+SPDXID: SPDXRef-item4116684
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/.gitignore
+SPDXID: SPDXRef-item4116685
+FileChecksum: SHA1: 6c9e3f0643a75a0b27a24fc764223f879dac91a6
+FileChecksum: SHA256: c3c3a8c8b71036271bee32298ac8cf9c3f813247c6f18f3b7253b0714a159769
+FileChecksum: MD5: 9b83d07eb0dc75fc0c5b9380bb61a3db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/README.md
+SPDXID: SPDXRef-item4116686
+FileChecksum: SHA1: 172255958ba22d5fb6d75f29e6f4aa977808e1e3
+FileChecksum: SHA256: 749ba82e0f7f6528d3611c5b74870b6fe2ee98243bf84ecc3a3d8b507291a3c0
+FileChecksum: MD5: 86383a836e7b0e5da6a44f05e17db606
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/package.json
+SPDXID: SPDXRef-item4116687
+FileChecksum: SHA1: 4f57421deeb685c3ba1071a35712b68e13b9b5cc
+FileChecksum: SHA256: c4a4d5ede2c86c04dee6b1fa40f9b5245d96dedbf79b965ca4463699f94131ce
+FileChecksum: MD5: fe2b375ec57b802153aa340e6d92f02a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/public/manifest.json
+SPDXID: SPDXRef-item4116689
+FileChecksum: SHA1: 4e0afe7f81a71f41366cd7859ca34776b8107923
+FileChecksum: SHA256: 50b3d8c3903af3f78d871b94557ab14f4e39ca192eaca3d2cfa863c867279a14
+FileChecksum: MD5: d9d975cebe2ec20b6c652e1e4c12ccf0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/public/logo512.png
+SPDXID: SPDXRef-item4116690
+FileChecksum: SHA1: 46915f9d02694ed49bfc7a9534947684103dc3fe
+FileChecksum: SHA256: 9ea4f4da7050c0cc408926f6a39c253624e9babb1d43c7977cd821445a60b461
+FileChecksum: MD5: 917515db74ea8d1aee6a246cfbcc0b45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/public/robots.txt
+SPDXID: SPDXRef-item4116691
+FileChecksum: SHA1: 044ce68f83ee8543475fea16f6e3a73d28a1c6d5
+FileChecksum: SHA256: 90d24bc3bf698ac1e173739502298ccca72adf1f564fab05f484b8c48d1cadd2
+FileChecksum: MD5: fa1ded1ed7c11438a9b0385b1e112850
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/public/logo192.png
+SPDXID: SPDXRef-item4116692
+FileChecksum: SHA1: 7f4f2d68782a7fafceda84554ecab9b489877500
+FileChecksum: SHA256: c386396ec70db3608075b5fbfaac4ab1ccaa86ba05a68ab393ec551eb66c3e00
+FileChecksum: MD5: 33dbdd0177549353eeeb785d02c294af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/public/favicon.ico
+SPDXID: SPDXRef-item4116693
+FileChecksum: SHA1: 1120538c77ad1f28a89243b4b53fe2ac16cc3bc6
+FileChecksum: SHA256: 3d10f7da6c603178340081668c4ac5b3ae9743ca9a262ab0fcd312fbb9f48bdd
+FileChecksum: MD5: c92b85a5b907c70211f4ec25e29a8c4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/visual-editor/public/index.html
+SPDXID: SPDXRef-item4116694
+FileChecksum: SHA1: eb9712017b86133214b5f7988750f0456d3b618d
+FileChecksum: SHA256: 20afc17b6358bfdf5d74513225cd4a73443fa0bd15b944af71e143f694a5cf7c
+FileChecksum: MD5: ef8a02db437c74f2ecb0d88becc4b9d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/.gitignore
+SPDXID: SPDXRef-item4116695
+FileChecksum: SHA1: ccf45e0491320aacee836f24a3741c3b8301d015
+FileChecksum: SHA256: 820000492856f080ef53909ad453dbf2364501ef3d0319d4357a64673310c59c
+FileChecksum: MD5: 652560e4b1c3fc3bbc35d8823d7d2f1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/documentation/gettingstarted.md
+SPDXID: SPDXRef-item4116697
+FileChecksum: SHA1: b14d88fb285053dbe511529e6e7fd0109789feb0
+FileChecksum: SHA256: d442ea38d47340c8c411b76d18fbd3a9f6a2650f880ec673953aad50f6e52f25
+FileChecksum: MD5: cb28852d6a77c70aa3d172aaea024796
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/documentation/sample-template.json
+SPDXID: SPDXRef-item4116698
+FileChecksum: SHA1: df182ac809a00bae136263de29801373264e6da2
+FileChecksum: SHA256: da1943e3057ebc4b1f6d4a52e9f273c596ffc7da4688cf949cd8ffe08107e773
+FileChecksum: MD5: e235675adaa95c1fff6d30affdf29567
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/documentation/whitepaper.md
+SPDXID: SPDXRef-item4116699
+FileChecksum: SHA1: 2d0c8c7e3ef37ecc27ce61f6e4cc0615a03bd778
+FileChecksum: SHA256: 01b05c2fd17045659636fc779053e317db987eac1af544c377b657520f84d1f6
+FileChecksum: MD5: 6826c46f20627d967d7be284c7a48a57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/documentation/MosaiqueLogo.svg
+SPDXID: SPDXRef-item4116700
+FileChecksum: SHA1: dab578718c511507a1681adaa9af983d3227b12c
+FileChecksum: SHA256: 0c6e95f8dba89fd1c9a830538107be0fa4ee8de346a3b8dfc1d37db78626c3ce
+FileChecksum: MD5: e19dea1fe938da6a5c1a8821b2bfb4c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/README.md
+SPDXID: SPDXRef-item4116701
+FileChecksum: SHA1: e590402348b24b8697258dc58d51563aa5dab835
+FileChecksum: SHA256: 6bfbd829a2857341adf83ec4f25afb7aef67074716c225c41c96a37fdf267540
+FileChecksum: MD5: 8d0440be5999141e1fdb53d2b38c9545
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: mosaique-decentralized-workflows-2023-04-02.zip/mosaique-decentralized-workflows/MAINTAINERS.md
+SPDXID: SPDXRef-item4116702
+FileChecksum: SHA1: d64bfd3bf032d473321649dd660d8f99bf8f9949
+FileChecksum: SHA256: 4fe2bf8242b67387feaf3067199dc416f9f7f1be5fe58e1786b33041960af36a
+FileChecksum: MD5: c8baa58614372e1fd74197b564674609
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Not-for-sale
+LicenseName: Not-for-sale
+ExtractedText: <text> License by Nomos. </text>
+
