@@ -1,0 +1,2467 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_fablo-2023-04-02.zip_1680848579.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-04-07T06:22:59Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: fablo-2023-04-02.zip
+PackageFileName: fablo-2023-04-02.zip
+SPDXID: SPDXRef-upload838
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 198402ab2421bbf20ff40f8a99c75f831524d294
+PackageChecksum: SHA1: 149c332004e12857fec48d66320d2d782589217a
+PackageChecksum: SHA256: 0d82db2f26f6c6f121ada2e5cced93abee3a8b2eebf41bb0e00a5554c9dc491c
+PackageChecksum: MD5: c56ff380340d3d1ad145245770d1bc56
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload838
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/package.json
+SPDXID: SPDXRef-item4101910
+FileChecksum: SHA1: c7e0a4a7016a73bb1e7fe3148ca9d20f17475564
+FileChecksum: SHA256: 44d67e41a4f2124e089a5de02a4613ad7a1bcb0d82b82c533a3a2c4282e6e479
+FileChecksum: MD5: ede9bba9d2ad1f6136606bc5128fc00e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/package-lock.json
+SPDXID: SPDXRef-item4101692
+FileChecksum: SHA1: 695f76f9d0268c4b534750f9d40b2cb6ebc87a99
+FileChecksum: SHA256: a1421e70f1b630b539b055c9291c0d2245440548bef2a468bb2cdeb2ace4fc5d
+FileChecksum: MD5: 0f341f846593531ef79e232aa0eafd09
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/types/ExplorerConfig.ts
+SPDXID: SPDXRef-item4101701
+FileChecksum: SHA1: af074cb69a558b230f8ae94334a5fddfb1232bbe
+FileChecksum: SHA256: c59fff5237fd6e65f502438d0b3fe46c3a626d43a61d06c6c4c18eea7847e1b7
+FileChecksum: MD5: 1299ecaae844b8a4985761c63bbb427c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-config/explorer/config.json
+SPDXID: SPDXRef-item4101716
+FileChecksum: SHA1: 8df548d9edaf74bd67fcf560aaee97b45023fbc0
+FileChecksum: SHA256: 5bcf137d4c964f070b5b74b5bdb445b9487b9042a19f431860ae784280e7cfea
+FileChecksum: MD5: d75692106265dcfaf0dd7e8f7b179918
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/src/main/java/org/example/Pokeball.java
+SPDXID: SPDXRef-item4101817
+FileChecksum: SHA1: 396143c488447dea6d89d2c58e527fe632b35f44
+FileChecksum: SHA256: 20a798216b36b8594ff42488ef70c70e1803d45015154ef48c0e3ba859eb34a0
+FileChecksum: MD5: 5667e140fc4fa879c97b75902d9d73b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/src/main/java/org/example/PokeballContract.java
+SPDXID: SPDXRef-item4101818
+FileChecksum: SHA1: 62b35730587178bef72f042443e16163182b7d7c
+FileChecksum: SHA256: 233d9fe022ac3aa299c12b78fdc27e881618e2d4a0bb7a09e171fd0fcf2236c2
+FileChecksum: MD5: 3cc2572692844415eb0548683586f389
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/.gitignore
+SPDXID: SPDXRef-item4101880
+FileChecksum: SHA1: 1dc58a411a2ab1fa55dd7cd80bca50dacdce66b8
+FileChecksum: SHA256: 7e5983112e7e066babfba64d2f1775adf98ebbb28a079fa3dbea9a451bb52b45
+FileChecksum: MD5: d3faa56c77a5848f701062e1b88b86e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/.fabricignore
+SPDXID: SPDXRef-item4101883
+FileChecksum: SHA1: 3457c7500ac5f2aee1b6d8966a7035a8d564715d
+FileChecksum: SHA256: bddee2d15e6c2f3ca2a36244dfa119e65606761f15b10a5889aedad8dd6572e7
+FileChecksum: MD5: 1497dbd42405d5114504eb7aa88a6ff5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/settings.gradle
+SPDXID: SPDXRef-item4101884
+FileChecksum: SHA1: 9e65fbd74884e6b9d0b362a3f11b99e02c8caf5f
+FileChecksum: SHA256: 039b51e8c8cbb9600544e11e7aeb3f2ed976224626545996a4178b6e1431d635
+FileChecksum: MD5: 1d1b917bd01ff7cf89abf3d6b886dfd1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/build.gradle
+SPDXID: SPDXRef-item4101882
+FileChecksum: SHA1: 39fa491fd01933ea24faa37ed600bbb637bb7548
+FileChecksum: SHA256: 26865a417a110c15fb88630ba52cffe7bc59fe3b915897c6c47ef8fc9e3f233f
+FileChecksum: MD5: aeac6874a69c7d575ed1dd63f8469bc8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/src/test/java/org/example/PokeballContractTest.java
+SPDXID: SPDXRef-item4101823
+FileChecksum: SHA1: 56995e6cb555719b3a87ef736d25b0a9dc8ad218
+FileChecksum: SHA256: 954e1379ed1aafcc13a8f6d585a541f6b68ec90278a2ffda71360e84e9b47944
+FileChecksum: MD5: 25aa43f09f4c679391bbbccec312e213
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/__snapshots__/fablo-config-hlf2-3orgs-1chaincode-raft-explorer.json.test.ts.snap
+SPDXID: SPDXRef-item4101785
+FileChecksum: SHA1: fbef66fdf7e47816107b58cf488e7af1cead7b42
+FileChecksum: SHA256: 0b993bb9a9ab4973cb8f0d84ce084803d01a1c8c8502c45821081eb18055bb3d
+FileChecksum: MD5: 0af3e63c43818109ccd311a5b88c1114
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/__snapshots__/fablo-config-hlf2-2orgs-2chaincodes-raft.yaml.test.ts.snap
+SPDXID: SPDXRef-item4101783
+FileChecksum: SHA1: e8fc44568ce3b304f280b6cd809324f2a33e7444
+FileChecksum: SHA256: 4ceb919679b31070856a3e09edcfbaddb7fa52dc7156f80bd86be20b661a2e45
+FileChecksum: MD5: 0d4ed466bb308dfcb1be916fae210796
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/__snapshots__/fablo-config-hlf2-1org-1chaincode.json.test.ts.snap
+SPDXID: SPDXRef-item4101787
+FileChecksum: SHA1: 3054ef38b4904a56c2d984e65ab3bfb54130ab45
+FileChecksum: SHA256: 8a5a22a47bc0d94eca81353cac79adb464344d5ecc8ced79be6f5d51ea2e73b9
+FileChecksum: MD5: 610805aa3b35c17862d0586e04af5999
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/__snapshots__/fablo-config-hlf2-1org-1chaincode-raft-explorer.json.test.ts.snap
+SPDXID: SPDXRef-item4101792
+FileChecksum: SHA1: 5f86fbe0e5ecc97fc291886a8f3eb83e99e4e8e9
+FileChecksum: SHA256: ac9d84b89c4c2c0c9bb69fe845c4b5224b89b7bbd4f9824d1a24bad498b1abaa
+FileChecksum: MD5: dafa705b2fb3ddb232dbcc4f38f369bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/__snapshots__/fablo-config-hlf1.4-2orgs-2chaincodes-raft.json.test.ts.snap
+SPDXID: SPDXRef-item4101781
+FileChecksum: SHA1: b62b1f2a8d9f6fd093a9e337cb75e4358a6fdc15
+FileChecksum: SHA256: 0eac464c6388f1a2bf6e40943e1f09ad6f7b3315d2638682a17a308126cb36ef
+FileChecksum: MD5: 5f6983ee79e3d1f0a5e653c84379e81d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/__snapshots__/fablo-config-hlf1.4-2orgs-2chaincodes-private-data.yaml.test.ts.snap
+SPDXID: SPDXRef-item4101789
+FileChecksum: SHA1: 71952a7deb81f5b069227a197d64a07cb08789f7
+FileChecksum: SHA256: 53bb1a2e849bd39b1cf2219a1ff2d7620bf2bc44ad120b142fbc53baaf1fe0df
+FileChecksum: MD5: b212a2d36ce394ee32e9be20ab08fdda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/__snapshots__/fablo-config-hlf1.4-2orgs-1chaincode.json.test.ts.snap
+SPDXID: SPDXRef-item4101784
+FileChecksum: SHA1: 9a9bf60f37e24b1f58456efb178f5e7249984db8
+FileChecksum: SHA256: 0e309005cf33e4a335930f028c57cd5203dabab784b3232d834784bb2471f879
+FileChecksum: MD5: 4bc1e6467ccfe0695261a9ad8b0963ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/__snapshots__/fablo-config-hlf1.4-1org-1chaincode-raft.json.test.ts.snap
+SPDXID: SPDXRef-item4101788
+FileChecksum: SHA1: 8f0d93ae9443960800605247a0888721fd88e4a6
+FileChecksum: SHA256: 51de070b0fef7ba27a709c572385132b7c25825a5886e25962d78a8aec47bb7b
+FileChecksum: MD5: 0a536e1a8d43f52517ae1ea02f982c41
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/__snapshots__/fablo-config-hlf1.3-2orgs-1chaincode-private-data.json.test.ts.snap
+SPDXID: SPDXRef-item4101782
+FileChecksum: SHA1: ee0812d4a83d61b1c1800171a3600ec3cdf211c6
+FileChecksum: SHA256: 76ea07fcdb08cbe6d7a11ae36d3077a3ed11ab36f34ce1b70952ebf0cd1a8d36
+FileChecksum: MD5: 74088d735685dfa1ae1461d2fc9ed627
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/docs/lib/jsoneditor.min.js
+SPDXID: SPDXRef-item4101685
+FileChecksum: SHA1: 78300764b185d19438c3d999d99853c420d6e71c
+FileChecksum: SHA256: 99ac72cb4275f3005aac0ea3b0bfa16d4ef531e54faed1d62707ea0891bab11c
+FileChecksum: MD5: 6ceaf5155b84e03f2ec3bb61fa9878a6
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/LICENSE
+SPDXID: SPDXRef-item4101690
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/.prettierignore
+SPDXID: SPDXRef-item4101680
+FileChecksum: SHA1: 663c92357e4f239f27878cfd321053d15b465ed1
+FileChecksum: SHA256: 75f9f3bbae6807a82323b9cb4647ace5101bddbacca68cbb18b4e3168be432cc
+FileChecksum: MD5: 3d77704b68efe32109299d07b26c4141
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/.prettierrc.js
+SPDXID: SPDXRef-item4101681
+FileChecksum: SHA1: acce14cac7176d61eb1eba3e3a06116c3ef2bbe4
+FileChecksum: SHA256: 0e0c48de552d0d57f3582be97ff3f4ed9f3f4e1381a00ef5d18f49e770fe120b
+FileChecksum: MD5: 46b65ef4dc80fd2fed75f2003ee5a92f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/docs/CNAME
+SPDXID: SPDXRef-item4101683
+FileChecksum: SHA1: 356183360cbe162fd3617db3462cf3d4fea9f4d1
+FileChecksum: SHA256: da8cfde5c904bc16a0a4c63c9281aa07d5534a91cd67cce7d6a5c596f0e7c2d1
+FileChecksum: MD5: 8eba6f4ca48e0d93461e90aefaadbd36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/docs/schema.json
+SPDXID: SPDXRef-item4101686
+FileChecksum: SHA1: 4a74b918569d919c6ee04518bce37737f664f1bf
+FileChecksum: SHA256: 5ba52a6608651def40e9e3156e4f20bcfff87c5330645de011fb7a076d93ce9e
+FileChecksum: MD5: 997a3e43ee5d68e5bbfffeed7ecce750
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/docs/editor.html
+SPDXID: SPDXRef-item4101687
+FileChecksum: SHA1: a41503853c8daf2346d562cbfc9fdb3249a89718
+FileChecksum: SHA256: 61bc5b02f0194947633c969ed69534a666581ebe3c234f85a6748d9ac0f2428b
+FileChecksum: MD5: 249821aa12d5cdd6e51fefd295ebd58a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/docs/sample.json
+SPDXID: SPDXRef-item4101688
+FileChecksum: SHA1: b5916492c558692428f3b5125295d2af7e5d75c4
+FileChecksum: SHA256: cc2ca4b56c0f493ee490618269af718c6af74ea441ae4bb82b508bf9e1b6c40d
+FileChecksum: MD5: b568527fcf0ee2665de7b7998b601b9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/docs/index.html
+SPDXID: SPDXRef-item4101689
+FileChecksum: SHA1: 39124fb838a409a9aefa73f0394ebf0809e32fd9
+FileChecksum: SHA256: 2a9db530a676f7f16b885b093333a6a974cf1b85802500e668c2e737c9454ed5
+FileChecksum: MD5: 490d163f6e2c063d02e28b1314a4c490
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/tsconfig-dist.json
+SPDXID: SPDXRef-item4101691
+FileChecksum: SHA1: 14960a2edaa82b334a9b10f4da0787133715bb8f
+FileChecksum: SHA256: bec491c809544f1bfffc8e4ecc0a90c21d4509177d3339f1ec18c4c8f2da9e6b
+FileChecksum: MD5: 87c2f60366324219f6dd62eba109d0d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/fablo-build.sh
+SPDXID: SPDXRef-item4101693
+FileChecksum: SHA1: c15ea719e9a17c2f5dfc679d0bf7837ae0884ffc
+FileChecksum: SHA256: 887623a684b39ecdc82599379786afadefa99dbcdd46bd41d120a673a326212a
+FileChecksum: MD5: 3683399c5d3448d804309101d6124903
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/lint.sh
+SPDXID: SPDXRef-item4101694
+FileChecksum: SHA1: fb563308093ae2e980db0185b3c5150e22139050
+FileChecksum: SHA256: 1978eaf40527679361a7bfe56a91ba53725fbd1c49585a5c74e1e000b12139f5
+FileChecksum: MD5: 06e6c081b1e6bfbbba6d4e97055e7cb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/tsconfig.json
+SPDXID: SPDXRef-item4101695
+FileChecksum: SHA1: fd8dc3f5c435ee3db67a8156d4c650abefb69255
+FileChecksum: SHA256: bdae1c23765fbaf047953c4174b3509335898bde6ebaad2baa4e2b0e3a843c8c
+FileChecksum: MD5: 64cc8747c3bab79ed9b9274c7b0cd7ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/repositoryUtils.ts
+SPDXID: SPDXRef-item4101697
+FileChecksum: SHA1: 6dd0a505d9d40b3df18080b061d81428de5591a6
+FileChecksum: SHA256: 32e6329552187df5e2f885405247011596b8a1750df1bdfb3206fd42705583b4
+FileChecksum: MD5: 21289e3863eeb3f4bc10e6feabb8a8d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/types/ConnectionProfile.ts
+SPDXID: SPDXRef-item4101699
+FileChecksum: SHA1: 6b2a70859ea4b03f912e4f6caabd665df2ba043a
+FileChecksum: SHA256: b16f2ee4abb80b51f7bc9a9b911201b2ff2f90fb3e8d0b4448f9940b49061ff4
+FileChecksum: MD5: 95c2af8d0ffc2bd9582aa8f584cd998a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/types/FabloConfigExtended.ts
+SPDXID: SPDXRef-item4101700
+FileChecksum: SHA1: 9008a02cc47be6e28d808041e206022e1886d28f
+FileChecksum: SHA256: 2e24c3cdae9c63af4e4ea477e2ecbe9c5cf40543e01137b2daf386e1e60b2b1b
+FileChecksum: MD5: a19254130ef9a0b5cb18c6a0b498afe2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/types/FabloConfigJson.ts
+SPDXID: SPDXRef-item4101702
+FileChecksum: SHA1: bb57f596d9232c0ab49cf6481826c81f9dccf78d
+FileChecksum: SHA256: c89df08bb86de2a856d9fa7bceeef8deb0b0aaedf6de08b650350ed12c2b6a56
+FileChecksum: MD5: a65a4de30daf9e7c09f18480490caf76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/utils/parseFabloConfig.ts
+SPDXID: SPDXRef-item4101704
+FileChecksum: SHA1: 3446685b51f4027e713215934064209b5c9b6a0a
+FileChecksum: SHA256: 50e93f9ac142dffa2c9c08036b3c8b656f6bf5da3279e532da6b1db7a97c7766
+FileChecksum: MD5: 42a3bcc072e1599b3eadb8d0370f55b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/index.ts
+SPDXID: SPDXRef-item4101706
+FileChecksum: SHA1: 6c1dd4362c840b567c7cb5ab0683474052f12b4f
+FileChecksum: SHA256: f3bfe0a49417b58a38d90fa9f45e04d1e9764704973328a9a85027e8ac0fbb5c
+FileChecksum: MD5: 385d5563849bd72e0c0346420cdeccac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-docker.sh
+SPDXID: SPDXRef-item4101708
+FileChecksum: SHA1: 1e6e5ca0f0825806770937f38f7acbb258e5ffb5
+FileChecksum: SHA256: 16d2a4a906d7e1d7f4154dda4075106f50269c6b56889ba861f990843b121c3f
+FileChecksum: MD5: 08cc41d3542c24307c275819d4294b60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/hooks/post-generate.sh
+SPDXID: SPDXRef-item4101710
+FileChecksum: SHA1: 77b9e14961d7c7e6de852a79ad5b4f08c55590df
+FileChecksum: SHA256: e216398bb85c53ff402f5c6b78fd3ccf6caf5e687d5dfba479984d23ec54ceb4
+FileChecksum: MD5: 65d06a1f815f358e58bf9d5528b36aab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-config/configtx.yaml
+SPDXID: SPDXRef-item4101712
+FileChecksum: SHA1: d72a6f123359f5eb78a36c9b0a8f53db16c94a91
+FileChecksum: SHA256: 87c121e1177e4728720d7d90485b250a0f593f7fbc02af5a90320371c6c65f0a
+FileChecksum: MD5: f702fc28669b24e9a46b785b73249e4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-config/fabric-ca-server-config.yaml
+SPDXID: SPDXRef-item4101713
+FileChecksum: SHA1: c98dd489ef627864a934ef0f7e2e61429e9dc8fc
+FileChecksum: SHA256: d2d1f6163013e913547e43faa1cfa0f794a4069e546413e1668d2d874abe052c
+FileChecksum: MD5: ae9a2ab8c7187a6e9abc46b8c14f651f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-config/.gitignore
+SPDXID: SPDXRef-item4101714
+FileChecksum: SHA1: c11f2f51ec72f2c535886c6ba963f24c4b246e4d
+FileChecksum: SHA256: 8102368c55f271caf6d05e4176045e74757983e52fd6bc9dc13ed54c47ed4082
+FileChecksum: MD5: 6d9f9f4b939c0c04ef81d48bbac2c220
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-config/crypto-config-org.yaml
+SPDXID: SPDXRef-item4101717
+FileChecksum: SHA1: 08875c612cd16ae276e303cdf36bd8c25c91e2a8
+FileChecksum: SHA256: bfc168ed47b2aa960115275a75d5198e8c51b4d017645f46b625682eef419b73
+FileChecksum: MD5: 81efc8fd47731f3ad02e5bbea63f083a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-config/configtx-raft-template.yaml.ejs
+SPDXID: SPDXRef-item4101718
+FileChecksum: SHA1: 57e45c9ab889e7cdea25d4014345a7d9e324e602
+FileChecksum: SHA256: e8841a345489a4287bcfefd68396a02b2e85fddfcf4c37fb2eeb68f30198b48f
+FileChecksum: MD5: 7c9a80f95bed579730b0c2d490300209
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-docker/.env
+SPDXID: SPDXRef-item4101720
+FileChecksum: SHA1: e342ce9815e9ba92b2e217949ed460d744cdc1aa
+FileChecksum: SHA256: 1d805ad1832ad09f97c3715ed617b03df3279da87a709579128f2349ba47e014
+FileChecksum: MD5: 38200875bc7189dcec3e32aaa6318a16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-docker/channel-query-scripts.sh
+SPDXID: SPDXRef-item4101721
+FileChecksum: SHA1: 39f7e009e54e95ac2233c25f016488367547b94a
+FileChecksum: SHA256: 0cbfeafc051aecc562cef7dadfaacba8be4cdcd06545454b83c34152ea12ccb0
+FileChecksum: MD5: a944e91df3ae38cdfdf4b6bbbdf2936d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-docker/scripts/cli/channel_fns.sh
+SPDXID: SPDXRef-item4101724
+FileChecksum: SHA1: a078ff24acbdd8a136d31d8a8117e7ba7d0f9695
+FileChecksum: SHA256: cecfb55eca5576cabe9ca6a997fcdca9233769991ad04d9fae777b398461b680
+FileChecksum: MD5: 6663a4c4bedc16b694579e546eb521a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-docker/scripts/chaincode-functions-v1.4.sh
+SPDXID: SPDXRef-item4101725
+FileChecksum: SHA1: 218fbdc6b7da0d18a6a12e3f44faebb1f9c0d63e
+FileChecksum: SHA256: 7567100ac37b9bbde99398563b3f13e207d7afc102429885050e715660bb5c15
+FileChecksum: MD5: 383d7f630b4aa616674a4d14b370cefe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-docker/scripts/base-functions.sh
+SPDXID: SPDXRef-item4101726
+FileChecksum: SHA1: f7be7746066c5d7730bc27abdacda63acc42ad07
+FileChecksum: SHA256: a7093c8fd866123927ae8b145230f3d87e532f46336c1ed445d78737a861853a
+FileChecksum: MD5: ca8ba4ef24ffed0beacc3aa55dc24ea2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-docker/scripts/chaincode-functions-v2.sh
+SPDXID: SPDXRef-item4101727
+FileChecksum: SHA1: 976792ab04fc7e6af0592e9bb0a11b2ea4f5252a
+FileChecksum: SHA256: 597b53b44c36c4115f3540a3ad4fdd6f4e75c88b95f7744b61e021a9271b72fc
+FileChecksum: MD5: 47d144c790491e99f382c3665663a8ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-docker/scripts/base-help.sh
+SPDXID: SPDXRef-item4101728
+FileChecksum: SHA1: c3cc375cf8e4d1d7f2f516a145c69d18c6113d24
+FileChecksum: SHA256: 9c10b5e7d301e8cf8470e66c73e4e6615d553263dc98bc02261208732901720e
+FileChecksum: MD5: 9e64d9cbcc5d478e46db387cd54c75c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-docker/scripts/channel-query-functions.sh
+SPDXID: SPDXRef-item4101729
+FileChecksum: SHA1: 74f497931e665e7c5a91951c24f34c94734f9930
+FileChecksum: SHA256: 54d7a9ff94491a1dee7d499265eb32f0e8ff4827d7031dcc49222e7410641db2
+FileChecksum: MD5: 28509bfb5c5d5a86e7b34ccff07ed5ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-docker/commands-generated/chaincode-install-v1.4.sh
+SPDXID: SPDXRef-item4101731
+FileChecksum: SHA1: 14dc2d5745af2210a11ad767398738e159cf2e3f
+FileChecksum: SHA256: a61f210d686efee3634ecec221f2b7b66fb8c360aa91999cbbfdefb9c95f4179
+FileChecksum: MD5: ca6b268a9698a1d2f21a8aba5ef0574e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-docker/commands-generated/chaincode-install-v2.sh
+SPDXID: SPDXRef-item4101732
+FileChecksum: SHA1: e458fabd8454891cab4a9c651c061da6e6ee8844
+FileChecksum: SHA256: 8c78792631e305d664cd32d39171b188f7effae3d938aec9d281691c325471a7
+FileChecksum: MD5: 8c91cb591368bfdb7081edc8a1ca788f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-docker/commands-generated/chaincode-upgrade-v1.4.sh
+SPDXID: SPDXRef-item4101733
+FileChecksum: SHA1: e9fd880a550c7dd17494bc4105f77e91775d8f6b
+FileChecksum: SHA256: 2139f6d512be89e28559971a5d6bb121523ff1cc9f2889c07f7207fb02b37a12
+FileChecksum: MD5: 020686055a99015690aadd02c645ca84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-docker/commands-generated/chaincode-dev-v2.sh
+SPDXID: SPDXRef-item4101734
+FileChecksum: SHA1: f07583363792138a2e4eb5d22489ce52f3bd6101
+FileChecksum: SHA256: 3f31d34ca3d3286266bc6a9a9d300482efca902089b70afd3348fda565832986
+FileChecksum: MD5: 74f3f8c0058b8acf0a2cd85da5cba8e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-docker/snapshot-scripts.sh
+SPDXID: SPDXRef-item4101735
+FileChecksum: SHA1: d8a76eb708fbb728fff3fd499b1b2d45ea8fe52f
+FileChecksum: SHA256: d74740327ee40578670852f4043d6b7ad305cdd7f97c7cb4b1ad48416b81b9ad
+FileChecksum: MD5: eb745dab80c2977e4ed446fc7953c4bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-docker/docker-compose.yaml
+SPDXID: SPDXRef-item4101736
+FileChecksum: SHA1: 98d4c9271af8058f0fe9b5c8344f2846ee1d7e21
+FileChecksum: SHA256: cca97a870accc0dc568e0f33473d51569daef63054c0047503183d52f9717cb7
+FileChecksum: MD5: 52339277ce71b06549f7a151922ca587
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/setup-docker/templates/fabric-docker/commands-generated.sh
+SPDXID: SPDXRef-item4101737
+FileChecksum: SHA1: 4fc03647c15ad32cdba9cf181eb99d2478ff727a
+FileChecksum: SHA256: 28a9d5932c8c53abb9a04320939dde334f5eeda252992c012ada69180cc85089
+FileChecksum: MD5: 275561d1c9d9926fbc1e97204e3afe1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/list-versions/index.ts
+SPDXID: SPDXRef-item4101739
+FileChecksum: SHA1: 5cb368868d39f34aa7daca41edd1fbddee61af8d
+FileChecksum: SHA256: 1013b2218afb70d4a97fc07aff384ce696cb2aea18ef8407b12254edce05f890
+FileChecksum: MD5: d9e85cb6d6160d68d07d382638527fc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/list-compatible-updates/index.ts
+SPDXID: SPDXRef-item4101741
+FileChecksum: SHA1: 82266d6eef72c4f145ce299c624cf31d64e89257
+FileChecksum: SHA256: c958f99c59e23cf0648915cf236d9caa24b5b537c19daab3fe8839a047f12540
+FileChecksum: MD5: e76160a5394cad84e99bab51f964e148
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/repositoryUtils.test.ts
+SPDXID: SPDXRef-item4101742
+FileChecksum: SHA1: d64e1acb256dd57a22d9be1661f88f158400b1ac
+FileChecksum: SHA256: 708e15234bf174e85d6e44039bc2b86d6f49f0f59556e62c5b948b337826c5d1
+FileChecksum: MD5: eab1daf66ef4fa715ce48a4085fc5d4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/version/index.ts
+SPDXID: SPDXRef-item4101744
+FileChecksum: SHA1: 54af2c02deacf925f45046d4c7888de79d7c97cd
+FileChecksum: SHA256: 179b8122972efaf4b6b18e8c0fc89a914908e3308cfe347debe8047f9b950904
+FileChecksum: MD5: 6704d262dd8e3be0abc008492ee5cb24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/version/buildUtil.ts
+SPDXID: SPDXRef-item4101745
+FileChecksum: SHA1: cfb249e01021df0daa581d3e1d6a1bc2baf4b754
+FileChecksum: SHA256: 00d0f975c3ea157785027716c172a217e62e6688086c6d33edf19e7b67c5ab4c
+FileChecksum: MD5: 8f89cb334326b262c107fbffd87e09e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/config.test.ts
+SPDXID: SPDXRef-item4101746
+FileChecksum: SHA1: 65e5150dca2654a655125e62e80906c16904dd83
+FileChecksum: SHA256: 2020fb922d7fe463ee1eb99b51d477e654cc05ece9d749ec4efa082c951077af
+FileChecksum: MD5: 79ce1cbb5cc1cec64821898e698a4d26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/config.ts
+SPDXID: SPDXRef-item4101747
+FileChecksum: SHA1: 9b807caffe737b161db57ae7bd074cd90b6a4053
+FileChecksum: SHA256: 416d074cc1379310f7819470cfbf07ac2ad00b203c1822f67847d99a029bf2e2
+FileChecksum: MD5: a22cfde64bba2ee7498334e4a494e91f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/init/index.ts
+SPDXID: SPDXRef-item4101749
+FileChecksum: SHA1: 8badf98de87312df83fbd2d381fe1bd6f142d78c
+FileChecksum: SHA256: e6c7c019e1245a0c9e3ea881e8ebe97593c167f1d9a5018cc2323f20be85b719
+FileChecksum: MD5: b333f39ff42c707fb667be0f9a47538a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/extend-config/extendChannelsConfig.ts
+SPDXID: SPDXRef-item4101751
+FileChecksum: SHA1: ea1cd8fa5c753077d86dd69ed49b6b05aa65d9f6
+FileChecksum: SHA256: ed1ab9f5c43e12410ce4f03d014a49d415f69432d919ec2bcc201d794f192fd6
+FileChecksum: MD5: a628d774d8c465dad3b94a0388146743
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/extend-config/defaults.ts
+SPDXID: SPDXRef-item4101752
+FileChecksum: SHA1: e5d72e9e3a13b10bcaabbc10e93a347580cdb2f4
+FileChecksum: SHA256: 9d92bd79e0e053e6f5aa21dd1ba43a81cb3ea6b5c0541ddfc5398c6b702a9fd0
+FileChecksum: MD5: a05de9cb7297b5774b3bab420626e469
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/extend-config/extendConfig.ts
+SPDXID: SPDXRef-item4101753
+FileChecksum: SHA1: 490f632bd0e4f603c9a1f99f9d5bbfd8129dafc7
+FileChecksum: SHA256: b6df475a53d296b04ebb3eec4bb9d7afe8c7bad12a16cef0c6f6cf61b4ef2df6
+FileChecksum: MD5: 6fe885c051bcb04c995cb5018212cc58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/extend-config/extendOrgsConfig.ts
+SPDXID: SPDXRef-item4101754
+FileChecksum: SHA1: 704c72e54f1f441e5eaab3a721ad0d51ecf44d40
+FileChecksum: SHA256: cb448404e660b4b81784ed34cdc2b43bcb5affb78ca97cf57e0ea02896aefcf3
+FileChecksum: MD5: 18387f26c0a5182568a69e0579baa56f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/extend-config/mergeOrdererGroups.ts
+SPDXID: SPDXRef-item4101755
+FileChecksum: SHA1: cbd8cf0f2256fd720d0c0550d57f0ac3dd987af6
+FileChecksum: SHA256: da9b6134c5f70646a12147af037d575475a35daf5fe2c382fb9cdd227715c2f9
+FileChecksum: MD5: f21b89569c2cab704fb8efc6f7fb7071
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/extend-config/extendChaincodesConfig.ts
+SPDXID: SPDXRef-item4101756
+FileChecksum: SHA1: 3088d967b31f1b643f821be1b2536abbcf65d0df
+FileChecksum: SHA256: da0fd21fed37d19234abe6e6017291cf9a3a933ddc0aa1d2593c5e2a9d6f7aa6
+FileChecksum: MD5: d9ee3437766076f27be76994b541c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/extend-config/extendHooksConfig.ts
+SPDXID: SPDXRef-item4101757
+FileChecksum: SHA1: bd83c5d39d02a720e2ff9f21fac49055421c57b5
+FileChecksum: SHA256: b469aa0bf81e6dc943e1dac76ee8bfb8420bd18c38bcbb019dee0da72921a437
+FileChecksum: MD5: 742ee971da3c4d1d59801c0357a95442
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/extend-config/index.ts
+SPDXID: SPDXRef-item4101758
+FileChecksum: SHA1: 7f1fa3e98729318dbe2b5abc1c2a5d03d9e5a627
+FileChecksum: SHA256: 5cd67020a80f80ad024df7fbb0f9eb2c39f1c1fbac6dd6c2848f862c9828b732
+FileChecksum: MD5: 92e2e15eda1300ab5c7e489def3e2196
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/extend-config/extendGlobal.ts
+SPDXID: SPDXRef-item4101759
+FileChecksum: SHA1: 4470e8eb18f7e0990956784913ca058929879b42
+FileChecksum: SHA256: b374390e32b2d671adb45daae3aca19cc5474be0574995deeff9d39d62d57cef
+FileChecksum: MD5: 7722ef83d0d56e1597bee8577cb1ac2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/app/index.ts
+SPDXID: SPDXRef-item4101761
+FileChecksum: SHA1: 6f3624f86829eccde2bb09c49db0d9bd6b821164
+FileChecksum: SHA256: 0cdb27c99c8e91dc19cdeb01977e6ca9e06ab099ffeb49129c4ba3f14770a140
+FileChecksum: MD5: da1886f6c774c32a0aff25495f5a755c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/src/validate/index.ts
+SPDXID: SPDXRef-item4101763
+FileChecksum: SHA1: 8646ead076f882e8423e74a46c13c8a22b19bcfc
+FileChecksum: SHA256: 070ef3572b66220dd47684911265d1476aa497e840cf682b506794e8ba35a1a4
+FileChecksum: MD5: 00587f5a3f712376176b0e06d804c560
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/jest.config.js
+SPDXID: SPDXRef-item4101764
+FileChecksum: SHA1: 7ce124164be8aad40a1dda8cd857d7ed66492881
+FileChecksum: SHA256: b429ee5cb1c2cd8a30deee39e8717ee6cf6356005554fea8ca13f7716e8662d6
+FileChecksum: MD5: fa412c69cc149b4ad12ea6e7d9f36f58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/.eslintrc.js
+SPDXID: SPDXRef-item4101765
+FileChecksum: SHA1: bcc4160c2a885a84f5a6ea0d318cdfed85521cf5
+FileChecksum: SHA256: f1a1fdb488ec02a5debd025cdf7ec4211e7a122c3ddc4bb3ddc8019cac0b5d69
+FileChecksum: MD5: 4fe447ee36ae26faeb7d393026b74857
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/.github/workflows/test-on-push.yml
+SPDXID: SPDXRef-item4101768
+FileChecksum: SHA1: 0be93706f8ae42e0be1301921dca6b9173cf04e5
+FileChecksum: SHA256: cfe1acb16ae4ce3ef42a32516037e50180be6f9014be584a6ce0917af2135d37
+FileChecksum: MD5: 18c2d1f2a2e930606879879c8d5d56c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/docker-entrypoint.sh
+SPDXID: SPDXRef-item4101769
+FileChecksum: SHA1: 91691a574a99fa841e7dd716d27d05ab25f8097c
+FileChecksum: SHA256: 36c412d219d2ac9cbfaf82ea4ae37f19909c217873336648f023e7f27471dc1b
+FileChecksum: MD5: 8ebca0f540befcbf2edad94d706fcee4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/fablo.sh
+SPDXID: SPDXRef-item4101770
+FileChecksum: SHA1: d3b81e6e4b84ff3703331dfeb02f33fdcb51ea57
+FileChecksum: SHA256: fc4205e75e928810ce532263badf2b4defba28d7ed22d03b4e4eb93a6a07a58d
+FileChecksum: MD5: 323eb013daddc1bbdc84079180fa9dfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/.gitignore
+SPDXID: SPDXRef-item4101771
+FileChecksum: SHA1: 739683cb3a28a4363b166e32293a46135a0ef038
+FileChecksum: SHA256: e22670dfbe5915cc4976102c41d61996c268e9a0964aee0a93be293dec6bca88
+FileChecksum: MD5: 90e521359a9c501413f7db6b8c98c8f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/logo-sygnet-192.png
+SPDXID: SPDXRef-item4101772
+FileChecksum: SHA1: 46e2ed154f0fd0df5825e91c9bbff54a477b9254
+FileChecksum: SHA256: b0d9b4fc324b7501a83ece6d3f366d13d1820d6137a9ca3cadfff1bdbfe0d256
+FileChecksum: MD5: 6576af8e68d6c08c296adca1a6068f6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/CHANGELOG.md
+SPDXID: SPDXRef-item4101773
+FileChecksum: SHA1: 2364b4c1eef8d00faedd1a7936c625e2f65ec018
+FileChecksum: SHA256: cbf001a46fda8ce882687be276a0f8bafa61dea5de07ae5fd9483b99cbc8bc56
+FileChecksum: MD5: 77a2e9520f03943f8d16203f40cdde1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/.nvmrc
+SPDXID: SPDXRef-item4101774
+FileChecksum: SHA1: 24b9c1f3fddff79893e5304f998f2f95ebebd149
+FileChecksum: SHA256: 7ee29791fc17e986b97128845622b077fb45e349fdb80523fac9dba879b4ad60
+FileChecksum: MD5: cf4278314ef8e4b996e1b798d8eb92cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/.shellcheckrc
+SPDXID: SPDXRef-item4101775
+FileChecksum: SHA1: b3b5899182006fd1587859128280744fb22c667c
+FileChecksum: SHA256: 2d55a4ee33576f025c246af4c66dba2d8936c32f731cae6dcb0005f53770e105
+FileChecksum: MD5: 57d0f30755b24dcd702174a45523a59e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/logo.svg
+SPDXID: SPDXRef-item4101776
+FileChecksum: SHA1: e2b98fa00b64299411cad182b70a3e758df777a2
+FileChecksum: SHA256: 8eda87fce7d3c1f7bf08b59172800b8ce0eb70bd4a9033fefc6ce595b88a0074
+FileChecksum: MD5: 444b70ad24794742db828ed8406f61ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/Dockerfile
+SPDXID: SPDXRef-item4101777
+FileChecksum: SHA1: dffe295bd6f7b2a468289eed4d993fb7489d9772
+FileChecksum: SHA256: eb5d7a3ecd5a549d7f1a5124a892c843bc6b73e94f4015206317c0c3d023b98f
+FileChecksum: MD5: c459fceb03c779b03d5619b768cc5427
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/fablo-config-hlf1.3-2orgs-1chaincode-private-data.json.test.ts
+SPDXID: SPDXRef-item4101779
+FileChecksum: SHA1: 729ddf9fb900533f04b62e6a23e4b8ddba882839
+FileChecksum: SHA256: 3cad28bd1cbb80c58be5805ba7f529314e959f78d8276532c8239c1939114c24
+FileChecksum: MD5: ebce449088fbeb2d3bbadccb727f4799
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/__snapshots__/fabloCommands.test.ts.snap
+SPDXID: SPDXRef-item4101786
+FileChecksum: SHA1: a379e26beb48a58425bf487a568a6091cf9cfab7
+FileChecksum: SHA256: 4746eca8c1ece0148d6839bd50633375cc62461054c49bfe939a55a6f98f4fdc
+FileChecksum: MD5: 00ff92f7602d739ee5d5a835584c40ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/__snapshots__/schema.test.ts.snap
+SPDXID: SPDXRef-item4101790
+FileChecksum: SHA1: acb8aa804aac0dacb699b18eff7ef77f0596acfc
+FileChecksum: SHA256: 37eba63acd7c4f66050e1567e7c31acf769f5e1ecb2e8788c960ce91e9acbdcb
+FileChecksum: MD5: a2a91abf23ef140768e39d4e10ebe7d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/__snapshots__/extendConfig.test.ts.snap
+SPDXID: SPDXRef-item4101791
+FileChecksum: SHA1: e2bc1db64ddc5acab40b56f08308fe14e2809ccc
+FileChecksum: SHA256: a1273a183d8176ed9920a51eafddd8faae877be65e62510e5c9bfa604dc3e611
+FileChecksum: MD5: 8aedbc146b097293faa22f36ee3177b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/fablo-config-hlf2-2orgs-2chaincodes-raft.yaml.test.ts
+SPDXID: SPDXRef-item4101793
+FileChecksum: SHA1: f241382601e81de8cc32a0c8cac3e70936d35541
+FileChecksum: SHA256: 9e475d621b9a479d2532d81e267d5511cbffa8c3dd62789c66ce4776ddc4ba7f
+FileChecksum: MD5: 6d3a7aade2414ffb6255a2ab4a426e71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/fablo-config-hlf2-1org-1chaincode.json.test.ts
+SPDXID: SPDXRef-item4101794
+FileChecksum: SHA1: 8673573b8d7fd14df354a8b8a17ca2ede464f61e
+FileChecksum: SHA256: 3681342f4761b018c28292b77661d11f86c0674a1ef573a108f0e2305d992e42
+FileChecksum: MD5: fefdc8b5be937758c99305f624c91bd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/fablo-config-hlf1.4-2orgs-2chaincodes-private-data.yaml.test.ts
+SPDXID: SPDXRef-item4101795
+FileChecksum: SHA1: a7c04fc61abd6e368113f84f69686f5aedf168f5
+FileChecksum: SHA256: cc6ce357dc7d1ccfc2f3a537c7c92fb651c807e9a4a7b1187e0bbe3405311707
+FileChecksum: MD5: d91472a2c943f40a3de9edfba26e676c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/fablo-config-hlf2-1org-1chaincode-raft-explorer.json.test.ts
+SPDXID: SPDXRef-item4101796
+FileChecksum: SHA1: 2a1e3640406d347a1a40c257cffa324715def82b
+FileChecksum: SHA256: 3451cd7bd33b76599c172188f98312a2937b762f7daa2f4b152f7f209cbc1046
+FileChecksum: MD5: 70c7b51362ee89a925bb4536db5b2d93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/fablo-config-hlf2-3orgs-1chaincode-raft-explorer.json.test.ts
+SPDXID: SPDXRef-item4101797
+FileChecksum: SHA1: 12ab4c8cbb37b4cb096f25135698fc2c36489db6
+FileChecksum: SHA256: 4cd4cd7fd9f9a96fdd0545dd6d77058733c767dedde60d3de1d591e3db42b1dd
+FileChecksum: MD5: e41666c3a2af05d27ca097d6a1493aa8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/schema.test.ts
+SPDXID: SPDXRef-item4101798
+FileChecksum: SHA1: 5a9f3ae02e27f7256ede3ad9c6e4759f1e4d1e57
+FileChecksum: SHA256: 3b30d8e7877f973735e91b3b00d739ea0359f1f88ef5d6b34e84e361da3d9620
+FileChecksum: MD5: 24b5d1dce24a905cd7ce46e8990d680b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/fabloCommands.test.ts
+SPDXID: SPDXRef-item4101799
+FileChecksum: SHA1: de8a30ca4a622bd109344cccb148adda139fc069
+FileChecksum: SHA256: 8b396d9e2f9f41475b64056fc9c079a679bb56eefd9af65c79a428fbd918b772
+FileChecksum: MD5: e802e5b09afa6cb9dd66d1692d0662c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/schemaFilesMatch.test.ts
+SPDXID: SPDXRef-item4101800
+FileChecksum: SHA1: 32279ccab6e599ace3a0ca2586c272873fdb62fc
+FileChecksum: SHA256: 41310b71dc3410029d86bb70c97fe6ee64b7832d0584a30d529839411cf68c5b
+FileChecksum: MD5: 0fc9a22c35afbfa2de5df39287a109c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/fablo-config-hlf1.4-2orgs-2chaincodes-raft.json.test.ts
+SPDXID: SPDXRef-item4101801
+FileChecksum: SHA1: e991784fdcd5b3fcf7b8beb276c281afa9c11f15
+FileChecksum: SHA256: 731db5850ece5d270b2e0b02d6450ea876d3a71ea6a247b4fddc21c8b399f290
+FileChecksum: MD5: f14104f366d83eb1373a92a31c1bb528
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/fablo-config-hlf1.4-2orgs-1chaincode.json.test.ts
+SPDXID: SPDXRef-item4101802
+FileChecksum: SHA1: d971e65031ed32b24e38ac9119c93cec1ecf130e
+FileChecksum: SHA256: 8d6cd6d7850dde4dc7e2cf5d22b3ab26a4b4ff185479a84b11a9441c5b70d656
+FileChecksum: MD5: 1e12bef112a284e63565a5b0e5c97476
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/extendConfig.test.ts
+SPDXID: SPDXRef-item4101803
+FileChecksum: SHA1: 7f07a8b49a61a0e41ccb61ca2648c53db0ea7f3e
+FileChecksum: SHA256: 52d8be5fb4e27f646545e2c89fb396a007b73a798cb67346cbb7dcd4af23d14f
+FileChecksum: MD5: 7257b7ad9ee166e7c5c269bbd85b2135
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/fablo-config-hlf1.4-1org-1chaincode-raft.json.test.ts
+SPDXID: SPDXRef-item4101804
+FileChecksum: SHA1: 9984ed0298c9750291f9724b08dba18798dcba42
+FileChecksum: SHA256: 578ea1bd28cdbc6a722431425fd9776c4fb498fb6469a6886ccafd8ddf7d61b2
+FileChecksum: MD5: 5a68b72871020b869419886b1a074a70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/create-test-cases.sh
+SPDXID: SPDXRef-item4101805
+FileChecksum: SHA1: 6e2d7285eef7dc66e0b4638ef337f4ad1a9ca4f7
+FileChecksum: SHA256: 927e062b3b043df795ad4c29cc0ea2f809a6bdf5105c5d9ebd67f1bcd87ae6f5
+FileChecksum: MD5: c2b2ea433cc50aaa47bd6732160bb663
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/TestCommands.ts
+SPDXID: SPDXRef-item4101806
+FileChecksum: SHA1: 566a6a4c88bf292b187ee5d24c919fe892bd5891
+FileChecksum: SHA256: 2ff90df5eb5fb952633b62df157f45a50a9a26290ede1087d949099ab77ee437
+FileChecksum: MD5: d552181bb98917244f0f3c4a29ef8134
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e/performTests.ts
+SPDXID: SPDXRef-item4101807
+FileChecksum: SHA1: 37f2a87099168edd350fe6414fa187a1669cacd4
+FileChecksum: SHA256: 57606b010eb602393afd2a5ae86f792521afd891ddf3246fd95ccc6aad7fedd2
+FileChecksum: MD5: 8eacaf065ce3ed03230478f6f51bad11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/fablo-config-hlf1.4-2orgs-2chaincodes-private-data.yaml
+SPDXID: SPDXRef-item4101809
+FileChecksum: SHA1: b675e8192a419a285a350cd313b2ca9a89247245
+FileChecksum: SHA256: 633252845203d03ecad5e10639b21c4074197477d2b7bd984fea043636428add
+FileChecksum: MD5: 5c694c2a819259fca26d61662a04c82f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.properties
+SPDXID: SPDXRef-item4101826
+FileChecksum: SHA1: 64ffa515ea942c39b17987712644893f10defc3d
+FileChecksum: SHA256: 24797a889b1a014b597f85f8c00c4222d375992b55dd0bb18cc8c7c089fcf908
+FileChecksum: MD5: 1e817cf36c2796a84643e72365d57f42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$BeforeFirstSubCommand.class
+SPDXID: SPDXRef-item4101833
+FileChecksum: SHA1: 557acac73e117b2ed40833b8b9a4202a1a2f30fb
+FileChecksum: SHA256: 10a3ccedbff387a40f83eca6227f52847027601ecee5858d12af34d9122c5f1f
+FileChecksum: MD5: a6c3e77025dce4c632013494e45693ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/AbstractPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item4101834
+FileChecksum: SHA1: 2bd3e99abaa6aa252c4111efe84ac3a3bbecc1c5
+FileChecksum: SHA256: a82c63123c061e57cab6fbeda7146996ee33b51a826fb4f80db395d7558a5333
+FileChecksum: MD5: d2e608cf581012c0798124f541cad738
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$AfterFirstSubCommand.class
+SPDXID: SPDXRef-item4101835
+FileChecksum: SHA1: 7db721fd093875b1b938879dd960f56a5b3a84e5
+FileChecksum: SHA256: ec9dab0a5c79aa6656ec171bd34af0cd8ecacdb33422098d21233714f886f62a
+FileChecksum: MD5: a147e0435093928b61f5f690fa3202d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionComparator.class
+SPDXID: SPDXRef-item4101836
+FileChecksum: SHA1: e36a98017baa1c8b284a4d7ce545d9f4e8c83e1f
+FileChecksum: SHA256: a35d05641cf40b17b1fe9fdb2795a6c82dfd3dc7c73a69243c0ed71364448935
+FileChecksum: MD5: 22b380f0cba5f5f04caac516b19c026d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionAwareParserState.class
+SPDXID: SPDXRef-item4101837
+FileChecksum: SHA1: 88c4001f8e53317a1dcb55d3b7305840344ce5aa
+FileChecksum: SHA256: 5783d132b2cbacd7deb566cedbabce8ab35e7f97d5b05209329eb3c52c3d9240
+FileChecksum: MD5: faea78aad35ec2dec6d417a96b4985eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionParserState.class
+SPDXID: SPDXRef-item4101838
+FileChecksum: SHA1: 14402f19401a1d1af9a8f90fb91540a6fc289e6d
+FileChecksum: SHA256: 7d577e4bd7372881213bcb03649c3c6957217a40f0b49edb8f88f68577264c38
+FileChecksum: MD5: ba5dbc0e9a485eed3604b58698ea09e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ParsedCommandLine.class
+SPDXID: SPDXRef-item4101839
+FileChecksum: SHA1: 39c3f0b732f15ee99d3e352d99510dae5fa4832e
+FileChecksum: SHA256: 702557c51389ea2cb9ba4bb89c245cc2c8c777098e0b1116d6053042caace0f2
+FileChecksum: MD5: 2123c349824988aefce0864b5082cae5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$MissingOptionArgState.class
+SPDXID: SPDXRef-item4101840
+FileChecksum: SHA1: 62ab3c8b5796c1eba5c466874fc4eff96ffb8782
+FileChecksum: SHA256: 1aa8c6bf2948dc80eecfba67ec4f3964aba0227e643031ce6e8eb2dc05153583
+FileChecksum: MD5: 037919af447694e0ba6ff26528cfaced
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionString.class
+SPDXID: SPDXRef-item4101841
+FileChecksum: SHA1: b747a3e3b85f01a67a6c382df009cc46e98bd3dd
+FileChecksum: SHA256: 9374607281acf332d74dd3f72d0b617d8c6a5032a55170ec72828e5730bc173c
+FileChecksum: MD5: 29a66b1dabd252c82da1a0497bd5e38f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/AbstractCommandLineConverter.class
+SPDXID: SPDXRef-item4101842
+FileChecksum: SHA1: 02fa75d90d75619d11d3d48ceb4e57148c5feb11
+FileChecksum: SHA256: c723e119be0294d7811ed3a3c6e525b28061edba425d76ba0ddd76acf75dba29
+FileChecksum: MD5: 576105166f14128d9a2207195d129b8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$AfterOptions.class
+SPDXID: SPDXRef-item4101843
+FileChecksum: SHA1: c2fa9fa237b4f670e55ad194147e6c261915de79
+FileChecksum: SHA256: 280fb0422eaade071965261d38fad95501cfce0971d6c398cc82f8f21488994b
+FileChecksum: MD5: 7523fdee389a0474a800420d46339942
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineConverter.class
+SPDXID: SPDXRef-item4101844
+FileChecksum: SHA1: ebe27dbae07d3a7c864b52fbb6d24f15dc83b417
+FileChecksum: SHA256: d54491d356fee7f41734447566dfbb5e71d5b9ecd174db87d40da047d1079331
+FileChecksum: MD5: c7cb4cd979d09f32bfdbc33c59798cd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$1.class
+SPDXID: SPDXRef-item4101845
+FileChecksum: SHA1: 00bd542d118211f8ef7e0ee23b5d64c212b5dd02
+FileChecksum: SHA256: 2416bad28107e2700b0a58fd199f713c24d8116d317552c40341d3af30b1a7da
+FileChecksum: MD5: 59d10b2a20c0d15a7a48d52fdbdee375
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineOption.class
+SPDXID: SPDXRef-item4101846
+FileChecksum: SHA1: 84aa5241b3fae5bc391f014f0e9efffe955eb9ba
+FileChecksum: SHA256: dc1d89737aac2d87fe6e84845e1cf06ee5a61e6de87de7da714f8323d5898bc8
+FileChecksum: MD5: dcac5213dd150bd5f5a38548af057b8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$CaseInsensitiveStringComparator.class
+SPDXID: SPDXRef-item4101847
+FileChecksum: SHA1: a1e8f8765346412622aa62ba8fe39950e6016f33
+FileChecksum: SHA256: d7cd3f68b8c4b6d05df851880719503b87c70575238ce060ba2d35768f7a1c3b
+FileChecksum: MD5: f7152bfa06c62ef1848dbcbcdc307056
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ProjectPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item4101848
+FileChecksum: SHA1: 677f67a572fd551f9075b88d62785d948b5bf8ff
+FileChecksum: SHA256: be2dada36bb29fa322e972de0c8a72a4fc54aaade1af268370e3702f3a73430f
+FileChecksum: MD5: b3175102a42bffb9cf59c9d54eea6830
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ParsedCommandLineOption.class
+SPDXID: SPDXRef-item4101849
+FileChecksum: SHA1: 819dff7ab143d9355508e25eb6b0b4cf7241a3d5
+FileChecksum: SHA256: a153cc4bceb8e76700eaabdd1fb852005607d6958f5b07c3ed1e21c24cc31590
+FileChecksum: MD5: 03d8bd60ee953e1902418f79cd0f915a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$ParserState.class
+SPDXID: SPDXRef-item4101850
+FileChecksum: SHA1: f0ffaa05f96692151e919367aa802e7d10d17eb3
+FileChecksum: SHA256: 44a9a5aa77b673d18c6954806cb2fb30355c1d3552dfc5726b1718d2d4985e86
+FileChecksum: MD5: 5fbaf8ecb57047268eae71bfb871a27a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$UnknownOptionParserState.class
+SPDXID: SPDXRef-item4101851
+FileChecksum: SHA1: 25a7baa1a92aefd04ef15fbca90cc76ff80ac60f
+FileChecksum: SHA256: 08ef89c9bf2469d4d826d6301622abccfd7501c60ada8af6cf521dbd78fdbd05
+FileChecksum: MD5: 303fce4e0a7a0dd37b15956cf2d117cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionStringComparator.class
+SPDXID: SPDXRef-item4101852
+FileChecksum: SHA1: 48000667c4bcdc69ee31c8a13f62a0fa9a95943d
+FileChecksum: SHA256: b88385f0cec7e0744dde534f127c622dde62a7617d429015172a9a826a7cbf3b
+FileChecksum: MD5: cf226fb21f42d80b8f933f4b8cd3a010
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineArgumentException.class
+SPDXID: SPDXRef-item4101853
+FileChecksum: SHA1: 4aa73df8d7f5438c685a327ec6ee301420585692
+FileChecksum: SHA256: 46ee4f2fb49d6261a57d0f9232f1d0dbb8aa17c04a292e14fbcadb5369e9f3bc
+FileChecksum: MD5: 7a3b85d572632461640b700b4c5ea182
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/SystemPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item4101854
+FileChecksum: SHA1: 963bafd4bc15d813d1b7d122c14d22d7b4eae649
+FileChecksum: SHA256: 0f4f451e8ef68baeba51cfa6f166cdc6192169327fce405037e57f8059611755
+FileChecksum: MD5: 477e20ebffaa02c5d0bea17e89b971ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser.class
+SPDXID: SPDXRef-item4101855
+FileChecksum: SHA1: 5117bdfcc5f900ca736dd7f54def55fd68233093
+FileChecksum: SHA256: 2f7276270c70a460d76a7d3e1cd880199514f894f4c297f1d85c4ecf7b0f899f
+FileChecksum: MD5: 54f0a42e020f3492817c5990ed4136ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$KnownOptionParserState.class
+SPDXID: SPDXRef-item4101856
+FileChecksum: SHA1: 86d0166574858ed124b967b50ff2cfbf13f6a798
+FileChecksum: SHA256: 266b5687b1f2fcf9303127fa218c1770429ff28ae09a328c7f23bcf05cfd6cec
+FileChecksum: MD5: 193541f9914b7f3d8c3497ca02aa7c6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/BootstrapMainStarter.class
+SPDXID: SPDXRef-item4101858
+FileChecksum: SHA1: 5552b19178061df0e295986f6a4d83734fd92e45
+FileChecksum: SHA256: 3b0dc4c9646ab62eb0e7e1a959668f231c086eb00adec1d78e3e2e224a84eac7
+FileChecksum: MD5: dceb6211d61cd7f18b190cce5d600d8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/WrapperExecutor.class
+SPDXID: SPDXRef-item4101859
+FileChecksum: SHA1: d1f9a9937edad1c7d56e4fe1fb360e820108f6d9
+FileChecksum: SHA256: d2806b6c4de5478534971d0f5329e6d2ebb34404e5f5e8361b566989a02c7ad7
+FileChecksum: MD5: 1a236cc249e3bb5e26ebfffd9aa89849
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/WrapperConfiguration.class
+SPDXID: SPDXRef-item4101860
+FileChecksum: SHA1: 5b0bbfc4b12c1c47c81f6b182bee07dbcb675823
+FileChecksum: SHA256: b7dd0ca018663692e470f5b39ac249bf7c2bc16d18049a8d98a1054e687b8e8c
+FileChecksum: MD5: ab458b547b2963d228371866abaab6d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/GradleWrapperMain.class
+SPDXID: SPDXRef-item4101861
+FileChecksum: SHA1: efa6796eba8ff7cd83e25e23a79f277fa9e6566c
+FileChecksum: SHA256: b9ffb158e2d182fc5b88a0395856122666e6c2f620b853572a641c73dd52ab6f
+FileChecksum: MD5: c861e1ca1ab5f56ca788df09553b24a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/ExclusiveFileAccessManager.class
+SPDXID: SPDXRef-item4101862
+FileChecksum: SHA1: 974f831d586a3b0b5093d59ffe911708212a3fad
+FileChecksum: SHA256: 0b0c19a401f9860fcff335d6d0cadaa49927c3820f2ee9426869853b75e0a846
+FileChecksum: MD5: 9287752bee7dc8cbbbc4e0a91e4e576c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install$1.class
+SPDXID: SPDXRef-item4101863
+FileChecksum: SHA1: a637fd4d89e04ff1e0676e9c3200ff9010d3ab18
+FileChecksum: SHA256: ae6860ab1e0ac4dae89e22ec27611577d8c4ba9a1cb8c72d119a09f3d96310b7
+FileChecksum: MD5: 9825c8e8f952ff6629139225b7662f12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/IDownload.class
+SPDXID: SPDXRef-item4101864
+FileChecksum: SHA1: beb27a5db4065c93a925e942e60f0c3903dcbf59
+FileChecksum: SHA256: a461aa98c350da2f64c0d6b0ed6b11c3f1f4ff9c6419a15c07abfa353ea26563
+FileChecksum: MD5: 7a5b51417465c2208a5667e91fe38332
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download.class
+SPDXID: SPDXRef-item4101865
+FileChecksum: SHA1: 7af22176b124c1c2281286ef5ad47c90fa2f0302
+FileChecksum: SHA256: 5a65e433210c74520dffaeed870bd8cfcfd7aaa40b440808086afad760381447
+FileChecksum: MD5: 1875f236853ccf0919075d5e293de109
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$1.class
+SPDXID: SPDXRef-item4101866
+FileChecksum: SHA1: 66e87e18f8a4332bac4aafcf8077665606cb5be7
+FileChecksum: SHA256: 5fda36f83fd04e2232e382637a3fe4113ed4b3aa1742b916592faa14106b5f4b
+FileChecksum: MD5: 670abb47ea81caf7fd180f2f517e57cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/SystemPropertiesHandler.class
+SPDXID: SPDXRef-item4101867
+FileChecksum: SHA1: 81e38db711a80cd28abfaf9598726d0c91ca3697
+FileChecksum: SHA256: ad0bfddd3af5e2700f3cf0fc71b4d65522bc0f3b059fcfb05028a1615e4c3933
+FileChecksum: MD5: c4bdb7c174bc7aa39c1cf499a80f1efe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/PathAssembler.class
+SPDXID: SPDXRef-item4101868
+FileChecksum: SHA1: a65bfa45f73afbeed4986c0713b8ccfbd180d9d2
+FileChecksum: SHA256: 65c2f48e9d41f72fc8945a38e63850d75321e947701f170577704c130c280eac
+FileChecksum: MD5: 924aae027717f6fd45f98d64bf11f8d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/GradleUserHomeLookup.class
+SPDXID: SPDXRef-item4101869
+FileChecksum: SHA1: 77f2b6967b6de72e61510d2bc5fb3ccdabc42685
+FileChecksum: SHA256: c1cc29db976470904645d7c2b00afe7e63c18006632ceca753b7d3f2e02dc154
+FileChecksum: MD5: 418e62dea975253f493b6a5f06e7e63a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Logger.class
+SPDXID: SPDXRef-item4101870
+FileChecksum: SHA1: 613e2b8c3aeae63edcfa13354daf49e96241b9c5
+FileChecksum: SHA256: 96fe4189ddd43070ce8865625c0b1ffbdde965a4b9b496964e4eefbc4e8dacd3
+FileChecksum: MD5: d7b3e25514ed1cc997913bb3914319fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install.class
+SPDXID: SPDXRef-item4101871
+FileChecksum: SHA1: b8abc665297310010a553ab2a4b498027f232edc
+FileChecksum: SHA256: e25056d94f760a3d8f57b6960674c1a9f333f993eb2d1989cd3471d638bd8d02
+FileChecksum: MD5: 12d590720f8c79e4205870cdda921d9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/DownloadProgressListener.class
+SPDXID: SPDXRef-item4101872
+FileChecksum: SHA1: 15b25ec6a697621389333f39ce6627a61c626df5
+FileChecksum: SHA256: 38decba97a8219e9706e729deb1aa83a84756ed613250c9df6b70b87ebb0977f
+FileChecksum: MD5: 6050635117e794e3430a52f76ae185ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$ProxyAuthenticator.class
+SPDXID: SPDXRef-item4101873
+FileChecksum: SHA1: 76b54dc437b2c73b7fc172481912d411c37b7bcd
+FileChecksum: SHA256: 74b19031101c37f43d410f5b63db7db75e625fc77ea801f7a83d99e2a6b33448
+FileChecksum: MD5: 88fc72d9cef5f504079b92c9013f7128
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/PathAssembler$LocalDistribution.class
+SPDXID: SPDXRef-item4101874
+FileChecksum: SHA1: d6249a35c3303dbafa481ce53bcd2b650ef8387c
+FileChecksum: SHA256: d0f6c31a5f50a1e3fda5a3c594010864353ed4c76aa2524b1711e0847caff66b
+FileChecksum: MD5: 0c18e40454b1b2be625d507548f9dceb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/gradle-cli-classpath.properties
+SPDXID: SPDXRef-item4101875
+FileChecksum: SHA1: 304722d236753c8d7f294d638672cb5c37297c36
+FileChecksum: SHA256: c1072b8e9712f73de760bb9819907d9d39216e4d66dd4cb63c26b30dd60771ae
+FileChecksum: MD5: 7e7095a947b9d516871cba596dea5b9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item4101877
+FileChecksum: SHA1: 0bbd372ff81b9bd5c0adbfdf7539ed1c77eccca5
+FileChecksum: SHA256: ade9c8e981522ec5fa4cabfd8e272649f5f4d232ba7b6033b15bd0da06b4df68
+FileChecksum: MD5: e23c252009767879d12c375b0c5af2be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/build-receipt.properties
+SPDXID: SPDXRef-item4101878
+FileChecksum: SHA1: bd4606757a9c913882d41c659a7ada810ab7b0b0
+FileChecksum: SHA256: 60e777400e5dd8d2c1233f7d51452347398b913fa3992838dd187354cc0741f2
+FileChecksum: MD5: 4ab00bce3205e6dd9253fca79de3295f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradle/wrapper/gradle-wrapper.jar/gradle-wrapper-classpath.properties
+SPDXID: SPDXRef-item4101879
+FileChecksum: SHA1: 08eb11a8e0f255a36a4a8055b7b665fb4b2b1475
+FileChecksum: SHA256: 4e4e68bf24fc7a475db4ca104d466b61b1361757bec19e92cc3cd440d701a500
+FileChecksum: MD5: 4d6e41346f11b13cbfe03541d58da90f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradlew
+SPDXID: SPDXRef-item4101881
+FileChecksum: SHA1: fbb60ffd7f1e5155bb2ae43400efac6880a51265
+FileChecksum: SHA256: 8c4c04dd98db1f00d49456dd162418a39312c5cb13d6865d783deb483bd1ed22
+FileChecksum: MD5: 857faf4b42fc9e324fb40b7223f2a94a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-java-simple/gradlew.bat
+SPDXID: SPDXRef-item4101885
+FileChecksum: SHA1: aad30867c46885fcfc019c318138b0f62fa53172
+FileChecksum: SHA256: 2f18fc6abd50803de7b3a225038d284268904c9d13caa6cf81f99365dc876479
+FileChecksum: MD5: b19dcfdb742582b6ccb4e0f4c77791b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/.gitignore
+SPDXID: SPDXRef-item4101886
+FileChecksum: SHA1: 64cb99e365e661e8462df80330e33582e51a752f
+FileChecksum: SHA256: 2e35ec5addd7206dc385b50016718bfe13dc43a77e68ac249555975204e04db0
+FileChecksum: MD5: cc6a0ff0d2df29d39e6ed5916a50e148
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-kv-node/index.spec.js
+SPDXID: SPDXRef-item4101888
+FileChecksum: SHA1: d62a735e01945dcd9f742e2ed79618f91c7aa9e1
+FileChecksum: SHA256: e10dcf05bb2e1fa2a279387f3e9925827e65b2826edc2bf739ef77e7be801505
+FileChecksum: MD5: 3ca8640b495347cc669f5a9780497935
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-kv-node/index.js
+SPDXID: SPDXRef-item4101889
+FileChecksum: SHA1: c1e5f1f3fa972febfe4a18ecfb27730287b4f5ac
+FileChecksum: SHA256: 725c019610a338179183e9140c05c82f8556d73bedf2d9d5642e6ddd82b8bc13
+FileChecksum: MD5: 8190135eebaf302d19939ffe7a657952
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-kv-node/package-lock.json
+SPDXID: SPDXRef-item4101890
+FileChecksum: SHA1: 2a6951dcd88985138da7058757302b4c736b0046
+FileChecksum: SHA256: 1998c9be41337698e575a3be73db91f42f91724d6e1f18b3917f4ff91e00d044
+FileChecksum: MD5: 4a8c20f393ba967349fea196b0db70f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-kv-node/.nvmrc
+SPDXID: SPDXRef-item4101891
+FileChecksum: SHA1: ad552e6dc057d1d825bf49df79d6b98eba846ebe
+FileChecksum: SHA256: a1fb50e6c86fae1679ef3351296fd6713411a08cf8dd1790a4fd05fae8688164
+FileChecksum: MD5: 2737b49252e2a4c0fe4c342e92b13285
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-kv-node/package.json
+SPDXID: SPDXRef-item4101892
+FileChecksum: SHA1: fe2715fe5d0b082e1b297e084ca9e52187f8593a
+FileChecksum: SHA256: c20e60f3f08ca0fb688a98f1353184c4fbdc0783fb8688cec77fc42686cb13d8
+FileChecksum: MD5: 3891be065f91b6c6645f8519b120b1ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-kv-node-1.4/index.spec.js
+SPDXID: SPDXRef-item4101894
+FileChecksum: SHA1: bfed4f5a122e3afb52087e645d66f8fdb9ef934e
+FileChecksum: SHA256: fa5c1cc66d62914c1d7c53f2e155191ed70715c272265e5c7adc94236ba3d997
+FileChecksum: MD5: 10dc70d93c9dce68090399b3959cdc88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-kv-node-1.4/index.js
+SPDXID: SPDXRef-item4101895
+FileChecksum: SHA1: c1e5f1f3fa972febfe4a18ecfb27730287b4f5ac
+FileChecksum: SHA256: 725c019610a338179183e9140c05c82f8556d73bedf2d9d5642e6ddd82b8bc13
+FileChecksum: MD5: 8190135eebaf302d19939ffe7a657952
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-kv-node-1.4/package-lock.json
+SPDXID: SPDXRef-item4101896
+FileChecksum: SHA1: 05719d1a47428848a9490c817de8d427ff8825d4
+FileChecksum: SHA256: 4b5b35560fd13855ed52fcbf312fa0c1482de52076d9d10ac7a0a70312a56b6e
+FileChecksum: MD5: 4ac0292465ce1e2606bcb223b7c43c72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-kv-node-1.4/.nvmrc
+SPDXID: SPDXRef-item4101897
+FileChecksum: SHA1: 136571b41aa14adc10c5f3c987d43c02c8f5d498
+FileChecksum: SHA256: aa67a169b0bba217aa0aa88a65346920c84c42447c36ba5f7ea65f422c1fe5d8
+FileChecksum: MD5: c30f7472766d25af1dc80b3ffc9a58c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/chaincodes/chaincode-kv-node-1.4/package.json
+SPDXID: SPDXRef-item4101898
+FileChecksum: SHA1: 34d26ad508c47c7bb065ccc6b5718658c99ad96a
+FileChecksum: SHA256: 3334797959c013e97ec5c55de1b3ecbf85d9bb1c713a421765b368a39251fffc
+FileChecksum: MD5: fe1b63f1dcc9dcde3c945914914791ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/fablo-config-hlf2-1org-1chaincode-raft-explorer.json
+SPDXID: SPDXRef-item4101899
+FileChecksum: SHA1: e1c1b18a9f382def2a7f277a435fcab3a2933ee9
+FileChecksum: SHA256: 156bc28f2354ea9a9d6e79b790f95acef08d072aac42cbd3f473e747e3aaf2e2
+FileChecksum: MD5: 23fc800c5945a118625ede209ac2ff38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/fablo-config-hlf2-1org-1chaincode.json
+SPDXID: SPDXRef-item4101900
+FileChecksum: SHA1: 8fa0e1351704b11a4080a1746fcf4dfd56f83c1c
+FileChecksum: SHA256: f0906766e0e1eea5be794171174e19a915e23571bd1bf9a90abfdb964845de42
+FileChecksum: MD5: 41ca6cf9db7f7d93b584d23304cb1109
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/fablo-config-hlf1.4-1org-1chaincode-raft.json
+SPDXID: SPDXRef-item4101901
+FileChecksum: SHA1: 7d50b3c22dd5c3dd989e85509b88f2fbc30cfe83
+FileChecksum: SHA256: d2ba31968d1e110be70ff78c58df7ad6a1e389a62b70bc140d13da54af6c89fb
+FileChecksum: MD5: be56f168279bcbf0d3974a944858430e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/fablo-config-hlf2-3orgs-1chaincode-raft-explorer.json
+SPDXID: SPDXRef-item4101902
+FileChecksum: SHA1: 98e878f2d8e9b045dcf4f64c089170799a8f827a
+FileChecksum: SHA256: 90d0833a72b965d9373b9c5dfaf03cde157fa67e4d49cfda022f936a85a3dff6
+FileChecksum: MD5: c1019ae75a271f267c0db6c5d9251385
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/fablo-config-hlf1.4-2orgs-2chaincodes-raft.json
+SPDXID: SPDXRef-item4101903
+FileChecksum: SHA1: 685d12d895b79a029288b416c3ae44cda4a0254d
+FileChecksum: SHA256: 44bae23376e553a063bc76ccaa4fe34b19659f9f54e681a39158dcb598440524
+FileChecksum: MD5: 808af98f1f001ca7b9e222b76470d7a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/fablo-config-hlf1.3-2orgs-1chaincode-private-data.json
+SPDXID: SPDXRef-item4101904
+FileChecksum: SHA1: 21509cb1288b2abf53276c0796e4cd43783091d9
+FileChecksum: SHA256: 3bc18a7d3b96a231e8b1f64ba8b81c6cd3412cd799a7c6d17e78cd1a5a6307e3
+FileChecksum: MD5: 864f26eb7f0ed3ff586d20aafc95657c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/fablo-config-hlf2-2orgs-2chaincodes-raft.yaml
+SPDXID: SPDXRef-item4101905
+FileChecksum: SHA1: 0db08ebe3f215c8ab54caebdbd3301e39b4cfb6e
+FileChecksum: SHA256: dfc31db9dfba22af966585eb4c5e75f7abeafd313593cdbe571d9ff8c48048e0
+FileChecksum: MD5: 5ed0b067c55eb40349e43f88b6623856
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/samples/fablo-config-hlf1.4-2orgs-1chaincode.json
+SPDXID: SPDXRef-item4101906
+FileChecksum: SHA1: fad593aa923523effbf16d4603306f7ba34d9e5a
+FileChecksum: SHA256: f9173ce1c429299fdc6a58c79629a5af98bb3258c34f3bf5b1ff6e2b9ee364c9
+FileChecksum: MD5: 3e657dd02afc3d7cdcf8ef39c5d80d2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/.eslintignore
+SPDXID: SPDXRef-item4101907
+FileChecksum: SHA1: 663c92357e4f239f27878cfd321053d15b465ed1
+FileChecksum: SHA256: 75f9f3bbae6807a82323b9cb4647ace5101bddbacca68cbb18b4e3168be432cc
+FileChecksum: MD5: 3d77704b68efe32109299d07b26c4141
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/.yamllint.yml
+SPDXID: SPDXRef-item4101908
+FileChecksum: SHA1: cd80acb9e7a27626c6d076ba1ba2b04909dc0665
+FileChecksum: SHA256: 9a50d2961a1d4c46d13657c651127f292691efd3b8657841f43adacace96d717
+FileChecksum: MD5: d49bfc9bbda17b9af579e143e5305c32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/README.md
+SPDXID: SPDXRef-item4101909
+FileChecksum: SHA1: 5636a1120c79061ec6a4c32bc31deec4d38c49c2
+FileChecksum: SHA256: d9b27fe492db22d78e970eedb89dfc99f548736f3e6e41b49c02123e06146e1f
+FileChecksum: MD5: 6c2773698e193c7d0a1d0d93a63c5c9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/check-if-fablo-version-matches.sh
+SPDXID: SPDXRef-item4101911
+FileChecksum: SHA1: f23e03578df006624ce70052e5b88b4fe77a7507
+FileChecksum: SHA256: bf520c9728bbbeb3c488afcef385ab6eaea8fb4a696a3be90363aa805c609192
+FileChecksum: MD5: 4f52d786cf7e0af503098899b6b2f447
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e-network/wait-for-container.sh
+SPDXID: SPDXRef-item4101913
+FileChecksum: SHA1: 7fa890ce86a43273fa717de58cb6eda5330f9e88
+FileChecksum: SHA256: 31481b7676952c736e4dff61b34375455fdd35e0c6ecdeb3c4d75031cb100e67
+FileChecksum: MD5: 421bfca74b97c01d27890adace04a3f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e-network/TEST_CASES.md
+SPDXID: SPDXRef-item4101914
+FileChecksum: SHA1: a41c2c9a328f9603ba4603911678ecd05605e281
+FileChecksum: SHA256: dfd4edcbac67189675ce966a965bae7d7c69950720f5c6796f2442454912afde
+FileChecksum: MD5: dac49a4b6481767c7c048a2616e31612
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e-network/expect-invoke-cli.sh
+SPDXID: SPDXRef-item4101915
+FileChecksum: SHA1: 6d0eaa628c775e4b70b2ad04339b2efe003d3092
+FileChecksum: SHA256: f22c49d0d762977724b27083ea517101897e0eda347d86269afd283067a60279
+FileChecksum: MD5: c0b4253b261f835d95a0651cf555fc9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e-network/test-04-snapshot.sh
+SPDXID: SPDXRef-item4101916
+FileChecksum: SHA1: 22de71a72117cd5a9222dca4ff6d914a3d58268b
+FileChecksum: SHA256: bb5d718dcdf137b7dbd9db67d70eda424cbe73f47ecb2c055f9dd484462848aa
+FileChecksum: MD5: 2d06cfdf36a11fb00811c264d702d1d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e-network/test-03-private-data.sh
+SPDXID: SPDXRef-item4101917
+FileChecksum: SHA1: fdd78fb24e4297485a1705982c82d483123c60f6
+FileChecksum: SHA256: 5e28842107d1f19f8c64a5bc7e94ea06b337875ef00cb0104cbb746d5f3d41df
+FileChecksum: MD5: cf2df6aa946b5b8ed70a44ee13b540e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e-network/test-02-raft-2orgs.sh
+SPDXID: SPDXRef-item4101918
+FileChecksum: SHA1: 1781d7082ddf18c5a7f96df24347540ce4c31764
+FileChecksum: SHA256: 30551ceec27c6f2e9f38409281684d808565b7c097fd8c1468d6b289aafe623e
+FileChecksum: MD5: 94fd8a8aaa00dbf84926d2c3ec4e31ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e-network/wait-for-chaincode-v1.4.sh
+SPDXID: SPDXRef-item4101919
+FileChecksum: SHA1: ba50b8cea5d92b4eefe87e4720e09b0f4d8309bc
+FileChecksum: SHA256: b48b7174fdc6fd0156b3a1c071d6877ed9600a0e113ac7ffbb9dd9327a107806
+FileChecksum: MD5: 97c3999ccdf8e124525f861974fbf957
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e-network/expect-ca-rest.sh
+SPDXID: SPDXRef-item4101920
+FileChecksum: SHA1: 28bb27e6f5e63e4efa47e52898b37d91d78b6a2c
+FileChecksum: SHA256: 94a6b77e31881b53af2c51f5caaa8654e9173e6fbca7d7afd808559f7b760d37
+FileChecksum: MD5: 9bc16a36f495ced673d7357a67dbdcf0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e-network/expect-command.sh
+SPDXID: SPDXRef-item4101921
+FileChecksum: SHA1: 586dc9cf7cab4539978b7b5049bde19a250b6550
+FileChecksum: SHA256: 78852cd83eaa67d506717af06ccdc452a3dc4433967d1c865074d638fdc55f65
+FileChecksum: MD5: a8153fda950ccdcd57872fa2e1d4bcc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e-network/wait-for-chaincode-tls.sh
+SPDXID: SPDXRef-item4101922
+FileChecksum: SHA1: ace53834a486e3d3213c0982f8d687d710a00745
+FileChecksum: SHA256: 746f801717979857a1e9f03ef6953a0800670d56a90c33d1a3d3b40a07877e1e
+FileChecksum: MD5: 19d6f05e235b03208709743b494880f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e-network/expect-invoke-rest.sh
+SPDXID: SPDXRef-item4101923
+FileChecksum: SHA1: 8365ad9ce6d2271c89cf736720f6c9433bd2f781
+FileChecksum: SHA256: 5fd741e9d7a191d3fd6f8bbf2804db58f6d8d8dd5df597c92dce0ce4f6c18352
+FileChecksum: MD5: 30a9b233c9a1744470b11c25decae332
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e-network/expect-invoke-cli-tls.sh
+SPDXID: SPDXRef-item4101924
+FileChecksum: SHA1: 240bad8b468d4314d2593daa9809078733260e0c
+FileChecksum: SHA256: 40cc2e96c9f456430a17543c8bfbe70b69d1fdc658d6ac986380e4905e434c95
+FileChecksum: MD5: 553930d2dfc3d93f5259ee519330b904
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e-network/test-01-simple.sh
+SPDXID: SPDXRef-item4101925
+FileChecksum: SHA1: 6bd1b862f83aec7b414a68248d3bb95d7a77dd00
+FileChecksum: SHA256: fc5ad11f32a22f4673f983058e4fa825562079458d35b958f976d8c4fc5d3592
+FileChecksum: MD5: 861dab7992f0595c1831a0da50f8db74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/e2e-network/wait-for-chaincode.sh
+SPDXID: SPDXRef-item4101926
+FileChecksum: SHA1: 8fea0583b47a4cd5f33124b63c824b68cd38b8dc
+FileChecksum: SHA256: d884ae79e3afb3d56a30155b3e0ebb0a63ac5dec0466a25d31448c84cbf14c49
+FileChecksum: MD5: f3b6e4abbab85291f09e80ad77e32761
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/.dockerignore
+SPDXID: SPDXRef-item4101927
+FileChecksum: SHA1: 3687d8f6e5a7e37e5fe4b8dd251e05cd4efa2765
+FileChecksum: SHA256: 33f53097da10e6c9a9deeee6a9ad1a4aedec6b60d08503c285c5da68ef0432e6
+FileChecksum: MD5: 5e0e0713a5d76bb8d932b8be1dd212fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/fablo-release.sh
+SPDXID: SPDXRef-item4101928
+FileChecksum: SHA1: 0bfb8c983942e2b39761d0be1005ebdf156d082d
+FileChecksum: SHA256: 58c1c6855458c62a8cb806c29f9e9030dc94e225c60599488864537cdf42eac7
+FileChecksum: MD5: a487e22ec2fe572f73974f3c592bbb68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: fablo-2023-04-02.zip/fablo/MAINTAINERS.md
+SPDXID: SPDXRef-item4101929
+FileChecksum: SHA1: 0099585c1d52156f7f1ca6c78d58c2506f6ad662
+FileChecksum: SHA256: 31d1909c32f9c07ef2607b434b8e34ade2e1f215e859683872a9c3b261959d7c
+FileChecksum: MD5: 9c19d4414a462a4629ae4b35751583db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Apache-possibility
+LicenseName: Apache-possibility
+ExtractedText: <text> License by Nomos. </text>
+
