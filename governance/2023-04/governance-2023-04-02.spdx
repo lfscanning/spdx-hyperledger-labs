@@ -1,0 +1,147 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_governance-2023-04-02.zip_1680848606.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-04-07T06:23:26Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: governance-2023-04-02.zip
+PackageFileName: governance-2023-04-02.zip
+SPDXID: SPDXRef-upload841
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 2775331f2172e6d8f08b19ca0590782c8b0dd3f1
+PackageChecksum: SHA1: 5a3104d5f266d284384ef606f63365bc5d6390ed
+PackageChecksum: SHA256: 1d4b4df45ffdc9542fde4d55bd20ab591302819011a2c164dda85d251d6eb687
+PackageChecksum: MD5: b812f12bf17fe09f6b062d7a290a5404
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload841
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: governance-2023-04-02.zip/governance/LICENSE
+SPDXID: SPDXRef-item4111597
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: governance-2023-04-02.zip/governance/.github/ISSUE_TEMPLATE/add-someone-to-the-hyperledger-github-org.md
+SPDXID: SPDXRef-item4111600
+FileChecksum: SHA1: 5655cac8c128be3b8835b1edb7ace230cd0be885
+FileChecksum: SHA256: 8bf7c518bce4e30c3bfef309dec79f98794bed5c3dae3424bbab4ec69e9eae8f
+FileChecksum: MD5: 08b2e8ca98cfa2af804b314bb3a9e41f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: governance-2023-04-02.zip/governance/.github/ISSUE_TEMPLATE/mkdocs.md
+SPDXID: SPDXRef-item4111601
+FileChecksum: SHA1: adeeb2571a9ee50e0fa36a25ab96ae02992884bd
+FileChecksum: SHA256: 6a8bbaeb675e915d9a60fcef372cc03270268ae2fd861baf4d92835fe27b3ab1
+FileChecksum: MD5: 5f6d24e8ffcd41cbdaa6a6549220c942
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: governance-2023-04-02.zip/governance/.github/ISSUE_TEMPLATE/create-repo.md
+SPDXID: SPDXRef-item4111602
+FileChecksum: SHA1: 9f9a3f563974eaeab1fe684b79342e43c9c388c0
+FileChecksum: SHA256: 68b4e29191af8ccb05b4d906ef2405f9a7d5273da8f289cad9f8802418bd402f
+FileChecksum: MD5: 44df003befcd4fdd4d6a929f98ddf39d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: governance-2023-04-02.zip/governance/.github/ISSUE_TEMPLATE/remove-maintainer.md
+SPDXID: SPDXRef-item4111603
+FileChecksum: SHA1: 4f695a0ed432b0be49d477ae0de5433408808dd0
+FileChecksum: SHA256: e6dc52ad66e080b7da9fed549ab62f2e87303f82b0128176bf70d677cf9dc96d
+FileChecksum: MD5: d98ddacd3bb84c9a40d23f964cb248c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: governance-2023-04-02.zip/governance/.github/ISSUE_TEMPLATE/transfer-repo.md
+SPDXID: SPDXRef-item4111604
+FileChecksum: SHA1: b67c8aea5806d4eb9efd31f862b12a9cd5cfb945
+FileChecksum: SHA256: 999f1fb1ab2cf478f3ab8f023179b636630c4608d27d4000166b74d916649a8f
+FileChecksum: MD5: e310a1f3d4d9b81910d73cf0566eec68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: governance-2023-04-02.zip/governance/MAINTAINERS.md
+SPDXID: SPDXRef-item4111605
+FileChecksum: SHA1: 1d4ee7732eb1a879060ba973ef16e65796238e2d
+FileChecksum: SHA256: 9fe8e553cb7f2b9867d1e369d1f5d09e9e59e59c70648edad5bc0dc9953fed54
+FileChecksum: MD5: 8d3821ce0982656d498c0e0563ff5597
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
