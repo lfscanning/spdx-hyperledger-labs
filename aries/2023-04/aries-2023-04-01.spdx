@@ -1,0 +1,291 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_aries-2023-04-01.zip_1680848529.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-04-07T06:22:09Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: aries-2023-04-01.zip
+PackageFileName: aries-2023-04-01.zip
+SPDXID: SPDXRef-upload831
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: bb36050c43d3c6538ee10ccaf3791fcd22cf1423
+PackageChecksum: SHA1: 4278d02c74599bd5e3bb3e6b9948b48bdcf57119
+PackageChecksum: SHA256: 39b9c4e2cc9cf4d08ea99984b7111bacc74d62c26218da8107f2fe720602475b
+PackageChecksum: MD5: 2c1ea5e00944542c60cd6798dcb9a3df
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload831
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/chaincode-aries-fabric/package.json
+SPDXID: SPDXRef-item4095307
+FileChecksum: SHA1: 9424333dbd04a942bee6290417389a8474f5fec5
+FileChecksum: SHA256: 95de10547a1da0bf09a8350e536b426d43c1522f10d7dd326ed2440e3e38f08d
+FileChecksum: MD5: 2a65e67e752fe41967adc04988e9ab41
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/application-aries-fabric/package.json
+SPDXID: SPDXRef-item4095293
+FileChecksum: SHA1: a5b9bfb4782f617dedce3e47d45c0d7ea90525cd
+FileChecksum: SHA256: c1ddbd889dec03d35e46c9cd0be276208a67a8a4f5343c3852877fc19f2812d4
+FileChecksum: MD5: b5df89486013302e03b74842e3f55c10
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/application-aries-fabric/src/utils/AppUtil.ts
+SPDXID: SPDXRef-item4095291
+FileChecksum: SHA1: 6537d7bc4a4aad81f08de14feba568acfad0691e
+FileChecksum: SHA256: 540360e0c9413a68f75f67379d42b93d0f38db56128f406634a0066416b968dc
+FileChecksum: MD5: 409a6943881a0c1f933094614b36bee3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/application-aries-fabric/src/utils/CAUtil.ts
+SPDXID: SPDXRef-item4095290
+FileChecksum: SHA1: b7d47b16ebb534f21bac92a5b679d4a38b082f82
+FileChecksum: SHA256: 4af394d947c93b3ecf1a1176f20a4c403e4db6355ab332b9bebdbda35c34ec87
+FileChecksum: MD5: 26f10513c0dc23b87e41bdea61479b03
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/chaincode-aries-fabric/src/ssi.ts
+SPDXID: SPDXRef-item4095301
+FileChecksum: SHA1: 23473654b4290dcf96a2d1ff571deb15ca8ae3d2
+FileChecksum: SHA256: fbd9c6bb2ddc9e5d57a6c40f1d5d8be518b9d3e68f57b14ba749c9dcac2c4968
+FileChecksum: MD5: dcf5ba7bd3bed2a602494fa40bd4d822
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/chaincode-aries-fabric/src/index.ts
+SPDXID: SPDXRef-item4095305
+FileChecksum: SHA1: f1a076033d55233a3c5bb68f64bc02499d1dfe7f
+FileChecksum: SHA256: fe3333cecfb755ea4f0127510bb39703af6ecff983b573d41de23f5701e7bf8e
+FileChecksum: MD5: d9d50fea8bf1727db3c3845ce8367c80
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/LICENSE
+SPDXID: SPDXRef-item4095294
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/application-aries-fabric/package-lock.json
+SPDXID: SPDXRef-item4095285
+FileChecksum: SHA1: 67b362be1b43fade1a912df018c0cfb6b0838f11
+FileChecksum: SHA256: ee414b4bafb2046581b3b6a50be2ef8cbc02d88dcb4a444225f7138d9cd3d0f3
+FileChecksum: MD5: e6661c57e75f53c04e436010b89ba9c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/application-aries-fabric/tsconfig.json
+SPDXID: SPDXRef-item4095286
+FileChecksum: SHA1: 66cf2dc56ea98ed544634b0254b4df9213fd4cae
+FileChecksum: SHA256: f637f8d9fb4b163ed481d8e9ce48de1065f23bae2f2382008cfd91f10e5f03c8
+FileChecksum: MD5: b8397955aef7cd3d795c2923828189e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/application-aries-fabric/src/app.ts
+SPDXID: SPDXRef-item4095288
+FileChecksum: SHA1: 206bc1aaa4fbdeb5f223e3b2bd7efd7e12b22378
+FileChecksum: SHA256: 93e8f8de6aa258aaf45c4d1c16803907720284d1b8a71209e1616801189bc60f
+FileChecksum: MD5: 288455885fe51c22673133d02d56e470
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/application-aries-fabric/tslint.json
+SPDXID: SPDXRef-item4095292
+FileChecksum: SHA1: 3ff108a138e9834b34ba6de30c878b964f4e928e
+FileChecksum: SHA256: cf77a498b2e0ffc9587ff56560a89f2ea11e368b4d67fea69095dc02bc8b8422
+FileChecksum: MD5: 97a1aa70790349f95c96b9c1969ed5cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/.gitignore
+SPDXID: SPDXRef-item4095295
+FileChecksum: SHA1: 85dd455d19bb6f4b9defb506d8aaace00b8f94ec
+FileChecksum: SHA256: a790c4cb2d7a6c6c9c07ea75ad46b3b81d534dc70ff8af1db6f9b7c8f826b270
+FileChecksum: MD5: ce32b98f7097b7aa4a924ab657292bf6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/README.md
+SPDXID: SPDXRef-item4095296
+FileChecksum: SHA1: a91f2f6436e4841c75d9cf7a33276e257becfce1
+FileChecksum: SHA256: 1470cf4fca3cece8891682c74c6f5b7457948423da7117e849b903a83d23711e
+FileChecksum: MD5: f17d7f121fcc35b317b2a0f2cc5896b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/chaincode-aries-fabric/package-lock.json
+SPDXID: SPDXRef-item4095298
+FileChecksum: SHA1: ba46fb3e596d6d1d84343d39f330329f76d03a56
+FileChecksum: SHA256: d3ca170115a4ff7fbd95fb654b69d59018d13d2835d3b94a872a33ddbcd04015
+FileChecksum: MD5: 0f6eb4dfc510c63bd875ae508c2641f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/chaincode-aries-fabric/tsconfig.json
+SPDXID: SPDXRef-item4095299
+FileChecksum: SHA1: 2c83e152b1062c35cda97b36333d7c74b14a701b
+FileChecksum: SHA256: 6d365cdcb2ebec8698e576c1cf074b3ff92786f99f932f3eb60df73217ae8345
+FileChecksum: MD5: e302f4838271cd0ca9920662101645d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/chaincode-aries-fabric/src/credentialDefinitionTransaction.ts
+SPDXID: SPDXRef-item4095302
+FileChecksum: SHA1: bb0d2cffc91a96f7de68ff47271467c9a77d4c36
+FileChecksum: SHA256: 692b54adf701a39b66bcac29a13044181356c0c927fabae61f1d400e8d20e7b4
+FileChecksum: MD5: 2c5b8a604150fae109bd595c1f2fa57d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/chaincode-aries-fabric/src/nymTransaction.ts
+SPDXID: SPDXRef-item4095303
+FileChecksum: SHA1: 7ca1f466045c105e59bbee23ac57c5a89cd1c00e
+FileChecksum: SHA256: 314a7bce242c1abf4853b744d3213197d97c09421861e6b144b467ecdcb8fe86
+FileChecksum: MD5: 250a5493253ff645776a8c79283e2de7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/chaincode-aries-fabric/src/schemaTransaction.ts
+SPDXID: SPDXRef-item4095304
+FileChecksum: SHA1: 30a9d62e19f2502840df91386c93bac00de02e39
+FileChecksum: SHA256: a945d9554231f02b35e8f07548c03ced4217b9cc08ecc1c42d0098b99e63aa7b
+FileChecksum: MD5: 8b4a8f5d85222d0bb444311c8a831672
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aries-2023-04-01.zip/aries-fabric-wrapper/chaincode-aries-fabric/tslint.json
+SPDXID: SPDXRef-item4095306
+FileChecksum: SHA1: 3ff108a138e9834b34ba6de30c878b964f4e928e
+FileChecksum: SHA256: cf77a498b2e0ffc9587ff56560a89f2ea11e368b4d67fea69095dc02bc8b8422
+FileChecksum: MD5: 97a1aa70790349f95c96b9c1969ed5cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
