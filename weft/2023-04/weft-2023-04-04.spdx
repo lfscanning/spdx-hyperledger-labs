@@ -1,0 +1,531 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_weft-2023-04-04.zip_1680848747.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-04-07T06:25:47Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: weft-2023-04-04.zip
+PackageFileName: weft-2023-04-04.zip
+SPDXID: SPDXRef-upload860
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 3dcf5a781bff81459fb3bcc2fef9ef345b01ce6e
+PackageChecksum: SHA1: 9b8066d7f148e52b2eba9e4bc97cf957f80de299
+PackageChecksum: SHA256: f5ea3a38f877ebf89bdfe86e225266f6f029387d29a6b69807fe9d5464ecea0a
+PackageChecksum: MD5: 1b8e1c7015045de326b08ec7a67ecb25
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload860
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/package.json
+SPDXID: SPDXRef-item4130398
+FileChecksum: SHA1: ab41d1e01e66b4fb5c8077e92db6a9ab9be50d54
+FileChecksum: SHA256: 9c0701949b50ea23b6566025c972aedba34d722e5d84c8b91a14d2dddfc4e1c2
+FileChecksum: MD5: 9d1f69ed35dbad56eca52f3d6c349e7b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/package-lock.json
+SPDXID: SPDXRef-item4130358
+FileChecksum: SHA1: 7d471108738bbf715a13e010c16fad06677eab02
+FileChecksum: SHA256: a9473e968c6619dc1333903831441ad10c1e1ccbf31210dd1eece961e443a8d9
+FileChecksum: MD5: b9bf11ad42bc7c5c664ef96b8728edb6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/log.ts
+SPDXID: SPDXRef-item4130361
+FileChecksum: SHA1: ddbedecd89892839c3738e5a87d80a46ae6da5a2
+FileChecksum: SHA256: a59e28229a7f1ad23a8c2c63f4e746153bed2fcef9a9a677d5c4f83476d29247
+FileChecksum: MD5: c8f44571eaee7f12eee802e6c501ae6b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/chaincodePackage/ccaasPackage.ts
+SPDXID: SPDXRef-item4130364
+FileChecksum: SHA1: 9fc557522dd60f6e50a87f3fb384802aa05f1f43
+FileChecksum: SHA256: 5794c7a5f8caf707863e802a2b255a249ef9e6923cc0510200ccd7eb7dc58d10
+FileChecksum: MD5: 52d93c930f47df4031b04dbaa71a711b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/chaincodePackage/tgzHelper.ts
+SPDXID: SPDXRef-item4130363
+FileChecksum: SHA1: 6b4d0d35b10f14adbe576f0b14d079af1ac9ba49
+FileChecksum: SHA256: de8b9c230eb54804db3ff4d10dec3b8066542d4dec0932d3efc0ada2259f6871
+FileChecksum: MD5: cf0ec0e5936e011d2b62df0d631b507d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/chaincodePackage/javascriptPackage.ts
+SPDXID: SPDXRef-item4130365
+FileChecksum: SHA1: 38471c2b0e2d03534feeb40eb244d2549f04d036
+FileChecksum: SHA256: 1108c73fbd585af1239af8e33558504e423653e8d8b34f18212c71266ffe4fc6
+FileChecksum: MD5: c2160f2d809f173c6727c831bfce095c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/chaincodePackage/javaPackager.ts
+SPDXID: SPDXRef-item4130366
+FileChecksum: SHA1: 9ea69c6a85e7e2d005f7a92338a2ae686232433e
+FileChecksum: SHA256: 4f5c00c4188291964a561160e1614b775422d5c8bad937b2ccd0927889f5becd
+FileChecksum: MD5: 0ef67d79681ab89c0f6ec71f864524d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/chaincodePackage/typescriptPackage.ts
+SPDXID: SPDXRef-item4130368
+FileChecksum: SHA1: b7e4b0d4c0f4cd813b617aacdb7d4bcca5a184fa
+FileChecksum: SHA256: 0a8cb014ab2bb2e48d9658c0a923b353eb68d9c22d3e054766117d81ab8deed5
+FileChecksum: MD5: 9bd2e49f18f027c0dd4b41dd40d72e76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/chaincodePackage/goPackage.ts
+SPDXID: SPDXRef-item4130370
+FileChecksum: SHA1: fdd8178a5bda3651b74b70b07992bdb9fbc84071
+FileChecksum: SHA256: ec49c27149b23ace9083c3cacf9338262ea025dbe9116eddb9e42cd1977648db
+FileChecksum: MD5: 7e3fe7adbd54ce11d050811d47e0164f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/chaincodePackage/k8sPackage.ts
+SPDXID: SPDXRef-item4130369
+FileChecksum: SHA1: 0597676b8c00dc5b74e8c51bac7f436b2401f758
+FileChecksum: SHA256: 2c7afc31aa19e04c99670aee0b05407fbcb5e91beea50c8fdd9d79b4f6475075
+FileChecksum: MD5: b44184b05280b7ffbe69ff1055b8691e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/chaincodePackage/chaincodePackage.ts
+SPDXID: SPDXRef-item4130371
+FileChecksum: SHA1: 6ebb83c1ecf074cf46231c1ed4ad9ae90f32efd7
+FileChecksum: SHA256: 437ea3d8e3761da47aae9f88bb6aa0caaa0ea472bb0d0866029925a65c47df65
+FileChecksum: MD5: 49f2ababd819c282b5e1690e9fc3e3f5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/msp.ts
+SPDXID: SPDXRef-item4130373
+FileChecksum: SHA1: 5278e2b77429fc131d2942953321bac185aeebf3
+FileChecksum: SHA256: 8c04e8fd9b243f178f790448d6218a731851b96eff6db7bdc6dfdad9b8a6dcf8
+FileChecksum: MD5: b64ec5392ba3e948b2c842010786f07d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/identies.ts
+SPDXID: SPDXRef-item4130372
+FileChecksum: SHA1: 3c72934eac859159e9c4b4f9cc55fde925002fe1
+FileChecksum: SHA256: d2ed8e7d60047a51465c26c0c4270becd25e4e9f75dfff0e6cb6e04c083a2d5e
+FileChecksum: MD5: f6bcc8667378d82a82d20781d8d5d2c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/shell.ts
+SPDXID: SPDXRef-item4130375
+FileChecksum: SHA1: df7e32e9fab7ac681494b9ab696da2ca31d9284a
+FileChecksum: SHA256: 3b04d57d7911298fc7310605d2916c7396bb0662c48f1f35b7289958a7377251
+FileChecksum: MD5: 8038cf5f741ab38d9c0b897f1e38582a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Hyperledger Fabric Contributors. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/cli.ts
+SPDXID: SPDXRef-item4130374
+FileChecksum: SHA1: 7baaba684822a290ddf8be5f2295833e308a5c5f
+FileChecksum: SHA256: b5d491bc7433d86c096b372aaad19cb2090b00621ad4894d7b1b0b5ad413a752
+FileChecksum: MD5: 36d54f2c28a26d3068f1e23f71144aaf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/userutils.ts
+SPDXID: SPDXRef-item4130376
+FileChecksum: SHA1: 187b04ec00af987656090055d880aaa72efb0fbd
+FileChecksum: SHA256: 75754ed2dea9f8acad61e5442fe7a1740fdb5d55b09b5625ecf869943e5a76e6
+FileChecksum: MD5: e9bb310ab7ac8ca1e7dbcb1235afd5d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/gateways.ts
+SPDXID: SPDXRef-item4130378
+FileChecksum: SHA1: 36cdf0bfa54dded6498b8ce1b22e302c9f3be247
+FileChecksum: SHA256: 94dccb7bab0582a8c1b37cb4d8b42441d6c8af2cba8bd8309c6e37cfcf8b1504
+FileChecksum: MD5: cb942b22494985f1b66d070208538511
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/index.ts
+SPDXID: SPDXRef-item4130379
+FileChecksum: SHA1: b8b869751df4e411725d4a29a7bd0afc7a550642
+FileChecksum: SHA256: 02335d92480f0da1b297e0ec1a4d8bf163e241dd739aa52d05528ec2c8f0aa26
+FileChecksum: MD5: e13217ef719fa9ae8034f5bd28d5090b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/microfab.ts
+SPDXID: SPDXRef-item4130377
+FileChecksum: SHA1: e45b67f1cb9fdbec5e00d6b71f0028706087e1d0
+FileChecksum: SHA256: 620647e1a4ee70eb986933a238020820a439d45f4da17090e7e920b35350b7a1
+FileChecksum: MD5: d481dce204b232cb093ac3194be53a86
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/LICENSE
+SPDXID: SPDXRef-item4130357
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/tests/unit/cli.test.ts
+SPDXID: SPDXRef-item4130355
+FileChecksum: SHA1: ae34b20faec986f9b93e34d5c0ae52f3e0e7643a
+FileChecksum: SHA256: 008cb2aac170ab8be81ba8f69352ce8a204a8a657efeab80b048b2a992e69310
+FileChecksum: MD5: 3366e9b742cb5ce4415a23b27f35d4f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/.prettierrc.js
+SPDXID: SPDXRef-item4130356
+FileChecksum: SHA1: 7f1262442acd77f08baae479e1bc3568b597203c
+FileChecksum: SHA256: f937f1e05a7f5b6c561e641f8025c440b8019b25cb59feba85c806844117e8e7
+FileChecksum: MD5: 23e9f4cd013f50c6856f41d4e2c35fd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/tsconfig.json
+SPDXID: SPDXRef-item4130359
+FileChecksum: SHA1: ff573b7fe5de447b2a4509e41a15fb463ee534b3
+FileChecksum: SHA256: daa4248f6fa1dacc96a95538f55232f3ab722940d2ac2dc2eb897d2e18a10edb
+FileChecksum: MD5: 0190511ad8dc23c7ee26b33b0d0b0e59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/src/chaincodePackage/basepackager.ts
+SPDXID: SPDXRef-item4130367
+FileChecksum: SHA1: d42ceed1915875260ac52059ea58c57a7e5a7b0f
+FileChecksum: SHA256: f4cc6dbfb2bde53452b122b0a404c96791037697c138ce9e8c84eb1b4bb41ceb
+FileChecksum: MD5: 319099ca2555cec8b0b44089391fbab0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/.vscode/launch.json
+SPDXID: SPDXRef-item4130381
+FileChecksum: SHA1: 804e7e87829b5a92f7426d25c19d3d9a6d6c0bb6
+FileChecksum: SHA256: c4b588351ad5372182e5cdc2da28789936669e85b128f3e90c098c01ed49b58f
+FileChecksum: MD5: 74e8d07997c26231998d99f115fcb165
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/.eslintrc.js
+SPDXID: SPDXRef-item4130382
+FileChecksum: SHA1: 0965d804cbc8c9d947c3d044ab8edaa6af8cc43f
+FileChecksum: SHA256: ea48bf10ded11ebf9c1da2dc8c19607b1c111962786f7f1a5b11e269c3441c7d
+FileChecksum: MD5: c99464b8543a79593cfd20542f122c68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/.github/workflows/release.yml
+SPDXID: SPDXRef-item4130385
+FileChecksum: SHA1: dafb6bb2b639034d6438c4458ba9c2725ad7b90f
+FileChecksum: SHA256: f9df802094d5d6d37007efe038e68b3ccfc1a55f52f7cc56d9eb1b2e81696a5c
+FileChecksum: MD5: f4018267e331307027fb75778443be31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/.github/workflows/CHANGELOG.md
+SPDXID: SPDXRef-item4130386
+FileChecksum: SHA1: 70bcf3980f3ad27118c2a68c942a8e1222a9fe0a
+FileChecksum: SHA256: 5911004c86639814cd80c3c8d52ca25da6a0b4893424c0aec923ae97fdfab6e1
+FileChecksum: MD5: 234ff7092598b28d80eb296ec0907bac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/.github/workflows/release-please.yml
+SPDXID: SPDXRef-item4130387
+FileChecksum: SHA1: 384d14302fc10e1566544da076632142729932f3
+FileChecksum: SHA256: eae0c5b04175d6e9c5d479b7c51d5f7ad69c9283c90f8711a8e5aaa398bdd941
+FileChecksum: MD5: 19c31b3a093dd72d75213420a559c1a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/.github/workflows/build.yml
+SPDXID: SPDXRef-item4130388
+FileChecksum: SHA1: 323742f79449ca31c0396831d039b947e2d54fd2
+FileChecksum: SHA256: 004b4277ad29f51de0d07d74aa4f7dcb813a92274120adeec06d2dab2d1417cf
+FileChecksum: MD5: 8a49d8b432d0a241fc3645e5c8d9e140
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/.gitignore
+SPDXID: SPDXRef-item4130389
+FileChecksum: SHA1: 85f6ec791823fd4f19466bb291e6b1e7a8be91d6
+FileChecksum: SHA256: 89768f30a2ae619d758c97995f2f01117e4ece09fa70ea9629860b82351fe86f
+FileChecksum: MD5: 1ffbf0af6246eece135742da7c3ba75a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/.tekton/task.yaml
+SPDXID: SPDXRef-item4130391
+FileChecksum: SHA1: 54ecb181bbc028fa40a0c0613c556a26e4bdfc2d
+FileChecksum: SHA256: b619d24aa3095225e22ab83c66512a1ba6c65770daa63f5ef2ad97fbcb2d6d9c
+FileChecksum: MD5: 59bff28a861aa12c34f8f530f78fc80b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/.tekton/listener.yaml
+SPDXID: SPDXRef-item4130392
+FileChecksum: SHA1: ed229649b5226fffebb3ec4a36951ab14358f0b7
+FileChecksum: SHA256: 7bc4fe8a7c9b676a79477ef51c737da2d850015f285af55e34d6a7bcca0eb9d6
+FileChecksum: MD5: 48afd3b2f287524f413322c2bf367602
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/.tekton/pipeline.yaml
+SPDXID: SPDXRef-item4130393
+FileChecksum: SHA1: 197d05b388bfbc90f90ebbde89ab24e95edac4bc
+FileChecksum: SHA256: abccc1c5b18c6bbd6a2c646e72152c39ae8d81e5eee75b7a130db7345d06674e
+FileChecksum: MD5: dfad156fd88eb76241c0fec7fdbe0b57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/jest.config.ts
+SPDXID: SPDXRef-item4130394
+FileChecksum: SHA1: 45a35a33f2cf12366ba820e31984ee1945c6fe42
+FileChecksum: SHA256: 55924c7320d8f528f9f20db6703ccee7da5e88de25c025ede543a44583307194
+FileChecksum: MD5: b7d7a4c9051c421412e5dbe3439eb2e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/CHANGELOG.md
+SPDXID: SPDXRef-item4130395
+FileChecksum: SHA1: 7cbbf0eb4879dd57de7b142f1c588068f68c4287
+FileChecksum: SHA256: 5e3d38eca4725d1675bef858d5f2907ff328849410349647699ecf83c99f07f3
+FileChecksum: MD5: 9f0b629e272c28705c5bbc8eaf1d7a18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/.eslintignore
+SPDXID: SPDXRef-item4130396
+FileChecksum: SHA1: fd102b15d229bed8d3ea3f0622674cc8a5979571
+FileChecksum: SHA256: c09a55fc0f2ab902b3915219b3724e2f87559be349e172aae656ac32fb134611
+FileChecksum: MD5: b312f74fd0a3d72fe072b76a0e5d5356
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/README.md
+SPDXID: SPDXRef-item4130397
+FileChecksum: SHA1: a2ba1618c21b6cd18557e910a22f209559aef355
+FileChecksum: SHA256: 20e2563b80d18e99a64925061a00ba6d68b1d59bf4502b757b04743f26e50126
+FileChecksum: MD5: 7e5a199caacb333c376eb583b82bcd48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: weft-2023-04-04.zip/weft/install.sh
+SPDXID: SPDXRef-item4130399
+FileChecksum: SHA1: 69655bf8aa286318fae4547d9b20792fd85390eb
+FileChecksum: SHA256: b2e5b7f0a869d1b1907bd292984df2442c3ad0ad35ba65cbc317dba33fd47162
+FileChecksum: MD5: 1c27cb3741268b62e229753aeec778cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
