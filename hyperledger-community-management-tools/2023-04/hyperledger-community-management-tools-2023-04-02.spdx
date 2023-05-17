@@ -1,0 +1,779 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_hyperledger-community-management-tools-2023-04-02.zip_1680848621.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-04-07T06:23:41Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: hyperledger-community-management-tools-2023-04-02.zip
+PackageFileName: hyperledger-community-management-tools-2023-04-02.zip
+SPDXID: SPDXRef-upload843
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: e90dfa20e5566573d8b6a071c24a81ab08dba19a
+PackageChecksum: SHA1: dde4089a5c61447bb185363b7cf8dd158ff820aa
+PackageChecksum: SHA256: 971402c31737bd411cc89120cdcc68c3e90d549208ad851e4c5c27392c3cb799
+PackageChecksum: MD5: 5eb33aabd4a4f82e5556c982d3fd03aa
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload843
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/README.md
+SPDXID: SPDXRef-item4112038
+FileChecksum: SHA1: 0752780531f8594c4528e1474456601361add4e3
+FileChecksum: SHA256: df38723ff45a6ee05d9583d0cef46a50f05ff232c06e780a1c96a93ceef1b124
+FileChecksum: MD5: f70a3f10a4dc4db68deb9d919df16cf3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/MAINTAINERS.md
+SPDXID: SPDXRef-item4112075
+FileChecksum: SHA1: e29121a22db480c3a0738db45321c544fed21653
+FileChecksum: SHA256: 5f67e4c3603dc32f2cbf5b1cc7e50ff1349fbb0aefa9a79dbc564a610875f3a8
+FileChecksum: MD5: c41de1e147de034d353d3bafc59a13cd
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/CONTRIBUTING.md
+SPDXID: SPDXRef-item4112011
+FileChecksum: SHA1: d1a2a81a79e120dbcf86b40f977d0dddda9c3dc3
+FileChecksum: SHA256: 51654f688864e672e4865d5b2ab84d6af6f04d08c155bd7ea4e8ae31fc14a513
+FileChecksum: MD5: 1641f6ce9aed3f8a81c340ded75305b1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item4112002
+FileChecksum: SHA1: 7e0a99f2d42a13a95f7db0f35c5f4dd52529520e
+FileChecksum: SHA256: b083bb7601eaa87902488e170ff2304adf3a839fc30f115b47d965e354700234
+FileChecksum: MD5: 6225afc6fdfb77aa09e0949d425f58b5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/voters/pure-min.css
+SPDXID: SPDXRef-item4112067
+FileChecksum: SHA1: 0211cf901b16702258ae878278fc6e94120e98ef
+FileChecksum: SHA256: 0188d6a1db80d01278bf0abe212cb0e6eaf22d744bbcdc31d9e299fbf1a1b3da
+FileChecksum: MD5: 4be3ba8ea4058e8d340dc6290b8b3d7a
+LicenseConcluded: LicenseRef-BSD AND MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2013 Yahoo! Licensed under the BSD License. https://github.com/pure-css/pure/blob/master/LICENSE.md
+Copyright (c) Nicolas Gallagher and Jonathan Neal </text>
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/voters/md5.js
+SPDXID: SPDXRef-item4112068
+FileChecksum: SHA1: 0021d0100cbd33908c3f43ba9aefed5d7be712fb
+FileChecksum: SHA256: 5f14f0efb563db7b23efaf394339a78bced6fd5ba649f049961a65476d928af5
+FileChecksum: MD5: 7fd110c041f18a9bafafd4ae9e221954
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2011, Sebastian Tschan https://blueimp.net
+Copyright (C) Paul Johnston 1999 - 2009 Other contributors: Greg Holt, Andrew Kepert, Ydnar, Lostinet Distributed under the BSD License See http://pajhome.org.uk/crypt/md5 for more info. </text>
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/voters/index.html
+SPDXID: SPDXRef-item4112074
+FileChecksum: SHA1: 6018aff6a5f2305a0588179b1d844560803628c1
+FileChecksum: SHA256: 653143898dfdfe5d03ea80dd2571b822b2db1c632906a1e682f836b2c0c2e3d1
+FileChecksum: MD5: 9b660dafc2ac7e534a553d7ff5863019
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright contributors to Hyperledger. </text>
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/voters/hashes.js
+SPDXID: SPDXRef-item4112065
+FileChecksum: SHA1: 6657e215a5fd54def615221d4ad7d7eab9a0e058
+FileChecksum: SHA256: 02972793f1ffb3c8fca2d824a8800be4d94be664096879fe371ffb416df9413c
+FileChecksum: MD5: 23e8dc489dca20d6e5b288aaae3f839a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright contributors to Hyperledger. </text>
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/voters/grids-responsive-min.css
+SPDXID: SPDXRef-item4112071
+FileChecksum: SHA1: 3bce059a37564a188ee5cd83c2a60fdd4eabcf27
+FileChecksum: SHA256: 0e40be72fc3406b1e5a1738d384b9effc94a53573ce7d33afc04e79279ec6c5b
+FileChecksum: MD5: c87a77668c8aed9eaf9bb909aa6edf81
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2013 Yahoo! Licensed under the BSD License. https://github.com/pure-css/pure/blob/master/LICENSE.md </text>
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/voters/font-awesome.css
+SPDXID: SPDXRef-item4112066
+FileChecksum: SHA1: 2a8eccf4ac288eb99979b62dcc1cc1036d8ff8fa
+FileChecksum: SHA256: 3083e8d3b21ddc3f0e6d65ec3580aa6edfaadca5d9737d9caa27e6a233e1ccf3
+FileChecksum: MD5: 1f9e9d1a5a1d347d945ef4b7727f2ea0
+LicenseConcluded: MIT AND OFL-1.1
+LicenseInfoInFile: MIT
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/repo_structure/repolint.json
+SPDXID: SPDXRef-item4112030
+FileChecksum: SHA1: 8f1ea03f76697631ce8780416ab667cb156c60b3
+FileChecksum: SHA256: 09eb44bbc20ccac5494b83cb63668c7a826a50e6106b1ca3418938f15016665d
+FileChecksum: MD5: 316e671c4410baede9f57c2dfc0fd040
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright", "License"], flags": "i" </text>
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/repo_structure/README.md
+SPDXID: SPDXRef-item4112032
+FileChecksum: SHA1: 3db673e23cbe5073b8b7b3c6cf070f7294a1dbf2
+FileChecksum: SHA256: 98d708b46a6fbf55c82f2e8895ddb49769efb4d2cfcc708ac5dda4357c858ad6
+FileChecksum: MD5: 57f584a47bd356f79021e337267d02e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/repo_structure/LICENSE
+SPDXID: SPDXRef-item4112029
+FileChecksum: SHA1: 92170cdc034b2ff819323ff670d3b7266c8bffcd
+FileChecksum: SHA256: b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1
+FileChecksum: MD5: e3fc50a88d0a364313df4b21ef20c29e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright {yyyy} {name of copyright owner} </text>
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/repo_structure/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item4112028
+FileChecksum: SHA1: 7e0a99f2d42a13a95f7db0f35c5f4dd52529520e
+FileChecksum: SHA256: b083bb7601eaa87902488e170ff2304adf3a839fc30f115b47d965e354700234
+FileChecksum: MD5: 6225afc6fdfb77aa09e0949d425f58b5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/project-reports/main.py
+SPDXID: SPDXRef-item4112049
+FileChecksum: SHA1: 137d7bfbcdabc5d70aa64ee7f94f71731d1aa69c
+FileChecksum: SHA256: ec1c11a4a47cc331a478bcd47e62a133ae1ab5b0a03c7bbff5bd0475263782b7
+FileChecksum: MD5: 63c0dc1b11c89aecf6d281e04a2b2da1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/org-repo-info/main.py
+SPDXID: SPDXRef-item4112062
+FileChecksum: SHA1: 9d85b6966d432bc457d522397fb786a8f30ce725
+FileChecksum: SHA256: b854f0c02d92063769e72966889276298158c88adf595d140e6b64fba4183b81
+FileChecksum: MD5: ff6dcdf8cc44cb1b5027fce4e9cdf822
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/list-old-repos/main.py
+SPDXID: SPDXRef-item4112014
+FileChecksum: SHA1: 672cf1db4a8befa41e016edde488bcb8c77afac9
+FileChecksum: SHA256: 6b79ec6cc4a2d80e2453ccf2f9ece3f393a01a54ed3e9a7dbdec255b9e651ecb
+FileChecksum: MD5: 24c1e1d47422b737b80541f3c6e6a7f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/LICENSE
+SPDXID: SPDXRef-item4112010
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/signed_off_by_audit/get_signed_of_by_audit.sh
+SPDXID: SPDXRef-item4112004
+FileChecksum: SHA1: 309b0bb12c1f5a0c5a3e73a746531fc8f11992a4
+FileChecksum: SHA256: 348f234e70f8c479ea0174cfdca1009540d1a3352c22ead9df404c8108e276cf
+FileChecksum: MD5: 052359d0ffbc045f8e665c91391ff442
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/signed_off_by_audit/cleanup.sed
+SPDXID: SPDXRef-item4112005
+FileChecksum: SHA1: f7c9460616deaedf798d6a7552fc5ddd6d362ceb
+FileChecksum: SHA256: c21f72bdaccbe9293f5301b9f9fa8ed342b8bb54059597d311ae8af9a4729d0d
+FileChecksum: MD5: 3487e8f5458bcd20c0f0e676bc7aefb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/signed_off_by_audit/mailmap
+SPDXID: SPDXRef-item4112006
+FileChecksum: SHA1: 77d1be0173fb2ae5d0c3c5539265b154f858f0a4
+FileChecksum: SHA256: 23cd3ae6bb7388107db160fcd537b807c4e6d21010e658a29fd1c15a325ffdc3
+FileChecksum: MD5: e633f44390cc42796a622a164d5c93c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/signed_off_by_audit/README.md
+SPDXID: SPDXRef-item4112007
+FileChecksum: SHA1: a44e810ead44bf7b612946c3d0a163dfe5f75e8e
+FileChecksum: SHA256: 51ea0cf1ba355698e79556f1b2d3e981c7161a1865ecb3fd137e4dadca39746e
+FileChecksum: MD5: 2eb0502a2794436392d78e2b00deeb23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/contributors-by-week/contributors-by-week.py
+SPDXID: SPDXRef-item4112009
+FileChecksum: SHA1: 957f6702284a4bad5b0621bd470429c50632bdde
+FileChecksum: SHA256: 3d67f2b9fdb2160327d28f0367b292af01c56938af31347159249f3808db4de3
+FileChecksum: MD5: 4dcd3c3aecc73a543651d4ce81d2ddc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/list-old-repos/requirements.txt
+SPDXID: SPDXRef-item4112013
+FileChecksum: SHA1: b28a75e851b6111553ce596f4e1c35efe8f74261
+FileChecksum: SHA256: 5b6c86a1d37a046f6dc33d9043cddc424cc37cb32914e061c770ec3271c49c2d
+FileChecksum: MD5: b10cc22abbb28403661c7e1ffff997a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/list-old-repos/README.md
+SPDXID: SPDXRef-item4112015
+FileChecksum: SHA1: 5193dbe968de4623d52265f79d6074d65a6fded0
+FileChecksum: SHA256: 942c72c8ca590a5d1365bca41ad6d20f14cdc2b845a5410608cc562e9982848f
+FileChecksum: MD5: beea692524fcda7b13dfc2cf3267a133
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/.github/workflows/repo-dates.yml
+SPDXID: SPDXRef-item4112018
+FileChecksum: SHA1: 8f90065e4c47c78adaed83fa26e92bd9004b6062
+FileChecksum: SHA256: 588ce80eb0be9f2350700c144158a8b741ea000b9e7394a20338727d5e436602
+FileChecksum: MD5: 674da3bcd19d3ae9c7946160a9db600e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/.github/workflows/codeql.yml
+SPDXID: SPDXRef-item4112019
+FileChecksum: SHA1: b5da32c3a07ed1bd585b644b2e01c103523b0ef1
+FileChecksum: SHA256: 6f65bbb6db1d7bea117ab379cbdb3334113d05c32d0747989f1f2cd43813cce9
+FileChecksum: MD5: 41ea365a66e98b89dad312f9bc69bb2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/.github/workflows/publish-reports.yml
+SPDXID: SPDXRef-item4112020
+FileChecksum: SHA1: f50e3505c213912f11fd1457a80b08b02a34206e
+FileChecksum: SHA256: a13eb6c8b37f1c9218427a6c45cd9c014846c56f2d8f5486725b6dc4f1c8a404
+FileChecksum: MD5: 5c2cc3841a79f942000ad95b58dc3a16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/get_lines_of_code/get_loc.sh
+SPDXID: SPDXRef-item4112022
+FileChecksum: SHA1: 59695fda764430062cfe145d2de7e07668e81277
+FileChecksum: SHA256: 41bfe6503a6263db9485bb167c9472cfda607e451b3761610c7ebb19cea88670
+FileChecksum: MD5: 9a51c8537831ee241fd4cddc4fec722d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/get_lines_of_code/README.md
+SPDXID: SPDXRef-item4112023
+FileChecksum: SHA1: 16770c1c51f2a47d7303737664bba708ffe631d3
+FileChecksum: SHA256: 4636ba77a0bb60d367e9c4e6f1794ad93b4b7f6e36c2319680f7e12a57dcbe00
+FileChecksum: MD5: 48391dd889a48addcd0a57faeaf89a5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/common/command-line.sh
+SPDXID: SPDXRef-item4112025
+FileChecksum: SHA1: 5c4e8aae581a1075a889d0c08e8d02de4f4ad3e7
+FileChecksum: SHA256: 94499d3837ded966c8a7206cd0def14050621fd458036149c527b86f4f9740c8
+FileChecksum: MD5: 769e8359df6796e32425b3613f86dd54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/common/repositories.sh
+SPDXID: SPDXRef-item4112026
+FileChecksum: SHA1: 98cc53cc11dabd7ef84d99ae7645cbc5b40c5f99
+FileChecksum: SHA256: 7380507fc14c612127c8b63e1b7ee25da23c24d04b45f88049e377dcb6635cce
+FileChecksum: MD5: 539f1d63226b8b3cb6fa94012529a34d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/repo_structure/repo_structure.sh
+SPDXID: SPDXRef-item4112031
+FileChecksum: SHA1: 5bba57dffb729d54d1563caba98c5d1ec38ab0b9
+FileChecksum: SHA256: 00f4bcf790f06ffc4a124ebc10ad74fbc967494745a4156f628a259bb581ea0a
+FileChecksum: MD5: 61b43011606384c6fa16bed50d46530e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/repo_structure/SECURITY.md
+SPDXID: SPDXRef-item4112033
+FileChecksum: SHA1: 01745bf93de528e1ec3c38d01c28a5d9bc67b3e7
+FileChecksum: SHA256: 68457718b668ca838596f4a0e47359ccc0f34fb7695605bc46c3248dfffc65ab
+FileChecksum: MD5: 08af06c94c394e0b51654e7c1265a6dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/create_tarballs/create_tarballs.sh
+SPDXID: SPDXRef-item4112035
+FileChecksum: SHA1: bcf576958b7ef0e903453c3ff2a35777a0bee90d
+FileChecksum: SHA256: ab10441a688951b68b4542444bd8c12e136db391405602f898a46bc1e6e51d6e
+FileChecksum: MD5: 3b9258266f640271f4101c365b8cf4ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/create_tarballs/README.md
+SPDXID: SPDXRef-item4112036
+FileChecksum: SHA1: 1033bba390173990af3832786fa192a0c99f2304
+FileChecksum: SHA256: c4da0ecef508325a0b72e4fa71b676af4938abad75176c551d217de96c157840
+FileChecksum: MD5: 833042722fb1882b2540949def17c485
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/CHANGELOG.md
+SPDXID: SPDXRef-item4112037
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/SECURITY.md
+SPDXID: SPDXRef-item4112039
+FileChecksum: SHA1: f264642497004004aa54bbfa66a9202db54ecf5f
+FileChecksum: SHA256: 14205a5505ff11906015bc60b358b8d6cfcd77dd044ffac73e92babcb09642d0
+FileChecksum: MD5: 3be54883fd5455a47e79a7c8a6165d12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/project-reports/docs/images/sample-summary-report.png
+SPDXID: SPDXRef-item4112043
+FileChecksum: SHA1: 3c1ef031a7aca4ebbcbc9c068424d93ea398ff25
+FileChecksum: SHA256: b9d421cabd341c69327b056e6938a3792b7a657ba274362b10cafbfce2ebb350
+FileChecksum: MD5: 111cb51b6b31b89c2eab685ec0235d3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/project-reports/docs/requirements.md
+SPDXID: SPDXRef-item4112044
+FileChecksum: SHA1: be74e2c0171c8d869e6679ba98a8e2b95f0170b7
+FileChecksum: SHA256: 30e56fcf3748457559249f4b6e7200291f4c76c1843c5dec87cf5305081a1ec7
+FileChecksum: MD5: 025a7dcaa475ba47e6dc682689d34b61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/project-reports/labs.cfg
+SPDXID: SPDXRef-item4112045
+FileChecksum: SHA1: ca6cb97e1e235c08eeafbaae94c9454972ff6f2b
+FileChecksum: SHA256: 5e3fc43f7e49afc542c2084147245b39f5865fd783f6778272770e6cc0512249
+FileChecksum: MD5: c31d29be4f339f136d9d699356a85b3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/project-reports/.gitignore
+SPDXID: SPDXRef-item4112046
+FileChecksum: SHA1: bac47fcceeca59ab9ffc537022d3a68c4a0e5d20
+FileChecksum: SHA256: 1514f9dc33502de81c654dedf0f3a06384d8640fd17c9035156fee7d0ea63292
+FileChecksum: MD5: d671061a8850943376d88bc03a814c2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/project-reports/repos.cfg
+SPDXID: SPDXRef-item4112047
+FileChecksum: SHA1: 1e87ddfd2133df1f36d834ce1b7677aa6bbdf483
+FileChecksum: SHA256: e6d9944aceaf85a82772500d50e44d596f964f510b267ee8b00bc9bc2b7ecd0d
+FileChecksum: MD5: a31b09414800a2aa9a3dc4f79f570552
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/project-reports/requirements.txt
+SPDXID: SPDXRef-item4112048
+FileChecksum: SHA1: fc7f343e06311d17a74093558ae271974891ce54
+FileChecksum: SHA256: 5ccd96b9c4d92b172bdd805b0a110eb2a11328e1d6c6132078dc5522de5a0809
+FileChecksum: MD5: 0161e5bd9ade11ed3b3b40608ebc577b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/project-reports/all.cfg
+SPDXID: SPDXRef-item4112050
+FileChecksum: SHA1: a423a3288ea19e599521c7d5bae6749ccb0ca82d
+FileChecksum: SHA256: 5564b01a86d6329f189c1167e0411b83aa6409ae7bdc4ec39a260a82f13e0260
+FileChecksum: MD5: a4e6f715be71711631e74ee631ee2e60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/project-reports/README.md
+SPDXID: SPDXRef-item4112051
+FileChecksum: SHA1: 02b14cfe568dc08b51897acc57e1f9772fd06b44
+FileChecksum: SHA256: 5e9ad83c71f5a851f3c56b0a9e517a9d2cf55f78a909d65d2cbda32f85bd5d3f
+FileChecksum: MD5: 2aa1414eff98771eafbc0023afb0e577
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/project-reports/templates/report.html
+SPDXID: SPDXRef-item4112053
+FileChecksum: SHA1: 9cca7c3d0a8a52c7dcb4d1a7338cf2f3cf0a2727
+FileChecksum: SHA256: 11379358d0907230b50f84224ac88b963028085b917061a537f74e9d7caa1abe
+FileChecksum: MD5: 2fd9ff008ed44582d566b2492968472a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/get_contributors/cleanup.sed
+SPDXID: SPDXRef-item4112055
+FileChecksum: SHA1: 17a0b92fbe829bf8ffca59bd52bee3e5f4eb5351
+FileChecksum: SHA256: aeb6113c8ae74a67e4016230845e79d5d78e748ec98051d8cec375776afb8e3b
+FileChecksum: MD5: ca5664938269844db121b270ca938d45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/get_contributors/mailmap
+SPDXID: SPDXRef-item4112056
+FileChecksum: SHA1: 17dc4e90c7102e9ecd9dc2138e3bb9abccb3bc81
+FileChecksum: SHA256: 992db02d6f4a8402d7e2f5d10e79c6eb9afbff85e7ec479edc32f69d52ea075f
+FileChecksum: MD5: 8c22b729ea581206dca9c268ed4991ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/get_contributors/README.md
+SPDXID: SPDXRef-item4112057
+FileChecksum: SHA1: b3f3e79ed5f3cbf7a9cf1f521f20027952979bb2
+FileChecksum: SHA256: fa89b9979106c36aa920178cd187fd0d16678c1e7bebc0b9d66346e6eef149bf
+FileChecksum: MD5: 2437dbf1f35155697b74b2eb5a1d927b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/get_contributors/get_contributors.sh
+SPDXID: SPDXRef-item4112058
+FileChecksum: SHA1: b4556c8558aca0cab3bf6bfe634cef6af824389f
+FileChecksum: SHA256: 8c63a17a3391a759660d3ac51955a5179db59e7724214385455c783f53bb5238
+FileChecksum: MD5: 163006ab13aa0d797812b8014f05de95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/org-repo-info/.gitignore
+SPDXID: SPDXRef-item4112060
+FileChecksum: SHA1: f1190ffcd46971088de9f695ca9a14398b701c47
+FileChecksum: SHA256: 8f68b519c2e5408ea3bf45db2732f48e41ae5d64f792325ec6bf913c3d881bda
+FileChecksum: MD5: f625359b1e80b88f8742ff799d9fb219
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/org-repo-info/requirements.txt
+SPDXID: SPDXRef-item4112061
+FileChecksum: SHA1: b28a75e851b6111553ce596f4e1c35efe8f74261
+FileChecksum: SHA256: 5b6c86a1d37a046f6dc33d9043cddc424cc37cb32914e061c770ec3271c49c2d
+FileChecksum: MD5: b10cc22abbb28403661c7e1ffff997a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/org-repo-info/README.md
+SPDXID: SPDXRef-item4112063
+FileChecksum: SHA1: 2964913e961d59f8c2631d38fc431204b43cf580
+FileChecksum: SHA256: 7023f0368522e0837a393439bf9351d4d9b0be1e4b33837a369d197ae5b93885
+FileChecksum: MD5: f656f2fc06c266f8372450426acb490d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/voters/HL_Logo_White-300x58.png
+SPDXID: SPDXRef-item4112069
+FileChecksum: SHA1: 3ec5a857d38cbf3f11c15b105dc706d020c52718
+FileChecksum: SHA256: f34e7ff4e2fb8e0d612e375e7aaece9542d2876d393c5dab9fd1ffac0ed59ce6
+FileChecksum: MD5: 765814eef6bb55833a904842efa5d4a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/voters/styles.css
+SPDXID: SPDXRef-item4112070
+FileChecksum: SHA1: d29368e37da82f762341ae5baabd1c46ae409fb5
+FileChecksum: SHA256: 58f6c79e93463fc6b12e40af84b114f3ca3e1d5077490ad2afded95a41c2b089
+FileChecksum: MD5: ca0cac4aa7bbc7a8bc432d7ae601628a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/voters/HL_Homepage_Slider.png
+SPDXID: SPDXRef-item4112072
+FileChecksum: SHA1: bec1de424cd6fccf1e38a9526994523930e52f77
+FileChecksum: SHA256: 71c3e8aec1782c2a324407a00b4f1f27abefdaf2dcf81aafae6a92cfd1c7c929
+FileChecksum: MD5: aebd389e90953590bcf153ccff60e22d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: hyperledger-community-management-tools-2023-04-02.zip/hyperledger-community-management-tools/voters/favicon.ico
+SPDXID: SPDXRef-item4112073
+FileChecksum: SHA1: f4ee974319a89ac161871eaa120ad6f9a74b8cef
+FileChecksum: SHA256: 9b50613d01b1cfbafeac696dbc21d7fc7c3c3751756340eeb00644a61aa77257
+FileChecksum: MD5: 31c39dca4fac0a859096b37ac5efe764
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
