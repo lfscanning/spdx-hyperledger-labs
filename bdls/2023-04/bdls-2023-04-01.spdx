@@ -1,0 +1,3833 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_bdls-2023-04-01.zip_1680848537.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-04-07T06:22:17Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: bdls-2023-04-01.zip
+PackageFileName: bdls-2023-04-01.zip
+SPDXID: SPDXRef-upload832
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: ead76c47d8f1252f0063588e6795525d12d14384
+PackageChecksum: SHA1: c7e2a860ddc7a12efbd4321d5878cfefbeed16d9
+PackageChecksum: SHA256: 6f4d559a020add66b9525fbe946071552fdc0e91cc140370f31e05729e48a0bd
+PackageChecksum: MD5: 7a2a15423ea4258fecd47bf918b74e6e
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload832
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/LICENSE
+SPDXID: SPDXRef-item4095318
+FileChecksum: SHA1: e35e006b86472876ea0907d585625c7798e76c65
+FileChecksum: SHA256: 87c3fcfd2a7279504562de1a353577885f66bab7322ce8ba06d409c2b43d73d9
+FileChecksum: MD5: 1012afc431cf49f258ea06825dee1a1b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/gopkg.in/yaml.v3/yamlprivateh.go
+SPDXID: SPDXRef-item4095453
+FileChecksum: SHA1: 47d0a6e9896e9cc4f95e6f5d00930d5e9a561e5b
+FileChecksum: SHA256: 5e29848cb6ddbfe90bea82fd2c26e507de666833a1ff45dfd545a4bf5bb6254d
+FileChecksum: MD5: fcc4f9ab98abc6be636840ddc406567d
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2011-2019 Canonical Ltd
+Copyright (c) 2006-2010 Kirill Simonov </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/gopkg.in/yaml.v3/yamlh.go
+SPDXID: SPDXRef-item4095446
+FileChecksum: SHA1: 6b7495a60b55b38f246a3090b555890dbae525f2
+FileChecksum: SHA256: 9464ce210fe22b4f501a731f8251def206498cd5509c2089df0069e435dc6105
+FileChecksum: MD5: 0f27b0e01314747676cb62ba27b2c335
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2011-2019 Canonical Ltd
+Copyright (c) 2006-2010 Kirill Simonov </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/gopkg.in/yaml.v3/yaml.go
+SPDXID: SPDXRef-item4095445
+FileChecksum: SHA1: 6f5eea0cd6be08818ae3a05fdc3c7ad2b516300f
+FileChecksum: SHA256: b2ce8d5e5588cb1af0ac749cf2bf4a4272eaac41ace5b738332237dea62a104b
+FileChecksum: MD5: b169aecd036ae8b93a446a93fe59226e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2011-2019 Canonical Ltd </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/gopkg.in/yaml.v3/writerc.go
+SPDXID: SPDXRef-item4095442
+FileChecksum: SHA1: ccd40ccb00ed474a5775b37de1579a948847f62b
+FileChecksum: SHA256: ebf6b56361527f081803c4067263ea97f44637ce2cc329168fb17e4e193fc40d
+FileChecksum: MD5: 051dfd8be83e042c4849560fe1232a10
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2011-2019 Canonical Ltd
+Copyright (c) 2006-2010 Kirill Simonov </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/gopkg.in/yaml.v3/sorter.go
+SPDXID: SPDXRef-item4095456
+FileChecksum: SHA1: 84bff75eae3e36632c9ad6f3fa83536cc0a7b6dc
+FileChecksum: SHA256: 111f911a8095798fda2a7c708e20a931d2c228e637ff82de3ff44794d2d0ae92
+FileChecksum: MD5: 7e5593dc974984b4948a1a68fe8bd350
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2011-2019 Canonical Ltd </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/gopkg.in/yaml.v3/scannerc.go
+SPDXID: SPDXRef-item4095444
+FileChecksum: SHA1: e9388da8d9c55020629b3298e4c7b8ed030eedbf
+FileChecksum: SHA256: 5b1845a166afe950071deea611e5ef8a898909be2b580ea852c06a3f03bc0ad7
+FileChecksum: MD5: 4d5f5dd64c9fd04a6665a230ebda5a30
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2011-2019 Canonical Ltd
+Copyright (c) 2006-2010 Kirill Simonov </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/gopkg.in/yaml.v3/resolve.go
+SPDXID: SPDXRef-item4095457
+FileChecksum: SHA1: d3ad72dfa4d8e9ec2538ce2b32150f81926409a4
+FileChecksum: SHA256: 69b6069012fef0a518e379222007f6ea7622cb1c235a35b1355bb5641ab16d26
+FileChecksum: MD5: 6e93872305a70feda0cdef94792cecf2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2011-2019 Canonical Ltd </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/gopkg.in/yaml.v3/readerc.go
+SPDXID: SPDXRef-item4095455
+FileChecksum: SHA1: 69eda5b71285f37baa3e63f94e932ac194568bd2
+FileChecksum: SHA256: 7693311b8e90eebf81d8468cb5a312725491002c5c6061c49a5488435069c7a3
+FileChecksum: MD5: afc91bdddda9f1f693e60a84528eb09c
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2011-2019 Canonical Ltd
+Copyright (c) 2006-2010 Kirill Simonov </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/gopkg.in/yaml.v3/parserc.go
+SPDXID: SPDXRef-item4095447
+FileChecksum: SHA1: 05e45798fa99f1d30828f05cd57127eeff2319ca
+FileChecksum: SHA256: d997fba1d47bcd45c17a6589c6f7785b77c7c6161fc7e7881da5e6b558456261
+FileChecksum: MD5: d82c5206426e9b72b6b96a40355e9e87
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2011-2019 Canonical Ltd
+Copyright (c) 2006-2010 Kirill Simonov </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/gopkg.in/yaml.v3/encode.go
+SPDXID: SPDXRef-item4095451
+FileChecksum: SHA1: 01a92122eb45d18c6f4a1ba81b392ed25ba5bf2c
+FileChecksum: SHA256: 93689dc2f3b6e6a3b44a49d42b4cfedd283622bee0131e160286cde6ce4e2d48
+FileChecksum: MD5: a915387dda68c37d097094cba80a842b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2011-2019 Canonical Ltd </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/gopkg.in/yaml.v3/emitterc.go
+SPDXID: SPDXRef-item4095449
+FileChecksum: SHA1: 266d51a5dd14a2c5857d3c8744ebfa3c1000ce9a
+FileChecksum: SHA256: b8f5c6f997c26b30f51d32c55b383ed6a5c47b9dabe25320c0a604e388fce26a
+FileChecksum: MD5: 0a74e9072c478679d36abd67848b674d
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2011-2019 Canonical Ltd
+Copyright (c) 2006-2010 Kirill Simonov </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/gopkg.in/yaml.v3/decode.go
+SPDXID: SPDXRef-item4095454
+FileChecksum: SHA1: 4a0f77cad311fb63a90dcff47ce81a49d9dd540d
+FileChecksum: SHA256: 1d13d3c9b5f3c4e31a004d49275aa0172c319c67f4f93981c76678d6a38c73c8
+FileChecksum: MD5: 9783243c057fcbedfdf31c595b074f06
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2011-2019 Canonical Ltd </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/gopkg.in/yaml.v3/apic.go
+SPDXID: SPDXRef-item4095441
+FileChecksum: SHA1: 11d8d748d241a65b37c17b520505dca7687e6c47
+FileChecksum: SHA256: 42359e29a1fd9c76c3f42f059f8b3e42d507277873017919501203daf3e49861
+FileChecksum: MD5: 639d898216dfa9843a1d416688f7db1c
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2011-2019 Canonical Ltd
+Copyright (c) 2006-2010 Kirill Simonov </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/gopkg.in/yaml.v3/NOTICE
+SPDXID: SPDXRef-item4095450
+FileChecksum: SHA1: 9522d95b2b9b284285cc3fb6ecc445aa3ee5e785
+FileChecksum: SHA256: f6c2dd3a67b576eafb89b80200b8b1627230bf3821a0c14cb99a22ac19107d00
+FileChecksum: MD5: 6964839e54f4fefcdae13f22b92d0fbb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2011-2016 Canonical Ltd. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/gopkg.in/yaml.v3/LICENSE
+SPDXID: SPDXRef-item4095443
+FileChecksum: SHA1: b74b3b31bc15ad5e94fc1947d682aa3d84132fce
+FileChecksum: SHA256: d18f6323b71b0b768bb5e9616e36da390fbd39369a81807cca352de4e4e6aa0b
+FileChecksum: MD5: 3c91c17266710e16afdbb2b6d15c761c
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> copyright staring in 2011 when the project was ported over:
+Copyright (c) 2006-2010 Kirill Simonov
+Copyright (c) 2006-2011 Kirill Simonov
+Copyright (c) 2011-2019 Canonical Ltd </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/PATENTS
+SPDXID: SPDXRef-item4095437
+FileChecksum: SHA1: 4eca45b612f7d86f2f598f238074a0dac9b72bc9
+FileChecksum: SHA256: 96f408bfae65bf137fc2525d3ecb030271c50c1e90799f87abf8846d8dd505cc
+FileChecksum: MD5: 3a55d95595a6f9e37dee53826b4daff2
+LicenseConcluded: LicenseRef-Google-Patents-Notice-Golang-1
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> copyrightable works distributed by Google as part of the Go project. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/stretchr/testify/LICENSE
+SPDXID: SPDXRef-item4095596
+FileChecksum: SHA1: 892204393ca075d09c8b1c1d880aba1ae0a2b805
+FileChecksum: SHA256: f8e536c1c7b695810427095dc85f5f80d44ff7c10535e8a9486cf393e2599189
+FileChecksum: MD5: 188f01994659f3c0d310612333d2a26f
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2012-2020 Mat Ryer, Tyler Bunnell and contributors. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/mattn/go-runewidth/LICENSE
+SPDXID: SPDXRef-item4095524
+FileChecksum: SHA1: 5ca808f075931c5322193d4afd5a3370c824f810
+FileChecksum: SHA256: 88a2379b3ca34bf5c57127aff9dcb802bbb60ece0805cdbda65b3bd115f971d9
+FileChecksum: MD5: 24ce168f90aec2456a73de1839037245
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2016 Yasuhiro Matsumoto </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/LICENSE
+SPDXID: SPDXRef-item4095490
+FileChecksum: SHA1: 62e85c543bad57a03eff756c0cfcb4bd26b77a4a
+FileChecksum: SHA256: da277af11b85227490377fbcac6afccc68be560c4fff36ac05ca62de55345fd7
+FileChecksum: MD5: c542707ca9fc0b7802407ba62310bd8f
+LicenseConcluded: MIT AND MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2016 Jeremy Saenz & Contributors </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE.md
+SPDXID: SPDXRef-item4095518
+FileChecksum: SHA1: b7a606730713ac061594edab33cf941704b4a95c
+FileChecksum: SHA256: a55959c4e3e8917bfa857359bb641115336276a6cc97408fd8197e079fb18470
+FileChecksum: MD5: 80794f9009df723bbc6fe19234c9f517
+LicenseConcluded: MIT AND MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2014 Brian Goff </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/shurcooL/sanitized_anchor_name/LICENSE
+SPDXID: SPDXRef-item4095611
+FileChecksum: SHA1: c111106ab0af1873aa6350f797759fe1519c8be1
+FileChecksum: SHA256: c8024e31c1de453fea90f22a221968835cc7af9d520274a2576c9ec9976055b0
+FileChecksum: MD5: c670c44b8d826e9b7b99077e5c7ba283
+LicenseConcluded: MIT AND MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2015 Dmitri Shuralyov </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/olekukonko/tablewriter/csv.go
+SPDXID: SPDXRef-item4095469
+FileChecksum: SHA1: d8c465f5f15aae595c7df5f69e2ec2721bb20860
+FileChecksum: SHA256: 94f334f6b7fb3003b95802176344ca92d99e22658412d9727c9ba30f618cfe56
+FileChecksum: MD5: ab2d67f6ab59ed37bc600741578b0b69
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2014 Oleku Konko All rights reserved. Use of this source code is governed by a MIT license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/olekukonko/tablewriter/wrap.go
+SPDXID: SPDXRef-item4095475
+FileChecksum: SHA1: 4f2d00ebc824d5fa265cc9c835bc87e3fc7dab27
+FileChecksum: SHA256: 7ace2c110d37011b4257e915028b755582784a1e0a9b2c14ce4d26e5102379da
+FileChecksum: MD5: 74a1b5a2ba7d81da15ceea049f423acd
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2014 Oleku Konko All rights reserved. Use of this source code is governed by a MIT license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/olekukonko/tablewriter/util.go
+SPDXID: SPDXRef-item4095473
+FileChecksum: SHA1: 57ab26864e4e32f76c325317b9f6dfa8bf1cbc5f
+FileChecksum: SHA256: 3318bd077c0480642bc32e7d468e8daffb4ac80c2f3681a2ebfbdb900aee6a65
+FileChecksum: MD5: c3422dcb0f3edbdb18347e0789404934
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2014 Oleku Konko All rights reserved. Use of this source code is governed by a MIT license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/olekukonko/tablewriter/table.go
+SPDXID: SPDXRef-item4095472
+FileChecksum: SHA1: f376a863c20e3a72339525703fc800bc3152aa42
+FileChecksum: SHA256: 5a28f9ec89de4d41d8abf821b9dbf144b6a9c272923367d2fce2da94e5ba133d
+FileChecksum: MD5: 5096396bd81d6f2e0586576439b1f970
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2014 Oleku Konko All rights reserved. Use of this source code is governed by a MIT license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/shurcooL/sanitized_anchor_name/README.md
+SPDXID: SPDXRef-item4095613
+FileChecksum: SHA1: f27727eedf9b3436fac2e8d3468fd720208db91a
+FileChecksum: SHA256: 27c900205e36ac907b9ac1ac434e2016edf7a02a6034dc1d29482cab7bf55f6b
+FileChecksum: MD5: 27ed316b36fb2365307d0535ea97b094
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/russross/blackfriday/v2/html.go
+SPDXID: SPDXRef-item4095620
+FileChecksum: SHA1: ea36f43aaf43c21cce715ddd765451ec9b61129a
+FileChecksum: SHA256: 91792a0cad4c1ca5579bc063443134bc171ce1797615248325036f7570d66b5d
+FileChecksum: MD5: e1b7c79406ea56babfa487d1e886cc85
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright © 2011 Russ Ross <russ@russross.com>. Distributed under the Simplified BSD License. See README.md for details. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/russross/blackfriday/v2/smartypants.go
+SPDXID: SPDXRef-item4095624
+FileChecksum: SHA1: 5b5e99354968bbf71afaceb5cb4620f884fc2933
+FileChecksum: SHA256: 7f703fd7720ff15077d63279f916d91d3b3e90e028d6cc3024c045e560a06a08
+FileChecksum: MD5: a89cc2a236cdd8e9ba5c0edbf3bde327
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright © 2011 Russ Ross <russ@russross.com>. Distributed under the Simplified BSD License. See README.md for details. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/russross/blackfriday/v2/markdown.go
+SPDXID: SPDXRef-item4095623
+FileChecksum: SHA1: 785c0fc5872f9907b6b6d5a98c9ac1aadf2894de
+FileChecksum: SHA256: fd2b1c05588d13d322cd945d6c653d4e73ca5a5839c5ad996aa8818635387064
+FileChecksum: MD5: 6a851bb260b8889601c8496c70026768
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright © 2011 Russ Ross <russ@russross.com>. Distributed under the Simplified BSD License. See README.md for details. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/russross/blackfriday/v2/inline.go
+SPDXID: SPDXRef-item4095626
+FileChecksum: SHA1: 64686d30af9bbf546ceefcd6c7276900e397f66b
+FileChecksum: SHA256: 6c805954e11198e18cac9e337719b4ab28be074ecf76255eb2afcd07a52fb3f1
+FileChecksum: MD5: 713e6fac436c77807624385c936b856d
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright © 2011 Russ Ross <russ@russross.com>. Distributed under the Simplified BSD License. See README.md for details. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/russross/blackfriday/v2/block.go
+SPDXID: SPDXRef-item4095627
+FileChecksum: SHA1: ba11e2c4e524c250fb9c9bc79130a22fc6886950
+FileChecksum: SHA256: c10d57d7472d76a361aa1f7c3b7e49158978cae72294d1238a3bc9e697960900
+FileChecksum: MD5: fd8d60d7c049843ac97877dae73ec048
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright © 2011 Russ Ross <russ@russross.com>. Distributed under the Simplified BSD License. See README.md for details. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/russross/blackfriday/v2/README.md
+SPDXID: SPDXRef-item4095628
+FileChecksum: SHA1: 4395831dac5ded50fd402fe9b18469ee93f3aadb
+FileChecksum: SHA256: 67c508f78c4042ff1e72026247934732b47c5d1f4639397d088c887418d3d33e
+FileChecksum: MD5: 48ad61610ec3d05123c892ec50458349
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/russross/blackfriday/v2/LICENSE.txt
+SPDXID: SPDXRef-item4095622
+FileChecksum: SHA1: da34754c05d40ff81f91de8c1b85ea6e5503e21d
+FileChecksum: SHA256: 75e1ca97a84a9da6051dee0114333388216f2c4a5a028296b882ff3d57274735
+FileChecksum: MD5: ecf8a8a60560c35a862a4a545f2db1b3
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright © 2011 Russ Ross All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/pmezard/go-difflib/LICENSE
+SPDXID: SPDXRef-item4095536
+FileChecksum: SHA1: cd3e4d932cee20da681e6b3bee8139cb4f734034
+FileChecksum: SHA256: 2eb550be6801c1ea434feba53bf6d12e7c71c90253e0a9de4a4f46cf88b56477
+FileChecksum: MD5: e9a2ebb8de779a07500ddecca806145e
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2013, Patrick Mezard All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. The names of its contributors may not be used to endorse or promote products derived from this software without specific prior written permission.
+COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/olekukonko/tablewriter/LICENSE.md
+SPDXID: SPDXRef-item4095468
+FileChecksum: SHA1: 7c15369a8295c6d2cd26b41618f5ba81e7e06eca
+FileChecksum: SHA256: 0583acca2b32a7e4f7bc2d98422b2f55097333273731b3ba2a16d66f9e422744
+FileChecksum: MD5: 0b3be5790ce7a5a6c959f60a5ce4c138
+LicenseConcluded: MIT AND MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (C) 2014 by Oleku Konko </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/mattn/go-runewidth/README.md
+SPDXID: SPDXRef-item4095532
+FileChecksum: SHA1: 93b18bf204810cfb01da957685fcadaebedb8b97
+FileChecksum: SHA256: ed4922669ccbeb0eeb9cb7a152c2416898fd697933c7b2fc8111ba1f306c9568
+FileChecksum: MD5: acb62684a4628487e16af7b6fa66b21b
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/LICENSE
+SPDXID: SPDXRef-item4095435
+FileChecksum: SHA1: d6a5f1ecaedd723c325a2063375b3517e808a2b5
+FileChecksum: SHA256: 2d36597f7117c38b006835ae7f537487207d8ec407aa9d9980794b2030cbc067
+FileChecksum: MD5: 5d4950ecb7b26d2c5e4e7b4e0dd74707
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2009 The Go Authors. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/message_set.go
+SPDXID: SPDXRef-item4095544
+FileChecksum: SHA1: f9f08fc3e93ec533c0224c5607b57c86f6db5451
+FileChecksum: SHA256: 12e70d026e7546fe59465e79e57cb839988b859a7acee7ef99f965e20577d597
+FileChecksum: MD5: eded5455f63bac1fd0555ecb92e86460
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2010 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/deprecated.go
+SPDXID: SPDXRef-item4095572
+FileChecksum: SHA1: 2281e7c573868c058b3e5cfcd4772c9727dacdab
+FileChecksum: SHA256: 52dcaa78cbc209b0b8b0b46453734c0bfdd6fefd042bcfce95e4d034fe0a6ea9
+FileChecksum: MD5: 4d8f208433677e7ba139d7d426b5e21c
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2018 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/decode.go
+SPDXID: SPDXRef-item4095570
+FileChecksum: SHA1: 22a0a8b40061e88f3e67fc37ab0a96bb70398fa1
+FileChecksum: SHA256: 6a1a8b2e090b7613f852d467a4cc5ab988975693126b4bfa3fe08dac46506b0c
+FileChecksum: MD5: c194f7190e4bf129e993b953106fe5d8
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2010 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/LICENSE
+SPDXID: SPDXRef-item4095541
+FileChecksum: SHA1: 06b27345acae9303e13dde9974d2b2e318b05989
+FileChecksum: SHA256: 3f571768c0ba2f330e5fee90de89bfe5141f48c1939be8008fa61461c30ca07f
+FileChecksum: MD5: 38be95f95200434dc208e2ee3dab5081
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2013, The GoGo Authors. All rights reserved.
+Copyright 2010 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/Makefile
+SPDXID: SPDXRef-item4095547
+FileChecksum: SHA1: ba08f4bdee36e989dbb8ef29684a3c07a3c5f353
+FileChecksum: SHA256: 6035dfe471f478b592286fc2199ff0c1a3976b5725ebab9079080329cc283b47
+FileChecksum: MD5: 1c089782d4946bf4b6009589585d71fc
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2010 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/text.go
+SPDXID: SPDXRef-item4095546
+FileChecksum: SHA1: 9ef5d47f6bbf7d7f6b20e874693eebec1ed81a84
+FileChecksum: SHA256: 442d64112335457d54a2a446f78c8dd1f44f998fa801705ffc14f599dc1a95be
+FileChecksum: MD5: 370d479657b51753eed3c73e48ba2e29
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2013, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+Copyright 2010 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/timestamp.go
+SPDXID: SPDXRef-item4095549
+FileChecksum: SHA1: 49143cc71b558dff08f8f1f2b8cdb80d0e650a4a
+FileChecksum: SHA256: d947e61565f0408c87a53067e87ed2c07464839252ab0eabf5292cef3120b62d
+FileChecksum: MD5: 66f3d6737eb47ab0b2c84d56372fdd75
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2016 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/equal.go
+SPDXID: SPDXRef-item4095550
+FileChecksum: SHA1: 5cb087fd9ce166103b91dbcf2cc80415d92e50d6
+FileChecksum: SHA256: 2a1478c9a9d8fb7c8e1d12de1e0aede2d875d7609beb847a5d42aab9444597e1
+FileChecksum: MD5: 174064bf6b5fe750f517e15292158e2e
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2011 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/table_unmarshal.go
+SPDXID: SPDXRef-item4095551
+FileChecksum: SHA1: f6d625a395732dca35c9111de9b0963fbdf8645e
+FileChecksum: SHA256: da0e36fa5418653168ca02024f06805eaf117c2b3c744c16f7c706f356a07d37
+FileChecksum: MD5: cf0b541b7e5c6f90cb042f7c92c97574
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2016 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/pointer_unsafe.go
+SPDXID: SPDXRef-item4095555
+FileChecksum: SHA1: cd1ae978694a0461cfa4618753e15abe51eb8e08
+FileChecksum: SHA256: 188390aa8e30ca45b24ee069af1a3c9ce6615e2d60f496b4565d478efc35d225
+FileChecksum: MD5: 7283e505ed760a1be5023c91ebaeaec3
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2012 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/properties.go
+SPDXID: SPDXRef-item4095558
+FileChecksum: SHA1: 4f8a214c9ff4b359458f9389441058c7c3e4264b
+FileChecksum: SHA256: c8b45d792ad897757ed8a810a633a3f6933a471ad91bf6ff739dfa464a6bd6fb
+FileChecksum: MD5: 566f780ee2a8bc3c42daefc9628ae66d
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2013, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+Copyright 2010 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/lib.go
+SPDXID: SPDXRef-item4095560
+FileChecksum: SHA1: 49f77c345a612018c2f1468a3380712d40741dca
+FileChecksum: SHA256: 494e3c3d08f7a752b75921ce9283e267ab6affad6f2e13945a19373f000c1980
+FileChecksum: MD5: 0e400b8a2ed83fcdfd33b1cda8663eb6
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2010 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/pointer_reflect.go
+SPDXID: SPDXRef-item4095562
+FileChecksum: SHA1: 07fadd6fda72f0c9ab4254b883dab399252fbe4a
+FileChecksum: SHA256: 849342d70a6cf2eb2cd2bc193ea5981d5a568636309e2c7126772545ca9481ed
+FileChecksum: MD5: 6ee088e6fe29666e0928c753646079bd
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2012 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/extensions.go
+SPDXID: SPDXRef-item4095563
+FileChecksum: SHA1: 5eb91c70036fe6c9179248307e66c7e774e92de2
+FileChecksum: SHA256: 5f9ccb874d9df495fe8560301847efa4dbb0de259f2b6abf246b6087001d42f9
+FileChecksum: MD5: e8f0db566e47507f12bf3dbeec2c15de
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2010 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/table_marshal.go
+SPDXID: SPDXRef-item4095565
+FileChecksum: SHA1: 497e41ad7a8c65e4144ea5370c8d0a4c4d88a671
+FileChecksum: SHA256: a6c1c4a7a5652b7bd11b694e2dc05ef408f3b4298d93ddf04c077538dfcad3a5
+FileChecksum: MD5: 6569b4a2a77d3e52ff574000a0e32638
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2016 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/encode.go
+SPDXID: SPDXRef-item4095568
+FileChecksum: SHA1: 58d81211eda79b4d8507d53426dacb6e4d8b4e22
+FileChecksum: SHA256: bafb773a2f8b66aae4f0fc8606bde3d0e607e2079c648cf9a07e92e66a0246e1
+FileChecksum: MD5: 734b6031ea4fd4a1bf9e750d0ad8c046
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2010 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/duration.go
+SPDXID: SPDXRef-item4095571
+FileChecksum: SHA1: fe2a87bf88908cdde5bc24c96e6f89bcc846f398
+FileChecksum: SHA256: 61e0bbf363d223400c122a3ad1c6034dd066faa827e7460ebcfaf08d4c6854ec
+FileChecksum: MD5: 8ae8e6dcb00e7c8b89cb6737b3c9c603
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2016 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/clone.go
+SPDXID: SPDXRef-item4095569
+FileChecksum: SHA1: 46a16513349147a5979e3fbfe4da035070594cf0
+FileChecksum: SHA256: f3f5c50cb55a68e0d39d3201b7d13932c7485715053d1a92b8caff3c691ae368
+FileChecksum: MD5: ac841cbc301b50aee915900178587cc8
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2011 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/discard.go
+SPDXID: SPDXRef-item4095577
+FileChecksum: SHA1: 34a3b3a090a8d7433f52b707500a9debf98906cd
+FileChecksum: SHA256: eb0602ddef5fc3fc4da5fb562ff9bb4e5ad88d92766dda9bdae47166a208a14c
+FileChecksum: MD5: 8c49b07eef7114e2d7d8c4dcea64d785
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2017 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/table_merge.go
+SPDXID: SPDXRef-item4095576
+FileChecksum: SHA1: 24ada5aca319d225a4a615d7645cf4173dda367f
+FileChecksum: SHA256: 7b8f35b7e0578ee36e1c39a4c74bed940a8442c60180f96ff3961aa9d5cbfdb9
+FileChecksum: MD5: 90bb4e01f66e9ee22fcdc3a537e29302
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2016 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/protoc-gen-gogo/descriptor/Makefile
+SPDXID: SPDXRef-item4095582
+FileChecksum: SHA1: 074bc4d19077690126be896996224c48f90f900a
+FileChecksum: SHA256: 6518cc19f9af646d63f886df803db2a259614e3fda650892ca8f2b7f7f60c528
+FileChecksum: MD5: 2377f9a9e60d4101f3060a9be4f05f05
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2010 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/protoc-gen-gogo/descriptor/descriptor.go
+SPDXID: SPDXRef-item4095583
+FileChecksum: SHA1: a5a748bbab562cce977dc91f25f4a3b04f6b3168
+FileChecksum: SHA256: 464ff59313bc949af595c4496476e2a1696d93324ec6beeed739f2388e1f5cea
+FileChecksum: MD5: 8f50c5211764a9771f45bb610537ca8a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2016 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/text_parser.go
+SPDXID: SPDXRef-item4095564
+FileChecksum: SHA1: cff75128536086f35806102abe72981346691ed4
+FileChecksum: SHA256: 2fa303871065e09ce8416304d163eebcdd31569b88072673193c75442f895151
+FileChecksum: MD5: 8a5d02536e3bc3c4755e84b9985d2c5a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2013, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+Copyright 2010 The Go Authors. All rights reserved. https://github.com/golang/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/gogoproto/gogo.proto
+SPDXID: SPDXRef-item4095587
+FileChecksum: SHA1: 4c0fa735ab710727c465ed1444dc6db1c748dc45
+FileChecksum: SHA256: f2f77edf7de807ded7884813d851656f4ccb18262db717a8f31061995f3e7324
+FileChecksum: MD5: 8437ec3099fd0428c9345dd583d306ab
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2013, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/wrappers_gogo.go
+SPDXID: SPDXRef-item4095545
+FileChecksum: SHA1: 2daf2bcec53bc5b29a508ad333bea7ac6c428d6e
+FileChecksum: SHA256: c429bfd1c5fc719c0dffaf0173728c2dc66598b8778b1104c996520850a1de5d
+FileChecksum: MD5: d60f543d43514263db56bc30b555d352
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2018, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/duration_gogo.go
+SPDXID: SPDXRef-item4095548
+FileChecksum: SHA1: aa0f742a855f39ccedac7419b9aefb2bb8ff31e5
+FileChecksum: SHA256: f3c124d8b46a11ee25c3778e402981a77a2ee32cc8a11dc6a0d6df1acb57d899
+FileChecksum: MD5: 982559d611965b060bbf7723f33589c2
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2016, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/text_gogo.go
+SPDXID: SPDXRef-item4095552
+FileChecksum: SHA1: 3bf42b8f07161db4a160c1ef9b075c051e73320d
+FileChecksum: SHA256: 4fd608203ae7daeaddc91ff50c8468b515cea0b9e91678c68548d45a2a09864a
+FileChecksum: MD5: 7d4450608e53b365a609b0c75975a554
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2013, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/extensions_gogo.go
+SPDXID: SPDXRef-item4095553
+FileChecksum: SHA1: 806a5c7a0e20a25d538ed4cfe3be5706154c5161
+FileChecksum: SHA256: 3f0192671db486dc5aa634e35416c8e7f8ea5482d0451298c0feaf85f20d9eb6
+FileChecksum: MD5: 9ecbc1d1c3000ea7cc91d3968f7ef885
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2013, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/timestamp_gogo.go
+SPDXID: SPDXRef-item4095554
+FileChecksum: SHA1: 13b31e9b01a01035a00c9469b6258d7e7a2f0d76
+FileChecksum: SHA256: 32455e43102917d91157d1bb00db27572850c68168b85cd2fe589787ee5b5830
+FileChecksum: MD5: ae0dc0a6ad6da9a94f97b96110550bdb
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2016, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/lib_gogo.go
+SPDXID: SPDXRef-item4095556
+FileChecksum: SHA1: ddd37d2a51d67ada1e0cc5b5a3d2be1012062b0e
+FileChecksum: SHA256: 2221bb240e3830868ff09cb7b471d823e4c6e2b1dd76b3c9da06db7fe7a74164
+FileChecksum: MD5: 7fc9a8bb9c54b8af88468a4272af8b11
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2013, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/properties_gogo.go
+SPDXID: SPDXRef-item4095557
+FileChecksum: SHA1: 61b1a7b7ab89844e16d56a08054066ebb16378d8
+FileChecksum: SHA256: 6d6e4cc540e9d84c46e6c63298d3d02c51569ae8726927205b1e7a3880473633
+FileChecksum: MD5: be32fbf3d8db5c332d0b35167332fa01
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2018, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/pointer_unsafe_gogo.go
+SPDXID: SPDXRef-item4095559
+FileChecksum: SHA1: 536881db92278a4a9ad73ce8f114582311d04240
+FileChecksum: SHA256: b3f3f39101332fb46c09a8af73786107c8a4ddc8c80c502c931b295887c6a76b
+FileChecksum: MD5: 2c828cd8e77ad09402f7bf4168ed1766
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2018, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/wrappers.go
+SPDXID: SPDXRef-item4095561
+FileChecksum: SHA1: a58c706036d8932daf6d3e9364ea6bf9c403f147
+FileChecksum: SHA256: 70f5289fa1c147e8a70c040611591c18f7864452de977cf9dc2cea7da5c2c4aa
+FileChecksum: MD5: d0ddddc6b1bf2acdbef3324098597086
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2018, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/pointer_reflect_gogo.go
+SPDXID: SPDXRef-item4095566
+FileChecksum: SHA1: 230296f7cfd046f9332033743d8223d13cf8851d
+FileChecksum: SHA256: f5fff497c8de304a2a37b737fe9b02e5bd533c005f16951df1242421b9816bb6
+FileChecksum: MD5: 1ab677ba181122d1ee1b35b4f5282646
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2018, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/encode_gogo.go
+SPDXID: SPDXRef-item4095567
+FileChecksum: SHA1: 0410663ac148f9debfb40ce66dfe3500873f837a
+FileChecksum: SHA256: 3396b76f8b3c31286308afd915bf85f4357ff88fa3cb500ab36431d59d3cd688
+FileChecksum: MD5: 48bb71968678985c8a598a8c340bcc61
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2013, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/table_marshal_gogo.go
+SPDXID: SPDXRef-item4095573
+FileChecksum: SHA1: e72b96824ae0de39a69191cb720ebcb490c8b3ff
+FileChecksum: SHA256: 3aeedbd73258dbe99336870e4a84a83ed9513671eca7de5d017187af2b231b5d
+FileChecksum: MD5: ca021e101afc7b4eb1d00569151d2574
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2018, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/skip_gogo.go
+SPDXID: SPDXRef-item4095574
+FileChecksum: SHA1: 0c185b8eccaedd4ea773cced6163a042b37468a5
+FileChecksum: SHA256: bb634f4bddf36a23a2b8c3d6f089eb8621b1e43c588582ad0217e16466d8c01c
+FileChecksum: MD5: db26f91dc14bf0184df4234422996b23
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2013, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/custom_gogo.go
+SPDXID: SPDXRef-item4095575
+FileChecksum: SHA1: baaf37a9245c41d0add423a7d6336c39d1997145
+FileChecksum: SHA256: 771b65c7e7e2d6189bb97e1af4417813a5c384e02aae17fa2a7b45ece2299b5b
+FileChecksum: MD5: f8923c05d81a739928aab41ce73a8a05
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2018, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/proto/table_unmarshal_gogo.go
+SPDXID: SPDXRef-item4095578
+FileChecksum: SHA1: 492cc6e35a681ef12490763526e0885bd92e833b
+FileChecksum: SHA256: c1c5dd9c507b6947845d4bfbfac7e32fb30cb0a9c6c0885980b67153526fbb8b
+FileChecksum: MD5: c9f30313102d27033a294de4538534f1
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2018, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/protoc-gen-gogo/descriptor/helper.go
+SPDXID: SPDXRef-item4095585
+FileChecksum: SHA1: 362cfe2c97c7cd13685f4e321ec5d9448dbb425f
+FileChecksum: SHA256: c8b36f8064562a8f01a6329e8c8aea82ab9e786200187dc0dc6a7c021de883c4
+FileChecksum: MD5: 20aa931c5982811a05e33fb8e64f8795
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2013, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/gogoproto/Makefile
+SPDXID: SPDXRef-item4095590
+FileChecksum: SHA1: 9252b59c00bade180144f060016325fd353ae692
+FileChecksum: SHA256: 4f9b1c541a41e72b6dc31052096d1aa39d4ad5e90746c4f90454c76336916ae4
+FileChecksum: MD5: 3f81318df1128c643393afd682389c77
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2013, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/gogoproto/doc.go
+SPDXID: SPDXRef-item4095589
+FileChecksum: SHA1: e6a12709d9a335be8d4ab1cf4a643b6dc542fc1b
+FileChecksum: SHA256: 4ab4a3256ad04ceab76188beeaf016ca554a734fc66c341d945e4ddf1abb9d61
+FileChecksum: MD5: 900f8e6c4aa63c57104a069e7a54c84d
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2013, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/gogoproto/helper.go
+SPDXID: SPDXRef-item4095591
+FileChecksum: SHA1: f4469914f28944bc9e8374afa446e5d02e6a83dd
+FileChecksum: SHA256: ccb5ad008fff90cfa48a8d0ea3bd123309f319424eb257fe47f9889e46be95d0
+FileChecksum: MD5: d67dc31f9207dc6bc9262c2598abe067
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2013, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/davecgh/go-spew/LICENSE
+SPDXID: SPDXRef-item4095653
+FileChecksum: SHA1: d2f340a01dd48b589a70f627cf7058c585a315e4
+FileChecksum: SHA256: 1b93a317849ee09d3d7e4f1d20c2b78ddb230b4becb12d7c224c927b9d470251
+FileChecksum: MD5: c06795ed54b2a35ebeeb543cd3a73e56
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+LicenseInfoInFile: 0BSD
+FileCopyrightText: <text> Copyright (c) 2012-2016 Dave Collins <dave@davec.name> </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/davecgh/go-spew/spew/config.go
+SPDXID: SPDXRef-item4095657
+FileChecksum: SHA1: 3a9695196e0c1238644d7c11ee4cb344d083f7c2
+FileChecksum: SHA256: 13338e0275c2acda68b73a755fe09677e9b878d090e01d700b1162e19bb1e66f
+FileChecksum: MD5: f5f15a2a0d3ed3ba2a09f5d17a98c708
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+LicenseInfoInFile: 0BSD
+FileCopyrightText: <text> Copyright (c) 2013-2016 Dave Collins <dave@davec.name> </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/davecgh/go-spew/spew/doc.go
+SPDXID: SPDXRef-item4095655
+FileChecksum: SHA1: 20bae7768ac7b526ec28505d878385c26b97f670
+FileChecksum: SHA256: b28885f61e7032d7996e1d4152a0fd3b508a23d7d14c1428400d7524081854e0
+FileChecksum: MD5: f87212c29173e0518e0e1661510ad432
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+LicenseInfoInFile: 0BSD
+FileCopyrightText: <text> Copyright (c) 2013-2016 Dave Collins <dave@davec.name> </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/davecgh/go-spew/spew/spew.go
+SPDXID: SPDXRef-item4095656
+FileChecksum: SHA1: c35553c6065c1544055b86098777138df8fd6ce0
+FileChecksum: SHA256: abb3ec05a83d6a4a9e82e57b860af6a0014eb89bc40f9d234b83cbf69cb132dc
+FileChecksum: MD5: 693a4dcf1126587e519763b10b5afd24
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+LicenseInfoInFile: 0BSD
+FileCopyrightText: <text> Copyright (c) 2013-2016 Dave Collins <dave@davec.name> </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/davecgh/go-spew/spew/dump.go
+SPDXID: SPDXRef-item4095658
+FileChecksum: SHA1: 661379759467e1e8c82ab76cb10476b6d203bd77
+FileChecksum: SHA256: 6d4be861a2b95e7cf5ee1be0258423e099643ca4702c6887040d696456c72d53
+FileChecksum: MD5: 5babb9a0dfe3b481e06e002af71f757f
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+LicenseInfoInFile: 0BSD
+FileCopyrightText: <text> Copyright (c) 2013-2016 Dave Collins <dave@davec.name> </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/davecgh/go-spew/spew/bypasssafe.go
+SPDXID: SPDXRef-item4095661
+FileChecksum: SHA1: 45d7a6f12546f60fbd919cc367796412c18dc8f9
+FileChecksum: SHA256: e031e1d2ecf569146b2e6680247f1214bff6096dd8b74fcaae42267bf43bf377
+FileChecksum: MD5: 9eaacf451fb0f393a355bb532e4a62aa
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+LicenseInfoInFile: 0BSD
+FileCopyrightText: <text> Copyright (c) 2015-2016 Dave Collins <dave@davec.name> </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/davecgh/go-spew/spew/bypass.go
+SPDXID: SPDXRef-item4095659
+FileChecksum: SHA1: 0777893f8371ed9a6359e0cc9f6874f58024764a
+FileChecksum: SHA256: 2703ee123fee0581e5d142d4e493cb83869a60bc2faa43502c2b5c448d5906f1
+FileChecksum: MD5: ee0e9590be8f80f8b8ecf448e60884be
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+LicenseInfoInFile: 0BSD
+FileCopyrightText: <text> Copyright (c) 2015-2016 Dave Collins <dave@davec.name> </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/davecgh/go-spew/spew/common.go
+SPDXID: SPDXRef-item4095660
+FileChecksum: SHA1: 242cf7f3fa56b9cea65bef91eb74fcd2545c8e05
+FileChecksum: SHA256: 722fed0447e461ce618e13f6f984908dcae8e28558df2b62c7a94ebe58aad950
+FileChecksum: MD5: e09cee4814f5423be42b6c6d1bf21306
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+LicenseInfoInFile: 0BSD
+FileCopyrightText: <text> Copyright (c) 2013-2016 Dave Collins <dave@davec.name> </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/davecgh/go-spew/spew/format.go
+SPDXID: SPDXRef-item4095662
+FileChecksum: SHA1: 0dd952c427f765242a18038a4f9ee4acabd283cb
+FileChecksum: SHA256: f2bb8777293f2600e1201ce81edc32647d5b33af97592fc01f1125b74f799cbd
+FileChecksum: MD5: 00605b6d46503e7f18e669cbc14bed07
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+LicenseInfoInFile: 0BSD
+FileCopyrightText: <text> Copyright (c) 2013-2016 Dave Collins <dave@davec.name> </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/btcsuite/btcd/LICENSE
+SPDXID: SPDXRef-item4095632
+FileChecksum: SHA1: ae9091fb7bf41e0b0b498d9e35e3c80da880e152
+FileChecksum: SHA256: 46021938caf87eeb92c841fd48777a3a7bf218341386611c4d080aa45812d1d2
+FileChecksum: MD5: e4b6951619599a143eb7cdc95c316df7
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+LicenseInfoInFile: 0BSD
+FileCopyrightText: <text> Copyright (c) 2013-2017 The btcsuite developers
+Copyright (c) 2015-2016 The Decred developers </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/btcsuite/btcd/chaincfg/chainhash/README.md
+SPDXID: SPDXRef-item4095649
+FileChecksum: SHA1: dd016099de45ac4f1f882fe12338a9ff2f4eceb7
+FileChecksum: SHA256: 9486d6b5472ea5b1c85e02d79b2c6c7d778560811a632fbe197556432b727d6a
+FileChecksum: MD5: c4073af2b85059f04e594643e18c466a
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/btcsuite/btcd/btcec/field.go
+SPDXID: SPDXRef-item4095636
+FileChecksum: SHA1: ce5d63a4ffe01b39f07b98038099031de9a76067
+FileChecksum: SHA256: 2c9435eb9a377c6ffd77567e43c5ed8d3f261e6d1c457d9742e339bfd36a9e4b
+FileChecksum: MD5: 402901495d6854ccfe55580fa26a1617
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: <text> Copyright (c) 2013-2016 The btcsuite developers
+Copyright (c) 2013-2016 Dave Collins Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/btcsuite/btcd/btcec/README.md
+SPDXID: SPDXRef-item4095642
+FileChecksum: SHA1: 00978a76efa793e35e304ae006349c8449140315
+FileChecksum: SHA256: cb7c1ee67d4c76a80cf067ee18de27fc73bade53f07918cfb0918436b0818c86
+FileChecksum: MD5: 2a8e72fd4eb79f2e15121c84cef67e3f
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/code.cloudfoundry.org/bytefmt/NOTICE
+SPDXID: SPDXRef-item4095461
+FileChecksum: SHA1: cdbdf55fe06502868b8987c5b03e5d4096467947
+FileChecksum: SHA256: 7158ca3ed9d0fd5f0714f0aef14236ea299f7015e87f43c3d3ca0ef73dbd3957
+FileChecksum: MD5: c375f08bb613bc75456fea8e7fef6eff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Other-subcomponents
+FileCopyrightText: <text> Copyright (c) 2015-Present CloudFoundry.org Foundation, Inc. All Rights Reserved.
+Copyright (c) 2013-2015 Pivotal Software, Inc. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/code.cloudfoundry.org/bytefmt/LICENSE
+SPDXID: SPDXRef-item4095460
+FileChecksum: SHA1: 58853eb8199b5afe72a73a25fd8cf8c94285174b
+FileChecksum: SHA256: 43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1
+FileChecksum: MD5: 2b42edef8fa55315f34f2370b4715ca9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/field.go
+SPDXID: SPDXRef-item4095347
+FileChecksum: SHA1: 9e557e11ed2a7af356961fca56bcffb5ab126315
+FileChecksum: SHA256: 3a32fcde2426ff9c2a220502a57eb0ae0eaa176ae9cc74995fa0d0cdee78aa7b
+FileChecksum: MD5: 3157a3c2b39de4a8461095d56f3bd202
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: <text> Copyright (c) 2013-2016 The btcsuite developers
+Copyright (c) 2013-2016 Dave Collins Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/doc.go
+SPDXID: SPDXRef-item4095346
+FileChecksum: SHA1: c710fec093e39f4b53df3de89f8e6155de266c44
+FileChecksum: SHA256: 3489a2c7618d9fb4c5d251a3e3b27fa8c5c67b6d1eaa33f48115125680a77617
+FileChecksum: MD5: 3f6a6b4d9b2d01fe94c7124a17110553
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2013-2014 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/btcsuite/btcd/btcec/doc.go
+SPDXID: SPDXRef-item4095635
+FileChecksum: SHA1: c710fec093e39f4b53df3de89f8e6155de266c44
+FileChecksum: SHA256: 3489a2c7618d9fb4c5d251a3e3b27fa8c5c67b6d1eaa33f48115125680a77617
+FileChecksum: MD5: 3f6a6b4d9b2d01fe94c7124a17110553
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2013-2014 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/ciphering.go
+SPDXID: SPDXRef-item4095345
+FileChecksum: SHA1: f80ee6cb797b30dd558a0295de7010dcd6151620
+FileChecksum: SHA256: 2da41a00a67991e70879e52e394db9973a9757e4b194e6058d93334ccbdbd6ac
+FileChecksum: MD5: 1665a59663b7732567d8a9b9edb65bcf
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2015-2016 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/btcsuite/btcd/btcec/ciphering.go
+SPDXID: SPDXRef-item4095634
+FileChecksum: SHA1: f80ee6cb797b30dd558a0295de7010dcd6151620
+FileChecksum: SHA256: 2da41a00a67991e70879e52e394db9973a9757e4b194e6058d93334ccbdbd6ac
+FileChecksum: MD5: 1665a59663b7732567d8a9b9edb65bcf
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2015-2016 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/gensecp256k1.go
+SPDXID: SPDXRef-item4095348
+FileChecksum: SHA1: 0652dbff97081b00e039c24db1ee72459e7a4ea1
+FileChecksum: SHA256: af0d2db2df60cf8734b1108466358cab359bf5ed87b096a0a17b7a625a3a2e1f
+FileChecksum: MD5: 4a9201c377a38abd4665209755bdaa4a
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2014-2015 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/btcsuite/btcd/btcec/gensecp256k1.go
+SPDXID: SPDXRef-item4095637
+FileChecksum: SHA1: 0652dbff97081b00e039c24db1ee72459e7a4ea1
+FileChecksum: SHA256: af0d2db2df60cf8734b1108466358cab359bf5ed87b096a0a17b7a625a3a2e1f
+FileChecksum: MD5: 4a9201c377a38abd4665209755bdaa4a
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2014-2015 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/precompute.go
+SPDXID: SPDXRef-item4095353
+FileChecksum: SHA1: c5cbb1a4cac978aaab866f90b256cd34128e9283
+FileChecksum: SHA256: a2c6baeb9bd32e2848670a39bbfbfea39e49214560878d36e2ab2314bc4ba148
+FileChecksum: MD5: f1e416a430eff6c4e32f1aa2b0571b1d
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright 2015 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/btcsuite/btcd/btcec/precompute.go
+SPDXID: SPDXRef-item4095639
+FileChecksum: SHA1: c5cbb1a4cac978aaab866f90b256cd34128e9283
+FileChecksum: SHA256: a2c6baeb9bd32e2848670a39bbfbfea39e49214560878d36e2ab2314bc4ba148
+FileChecksum: MD5: f1e416a430eff6c4e32f1aa2b0571b1d
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright 2015 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/signature.go
+SPDXID: SPDXRef-item4095355
+FileChecksum: SHA1: 69ab298c551426a41dc1e5bd06e9b26ad9382386
+FileChecksum: SHA256: 45435900a8f870618eacc94c36010fcad2159bdaefbdc5ae6b2e1be481445c57
+FileChecksum: MD5: 93a7b501d332a0f0e115250475a5f9aa
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2013-2017 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/privkey.go
+SPDXID: SPDXRef-item4095359
+FileChecksum: SHA1: dd95c29d0934cadfa1b954f13b34389e9b8add4c
+FileChecksum: SHA256: b324f5ed7948e580caf83a989b93163d48ef3bb0f8e6ba423a092403da5bf291
+FileChecksum: MD5: 1fdabcd8262212ac2ce3228bff443da9
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2013-2016 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/btcsuite/btcd/btcec/privkey.go
+SPDXID: SPDXRef-item4095641
+FileChecksum: SHA1: dd95c29d0934cadfa1b954f13b34389e9b8add4c
+FileChecksum: SHA256: b324f5ed7948e580caf83a989b93163d48ef3bb0f8e6ba423a092403da5bf291
+FileChecksum: MD5: 1fdabcd8262212ac2ce3228bff443da9
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2013-2016 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/genprecomps.go
+SPDXID: SPDXRef-item4095357
+FileChecksum: SHA1: 1c6e9de6211e2c2b731fb506d2444220acc53364
+FileChecksum: SHA256: 4c5a6d91b0fd32484ece601e32dd84e10375fca5f4f8c832ac4d0565c9e6af11
+FileChecksum: MD5: ebe72b79c1a27402221757556e4e615c
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright 2015 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file.
+Copyright (c) 2015 The btcsuite developers") fmt.Fprintln(fi, "// Use of this source code is governed by an ISC") fmt.Fprintln(fi, "// license that can be found in the LICENSE file.") fmt.Fprintln(fi) fmt.Fprintln(fi, "package btcec") fmt.Fprintln(fi) fmt.Fprintln(fi, "// Auto-generated file (see genprecomps.go)") fmt.Fprintln(fi, "// DO NOT EDIT") fmt.Fprintln(fi) fmt.Fprintf(fi, "var secp256k1BytePoints = %q\n", string(encoded)) </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/secp256k1.go
+SPDXID: SPDXRef-item4095351
+FileChecksum: SHA1: f3a57e71ef49c4a0760b4cb93a94c2df2272fd7b
+FileChecksum: SHA256: eac86ea4cd54708765883a546fdc106317a3b4e9fccb2a3040bcc343a5176b05
+FileChecksum: MD5: 23b1e8cf80fd4a96d129dd811adb30f3
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2015 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/btcsuite/btcd/btcec/secp256k1.go
+SPDXID: SPDXRef-item4095638
+FileChecksum: SHA1: f3a57e71ef49c4a0760b4cb93a94c2df2272fd7b
+FileChecksum: SHA256: eac86ea4cd54708765883a546fdc106317a3b4e9fccb2a3040bcc343a5176b05
+FileChecksum: MD5: 23b1e8cf80fd4a96d129dd811adb30f3
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2015 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/pubkey.go
+SPDXID: SPDXRef-item4095363
+FileChecksum: SHA1: 5f9bbe2f8f5ea2760ef8efd7207c66b976854c1d
+FileChecksum: SHA256: aaf81bb6fb6a6923d768b6977ff5c412d8d0ad91a1f0172f02fa4b1e3318f341
+FileChecksum: MD5: 3ae7c1e968c527a64e0d889962d31017
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2013-2014 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/btcsuite/btcd/btcec/pubkey.go
+SPDXID: SPDXRef-item4095643
+FileChecksum: SHA1: 5f9bbe2f8f5ea2760ef8efd7207c66b976854c1d
+FileChecksum: SHA256: aaf81bb6fb6a6923d768b6977ff5c412d8d0ad91a1f0172f02fa4b1e3318f341
+FileChecksum: MD5: 3ae7c1e968c527a64e0d889962d31017
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2013-2014 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/btcec.go
+SPDXID: SPDXRef-item4095364
+FileChecksum: SHA1: 1196440b4e283a1bb2e988f1515bf969f9112bec
+FileChecksum: SHA256: 49ced29f18f7413fe862d886d6e272809b4bef813693fb816ed33276fe6cd927
+FileChecksum: MD5: 5f255ad62462ba83cfa37ef02a0bb0b6
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright 2010 The Go Authors. All rights reserved.
+Copyright 2011 ThePiachu. All rights reserved.
+Copyright 2013-2014 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/pubkey_test.go
+SPDXID: SPDXRef-item4095352
+FileChecksum: SHA1: f9c594541929cd5944557364bda310f11a397a84
+FileChecksum: SHA256: 05dd1b3c1232d41237ef72617b608858d76c38c5bf5ec96573cce03924958edf
+FileChecksum: MD5: ce6c28314ff7f2db8315032f791271c9
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2013-2016 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/field_test.go
+SPDXID: SPDXRef-item4095349
+FileChecksum: SHA1: 7c9bfc929da66cec1436229630c3060e1630bc7c
+FileChecksum: SHA256: 2e8e952bb725189fa2614d470882150e82c20d9487168b128bc441930003c74f
+FileChecksum: MD5: 845a58ce46a4b51c92ca58ca92085a88
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2013-2016 The btcsuite developers
+Copyright (c) 2013-2016 Dave Collins Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/ciphering_test.go
+SPDXID: SPDXRef-item4095354
+FileChecksum: SHA1: c38d74fd94d86af2596c4be385741c279d2399aa
+FileChecksum: SHA256: 52c1a9fbfd0ad8440cf25299c19fb1b0a0020d37197dc8fd33dac2e7b79bb074
+FileChecksum: MD5: c613237040d10fe2145e756504ae7938
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2015-2016 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/signature_test.go
+SPDXID: SPDXRef-item4095356
+FileChecksum: SHA1: 02fdab4057a88c1ad98be0acd3de27cdfc80686b
+FileChecksum: SHA256: 7b1f9d4e432a26a512f8ce67c167e8d57e17d18d85503879e8fceae1833af395
+FileChecksum: MD5: 28156028b81db5096fff55a9150f4233
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2013-2017 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/privkey_test.go
+SPDXID: SPDXRef-item4095360
+FileChecksum: SHA1: 58b276e6b894df669287e7041370e92c78674bb6
+FileChecksum: SHA256: a5cdf69cd70342cd42b7e5ed5bb10e38ecee0886c42037561bb2e796c23d0a8e
+FileChecksum: MD5: f72e4dbe04ac0dbc28e43da1f0b0900b
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2013-2016 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/example_test.go
+SPDXID: SPDXRef-item4095358
+FileChecksum: SHA1: c4233cc1d5680de94b3b60ebf3558128b99362a8
+FileChecksum: SHA256: b6508dfcb1d1d9a2141f1d5fe884248c5ea5ee8f699cffd75254b648945c82ad
+FileChecksum: MD5: c5a628b591f8cb278aac593d19e84dd0
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2014 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/btcec_test.go
+SPDXID: SPDXRef-item4095362
+FileChecksum: SHA1: 567a4a43995a4cec3caa23734c260e94e6d333ab
+FileChecksum: SHA256: 4b49535145bff652b736b8a48b010d59ba752c28b2434892a799bf19bfd0c38b
+FileChecksum: MD5: 6f5bb80d0521d884a681215cab7c9cde
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright 2011 The Go Authors. All rights reserved.
+Copyright 2011 ThePiachu. All rights reserved.
+Copyright 2013-2016 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/btcsuite/btcd/btcec/signature.go
+SPDXID: SPDXRef-item4095640
+FileChecksum: SHA1: f0f6cba825ae2646d7781919bb98fbdc8b44de90
+FileChecksum: SHA256: e9694f0eb5a11a4106673f239fdc241c77357c0ecc87e55ab10632775cf67285
+FileChecksum: MD5: aa7dd6587ff4bdfbe562557a6482fe9a
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2013-2017 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/btcsuite/btcd/btcec/btcec.go
+SPDXID: SPDXRef-item4095644
+FileChecksum: SHA1: 43f171202ee1b36343cb650c98880e4523b69aa5
+FileChecksum: SHA256: 15fd78c95ce86d5832b8adc6bf73e527e5ccf91f2c7c6c9b82e7849207e578b6
+FileChecksum: MD5: 0b6715a233a367277d26df162823bb12
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright 2010 The Go Authors. All rights reserved.
+Copyright 2011 ThePiachu. All rights reserved.
+Copyright 2013-2014 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/btcsuite/btcd/chaincfg/chainhash/hashfuncs.go
+SPDXID: SPDXRef-item4095648
+FileChecksum: SHA1: 975ee983410e7b9ceb78de7a7d8cef68d95b6c7d
+FileChecksum: SHA256: 4a80e708a7e2cdecc578f8c5d091b856dc412fd46f447501fa79fdc61901be4a
+FileChecksum: MD5: 4095a2842b8d8d4bfc62534a8736efd3
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2015 The Decred developers
+Copyright (c) 2016-2017 The btcsuite developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/btcsuite/btcd/chaincfg/chainhash/hash.go
+SPDXID: SPDXRef-item4095650
+FileChecksum: SHA1: e3a730532b1bb284ba67d10249167cd22ba82b9a
+FileChecksum: SHA256: dd018a737d9e7bddaef86d3b1553cd9b5d0ba3381e7bf5d01968836f72193607
+FileChecksum: MD5: ce320ced47285c2d2e38b63c028c8833
+LicenseConcluded: ISC
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (c) 2013-2016 The btcsuite developers
+Copyright (c) 2015 The Decred developers Use of this source code is governed by an ISC license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/README.md
+SPDXID: SPDXRef-item4095361
+FileChecksum: SHA1: ab07da02174c9cd4c768729cb2905c48e9991184
+FileChecksum: SHA256: 5f747b801caf6f17cba65b8a8b5c40160819f2bc5e7574428df20eb84dd3e3e4
+FileChecksum: MD5: 3f63e7541d36b6080fd2cb41cb7ddb9b
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_gccgo_x86.c
+SPDXID: SPDXRef-item4095420
+FileChecksum: SHA1: 9645668bc8d5fa4451154fda121ccb53899e7de5
+FileChecksum: SHA256: 949fb3fb19310e131e4b9ace39546965dcfdef017b28edf65b92c714acd32e19
+FileChecksum: MD5: e0bc6706f149f0af949f31b78fa508a1
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2018 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/hwcap_linux.go
+SPDXID: SPDXRef-item4095408
+FileChecksum: SHA1: 27d4409b3a8d9c30c574fc5d8c7e217284e466b4
+FileChecksum: SHA256: d5dcac74c0407b4c33efc38a97dd3206c2e3cb74220c41d5612293c05147d224
+FileChecksum: MD5: 00875b04df26aec9a2001a82eeef4ae0
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/byteorder.go
+SPDXID: SPDXRef-item4095419
+FileChecksum: SHA1: dec9772b2de7bc68f6c3b70fec1d986bc07f7432
+FileChecksum: SHA256: 1f9d65ad6242dd55a0404ca2425e90afb19d754975c12b96fc0ec34d7775de68
+FileChecksum: MD5: 72c424862ee2e52c1b2d8a512e3d99af
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_linux_arm64.go
+SPDXID: SPDXRef-item4095403
+FileChecksum: SHA1: 6b05ec44440eec3c3f77785759a1f7f2ca894949
+FileChecksum: SHA256: 10489a511b2f6ebd7ca1e7a53d18cb20079f6c8c000ac9b45e3119578056eb5e
+FileChecksum: MD5: 844a01fc6dcf133ac1824858e651794a
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2018 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_linux_arm.go
+SPDXID: SPDXRef-item4095422
+FileChecksum: SHA1: cd589e7a1473399cfe42424883cb002d31b087ca
+FileChecksum: SHA256: 5c2f68fd8e53218eb96b8d67375564242a6bf825021a4ecbc8347af6f47898c0
+FileChecksum: MD5: dfa4fd04aa81a48316bf341f872bb405
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_arm.go
+SPDXID: SPDXRef-item4095429
+FileChecksum: SHA1: 8ab9f7ff69b0bfa106c3298aa4c0dd3c0e984024
+FileChecksum: SHA256: 23e6d65d2ba6bf988f6413643cb336b49b438b2b15659c0b22c2d0c63a25e3c0
+FileChecksum: MD5: e6dbafaff9112cff447a969f12c04eff
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2018 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_zos.go
+SPDXID: SPDXRef-item4095398
+FileChecksum: SHA1: 254daab81f12746300b3835d38689a6a13e4ff31
+FileChecksum: SHA256: ff82e534d4d81726e13f34919386becdcb65cb9fc24c0f5835314e00fe13070d
+FileChecksum: MD5: f56c0de271b61bcd29da88c95796b5fa
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2020 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_linux_s390x.go
+SPDXID: SPDXRef-item4095405
+FileChecksum: SHA1: 4d6880db2532087666a8283c140e35611f1f409d
+FileChecksum: SHA256: 290f658b0d8e7e9dd93d3b908cd202f13b3a4f228071d4211f4e1947050dbbcc
+FileChecksum: MD5: cba171250f2ae7823c6f05eea268ef25
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_netbsd_arm64.go
+SPDXID: SPDXRef-item4095400
+FileChecksum: SHA1: c33171852919c2637c939361b4c86ddb30364759
+FileChecksum: SHA256: b250e2406e45f0c972605266c3d67dd7a6ad614cb0fba5467d87facf62464436
+FileChecksum: MD5: 1dcdcebd484888e4e3f728664f67172a
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2020 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_zos_s390x.go
+SPDXID: SPDXRef-item4095425
+FileChecksum: SHA1: 8efc192731dbd97ee88586deea0bab750314b7e0
+FileChecksum: SHA256: 53b684a51586ff413570961780bea6526a6eab2568dce27c15efdf0d8e421d05
+FileChecksum: MD5: 5e07f432b17138e15cca555da7146863
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2020 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_arm64.go
+SPDXID: SPDXRef-item4095407
+FileChecksum: SHA1: 6cc1639e92d2cb209cee60c76bae7f9c7bda15d4
+FileChecksum: SHA256: a1dfd37bf4de2590a6036e710b3a882ad071461ae29b7eb4f3b7a61b56e3f5cd
+FileChecksum: MD5: e9d3d6bcf056c2fe53bd3c7a9a0daa9f
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_s390x.go
+SPDXID: SPDXRef-item4095411
+FileChecksum: SHA1: bf73d0290202b9f6ce91130cf15f57e9c2394383
+FileChecksum: SHA256: 0abc36c54a82044ad48a406a2828e522f24b70247c922a79330cf8f616debbef
+FileChecksum: MD5: 0a385b840205ae386823f5b74f0b8cce
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2020 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/asm_aix_ppc64.s
+SPDXID: SPDXRef-item4095424
+FileChecksum: SHA1: b5aedffab7aaff65235ef195265664985d0e84c0
+FileChecksum: SHA256: d765631c7522b12dd03ca56979b4ec98808bd6716de0f14990be0426d05803ed
+FileChecksum: MD5: 87f5ce1ca59b09046543ddba1a41626d
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2018 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_linux_mips64x.go
+SPDXID: SPDXRef-item4095396
+FileChecksum: SHA1: 8599dd3f99f8a93684c0faf603275dd81e84956d
+FileChecksum: SHA256: 4e1868c7b8c559216d83270606387e3a1e37077df234ab83b557e94c21787679
+FileChecksum: MD5: 6f72812157bfd529bdd3d3955a0b3b3f
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2020 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_gccgo_s390x.go
+SPDXID: SPDXRef-item4095397
+FileChecksum: SHA1: faf34c98686d0f5ba48bc42d6d807424cd1cf212
+FileChecksum: SHA256: bbcb4ec3818888437a1ff96d7dfdcaaba22871dcaa0bf126b42d8c3698266fb3
+FileChecksum: MD5: 4044b728e1c63f0cc7a147f66a57620b
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_linux_ppc64x.go
+SPDXID: SPDXRef-item4095399
+FileChecksum: SHA1: 74e712583349c7bdbab2251a900ef101b2e30cd0
+FileChecksum: SHA256: 526eda23317c491e2a2470f56d9e2bda1ba8a53be32d5f3979c41f4da8e5de77
+FileChecksum: MD5: ea610657ea1cad1216767f2be6141465
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2018 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_mipsx.go
+SPDXID: SPDXRef-item4095401
+FileChecksum: SHA1: 84128de899698995f1cfb841e30f8effc71a19ef
+FileChecksum: SHA256: bc56aa206b6534a17146c2c07c222dc7c30f5059385466e3f42ba80bcf6efc26
+FileChecksum: MD5: d734e66d1bbe8770d034c9aa62a7ed2f
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2018 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_gc_arm64.go
+SPDXID: SPDXRef-item4095404
+FileChecksum: SHA1: 4b92673b0c1aaee489d0b48221ce835b520d1710
+FileChecksum: SHA256: f2614b9ffe20c1020f347d68966f6e164b868f639ae244b218afe33b74055ac9
+FileChecksum: MD5: 9c21b99bedea5a65d399e805e6f242b4
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_other_arm64.go
+SPDXID: SPDXRef-item4095406
+FileChecksum: SHA1: c79852e076731bc8fa78e4c291da9dd05373e47a
+FileChecksum: SHA256: 46f5346e6f07fb6b82f38c91f4ffd2081c07a38908ebf5138e0ef562ba355bbf
+FileChecksum: MD5: 173827dca691ecb907ed41f5aa95f176
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_x86.s
+SPDXID: SPDXRef-item4095412
+FileChecksum: SHA1: ee115d50a91205ec649da64865ab1df613ded658
+FileChecksum: SHA256: e8566f2c8378c65a68a69d44e0962388fbe3ed0397a4c9c5d88475339a895d11
+FileChecksum: MD5: 45eb7db63cff405363fe5282ff93a756
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2018 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_linux_noinit.go
+SPDXID: SPDXRef-item4095409
+FileChecksum: SHA1: c50e9244c8f8db925567ad8bd31a8984e29d64c3
+FileChecksum: SHA256: 5285925217b9db7847bde382ac17cee2b54efc16d46961b7992b92b05f2bb066
+FileChecksum: MD5: afee27d5775b02b263c8284087908e7f
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_ppc64x.go
+SPDXID: SPDXRef-item4095410
+FileChecksum: SHA1: 6461e65113bf5410f63b17eacabd478dcbdee02e
+FileChecksum: SHA256: 43a55584a635e93a33c9310817a3a3d5e4d6b5b6bd11a676252344647f500ec7
+FileChecksum: MD5: 762b6ce0687cd0710435e69cbce5633a
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2020 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_s390x.s
+SPDXID: SPDXRef-item4095413
+FileChecksum: SHA1: 2fb927e1b45a7bbdcc4f0b7a944b4a4a7ade396a
+FileChecksum: SHA256: e83dc174b24b86a8c52882d74425b1ee5d2cd7b335ba38d4613c6f554c2c9781
+FileChecksum: MD5: 1a2f80ce3e79c55cdd82cd26bcefb6b1
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_arm64.s
+SPDXID: SPDXRef-item4095416
+FileChecksum: SHA1: e5cc0c1bc456bb6b243a30428c2f87049dcdfcf0
+FileChecksum: SHA256: ba4e745e6b5832b76262087c28bdd21171d29bcd607d0472356513d96ab59f8d
+FileChecksum: MD5: fd6106ab54cdba98e38c1e0bcb770a48
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_other_arm.go
+SPDXID: SPDXRef-item4095415
+FileChecksum: SHA1: 879834ce95d1502bb3d1f734a3add6168538ad73
+FileChecksum: SHA256: dad507086250d7e6207e23503be0c765361b1c29e819ae29e184873e8c1d5bb6
+FileChecksum: MD5: 5c2886901dd1a0beb540279aa60314d6
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2020 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_riscv64.go
+SPDXID: SPDXRef-item4095418
+FileChecksum: SHA1: 03f3e999bceec881fa131c84a27d6a859ca523fc
+FileChecksum: SHA256: 8b1506ed16bb80fa395fdd729e5413aab60fd9bd600dd5139f70d5b7c2d4894a
+FileChecksum: MD5: e25fd4838b9ce460c6f83efc60fb12fd
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/syscall_aix_ppc64_gc.go
+SPDXID: SPDXRef-item4095417
+FileChecksum: SHA1: 105fbc43bc679e4496b227261608e11dcdd0589c
+FileChecksum: SHA256: c5bd145560141c4532a79f5e4025108abdd4994d92bb410e22bb679ba1f33a0f
+FileChecksum: MD5: fed80498fc30bc29fb5ed54468e92867
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_other_mips64x.go
+SPDXID: SPDXRef-item4095423
+FileChecksum: SHA1: 5f048a97b6160ac23985a994df4ff50ecb405b79
+FileChecksum: SHA256: a467a8859327138ad319b475b2b630dae76e54edb0e09d5b900a40873167dac7
+FileChecksum: MD5: 306dabb2c7ee5ca456d19c0f69bf92e8
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2020 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_gc_s390x.go
+SPDXID: SPDXRef-item4095421
+FileChecksum: SHA1: c1db615600258c73308b39f15d4df315a6b47f0b
+FileChecksum: SHA256: 2eddc0ee062a58b26ff7238b75cbdff177d96011cfdb11145fa92d8b597ec435
+FileChecksum: MD5: 39db785be28b00ab954f42d33feb4974
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_gc_x86.go
+SPDXID: SPDXRef-item4095426
+FileChecksum: SHA1: 07b086d17ba1604202c7bbe8ff85b4365cf1b611
+FileChecksum: SHA256: e31e8b88a6ae49d17193c13a0d2a744b97853a4a4272cd605f5362a021720cda
+FileChecksum: MD5: f3d98991931b1c747db7733cb8b34b82
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2018 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_linux.go
+SPDXID: SPDXRef-item4095427
+FileChecksum: SHA1: 178da03c5ba6c4a55dae558c8252fed7639724ea
+FileChecksum: SHA256: 4c42d0ae48b0790ae2e0e8d8dd18d62adb64b19a1d2c5d5c34074188b2c0da20
+FileChecksum: MD5: a3b6008d33b90af548ec7dfd5dbbf8cb
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2018 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/syscall_aix_gccgo.go
+SPDXID: SPDXRef-item4095430
+FileChecksum: SHA1: ee3067151ee60fb61aca146a23f88efa49b6d245
+FileChecksum: SHA256: bd4253116cbcdca40e7993ffc32c9ae96d9c6a7caa4b42f1aa5fdb5b96baa99e
+FileChecksum: MD5: f15e7932cfa34485a1507b2f01e16381
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2020 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_mips64x.go
+SPDXID: SPDXRef-item4095431
+FileChecksum: SHA1: b9584bbc888c66cdca55951641b64484c2c1b713
+FileChecksum: SHA256: 973bf14ab28765908fb6c0afc1b07e73cd5c8a8039510aa6b9a63c1b5fa9bf26
+FileChecksum: MD5: 86562be0d80fc49f8a5ddb1395ed38a0
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2018 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_gccgo_arm64.go
+SPDXID: SPDXRef-item4095432
+FileChecksum: SHA1: c815e146559bbde0742a805a4a812a42b132ea82
+FileChecksum: SHA256: bcb9fcf6901156c3260290284e735e339491f9059c542b66b206782b37bb8860
+FileChecksum: MD5: 4289fcf652ebbff0d1e8c06abdef1057
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_wasm.go
+SPDXID: SPDXRef-item4095433
+FileChecksum: SHA1: 99f6638c2b722edc00bbbf0a50bc8638a0c0cf36
+FileChecksum: SHA256: c86bfe9bf3de2b5aa475043957361441843ab00c8cd801ab160aca63c89accd3
+FileChecksum: MD5: ea5ab528afe0326218626300abbcdf99
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_gccgo_x86.go
+SPDXID: SPDXRef-item4095402
+FileChecksum: SHA1: 343a527ef77367f15b7a42b430c1f91b5becdd6e
+FileChecksum: SHA256: dcfbc7549ef3c2b25b197937aa42799c6f45ecfb60938d87e37a83f13b04b1ab
+FileChecksum: MD5: 081e38a411a1c2b49f87b53b0e3c2d1f
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2018 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_aix.go
+SPDXID: SPDXRef-item4095414
+FileChecksum: SHA1: ba12c242dbb7141b4c91a775509d269c536763eb
+FileChecksum: SHA256: dab0d6a14959589ef404086741e9bc0028c2ff0772858fe68edfd7f66cf20a0c
+FileChecksum: MD5: df960e3d3086086402a9f45a8cdbcb19
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/blake2b/blake2x.go
+SPDXID: SPDXRef-item4095338
+FileChecksum: SHA1: 4c43078153106f9887f4a0d6ec6692b0a05e0ffe
+FileChecksum: SHA256: 0bbc2fbd298ee663cebf28716bd1946682e96abad982fc1a54e2396cb4ca596b
+FileChecksum: MD5: 2bdc4d800082a1ff440d75d2049da7e8
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2017 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/blake2b/register.go
+SPDXID: SPDXRef-item4095337
+FileChecksum: SHA1: 9f0fd8c880e0e907f1c0506c3d2e53e2ef81e9ce
+FileChecksum: SHA256: 3d4c355fdbdf646a375535fab5e28aae696e79e871c2b8431c93627dcbf9f2f0
+FileChecksum: MD5: 7c5e9022b03e32371bff24a89497b0ed
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2017 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu.go
+SPDXID: SPDXRef-item4095434
+FileChecksum: SHA1: c2a5c07033646f0b9d8f86b6ccf0c291ea0a7e59
+FileChecksum: SHA256: ad9b01ce114711f7b25fe0b2f663a1389ee35a206f649fd755609673cda5d046
+FileChecksum: MD5: 21a508171570dbb215aa695e195c47c4
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2018 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/cpu/cpu_x86.go
+SPDXID: SPDXRef-item4095428
+FileChecksum: SHA1: b81b0d2d77f8296a1f9583d8f37f64eabecc03c9
+FileChecksum: SHA256: 14b6adf13b7a269daae65810935cdae8fe88f0dd91df6b491a99eb49951f23be
+FileChecksum: MD5: 831f42ca430617633e79a48ebbc6c13b
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2018 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/blake2b/blake2b_amd64.s
+SPDXID: SPDXRef-item4095334
+FileChecksum: SHA1: 85de0e58ca15ca2e83682eaca1b1df1567e7142d
+FileChecksum: SHA256: f774dfc289440cc553f0cdf518c5af2cee6011c5dd9ae9c5351f3c141ce27f0a
+FileChecksum: MD5: 4c6b5392f886e592ad566fd7c04ecddd
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2016 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/blake2b/blake2bAVX2_amd64.go
+SPDXID: SPDXRef-item4095333
+FileChecksum: SHA1: 3d1e8dc3ab5d746d7ab2111d804c1d7afa95ff6e
+FileChecksum: SHA256: 66c80501969afdb80eed83384bb4aae216a288203a0302713757d5582113c46a
+FileChecksum: MD5: 15d4fa74d35ebcec616469b1a4698dfa
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2016 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/blake2b/blake2b_amd64.go
+SPDXID: SPDXRef-item4095335
+FileChecksum: SHA1: 16945603c9903013cad693096b2928c5cdb7a8a2
+FileChecksum: SHA256: 7871b43fef81bba75e045b5d3f68b4125e2cabea62eeaf26f3a75be05e5c0147
+FileChecksum: MD5: 0a9346bf34fe00024449fa6f2a9a88c7
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2016 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/blake2b/blake2b_ref.go
+SPDXID: SPDXRef-item4095336
+FileChecksum: SHA1: d97119187a53c4f9c319a22f387edb7dd9a13775
+FileChecksum: SHA256: b7b0fffd977677325fe8e902d4eb53559c8f46c1b3d530630983f797fba34916
+FileChecksum: MD5: dfbda4202ff74d4a1514460df6373a0e
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2016 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/blake2b/blake2bAVX2_amd64.s
+SPDXID: SPDXRef-item4095343
+FileChecksum: SHA1: f831d8071b3218ee736ce1095e3d43d82014c895
+FileChecksum: SHA256: 6944d1fece055dd07a9afbad9f339939859017084b107de98dea9a7e56ccb217
+FileChecksum: MD5: bc5d57e02cb81cd88f0e8c1b513d3ce8
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2016 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/blake2b/blake2b_test.go
+SPDXID: SPDXRef-item4095339
+FileChecksum: SHA1: 00590270d4a43056f7d3b33f5a72df35a11d5111
+FileChecksum: SHA256: 593b42e3fe0219b51659c3118b3264f3e62be8c7e485c49fede38d968613ae47
+FileChecksum: MD5: fd023b90dc06fb087d27d25f04ed7edc
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2016 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/blake2b/blake2b_generic.go
+SPDXID: SPDXRef-item4095341
+FileChecksum: SHA1: 658c4feef24072f37dd016514143a11ade8caff7
+FileChecksum: SHA256: 5b92879e3765f1386baecf9dc55a297c533b9694e909b1088043701ab19b236e
+FileChecksum: MD5: 7e905523e0b0fa39c39b6cc0c12cd2ab
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2016 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/blake2b/blake2b.go
+SPDXID: SPDXRef-item4095342
+FileChecksum: SHA1: a0778e68b2ee2ee2de219fd44a0ace0d41738ea9
+FileChecksum: SHA256: 0541f477937baed5606acc3f4478669e75e0726e7d1850b14843581a51ce307b
+FileChecksum: MD5: be484891e3f2d9063b1cdf3827a54db1
+LicenseConcluded: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2016 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/protogen.sh
+SPDXID: SPDXRef-item4095312
+FileChecksum: SHA1: 4caa54e41d2369ce831285f725c66716ceb1410c
+FileChecksum: SHA256: cb2d944f7101820da92b929522642ce0c3fddc466349fe75d228ff4dc658170a
+FileChecksum: MD5: 30de2f6f22240c3c563782f3a07b551a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/doc.go
+SPDXID: SPDXRef-item4095313
+FileChecksum: SHA1: 95c7462cd17e6051005dd7811b60fad00eafe4b9
+FileChecksum: SHA256: 198f9c4464f44a526f4b784cfaf35e64d2104141433aed605ed44eac44134a27
+FileChecksum: MD5: 15baed2c98e0382227fe693cd8bb1aa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/docs/BDLS-FLOWCHART.pdf/BDLS-FLOWCHART
+SPDXID: SPDXRef-item4095317
+FileChecksum: SHA1: c80c3a2b069aac7818b41d48cd242246f28717cf
+FileChecksum: SHA256: 010cc25cafa8b7e5d490241fdda4ec4905c99f211999c9323317d2ddb3660752
+FileChecksum: MD5: f6628b9491f4dfcada1490ee95060171
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © sperax </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/agent-tcp/doc.go
+SPDXID: SPDXRef-item4095320
+FileChecksum: SHA1: e253d81cf690417c4199ababfb65ca5ee1234306
+FileChecksum: SHA256: 85fc6e2448cbd3f3c91ba5f870cfefde58172687c754f406a2eff9b7b8928aab
+FileChecksum: MD5: 4c8ab16a2799ba8d9d9b64eb3ad3c58a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/agent-tcp/ecdh.go
+SPDXID: SPDXRef-item4095321
+FileChecksum: SHA1: 833174a01103f36bafe6ee32f6de2dc486fd5f76
+FileChecksum: SHA256: e847d40154c7fbd1eda1463e5a9ce95541a2880817ec86b9338c6449de05f885
+FileChecksum: MD5: a1822ec893cec8cd62e7c28138adc18f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/agent-tcp/ecdh_test.go
+SPDXID: SPDXRef-item4095322
+FileChecksum: SHA1: c1a6fab7860a247827531ec6aa361f35498c59cc
+FileChecksum: SHA256: ab1b9dbd5d32dbea623dc65ae0f329d48b06a5150ae4924e817e39687c8804ef
+FileChecksum: MD5: c0683b1c888273f12d9249fa8bb28344
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/agent-tcp/errors.go
+SPDXID: SPDXRef-item4095323
+FileChecksum: SHA1: 5996c9bfb5676278557fd92b7d3c6ed6b8e64943
+FileChecksum: SHA256: 8ec0a86f2f8c47df8f1510b17390bdc09142ac7e0d269907f45b1e74d8a7b9d7
+FileChecksum: MD5: cf1b4f80f37ba789fb4b9d2ec7c4e736
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/agent-tcp/gossip.proto
+SPDXID: SPDXRef-item4095324
+FileChecksum: SHA1: d656c50dfa78642a8e7a8c537ac5775d86ccd90c
+FileChecksum: SHA256: c01a1c6a417b8a4dcce18b32208fb502f26b935f10d38ef87e5d0394e6683698
+FileChecksum: MD5: c47cc172cec43f16a1f0726c322d9525
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/agent-tcp/tcp_peer_test.go
+SPDXID: SPDXRef-item4095325
+FileChecksum: SHA1: 01a4014ad0d456ed2df8dd8ec962393ccb595587
+FileChecksum: SHA256: f03503ae16bda967e454f34b9080217bb076b76d76b96014e4f91204ba52280f
+FileChecksum: MD5: 60baced4c08212c0d745b258ac651df8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/agent-tcp/tcp_peer.go
+SPDXID: SPDXRef-item4095326
+FileChecksum: SHA1: 174c8e405e725caafbeb25144c68989726816953
+FileChecksum: SHA256: 08d9be4cf2d92804065a78f6288214a5395809e5a4dbaa9af1225abcb1d43197
+FileChecksum: MD5: 2797a1e8b27512ccb6db400163f1a04c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/agent-tcp/gossip.pb.go
+SPDXID: SPDXRef-item4095327
+FileChecksum: SHA1: 5cc469f1987d979906dbd1c39d947454a7bfc6a2
+FileChecksum: SHA256: 6b437057961206aa6fb9902e25bf513078ed3fa22f8a70cac60bfe6ce841aae4
+FileChecksum: MD5: d4581d0142d2eaafa8d161abeae1a140
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/CONTRIBUTING.md
+SPDXID: SPDXRef-item4095328
+FileChecksum: SHA1: 78d80270269d75fc3a733649a51c9dbfdfc9ca52
+FileChecksum: SHA256: 9cfedb42346948d5bf94b7198c5263e05bf80d5d3836ba6173bec9aabb46beab
+FileChecksum: MD5: 98af9079b7e153575124691e6e5cd45f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/consensus_test.go
+SPDXID: SPDXRef-item4095329
+FileChecksum: SHA1: 4505811381df8077608042821b3a38805500ef5f
+FileChecksum: SHA256: 2c06add37169b9d405e906f9ab57a99d3a2eac9773e10d435f57da38e6a72879
+FileChecksum: MD5: 2dffb2b5c0b6a881776f8a2be5fd609b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/blake2b/blake2b_f_test.go
+SPDXID: SPDXRef-item4095332
+FileChecksum: SHA1: 30b7725c6dcbda217de156de194b7df59feff645
+FileChecksum: SHA256: 416d066f7399ebd8a93385c4acb5189a1b37cc2c2f2e6be2be9722a92f59bf51
+FileChecksum: MD5: f0c7e8861fef0ffc970fb9ca388d1981
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/blake2b/blake2b_f_fuzz.go
+SPDXID: SPDXRef-item4095340
+FileChecksum: SHA1: e4b258fee93bac4d2edf9f4f926588a403a421b3
+FileChecksum: SHA256: b03c04f99c3e28078b5a85422bd575f37518e0a7b90f1dd62cca8ee27812a882
+FileChecksum: MD5: a6c32e4a9e66129c7f7c82474cc05203
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/crypto/btcec/bench_test.go
+SPDXID: SPDXRef-item4095350
+FileChecksum: SHA1: ad2cf530cfe7e89738124217514512edbb7f4a1f
+FileChecksum: SHA256: 5e4b6ec6ba0440d581b6f911e064f90bcd91d3b3a2329abcb94d45eb9edfd774
+FileChecksum: MD5: 07bb63778b652e96e768fddfe956c9e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/config.go
+SPDXID: SPDXRef-item4095365
+FileChecksum: SHA1: c757ecd99ff34f4cd8944ee9c4d0a4a4ce2ed11b
+FileChecksum: SHA256: a29c2ab8f303e28b64d57f491c7adcdbfde442613a51748a5406f7688ab8eea6
+FileChecksum: MD5: 6b949ed356acbf308ee1329ebb62ee99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/.gitignore
+SPDXID: SPDXRef-item4095366
+FileChecksum: SHA1: bb79b2d139a10f1b68caf939262c544041d5a025
+FileChecksum: SHA256: cf2a2b05d81405d542d4a4ee5d889511404d55201825742ff06ca05e393a14e3
+FileChecksum: MD5: fe4d80ff7848f622c5cd0fee4d57d2eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/cmd/emucon/quorum.json
+SPDXID: SPDXRef-item4095369
+FileChecksum: SHA1: 2d9ae30df94cff586a8ecd74f00db9afe20a9de8
+FileChecksum: SHA256: 4f47668c17a00fb504a84a791c2d4a4a8bde9d26a3d2d839fe5165f0b6dff79b
+FileChecksum: MD5: c35293ab968b407f53fd9410f08513f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/cmd/emucon/peers.json
+SPDXID: SPDXRef-item4095370
+FileChecksum: SHA1: 2b2cabcbaeafbd446cc800170a4472922ecf4719
+FileChecksum: SHA256: d948ee09e52813b0400d40b31ad0e5ca91211b97e6be5737f5fd926c706d51d1
+FileChecksum: MD5: 345e812d083e9139e1d57ab30a0f1c3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/cmd/emucon/emucon
+SPDXID: SPDXRef-item4095371
+FileChecksum: SHA1: e1845a1d05e71bca84b813952525ade92d96b729
+FileChecksum: SHA256: d47d99910a0d8c9e7907f48e6d28a424325dbd46ffd392455b88c9f964123f0b
+FileChecksum: MD5: 41b4e52995c219741b9000b7b39a539b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/cmd/emucon/README.md
+SPDXID: SPDXRef-item4095372
+FileChecksum: SHA1: 01a33715197dea5668739f76cc54960d8b4a3388
+FileChecksum: SHA256: f8aa95c2627dedec850476760a6c45efe1b74e67c9404e230c4eed0aba1dc19d
+FileChecksum: MD5: aea5735cf683003f4e1f49df4a2632c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/cmd/emucon/main.go
+SPDXID: SPDXRef-item4095373
+FileChecksum: SHA1: 2480dcba7af6b05575c11bead6ae31cbe93b223f
+FileChecksum: SHA256: bc674f61ef984ce598ad8aa324f39aac0c61f7f21d3b1556b838adcf5609d59b
+FileChecksum: MD5: de0c3c20f99765028fa30541dc4fadbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/message.pb.go
+SPDXID: SPDXRef-item4095374
+FileChecksum: SHA1: 8a94564518ff626f15800bb057ab37597c29c274
+FileChecksum: SHA256: 31e2c2fde3edc406e4aff3c8b3322ccf33811bd93778a34e93dcd2c18c8992ac
+FileChecksum: MD5: 8ea2d0844f29eeaf7264e1827ddb0c52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/config_test.go
+SPDXID: SPDXRef-item4095375
+FileChecksum: SHA1: 61b000f4156aeb88ed3ceabdd499a6f5c72fa89f
+FileChecksum: SHA256: 209fb26328f8e8eea51fe17ad3e275a5c066b9ca916e7b45d2d648b85f2293ff
+FileChecksum: MD5: 84e6ba8b5176e2352608d728b559c2c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/go.mod
+SPDXID: SPDXRef-item4095376
+FileChecksum: SHA1: 7887171e017467aaa26e00c17aa34da434088d41
+FileChecksum: SHA256: 4280a34f90dd332bc064e31e24148227efc56f654f094ad17acf4afa99d937cf
+FileChecksum: MD5: 9c3e7dd3c56dcb434a4fa69e7e7fdac3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/benchmarks/PI4-OVERLOAD.TXT
+SPDXID: SPDXRef-item4095378
+FileChecksum: SHA1: 9ccd591a7f449757fbdc114234b8f6a61620e7c3
+FileChecksum: SHA256: 31551c713931c567a8fdec5052a3bdd71f0fd609c52403250c036937418ef4ef
+FileChecksum: MD5: 973068e52f347f6e250c0ebb7d51dedb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/benchmarks/AMD-NORMAL.TXT
+SPDXID: SPDXRef-item4095379
+FileChecksum: SHA1: 3e097a207f49f52d8732e460a86c8be9b4223a81
+FileChecksum: SHA256: fc61a9376b041de6667afc1e8a1c8d07a35eb95d5da518136b6c7d5100597f30
+FileChecksum: MD5: bcdb66facb35f2a324dfbe83982af376
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/.gitattributes
+SPDXID: SPDXRef-item4095380
+FileChecksum: SHA1: ba3dfe345280bdcc5e817bb02cf49b8b8d8e1c4c
+FileChecksum: SHA256: 1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b
+FileChecksum: MD5: 05bdb783ee6514c8c072e47680af8ff7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/errors.go
+SPDXID: SPDXRef-item4095381
+FileChecksum: SHA1: f7f1fbc63a18e3b5c9720d1601cd111a27705c94
+FileChecksum: SHA256: b738ba9367cc5638cbc78f483fe8339a951396b9a5412cfeefdd858695b745d5
+FileChecksum: MD5: 1319b71bbd3c0a2fe40ab4148ea523ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/message.go
+SPDXID: SPDXRef-item4095382
+FileChecksum: SHA1: cc1c8c2534663fb94f360df3062c9737e602b891
+FileChecksum: SHA256: e86f11e44585f01261e8d777560a2d77d5aa887d6c97759ba95f40f500083991
+FileChecksum: MD5: 1df64e8c4e3d55a45a082c00590d9cb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/peer.go
+SPDXID: SPDXRef-item4095383
+FileChecksum: SHA1: 3480c862b927a0a4a83dea5bfaab0a6320c9ded7
+FileChecksum: SHA256: cb182cea9029a2f962e6d61e63454d5af7c73d4746b03586c066570141bc3898
+FileChecksum: MD5: f05187439698a4bc419f76e01f5cf986
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/consensus.go
+SPDXID: SPDXRef-item4095384
+FileChecksum: SHA1: e8e54ad0257f344a5ff711ad24b07050db402ab0
+FileChecksum: SHA256: f14413dec1345dc7f178597d6fecea8fb6c8ed6b1e61212bfabeab6c12c677d7
+FileChecksum: MD5: 819373812f7eefee61be71d49330fc44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/timer/timedsched.go
+SPDXID: SPDXRef-item4095386
+FileChecksum: SHA1: 154ccbd79e20f31b796171abf4ff2d250eea3cd1
+FileChecksum: SHA256: f598e19f7ecbba0b30de02e086b6e8fc7ca0f16b6aa006704bd85de0b3988e94
+FileChecksum: MD5: 7e051e701e0d0fa2b7d2c3a769c5a416
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/README.md
+SPDXID: SPDXRef-item4095387
+FileChecksum: SHA1: 0db80ce10b90771e6ee54fcec480e1ab90ab78a1
+FileChecksum: SHA256: 12a58b8690a5d80f74575547c9299504956665a2babc39ec94d28d297a913aa5
+FileChecksum: MD5: 320825c4b52b8b961214aed0cf9a1c99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/go.sum
+SPDXID: SPDXRef-item4095388
+FileChecksum: SHA1: 3a56f4ac9a94b59da1e678b4332a019b408eecbb
+FileChecksum: SHA256: 513a34b303f5b082b4e87499a92f64e6e700c02c99494fca39a0c3469ea77853
+FileChecksum: MD5: ffcb0db11c31cf81f28cde4ad59856dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/message_test.go
+SPDXID: SPDXRef-item4095389
+FileChecksum: SHA1: 550bb420f59542d03c2fd9826b371a08e7e2dd15
+FileChecksum: SHA256: a5b0c8613b1837ef7159127e0cbba486195b4e5a9cad95fe1ba2d43884401b65
+FileChecksum: MD5: 234674f9c035a07b7d89340dcda6b4bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/modules.txt
+SPDXID: SPDXRef-item4095391
+FileChecksum: SHA1: af37cc407a923c1ed6eb5186e86b93a53a57f71b
+FileChecksum: SHA256: b2b583611ec8b595510066f099104454385f16cb7e4d7651ad07c71328554edc
+FileChecksum: MD5: 1d06c1e89ae31487c53a622bf8bff740
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/AUTHORS
+SPDXID: SPDXRef-item4095436
+FileChecksum: SHA1: 4c4b3b81193d555e75fb0fb443ec48dce29f9b68
+FileChecksum: SHA256: b82446c166daa6932dc33418961ed7a7f06c5a9fee17e9d214e16079e3442757
+FileChecksum: MD5: 6e6605503566e38b8b8f3721b3f236dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright purposes. The master list of authors is in the main Go distribution, visible at http://tip.golang.org/AUTHORS. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/golang.org/x/sys/CONTRIBUTORS
+SPDXID: SPDXRef-item4095438
+FileChecksum: SHA1: f09740ff46df61de932b77cb283fea09c8849292
+FileChecksum: SHA256: 9a8de5acb21b2911cc799e14f943b8974b281f503637cf92aeee4f01aa568e03
+FileChecksum: MD5: 6d847c415c1a12b419f4c410b3c43a44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/gopkg.in/yaml.v3/.travis.yml
+SPDXID: SPDXRef-item4095448
+FileChecksum: SHA1: b495ebf835a77363f449027b8194c7ba12878861
+FileChecksum: SHA256: 07fc813ad0261f52b1b3ff46ee03ef5357dfdc4151cc53de880d5537e189c076
+FileChecksum: MD5: 60602c3a979e5e96000e8c0120ba2ad7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/gopkg.in/yaml.v3/README.md
+SPDXID: SPDXRef-item4095452
+FileChecksum: SHA1: a00af90a9ff0e1b7ec90b4d375432340245a0953
+FileChecksum: SHA256: f9e5f315e32751d29512482b3ba6417b5a0b3808e9ace434286096072b428fab
+FileChecksum: MD5: 7295047e8b32bd3c792199a8b976c398
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/code.cloudfoundry.org/bytefmt/README.md
+SPDXID: SPDXRef-item4095462
+FileChecksum: SHA1: 41df6163cc8b141aace50181564f41c690d9f2a6
+FileChecksum: SHA256: 87193038eabd8b1cd78789b368d187199fc2f48f0c6e706d0eb15f1e75e4f070
+FileChecksum: MD5: dbf3654204548950ce6178722af5a621
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/code.cloudfoundry.org/bytefmt/package.go
+SPDXID: SPDXRef-item4095463
+FileChecksum: SHA1: 43b16358ab9df0352eb8e3e2ab37241ab7eb4892
+FileChecksum: SHA256: ce8e76d8767ef26125ae2ce4890ecaf6862249ca580dd3015f2d3449c214d5d7
+FileChecksum: MD5: cf2a0b8b2c3ba3ae00d5ad49acb76db4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/code.cloudfoundry.org/bytefmt/bytes.go
+SPDXID: SPDXRef-item4095464
+FileChecksum: SHA1: 8c3ef1f8b2b9aab91b7b77fa419f2f4472ed79e0
+FileChecksum: SHA256: a68bc756ac998eeb5d35ed5dd2acee71aef35e9c99133e1f092abb0a9b5031a8
+FileChecksum: MD5: d1a0bdfe7e03a3e00340e6e062d6b0fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/olekukonko/tablewriter/.gitignore
+SPDXID: SPDXRef-item4095470
+FileChecksum: SHA1: 82f321658043f0091ecaad9748bc4eee2883e7a6
+FileChecksum: SHA256: 4f85ff9bf24c2c3f9891ace3356f1e834109d155743e742a405351cf3798e5d5
+FileChecksum: MD5: c76d06d21fff482063f9340de5d1ffad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/olekukonko/tablewriter/.travis.yml
+SPDXID: SPDXRef-item4095471
+FileChecksum: SHA1: 978de7f60e4d18d2990dc82d7c3b4fef56062890
+FileChecksum: SHA256: 98f335a06333e03fe3b101233053c9045b6c42ca2b13486db23fe2e61c89412a
+FileChecksum: MD5: 63db4133c746208e7326d8423c466de0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/olekukonko/tablewriter/README.md
+SPDXID: SPDXRef-item4095474
+FileChecksum: SHA1: 99d2ccf2f98204fc1889bd085967ee5ffda5e69c
+FileChecksum: SHA256: 8b488eda35229e2220d50053111df8701e6958b5e4820ba1fb0dca3998300a14
+FileChecksum: MD5: 4535681db4b84e8e6157e924d3158fb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/olekukonko/tablewriter/table_with_color.go
+SPDXID: SPDXRef-item4095476
+FileChecksum: SHA1: f5c05eb10a1383bbef5a43bb39e0eb0ac1bdd171
+FileChecksum: SHA256: c8bc5231443ce3ac7065b218529f94b3e3a5c118b91c3841d9c9498232e2def9
+FileChecksum: MD5: ff0de95d424f9d383fa15800e0244b9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/context.go
+SPDXID: SPDXRef-item4095480
+FileChecksum: SHA1: 916d9b55bfdc4a7905d80e5410d8f66b583e66f9
+FileChecksum: SHA256: cfa432b5f582bd264115c2b1d39c1b1126bde53b0570f0e69403255fc7893724
+FileChecksum: MD5: 913ee7cc45878cfe244a28df3bc118ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/flag_int64.go
+SPDXID: SPDXRef-item4095481
+FileChecksum: SHA1: 76be0d907da9063be2308df0ae3eb68eec171d3f
+FileChecksum: SHA256: cd099646a2e0ee0d9175f81cbd1ad9e6e2b974c179fa43359235e95e6930f946
+FileChecksum: MD5: 35a40e46658bd19a9b8525d585c7ad4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/command.go
+SPDXID: SPDXRef-item4095482
+FileChecksum: SHA1: 175a1720763d0cc603e56a813f05ad4521df0c37
+FileChecksum: SHA256: 37c6274889b15e54c07e2a923a20db03b6a870507e481043a2d2d8c355086313
+FileChecksum: MD5: f35be9b6a80a0a835c2bda2782f1d144
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/flag_string.go
+SPDXID: SPDXRef-item4095483
+FileChecksum: SHA1: 22c0845cc6f73fd34dadc4091a0f6e13811940d4
+FileChecksum: SHA256: d5685e054c4d8c3e0253f7b504e0e40e447fc1a0832bef24577f20c66f5dd66a
+FileChecksum: MD5: 0d4625a8992a729523e3a3927510db60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item4095484
+FileChecksum: SHA1: 88795f1027cf6e260186e4ceea8c537327f046a1
+FileChecksum: SHA256: b1fc6369443651ab350b1229fb4f943d494698fcdb17569d11fffa04eb29d55a
+FileChecksum: MD5: 9238aef3887ced5fd55ed2900ea0d98f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/flag_uint64.go
+SPDXID: SPDXRef-item4095485
+FileChecksum: SHA1: e683f0d3d76ad63deeed6d497f4d6b93d8b07e68
+FileChecksum: SHA256: c2a8937e7f5d264d085c4ea0cb03513f25359b3ddb20775ae978bc0341e60bf4
+FileChecksum: MD5: ebc886fdba04d3e3d28c7d45affadba9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/cli.go
+SPDXID: SPDXRef-item4095486
+FileChecksum: SHA1: 591f6e88b54d32000647e621eda50d27b8d4b306
+FileChecksum: SHA256: be38ab3dcf8a6afe43ba99c636dbadad41880563d6d0d5a82ad8ab3fb7f84c3c
+FileChecksum: MD5: 072f8b1aabe316aed63605821f41c996
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/app.go
+SPDXID: SPDXRef-item4095487
+FileChecksum: SHA1: b78cc63e6c38259590073ad6719736e0bebc7cce
+FileChecksum: SHA256: 1afe6b9d373470f603373dcf4e99f949966dfc813885f9224722bd5763ddbb7c
+FileChecksum: MD5: c8fa8f2b24bbe100036402e0456dc811
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright of the binary if any
+Copyright string Reader reader to write input to (useful for tests) Reader io.Reader Writer writer to write output to Writer io.Writer ErrWriter writes error output ErrWriter io.Writer ExitErrHandler processes any error encountered while running an App before it is returned to the caller. If no function is provided, HandleExitCoder is used as the default behavior. ExitErrHandler ExitErrHandlerFunc Other custom info Metadata map[string]interface{} Carries a function which returns app specific info. ExtraInfo func() map[string]string CustomAppHelpTemplate the text template for app help topic. cli.go uses text/template to render templates. You can render custom help text by setting this variable. CustomAppHelpTemplate string Boolean to enable short-option handling so user can combine several single-character bool arguments into one i.e. foobar -o -v -> foobar -ov UseShortOptionHandling bool </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/flag_string_slice.go
+SPDXID: SPDXRef-item4095488
+FileChecksum: SHA1: f2bc0d0a3c427771300310f4f9b812787ebefdd6
+FileChecksum: SHA256: 2cd99966f514e4633016393d6631e2af817a06487ef73647306017d76688e0e7
+FileChecksum: MD5: 3de1b6535ffc42051dc52317260bc343
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/funcs.go
+SPDXID: SPDXRef-item4095489
+FileChecksum: SHA1: ccc7d18d16fc85b7d023f23e9f6da0b507805593
+FileChecksum: SHA256: 9bcad94caeb33f29f17f553455a92631c3e90463041c5db4f6f1d31650dd9169
+FileChecksum: MD5: 056547f3b19858917e53d7e02cae22ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/flag_int64_slice.go
+SPDXID: SPDXRef-item4095491
+FileChecksum: SHA1: 1c8b691a1db9b4827e5f4ab482cbe1a9eaa1806c
+FileChecksum: SHA256: 6fb36981c092a906422f4933607bdda702e8fc0d6119b2c83a04d0cfae3fa577
+FileChecksum: MD5: 9d1f2e8eaeaea8b1619ffb5cfc93ea20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/category.go
+SPDXID: SPDXRef-item4095492
+FileChecksum: SHA1: 848d3ad87b4a38b734fc8c3bf53b07936fc401a9
+FileChecksum: SHA256: 5c1ab3b254a658514446e012bd02a0de4c0db76fe4b2e9cee9fd5ebbfccb7d2f
+FileChecksum: MD5: acc2b3c3989c1c35d3dccfda3c87e785
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/template.go
+SPDXID: SPDXRef-item4095493
+FileChecksum: SHA1: 35b5d20abc05d69c915f7d05abb0b32346a3b0fe
+FileChecksum: SHA256: bc76d5ca8596c68fb90ff347adc30af78965f197454baa7f9c8144ac8a5464ff
+FileChecksum: MD5: e294b1ec8a4c4a63030be418fe10bf6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright}}
+COPYRIGHT:
+Copyright}}{{end}} </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/flag_duration.go
+SPDXID: SPDXRef-item4095494
+FileChecksum: SHA1: 697a90b10c2225f1e86d0a2ab5fde2e3f897d113
+FileChecksum: SHA256: 0cd2887b47506fc2f4d22cc9042ad99ce1c057a01b4435163a98eed5961a83cd
+FileChecksum: MD5: dd2c5497e18ecbe38a2fc3abf59ec908
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/help.go
+SPDXID: SPDXRef-item4095495
+FileChecksum: SHA1: dc34bbe1817b98a3e72bd63974b89932f2ed6e06
+FileChecksum: SHA256: f891f39c14b64d481c2d82e01d100c1c0b173185a150003603f24e8f573ca763
+FileChecksum: MD5: 000de0fd83ccc37a1af645f12d0a85c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/flag_float64_slice.go
+SPDXID: SPDXRef-item4095496
+FileChecksum: SHA1: 50e1324ff020a7e080fd0241466c4e982bde8767
+FileChecksum: SHA256: f5eb7bc023870763ced9c28246c15d5cb4d0aafb79a9559fd4fa0bd4281c638d
+FileChecksum: MD5: 9a61e51261ccdb3aaf3d2031a58215f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/flag_timestamp.go
+SPDXID: SPDXRef-item4095497
+FileChecksum: SHA1: 74b9cabb93ecddc18277e412ca2de42f9a8b7984
+FileChecksum: SHA256: a02d94f91eb945a18bdbd9cee0b97347ee460d52f9bb7f123d06308a0e92dd57
+FileChecksum: MD5: 0958eb2feedbb6c5a185ed69bbe1922c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/flag_path.go
+SPDXID: SPDXRef-item4095498
+FileChecksum: SHA1: df568fd82d331c8402a275bd7eac9412169284d6
+FileChecksum: SHA256: c561eeb173acfed3f5cc47b4eddae826f22f7c0d5cec61f66c9d2995a2031235
+FileChecksum: MD5: c2be323f1bb1c803b3827c04599bca24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/.flake8
+SPDXID: SPDXRef-item4095499
+FileChecksum: SHA1: 7be5107e6f29bac4419606d14324cebc1aec15a2
+FileChecksum: SHA256: 3f34541f2182989bdf7473542c7ef393157510eb0060863b67f1f1ce324f46db
+FileChecksum: MD5: 8e8f81519f61a47f823221005a3ad013
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/args.go
+SPDXID: SPDXRef-item4095500
+FileChecksum: SHA1: 8b6595e58f9d2af72d4bc402fae6db8eb55cdabc
+FileChecksum: SHA256: cf820ff6354d5d166e9b1ec86c90e555e25bc5969f112d497fefcfe8f2cd2eda
+FileChecksum: MD5: bc0f6a575c5a956139d02c9449d1142f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/sort.go
+SPDXID: SPDXRef-item4095501
+FileChecksum: SHA1: bf2dcdf080ccc296842b74aaa764f8628918a30d
+FileChecksum: SHA256: ff2263c00f11f59db67ee44d841100b273a76b9d7a17de3eeb67c6d94d72383f
+FileChecksum: MD5: 3852a65e65567f63bb2e87a10d6c7ef4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/.gitignore
+SPDXID: SPDXRef-item4095502
+FileChecksum: SHA1: 0bc259e53e8c32dceb160f88b06663c1bcb60632
+FileChecksum: SHA256: 3efa7f576c46549a6ae617158add62fc36457549568a62a2265a8f120127b551
+FileChecksum: MD5: f5923d718ae5fe8aad60603902f88acd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/flag_bool.go
+SPDXID: SPDXRef-item4095503
+FileChecksum: SHA1: 4806841f5a5b477a23481610688b6271460d6646
+FileChecksum: SHA256: b40fd8205f1291021adc2a386c053c1f5abc0c8e25c96727d814bcb89e2d44e3
+FileChecksum: MD5: aea504ba066708f94ba62a3f460e5a59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/flag_int_slice.go
+SPDXID: SPDXRef-item4095504
+FileChecksum: SHA1: a51e61d8d5b3a186e18c041e0a1b66015f3aad7e
+FileChecksum: SHA256: 74f18e271eea462303fbe73584f6665c77cf1f5a656721ad093bd4b5c4c053bc
+FileChecksum: MD5: e47a5492f46234b2d3f2bc07c5261d00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/flag_generic.go
+SPDXID: SPDXRef-item4095505
+FileChecksum: SHA1: bfdd1aa5296032fe0005680e64533d1ab877c652
+FileChecksum: SHA256: 5a8f4530dbb2fd02a3f834bbbeab1e122ac04ea2841517246d9468e1ee465c1e
+FileChecksum: MD5: 03f3129365e67e9b2e944c150881bfaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/flag_float64.go
+SPDXID: SPDXRef-item4095506
+FileChecksum: SHA1: 05c9c0d56eeafda475c078ed19732ff580942124
+FileChecksum: SHA256: cdb1c0395bb6565c49a9e857ee54ca352c48e51605448db30cef4c35865fa2f6
+FileChecksum: MD5: 142856be57ee522d2b4648df47c5159c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/errors.go
+SPDXID: SPDXRef-item4095507
+FileChecksum: SHA1: 611cccf76ae9240fa76aaa9a70266f0c12689dcc
+FileChecksum: SHA256: 0c3c3ed60e2eab63b0e2b8ef0beb9422b4291212324c644ebd6c84487aa14580
+FileChecksum: MD5: 10c52b8c4ba5b222822b568ca1d07a11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/flag.go
+SPDXID: SPDXRef-item4095508
+FileChecksum: SHA1: b5926b8fa88911a53140e1b668d1f4f9b14f20cc
+FileChecksum: SHA256: 70094a7c8e4d72dbf109d015a65d2eb7de4021a9e7b1e43bd64cedd4e4886cfa
+FileChecksum: MD5: 2aad91cdabd042deb9c343b83406a0ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/fish.go
+SPDXID: SPDXRef-item4095509
+FileChecksum: SHA1: af05701597e3ba9bf63727af1b3592f681692716
+FileChecksum: SHA256: ca3b50b9c0b515c841eb3033438e3fdf09bad649da54ccea562110c66a48ac98
+FileChecksum: MD5: cd7f62408b05a390fe7838388d2af025
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/README.md
+SPDXID: SPDXRef-item4095510
+FileChecksum: SHA1: fae92567fbaa7e93f738626b30b8becf63ce1cbf
+FileChecksum: SHA256: a5fb638a0d8c65f266bf354487b98685c2f6b58906ec9e57b291071b25b32e7d
+FileChecksum: MD5: e364c45372905389bb5f2f48e0ee7200
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/flag_uint.go
+SPDXID: SPDXRef-item4095511
+FileChecksum: SHA1: 922b95c4ef4210a11a76f408162b31056e6bffe8
+FileChecksum: SHA256: b8bf86869a762a7901330fa9c2847e55d23200a89b46a293c2c74aaf2fbf8551
+FileChecksum: MD5: 00de643c1f8742719dd9ef6a17a268c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/parse.go
+SPDXID: SPDXRef-item4095512
+FileChecksum: SHA1: 8d7803fa64b01598b13400e15303e9c8f8617164
+FileChecksum: SHA256: 3614bad5adbf0b3ff9c1a7f86fb0ed9ad0fe83d2be8d0045ee92386abafc4c3a
+FileChecksum: MD5: a60d5b83fb4aabe0ad83ab15ef7b1b01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/docs.go
+SPDXID: SPDXRef-item4095513
+FileChecksum: SHA1: b0f3d4294ad2cccaf9dd4ce074db2af11e906991
+FileChecksum: SHA256: 039260d1b94885b3377404f91a65622d53769939216338902ee3a517e94c6faa
+FileChecksum: MD5: cdc63609e02bc852fdc6ff7c74482ffc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/urfave/cli/v2/flag_int.go
+SPDXID: SPDXRef-item4095514
+FileChecksum: SHA1: f03b2e64ea76b944cd51a8f9494cc783ec19f7dc
+FileChecksum: SHA256: f76782a856f36c09fe7c2b101d7653f69d2ecc4b45aac385fc395fb007dafcac
+FileChecksum: MD5: 600d1405bbb05f93c02a51d9a449714d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/cpuguy83/go-md2man/v2/md2man/md2man.go
+SPDXID: SPDXRef-item4095520
+FileChecksum: SHA1: 820c9f5dfaf410d22e4aace7df80852cbf44c054
+FileChecksum: SHA256: e3bf6cb3e236c2c1d59ceb858d80495f8d23b1c1ef15dda0325d21cc235d6919
+FileChecksum: MD5: 3c80501ecb4cf5a5963ecf818fbbb79e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/cpuguy83/go-md2man/v2/md2man/roff.go
+SPDXID: SPDXRef-item4095521
+FileChecksum: SHA1: 960b1e5670908eef0888553807c8fb5b6e80cb72
+FileChecksum: SHA256: 7d02e7b94c98e936c396acb171e03d8e4852c044889b8129f0e28559224d0fd3
+FileChecksum: MD5: e98195dd7913c835a55e59f60496cf1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/mattn/go-runewidth/runewidth.go
+SPDXID: SPDXRef-item4095525
+FileChecksum: SHA1: 05befab6aa90b5ab932b602a1e21f806d038e00a
+FileChecksum: SHA256: cfd0cbf6be1872f0732ea27e333db2d28d738e7a01113e705c9d5e0de33c404f
+FileChecksum: MD5: ca8fac0699525b179d525d5f40db0491
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/mattn/go-runewidth/runewidth_appengine.go
+SPDXID: SPDXRef-item4095526
+FileChecksum: SHA1: 41b744b5d0a43ae80dc724f0e8430b64aeddf0f5
+FileChecksum: SHA256: 68a91deb158295352ec0c1dbbc19466b3cb428b2af34b388dab9ddfd42689f7a
+FileChecksum: MD5: 8a490953488cfb9d44db5196474d4125
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/mattn/go-runewidth/go.test.sh
+SPDXID: SPDXRef-item4095527
+FileChecksum: SHA1: c42ea9a06a458cc417214e0299a8f4d456d589ae
+FileChecksum: SHA256: 827af55d528924cbeb7f0702b91148bcd9d1707160718ba6d13efa8ad863b821
+FileChecksum: MD5: bb103d1324a4538682a5d4752cfc7b69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/mattn/go-runewidth/runewidth_table.go
+SPDXID: SPDXRef-item4095528
+FileChecksum: SHA1: 7b72b73cfc5861638320060bd30bb38d2a50de09
+FileChecksum: SHA256: f8f5e2b96474af88a38703a256da70cf13656c4c835c8798669622a0c5eb53b8
+FileChecksum: MD5: 3e7721128bf4e443136de62f81e64f7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/mattn/go-runewidth/.travis.yml
+SPDXID: SPDXRef-item4095529
+FileChecksum: SHA1: 922dc838b591963e82da3e5cff2bea71e39c3b69
+FileChecksum: SHA256: c402be05e39d4ce97924d44d2976598cd2050ace6303e05aa9804e3f76c6016e
+FileChecksum: MD5: a62a4c0c7ff68cc866ee157a28c1325f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/mattn/go-runewidth/runewidth_js.go
+SPDXID: SPDXRef-item4095530
+FileChecksum: SHA1: e231921d56e67b5cac3c64f06f8b3a2af2f9adb0
+FileChecksum: SHA256: 12c97468e98c320beb9685af633dd42d34a7cafb088252e49374d5c35e2953d7
+FileChecksum: MD5: 77cda571e31a8468e4fda91132fda571
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/mattn/go-runewidth/runewidth_windows.go
+SPDXID: SPDXRef-item4095531
+FileChecksum: SHA1: a466da255eb269a68fe07b67c164c012c69a039b
+FileChecksum: SHA256: 5bae5625bfe7bc7b475d17faca57da58f836c66fbf203fe531ce27e230cbc210
+FileChecksum: MD5: d81ee99218db1f75490b6464610478e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/mattn/go-runewidth/runewidth_posix.go
+SPDXID: SPDXRef-item4095533
+FileChecksum: SHA1: bcd68805d75e5f39442d4edf1be20ff3e6b70e85
+FileChecksum: SHA256: 16b54b46bc8745894edc896b2cd238c0e3d51dab964f960c60f900d00890afcf
+FileChecksum: MD5: 988adde8741342b2a8cd879edce7e39e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/pmezard/go-difflib/difflib/difflib.go
+SPDXID: SPDXRef-item4095538
+FileChecksum: SHA1: 58c465e9f3012f0ded413d3d283e5cb25fee784f
+FileChecksum: SHA256: 8a3e1b4596a360a9b6e34c1152b56a8a8887f7ab666479f6556980e43147718b
+FileChecksum: MD5: 3fbf6cc1ee143e1ced9374ee0ac3c349
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/AUTHORS
+SPDXID: SPDXRef-item4095542
+FileChecksum: SHA1: 243d3f4a3f9e7cd38d8d2714634eef4445bc120f
+FileChecksum: SHA256: 9911f8d2709636251fe7770b5d76a84c1c81e1a7d69205228b5a0a1c1d824ee6
+FileChecksum: MD5: ff959e152f36a64998f7c61e50d0a2b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright purposes. This file is distinct from the CONTRIBUTORS file, which lists people. For example, employees are listed in CONTRIBUTORS,
+copyright. </text>
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/protoc-gen-gogo/descriptor/descriptor.pb.go
+SPDXID: SPDXRef-item4095581
+FileChecksum: SHA1: 20964d9556e4eda5f185e4c5ca42fa872611485e
+FileChecksum: SHA256: fa01340d1ec222c85ba30b83fab3ae6236396897e0727ec6dd8e0e86e1649cac
+FileChecksum: MD5: 763ef606743b582a1ff315ebcd35a281
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/protoc-gen-gogo/descriptor/descriptor_gostring.gen.go
+SPDXID: SPDXRef-item4095584
+FileChecksum: SHA1: ba2ba8ccee10b39992126332a098f59b5b7ba9d0
+FileChecksum: SHA256: 8ff702e6e06f11f9b16adc07470c8c7bdefb2ad1820ef071770971eaf71390b2
+FileChecksum: MD5: 8bdf9f035303f625b1c8f397439acabd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/gogoproto/gogo.pb.golden
+SPDXID: SPDXRef-item4095588
+FileChecksum: SHA1: 307f3549e662e9f35ca950984887566cb5a95555
+FileChecksum: SHA256: deb242af75ad17f5d83324779d8cbe18565e6a39890b6125b57c04b2dd83fcf8
+FileChecksum: MD5: 7fbff1a6c73878360a1a05e178379012
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/gogoproto/gogo.pb.go
+SPDXID: SPDXRef-item4095592
+FileChecksum: SHA1: f11888ae2455b8dd4fcdea7da01fd0c1635512a1
+FileChecksum: SHA256: fb298ce77f3838915588cd506621c7ab7fb46c07169dbb40a2811cb2f2a84fe9
+FileChecksum: MD5: bf1dd6039afe3e4d6661c2cf3e8edf1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/gogo/protobuf/CONTRIBUTORS
+SPDXID: SPDXRef-item4095593
+FileChecksum: SHA1: 38c51b23f194085c28dad982ec11f9974e1aaa86
+FileChecksum: SHA256: 3a435dccff74f880f8dfcd19a6efe17ea2feac6eb5606b3dcee0bba36d0a1843
+FileChecksum: MD5: 2a2831224cdb1b4b3b3b39951679ec0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/stretchr/testify/assert/forward_assertions.go
+SPDXID: SPDXRef-item4095598
+FileChecksum: SHA1: 69991478091c417df246402594665937ead7b4d7
+FileChecksum: SHA256: f171cf6c9c97917b0b2ae267395a6e8150fc05e1d4d201e1435c6344eaf52976
+FileChecksum: MD5: 7603f3cc60e53e18dd9162801fd64714
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/stretchr/testify/assert/doc.go
+SPDXID: SPDXRef-item4095599
+FileChecksum: SHA1: d93e88a89480c226afb37c28539ce596cd3c17b3
+FileChecksum: SHA256: 9fa6d4bc639fcd536e9d937729480c68c46a6e69ba6d6c74c1418f7dcdfca265
+FileChecksum: MD5: 1f7638c4d550bebe098046b693e8a749
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/stretchr/testify/assert/assertion_forward.go.tmpl
+SPDXID: SPDXRef-item4095600
+FileChecksum: SHA1: fb5be5b0e39e4bfd5d0c71c783302b14fbb02905
+FileChecksum: SHA256: 2654f4ce9a794c6766f939a5b0084856d18b91e6af9f7a8c19e8c6bd7d37422a
+FileChecksum: MD5: 1919f52191b090698fd546a2aa3d3608
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/stretchr/testify/assert/assertion_format.go
+SPDXID: SPDXRef-item4095601
+FileChecksum: SHA1: 131214f34f3b8762d9a739491078bcff02f4fce3
+FileChecksum: SHA256: 0837a5dfa2e698728b915ad330f5abb381bd8f4c3176bb69154392ea7f948f43
+FileChecksum: MD5: c25e969057761cfef0030d9b85fd13c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/stretchr/testify/assert/assertion_order.go
+SPDXID: SPDXRef-item4095602
+FileChecksum: SHA1: c59d9f18829535b883a22289187bf049ec3761b9
+FileChecksum: SHA256: 9387b2eec9832fc3fec45b71fca43f50323184e2778431fd907f75b16b1fc102
+FileChecksum: MD5: 5e3fd546efbdd41b42ae090227627aa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/stretchr/testify/assert/assertions.go
+SPDXID: SPDXRef-item4095603
+FileChecksum: SHA1: d3fe84c99079442d6dac84d924e48e4dcc927981
+FileChecksum: SHA256: 1f5ec0298228ae727711d03ee5bff2ddf5353f3f033460b56ffd0f578ce8a32b
+FileChecksum: MD5: c04119faaad6fdc7195b4d784d00e682
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/stretchr/testify/assert/assertion_compare.go
+SPDXID: SPDXRef-item4095604
+FileChecksum: SHA1: 1fa08d3f84ec7022a1f962d6233c5b22b9e4d8a7
+FileChecksum: SHA256: 6384babb20b94bf35e74fc82ea86ee08b28850712b4786156b071011047d7b64
+FileChecksum: MD5: b3745947d050360bd610ba871a33cf35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/stretchr/testify/assert/assertion_forward.go
+SPDXID: SPDXRef-item4095605
+FileChecksum: SHA1: 3ef6e105d6db150baf73ce372b86a12f32d50655
+FileChecksum: SHA256: 390c99f465aaa9b5973e37779f09e968733263a30e6cfdac930bd4517618022c
+FileChecksum: MD5: 14c0acf50bece46bfe8e1d5949c68f3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/stretchr/testify/assert/errors.go
+SPDXID: SPDXRef-item4095606
+FileChecksum: SHA1: 94c6a0f57483be1bdcc284aa566cd08e612bf74e
+FileChecksum: SHA256: c64312fb0f855b8ea991766bbbe6ad62464c9cf763fefda8a28f2b17db967436
+FileChecksum: MD5: 78faa69f8808a3f8f2211fba1ced092b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/stretchr/testify/assert/http_assertions.go
+SPDXID: SPDXRef-item4095607
+FileChecksum: SHA1: e731c756fe9f8d21d78168aef370da4783535f5f
+FileChecksum: SHA256: deeb1b88f5f426ae04eda915cd8cb90027cc48fdcc52ac185f302c3a61ecc18c
+FileChecksum: MD5: 3507bd5048e73941436be8805b78a81b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/stretchr/testify/assert/assertion_format.go.tmpl
+SPDXID: SPDXRef-item4095608
+FileChecksum: SHA1: 8b8cb0dd57930804ee0095079d67c6e88e81b33b
+FileChecksum: SHA256: 80fce224d7df2f3caa52626ceccf79bd45d1f0eb34f94a48d070d0807ded192e
+FileChecksum: MD5: 9980ba0fae650ed575d2a58198a577ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/shurcooL/sanitized_anchor_name/.travis.yml
+SPDXID: SPDXRef-item4095612
+FileChecksum: SHA1: 0ebb99255de4ebbb2b795189342b00622ca91ad1
+FileChecksum: SHA256: 4531623c5bf27a0699136e6054df5a968c76ce635571c10c6c91c09c42fe472e
+FileChecksum: MD5: fc956280a7a08a226d2bab844853d435
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/shurcooL/sanitized_anchor_name/main.go
+SPDXID: SPDXRef-item4095614
+FileChecksum: SHA1: cc11905d233465dc9e82a603f1196145f333065e
+FileChecksum: SHA256: 74942a2629a08cacfdb0ed39fc210aecb49fc998af79e9a38db114ab23bd083e
+FileChecksum: MD5: 5fcb0054569cf9cd5fb12056dedea3b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/russross/blackfriday/v2/doc.go
+SPDXID: SPDXRef-item4095618
+FileChecksum: SHA1: 1eacca38901964ddd72dc263de02c538926fa7aa
+FileChecksum: SHA256: 251f0ab48cb0bf023d1a5cfdea69a7302576ec9b2818aa0066774527e74e9caa
+FileChecksum: MD5: b5929cb293f49cc2c3f96a64cf7c8b12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/russross/blackfriday/v2/node.go
+SPDXID: SPDXRef-item4095619
+FileChecksum: SHA1: bbc559b02e676269d60052255eee1dc437c44b6d
+FileChecksum: SHA256: 5df7d0e338bb1285115cdd2cae3490dac19399800e7246eb5368f5b44e469210
+FileChecksum: MD5: 22c4728f5406aaea1f90ac16864d2105
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/russross/blackfriday/v2/.gitignore
+SPDXID: SPDXRef-item4095621
+FileChecksum: SHA1: 88f0220dd81bba9c597819f7a3fda5de7c10d41d
+FileChecksum: SHA256: 8da5fc3980127eefa559a107a208306eb297e65a72cb68ade0ada359ce4dd9e0
+FileChecksum: MD5: cf106c3f2ca591f5d496e629a91df368
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/russross/blackfriday/v2/.travis.yml
+SPDXID: SPDXRef-item4095625
+FileChecksum: SHA1: b96e5c5fc302e1197d274f5566a4fac3550fd616
+FileChecksum: SHA256: 0cec9ba92acf4e575f2ec7e94aead9b5e3296beec24069c1a6cc15ce27193f70
+FileChecksum: MD5: 626dc798e8bcebfb14204f21b5307122
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/russross/blackfriday/v2/esc.go
+SPDXID: SPDXRef-item4095629
+FileChecksum: SHA1: 4da048af4b0010fd83692be2e872229b2cb9a055
+FileChecksum: SHA256: fdb2645cf5d26105ade39dafa90c27cd64386786cb5bb7a9457868ccb5f0dad2
+FileChecksum: MD5: ae10ca932a453d4cd4ad145050671156
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/vendor/github.com/btcsuite/btcd/chaincfg/chainhash/doc.go
+SPDXID: SPDXRef-item4095647
+FileChecksum: SHA1: 0e987fc8e1394b74e9c861793fbe7b35c690d0f5
+FileChecksum: SHA256: 81766e6d181510863d4e68b461b83760d67e7e9c8a91fdb636d52c585e266135
+FileChecksum: MD5: a382fa56194b875f96db6a948becf67d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/message.proto
+SPDXID: SPDXRef-item4095663
+FileChecksum: SHA1: 303604bd53a97ac59f4e27e4794009e5e7a8ce44
+FileChecksum: SHA256: ebc7394b10cdf14e32e12aa4ed57f865e8a451f92cd6be5b90585648f2cfd73b
+FileChecksum: MD5: 4184a8270800f8877063be104a0fc5b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/ipc_peer_test.go
+SPDXID: SPDXRef-item4095664
+FileChecksum: SHA1: fc06dbc3063f367c11b23de29bb7dba467669578
+FileChecksum: SHA256: 6200cc6e096c5556ba63abf1bd498de3f2e801822de408bd2a844ea147f3d21c
+FileChecksum: MD5: a8da9308e5b8959c0208ae15583698f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/ipc_peer.go
+SPDXID: SPDXRef-item4095665
+FileChecksum: SHA1: 812924c702f48c3bc0ee1be4cd31c7d93acf0c8b
+FileChecksum: SHA256: 681c58fc7f3b9df18a41d42cb59e2e87a5dc522fd9a5dcd969870965108e1a12
+FileChecksum: MD5: 5349eac7fb9fd8585141411bab8e4c73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: bdls-2023-04-01.zip/bdls/MAINTAINERS.md
+SPDXID: SPDXRef-item4095666
+FileChecksum: SHA1: 4a143ae2424ff02ba976a3294c69380ea15f5831
+FileChecksum: SHA256: 3a6b643e112c9c080f372d52dd0a7c8dd74d357ab70fba98060db80ed7061f21
+FileChecksum: MD5: 09b9c3b3913f3d286f00bf87b109fc4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Google-Patents-Notice-Golang-1
+LicenseName: Google Patents Notice (Golang) 1
+ExtractedText: <text> Additional IP Rights Grant (Patents)
+
+"This implementation" means the copyrightable works distributed by
+Google as part of the Go project.
+
+Google hereby grants to You a perpetual, worldwide, non-exclusive,
+no-charge, royalty-free, irrevocable (except as stated in this section)
+patent license to make, have made, use, offer to sell, sell, import,
+transfer and otherwise run, modify and propagate the contents of this
+implementation of Go, where such license applies only to those patent
+claims, both currently owned or controlled by Google and acquired in
+the future, licensable by Google that are necessarily infringed by this
+implementation of Go. This grant does not include claims that would be
+infringed only as a consequence of further modification of this
+implementation. If you or your agent or exclusive licensee institute or
+order or agree to the institution of patent litigation against any
+entity (including a cross-claim or counterclaim in a lawsuit) alleging
+that this implementation of Go or any code incorporated within this
+implementation of Go constitutes direct or contributory patent
+infringement, or inducement of patent infringement, then any patent
+rights granted to you under this License for this implementation of Go
+shall terminate as of the date such litigation is filed. </text>
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Other-subcomponents
+LicenseName: Other subcomponent licenses reference
+ExtractedText: <text> This product may include a number of subcomponents with separate copyright notices and license terms. Your use of these subcomponents is subject to the terms and conditions of the subcomponent's license, as noted in the LICENSE file. </text>
+
+LicenseID: LicenseRef-Apache-possibility
+LicenseName: Apache-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
