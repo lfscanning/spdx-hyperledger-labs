@@ -1,0 +1,3801 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_go-perun-2023-04-02.zip_1680848599.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-04-07T06:23:19Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: go-perun-2023-04-02.zip
+PackageFileName: go-perun-2023-04-02.zip
+SPDXID: SPDXRef-upload840
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 73c11cdd98a6e6133a726760567bf9a114696abc
+PackageChecksum: SHA1: 54606ad016ae2638e70f7f0fd2e5291a3ca9a717
+PackageChecksum: SHA256: 986e14a7b31fba573e5a13107e0185c8812ee6f48ba88dca0061b7241fb52b6e
+PackageChecksum: MD5: cd44b458c283dac349ec462bfbfdeec5
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload840
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/README.md
+SPDXID: SPDXRef-item4111487
+FileChecksum: SHA1: 4ca76e26f42ce9800542bf8a7225604d8d5498e6
+FileChecksum: SHA256: 384cb4ab06c2cf069b9d5fceefd833f67b5a830cabe9f353422f439090cf8458
+FileChecksum: MD5: 49120f816d3b97b2f4ae027ec70544ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright
+Copyright 2022 - See [NOTICE file](NOTICE) for copyright holders. Use of the source code is governed by the Apache 2.0 license that can be found in the [LICENSE file](LICENSE). </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/LICENSE
+SPDXID: SPDXRef-item4111389
+FileChecksum: SHA1: 1128f8f91104ba9ef98d37eea6523a888dcfa5de
+FileChecksum: SHA256: 58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd
+FileChecksum: MD5: 175792518e4ac015ab6696d16c4f607e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/doc.go
+SPDXID: SPDXRef-item4111245
+FileChecksum: SHA1: 3c09edf6971fd26ec5201c0991690e3a0dca350c
+FileChecksum: SHA256: 2f573bd0a023baee270aa603c297965a2410bfedef996ff15703ce324fb54d9d
+FileChecksum: MD5: 99200d8286e691c81133a9f5fe368fd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/wire/init.go
+SPDXID: SPDXRef-item4111249
+FileChecksum: SHA1: e1b370cc496985a7906deff5ac350b962df5c5a9
+FileChecksum: SHA256: 17d1734d43931190d38ce475d35ed09eaadf00c56c9cbce87079661aa051cbc7
+FileChecksum: MD5: 1f62424b51f31abced4dcf75841211f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/wire/doc.go
+SPDXID: SPDXRef-item4111248
+FileChecksum: SHA1: 396e7094f4632887041e19ab79748bea4caed3b5
+FileChecksum: SHA256: 8f50f362196583aaeeeaa8babba00bf6248ce62bad4d38854f60cdedbe5e0490
+FileChecksum: MD5: becfa011a5ec4893cf99319c77f9de5e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/wire/address.go
+SPDXID: SPDXRef-item4111250
+FileChecksum: SHA1: 6fbf26c5325c1e106b84af058e2b23ffa6021179
+FileChecksum: SHA256: 3c03875fbe683302be00d0eb82a2c15954f9b749a2a7580690aa44df40da0111
+FileChecksum: MD5: 2f4f7358ddc3bc1f63301e70971d0d60
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/wire/account.go
+SPDXID: SPDXRef-item4111251
+FileChecksum: SHA1: 7c3e6158c414eca2db0d439cee8a43224d6125dc
+FileChecksum: SHA256: 976993304cd230ed68628e867d4c5c40e77e8169c65034c347eb5919ced3b94b
+FileChecksum: MD5: f085c12e87ee703571c27bc6e950b96b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/wire/address_test.go
+SPDXID: SPDXRef-item4111252
+FileChecksum: SHA1: bd5f9b46c3bd8f1663980d381a62e8e9a3bd1810
+FileChecksum: SHA256: 47bc106f051ed858513f4822d55b3c5497165a67fe2a5a4d98df123ec497c426
+FileChecksum: MD5: da8e28e5ad5d8b373f22c7effa34bcaa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/doc.go
+SPDXID: SPDXRef-item4111253
+FileChecksum: SHA1: 5c52df037739bae1c0ffa9eb1a2cc3857b81f219
+FileChecksum: SHA256: 065717b705f6ea853f27803284560f605e6b21dedb8f036d3bace24188ed8238
+FileChecksum: MD5: 9d0740df97ccd5daee9d6a380129f74b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/init.go
+SPDXID: SPDXRef-item4111254
+FileChecksum: SHA1: d2fbac711acef27da7f5a804cf85c43eda36b8f4
+FileChecksum: SHA256: 154a27818c4f2fd1e982578ab0ebc6c56ad12ff821ed88da2a7c9ffa8717e45d
+FileChecksum: MD5: a3a99d0954cf7af665549258d4fd0380
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/wallet/doc.go
+SPDXID: SPDXRef-item4111258
+FileChecksum: SHA1: 12cf7aad8e4c9f3ef2d5e614f64878b5b1d30504
+FileChecksum: SHA256: 0350b99e3fb4c1cd7dce630387ebb186f5996127362dd7f7cb90f1d19b977910
+FileChecksum: MD5: 96abb2c298578197df2f49b6dec3c033
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/wallet/wallet_test.go
+SPDXID: SPDXRef-item4111257
+FileChecksum: SHA1: bc2adeff9ec962b83dc98f8ee912c22f246f9ab0
+FileChecksum: SHA256: 6a27ba26238a77c2fb4a6c02a0e0b2b94716a226c380efbe49551096e35a6e7a
+FileChecksum: MD5: f5f7d6b5219ad013eba6c923bb14124f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/wallet/wallet.go
+SPDXID: SPDXRef-item4111256
+FileChecksum: SHA1: 4c99f37aa253cf6306762c7b0c5dfe548384c4c4
+FileChecksum: SHA256: c805ae5cb7774f4976bffca672184c44232e3203c96ce1982b9e25b136125e6a
+FileChecksum: MD5: eb91ffbd41922a3b2f3c31389059b008
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/wallet/init.go
+SPDXID: SPDXRef-item4111259
+FileChecksum: SHA1: d0e9fd745e4741407a31b1a3c52029c3270117ed
+FileChecksum: SHA256: 65a248b1ef2585a2410018f925b2c290322e9f91b51a220a7eee87b111bb5a41
+FileChecksum: MD5: d6c68b76f2c16552fc8133ecc7f33c2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/wallet/randomizer.go
+SPDXID: SPDXRef-item4111261
+FileChecksum: SHA1: 96b2e268cd6a21017f4b45b343549ee3b57d97c4
+FileChecksum: SHA256: bbf401ceeda2fbcbe193e69791c3385c1008f4b68b2baf170b96a341e00d8456
+FileChecksum: MD5: 85821d6bfe643db8fa46dfb4a02e3977
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/wallet/address.go
+SPDXID: SPDXRef-item4111260
+FileChecksum: SHA1: cfc99962a5cde65a800377a28f4e8e662179d49b
+FileChecksum: SHA256: 747719b315967b0e21d993fd9113d86c8d35b677bf3a8ed5407d542fa3807a60
+FileChecksum: MD5: 8d6bfadb9275617b71fd854447de0a23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/wallet/wallet_internal_test.go
+SPDXID: SPDXRef-item4111262
+FileChecksum: SHA1: c86f079c6fa04b5484c39d4f114dc353a5fee812
+FileChecksum: SHA256: c7105c4c28cbd0494f523b9dc45378f0e10d24125859fce0a422aa2d4326a718
+FileChecksum: MD5: 14f39ae955248f7bfee19b2f0c130341
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/wallet/address_internal_test.go
+SPDXID: SPDXRef-item4111263
+FileChecksum: SHA1: ece98f373ce93894a7055b3574d643bffe5fa8f0
+FileChecksum: SHA256: 4152e2479840d0fdc3e4c1353e663813ae5ed42d51beaf0b4beb72bf590cc358
+FileChecksum: MD5: 9468531638a3f6a72b3f6fbb9650033a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/wallet/account.go
+SPDXID: SPDXRef-item4111264
+FileChecksum: SHA1: d8be69f0b4bb59a089285ed4d0ce59a9c5e18fd9
+FileChecksum: SHA256: ab025395b2cd447a3b219d303c80f262499140daae0b9ef51397bf8cc8674060
+FileChecksum: MD5: 5b50257bbb631b72b8d8521618ed0921
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/channel/doc.go
+SPDXID: SPDXRef-item4111267
+FileChecksum: SHA1: f2f0e3310f704aff0c009f5690861476d1346971
+FileChecksum: SHA256: 3d3378ef3236dfea63bbcefd25c7d25ba21ad8a2b2b1c8813a839e2823a986df
+FileChecksum: MD5: d204763a6fd432f9400ef6acfce14bd8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/channel/init.go
+SPDXID: SPDXRef-item4111269
+FileChecksum: SHA1: e33d46897ac92833574cc5d51f3cd186c11ad475
+FileChecksum: SHA256: a531cd25ae732404331d3fc9c15cb68a7024d7a2ef882c34ec1e27046f1943be
+FileChecksum: MD5: 445add4a72e6e00d4aed697dc62357df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/channel/app.go
+SPDXID: SPDXRef-item4111268
+FileChecksum: SHA1: ce00ab142deeb3aedfaa78ecbde6cfea4f23ed3a
+FileChecksum: SHA256: 741a1a7f58c3855decd82e39f9c87d4f18148a3027da9dc68732fce01e483e72
+FileChecksum: MD5: 347581eff3cdef2008a57bbb36b2fd08
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/wallet/backend.go
+SPDXID: SPDXRef-item4111265
+FileChecksum: SHA1: 8e5f6138216e4dab39548a2657298b60271bd430
+FileChecksum: SHA256: 8035dcacfa15421d9c332f8ac67f65f887b02e577ca32666949cfaf2c242b6d0
+FileChecksum: MD5: b9259b77dcbb8639e57a5a2eb1256cbd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/channel/channel_internal_test.go
+SPDXID: SPDXRef-item4111270
+FileChecksum: SHA1: 1bc041d8dd71eba91e93bfd3af5176c59e6d970d
+FileChecksum: SHA256: 6961bbc17958825ebac113a1d7d9c82c7bcbde360986e3703520f2c1335ee9c0
+FileChecksum: MD5: 0570b326fe493e9229ada0086197f088
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/channel/init_internal_test.go
+SPDXID: SPDXRef-item4111272
+FileChecksum: SHA1: 3017771c9ec978f5aa400788c29bd3408e119dfe
+FileChecksum: SHA256: bae996286981c01fdf19a709e1f27432c32643924ae9e4356a926a5f43ba02f7
+FileChecksum: MD5: 1b50f55100cf1107c1f3cb100b8ce48e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/channel/asset.go
+SPDXID: SPDXRef-item4111271
+FileChecksum: SHA1: 5b9868b8934efa31149a080b73df7b9684969f9f
+FileChecksum: SHA256: 894595a950f0f0b2dcb53f4a844701c834fd9550df2a4533c9bdd3282bcf2aa5
+FileChecksum: MD5: 1656da398939f4b13884989d41c60a26
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/channel/randomizer.go
+SPDXID: SPDXRef-item4111273
+FileChecksum: SHA1: adef994f3279daad994ca8eca891a2261b73a93c
+FileChecksum: SHA256: 46147b60f94bdd01a0e5cc0da1936dab1134b3ebd368f806d4d3f2ed6ee44261
+FileChecksum: MD5: 49f3adc1790a4efd103d2598bfd0291a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/channel/backend.go
+SPDXID: SPDXRef-item4111274
+FileChecksum: SHA1: f2147aa4b14d636348c02407a9865ee537af31df
+FileChecksum: SHA256: 33360872c7e0b1779cea0d3db90ca6173b5145ff943381e15cf31054155b2303
+FileChecksum: MD5: 7ce1246e539b0b7b04f6eecd39ebd610
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/backend/sim/channel/asset_test.go
+SPDXID: SPDXRef-item4111275
+FileChecksum: SHA1: 60a71b3094c35e4bade7f93cad567f8f78c4c3e5
+FileChecksum: SHA256: 848e928d72ec648663fbcda020fa7882f7f759953f7ceb8b0f02d3448b5891ba
+FileChecksum: MD5: 084a87a4796c5cadb511e7772dd3dc47
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/cache.go
+SPDXID: SPDXRef-item4111277
+FileChecksum: SHA1: 25e0cd316cbc8ddb621bdf303786e221aca14dc6
+FileChecksum: SHA256: c74588a97a48485072457e0fb99acbb684ff234fafbe298cc735629504398787
+FileChecksum: MD5: af066d052fb1df51932d4c26532e357f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/generate.go
+SPDXID: SPDXRef-item4111278
+FileChecksum: SHA1: 65708d48a2b8e7e94022dad3c3688ba39b7d21ce
+FileChecksum: SHA256: 19efa9d14fdfdf076c01b92d909f0b907b898988612f06f7a948f08f0e22f247
+FileChecksum: MD5: d534ab87e51c989aa217d0287536d33b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/doc.go
+SPDXID: SPDXRef-item4111279
+FileChecksum: SHA1: c1d1586f53ee2c5addd31be8f1007a085591d842
+FileChecksum: SHA256: c52d751976c84661cbe1506abb347636fb1692b3cfbc2beee774854c4829e356
+FileChecksum: MD5: c3d54dc37fe1378dbcf64857b64037c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/relay_test.go
+SPDXID: SPDXRef-item4111280
+FileChecksum: SHA1: d6bab522985fae1f7ab20647a12f3e8e425b89b3
+FileChecksum: SHA256: b9016c3336aa5e3dc59736a720383e13f593369610074a2b3e2e8c087fe38a23
+FileChecksum: MD5: 53d7b9d66744b40a95081a14e5ff8cbe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/init_test.go
+SPDXID: SPDXRef-item4111281
+FileChecksum: SHA1: 3e185a85ae469fda5fc3b207b3e93ca1751ef6b0
+FileChecksum: SHA256: ae4abcab4fc6e09b4cc660eae6a633bb751962dc478674a7b01f30654b895893
+FileChecksum: MD5: 30fac33e7ff851ba042776b94aec2078
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/pubsub.go
+SPDXID: SPDXRef-item4111282
+FileChecksum: SHA1: 3be4ffcabb4f1efd08fbeabcb279f83b111bfdf9
+FileChecksum: SHA256: 99540cd7f77c1e9dcd7f5589e22241db16e9b45936cb12e9d7878bf82b88a8ca
+FileChecksum: MD5: 8b26a8562d6e7a0ca494d8c7660b1a1f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/bus.go
+SPDXID: SPDXRef-item4111284
+FileChecksum: SHA1: 49fbb6c67dc2609642c5cd6160993a3d685cd993
+FileChecksum: SHA256: ad24936cc1275da006146d99c1473426d56f15450d42ffba817c2317e6a08976
+FileChecksum: MD5: 3d647c2406cbfec82feaac9ca2bc014d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/cache_internal_test.go
+SPDXID: SPDXRef-item4111283
+FileChecksum: SHA1: 99a96915f8ed1b4b074c3052a953be74ad245d2a
+FileChecksum: SHA256: 9080685b8b82dfeec9451180a0ad5e3390b3e449dc9e2eb3adc1c6ef95843230
+FileChecksum: MD5: 6ff293d028adc6a76da76749beb5579b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/localbus.go
+SPDXID: SPDXRef-item4111285
+FileChecksum: SHA1: 3eef84106db8d4f7481a15613ac44159624426d0
+FileChecksum: SHA256: 0af422896be15dc39dd1007bd4859065d674bd350630300638f44b6a69ac5292
+FileChecksum: MD5: e9b2d54fb020af336dcae5a8e8a37092
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/receiver.go
+SPDXID: SPDXRef-item4111286
+FileChecksum: SHA1: 125fd69db7ef6cb2c1cd663cfc0c69d4faf54c03
+FileChecksum: SHA256: 087bd0dbed83400113bebb63a4ab26afe2a86cca9c28f54a69ff8e1a0c59faa4
+FileChecksum: MD5: 09b64a210d5b72176f0b61daf235b1f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/protobuf/doc.go
+SPDXID: SPDXRef-item4111289
+FileChecksum: SHA1: 778c33987fe5afc0bdb7d3d9f5e0a23445a5e947
+FileChecksum: SHA256: 4778bc17a1365f8b9fd6e9efe9990c7d0085d4e99a8625af71722d583d0bc9ab
+FileChecksum: MD5: f77bea8c0e5eb3c9fccc1110338b9ff0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/protobuf/generate.go
+SPDXID: SPDXRef-item4111288
+FileChecksum: SHA1: 0b87e9c230a23ec06ff71f6632f61820e3981476
+FileChecksum: SHA256: cfa607e34ba68f7ca15c29eeab1275d1d269fbddaf4dc18e01ddef47e74e229e
+FileChecksum: MD5: eb6802cb81f86597f26f87c29877d922
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/watcher/local/registry.go
+SPDXID: SPDXRef-item4111584
+FileChecksum: SHA1: 0d0424d09b3ec6c8fba0c4c694d071348eea02e9
+FileChecksum: SHA256: 2c484bda72f37c5be0276fed2f0fb43abe50d0c3f2b488fd92234401c68270e3
+FileChecksum: MD5: 37c520d9871aa3082e65fde86f60bd76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/watcher/local/watcher_test.go
+SPDXID: SPDXRef-item4111583
+FileChecksum: SHA1: e6d97332328304b26bebde377d3a17870bd43e7c
+FileChecksum: SHA256: 0b1d58a3d81638336b46f425679390397fe297dee4655683943841cf44851083
+FileChecksum: MD5: 8458044450237c1f18c8986753abdac3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/watcher/local/watcher.go
+SPDXID: SPDXRef-item4111585
+FileChecksum: SHA1: ce59ecdcab9f08933f2088002e6369c2a1c26004
+FileChecksum: SHA256: c3f97fb7229f750247f038093189e4953f848d6fc2e87f260c1dcffe14678f6a
+FileChecksum: MD5: e12e317c0d861766dd43e56e4187c830
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/watcher/local/adjudicatorpubsub.go
+SPDXID: SPDXRef-item4111586
+FileChecksum: SHA1: 93dd61f1a04b885689995b5b2c4ae546e94ef4b9
+FileChecksum: SHA256: f98befca055a76995af9993faf7f2b0c965d623894941857ca82fd8607a3dfe7
+FileChecksum: MD5: bb991c967c340716fb74321e8f0785e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/watcher/local/statespubsub.go
+SPDXID: SPDXRef-item4111587
+FileChecksum: SHA1: 31d0b9ab2df7926a73bf57a5920df6bd263a6fc0
+FileChecksum: SHA256: 1593a202a16e6bfa48f8259593327165255200357a9db75adb39ef51779e0281
+FileChecksum: MD5: efa5c783287ab3520be061a3a1b5d420
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/watcher/internal/mocks/doc.go
+SPDXID: SPDXRef-item4111590
+FileChecksum: SHA1: 6371a77d5e2a64c3d3f79cefc68f0ba7d30c58c0
+FileChecksum: SHA256: 0a02b08ca1c6a3f9b0188fd7e7aa4370627fe12c54279468c3d3174070539f15
+FileChecksum: MD5: e8dcf7aea4440862c3ec601b4124e449
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/protobuf/init_test.go
+SPDXID: SPDXRef-item4111291
+FileChecksum: SHA1: 097cbce031bd77facdd89f68a4be109d320ceabc
+FileChecksum: SHA256: 126a21f05ae6e96a902a04c14d715c8b9f5ceb4ed9ba4ccb76bf7519c8c5c521
+FileChecksum: MD5: a9bf0b09f729d31847d678fe38a3225e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/protobuf/serializer.go
+SPDXID: SPDXRef-item4111290
+FileChecksum: SHA1: 814320bcbfb9b0f23afe267f23a2109620b75cd2
+FileChecksum: SHA256: 0038040df3984180567c61e759820406ede04e4158cb88dde3af89d541091e74
+FileChecksum: MD5: 3c0a4e8aedb553b0c1f86eec6e69e777
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/protobuf/serializer_test.go
+SPDXID: SPDXRef-item4111292
+FileChecksum: SHA1: 66ed2638e26d9222beaf72127a5853fc768b4e7c
+FileChecksum: SHA256: 03620cbf6dc76b77f6eeffade435679c8cbfe27ad61ccf9b97a167ea517ef321
+FileChecksum: MD5: 2b2014fdcd76b43109e7cdaf471e0339
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/protobuf/wire.proto
+SPDXID: SPDXRef-item4111293
+FileChecksum: SHA1: ff6c9c664af8ebb4033e694a4a7785ad5be00233
+FileChecksum: SHA256: c5d663a4d2e4f9d3d63cbd5c154c4d7f32307075af0c7c575e9f86d36dbbf25e
+FileChecksum: MD5: aaf397decad5c029503b2f917185abf6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/protobuf/test/doc.go
+SPDXID: SPDXRef-item4111296
+FileChecksum: SHA1: aceec6af945bff99a84c4a30ea4ae08c7e2a1e9f
+FileChecksum: SHA256: d7196b9cef6beeafc0d9136128eda4d82a1ca183b110d751e4de8483f08ecc5a
+FileChecksum: MD5: 475ea4cc0ab290f2ec321e528bae16d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/protobuf/test/serializertest.go
+SPDXID: SPDXRef-item4111297
+FileChecksum: SHA1: e19cfe67814ee734570de6299ff86ba0b2258aec
+FileChecksum: SHA256: 7169a2579c6da637ed752ed2615649bfd7e6c063273ab848f5e4afee826fcef1
+FileChecksum: MD5: f0a2b2e441e376c036fef24b6e2c89a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/protobuf/wire.pb.go
+SPDXID: SPDXRef-item4111294
+FileChecksum: SHA1: e7288f82c4204857a6390d87eb2e814d3b49e6d4
+FileChecksum: SHA256: 7f64edfd552953b33aa0d555be9a349e44a66244e9f9019be69d46fbd989c664
+FileChecksum: MD5: 1d496153acc203732c5e48854acfaf98
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/protobuf/syncmsgs.go
+SPDXID: SPDXRef-item4111298
+FileChecksum: SHA1: 306dd377d74e9f2aced85c1badd2ae260dae5f61
+FileChecksum: SHA256: aa43b4e29773671bfab6c7a6cd5b6e3b4e664b605ca56b07b38a18c7b6886ceb
+FileChecksum: MD5: b9782e9ed8d4ece3971ee0979635e0e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/protobuf/proposalmsgs.go
+SPDXID: SPDXRef-item4111299
+FileChecksum: SHA1: 5b1e48eded561dac6ca87f5cb4fedf630c41573f
+FileChecksum: SHA256: ca3c160727496b949606fda791ec96a62cd272d9c879c13956ca9032b8c2b9ef
+FileChecksum: MD5: 88782d072da519c17b2596d88e8f36ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/protobuf/controlmsgs.go
+SPDXID: SPDXRef-item4111300
+FileChecksum: SHA1: daab78e0eaed578bc364accff6ed35b23bc7e5b6
+FileChecksum: SHA256: 49d307f7b145e7c8b2549e4ec34df72015e3782dee8ec1995a80a3898104cfe1
+FileChecksum: MD5: e15e45046417417a2182c067d80f2b97
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/encode_test.go
+SPDXID: SPDXRef-item4111302
+FileChecksum: SHA1: 924f0e446154483d88d46b4ea1dfb060bf096935
+FileChecksum: SHA256: 5e72bdcb6dddaee249cacb41aa61984b56bca24d52c9474f774493fabe97f576
+FileChecksum: MD5: 528d9237adb308572412bc03a98aa2f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/protobuf/updatemsgs.go
+SPDXID: SPDXRef-item4111301
+FileChecksum: SHA1: 0533a92c1381b6a539371e9eb7a34cc8037828fa
+FileChecksum: SHA256: b2459cd0b3dcd29f75ad6a28e732a579b45eaa25b809054bf7d3bd45705aa91c
+FileChecksum: MD5: d13e1cf476b2f709a3efc198c9a67e60
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/localbus_test.go
+SPDXID: SPDXRef-item4111303
+FileChecksum: SHA1: b8dcdd29957139d0a5b1e40fa3b1fbbf04249f3a
+FileChecksum: SHA256: 34948cad32278ecaf90bf8bb97724636c423cce650e0e2b7ec9d7df67804d050
+FileChecksum: MD5: 87935990a5d60ddebd14694aa532a730
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/test/doc.go
+SPDXID: SPDXRef-item4111306
+FileChecksum: SHA1: 46509a8c6eb1711bc31083e48afb97ed1276c8f7
+FileChecksum: SHA256: 8b907f0415341382d156a34691655049459a45d3bde18c9a3de06841878ec6f4
+FileChecksum: MD5: 776788a6d1d65b5556d8b439dbdccdfc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/relay_internal_test.go
+SPDXID: SPDXRef-item4111304
+FileChecksum: SHA1: 954c46ab557a0904dfab60e164ea35be159ffad4
+FileChecksum: SHA256: cfceae6c7698f8b0cb36fda42f94c1f9fe3b15809c059d299f48ddb3f7e0df32
+FileChecksum: MD5: f198158fbe2f4d310cd0ac0ab54b862b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/test/marshalertest.go
+SPDXID: SPDXRef-item4111307
+FileChecksum: SHA1: a5887b32cc848aa10d7b1df537120c6fa001e5ba
+FileChecksum: SHA256: c14616f152107ba6aada3f4438accf700864a020a9e44e9494e24d4298af90c4
+FileChecksum: MD5: 9ac70824f737b0de4902781372fe9b20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/test/bustest.go
+SPDXID: SPDXRef-item4111308
+FileChecksum: SHA1: e5dc699206b20972a1f13dd77918cdb51fa76be2
+FileChecksum: SHA256: ee201c0a87e7664aff5700126fb51e8015b8a75e2f61666389f56b4a5072677b
+FileChecksum: MD5: 36f465d07b703ecce13cf497b402b5ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/test/msgstest.go
+SPDXID: SPDXRef-item4111309
+FileChecksum: SHA1: 5749014443d2d14bd21bea88809cd9930ff0be30
+FileChecksum: SHA256: d99ad575524d1940346b5759d5ab7f034f9176aa5938400b7d94d28cfe35ba05
+FileChecksum: MD5: 157f226748441ddb68b0ab6b84678b97
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/test/address.go
+SPDXID: SPDXRef-item4111310
+FileChecksum: SHA1: 98a509203d56c0c3bc36c8f57fe44e1b15a63331
+FileChecksum: SHA256: e3c7234bfc52059e2038d08cadf284fd2777aadb2f5d4c65d7e7674131d3a023
+FileChecksum: MD5: f26e0b4a7c38f380372fcd45783059ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/test/randomizer.go
+SPDXID: SPDXRef-item4111311
+FileChecksum: SHA1: b5e804038267f14e3ca88dd783312dda5580316b
+FileChecksum: SHA256: 88b9cff05e1e2bcf4b8fad8a93e38c8019680aa36dff5f9debeae674494b7a0e
+FileChecksum: MD5: 9fe8e11a0fea1f7c8fd862cf87f13c2c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/test/serializinglocalbus.go
+SPDXID: SPDXRef-item4111312
+FileChecksum: SHA1: 87a5172e60e1493071c4da77d73408b8593d6ad1
+FileChecksum: SHA256: 905319449df92198d5c8834e38f11b6ea47a3ae7c23a834b7a4cce7d1d6fa1d7
+FileChecksum: MD5: 5740ad0086462362f8574420392d0b91
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/account_test.go
+SPDXID: SPDXRef-item4111313
+FileChecksum: SHA1: 6aeb7e43e7fd41d80a5ade1a64e8b4ba9071ec64
+FileChecksum: SHA256: 715f92228d27452e795a1ccbeec3332cebd9750a2ed6b9b7d81669132508e6e6
+FileChecksum: MD5: 8eb67a6297baafb7467cd81149022cba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/controlmsgs_test.go
+SPDXID: SPDXRef-item4111315
+FileChecksum: SHA1: 9f0aaf83c2f1d5f63e64e3f9f9e73babe2f64d79
+FileChecksum: SHA256: bcef05689e564bdce9545bc563fc9ec3bddd51673f7db9ebe977599349738548
+FileChecksum: MD5: 0d318e6b9486b66503ae0cb37e77609f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/address.go
+SPDXID: SPDXRef-item4111314
+FileChecksum: SHA1: 4a2bc842818dd756a97f7ede42394fdcbb5f08ea
+FileChecksum: SHA256: f38f8fb925ab4ea54ec9ff3180d5963441f03011211d1ad167e1a809d82a115e
+FileChecksum: MD5: d60133408d8d0ff57368727e6b368eef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/encode.go
+SPDXID: SPDXRef-item4111316
+FileChecksum: SHA1: ec744759ad8a8c6431434651a99967c9e267d1d1
+FileChecksum: SHA256: e04e7d9f7df9644f23ec6853ae0ecbfd9d99cb93401bd88f7399b24e1d424551
+FileChecksum: MD5: c4cc1d78f671925686e28c63598f6a8e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/controlmsgs.go
+SPDXID: SPDXRef-item4111317
+FileChecksum: SHA1: 68573fa12c0fbbb8a8fa8a4d606d197686a53c5b
+FileChecksum: SHA256: 4b9c1b14a593e97f0c3315ce8458bc964e33bb681dc4c1134260d1c125fd7fda
+FileChecksum: MD5: a048a335ec1b0092fd5ddceb563e0c52
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/hybridbus.go
+SPDXID: SPDXRef-item4111318
+FileChecksum: SHA1: eced3ab639d5e66bd8c7000eb3f2f5749814e731
+FileChecksum: SHA256: 7764e1451d80cd353975ec4f7aecb9cf9d095618acb79c163b214f592e803c0d
+FileChecksum: MD5: 60e41461602460f4cec8ace1a767da4b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/relay.go
+SPDXID: SPDXRef-item4111319
+FileChecksum: SHA1: 599a1b2c086680f7e544d1188c104247986077da
+FileChecksum: SHA256: fd80e08be5ef0977a165755d8e9515c9ec3f2c2b6f07bcd5512c6af1a0fee053
+FileChecksum: MD5: dbe1e2f9d613c8e0176c65c4620b8088
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/consumer.go
+SPDXID: SPDXRef-item4111320
+FileChecksum: SHA1: 4ae80bc9af54ba32d744cd81801d21a46f3e0a9e
+FileChecksum: SHA256: 58834fd8c738cae95e8bd12970be78566aa3cf4321bf7eec759c29c2cb5f51f5
+FileChecksum: MD5: f3533f76684d26ff279c43a80ae5b6d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/serializer/doc.go
+SPDXID: SPDXRef-item4111323
+FileChecksum: SHA1: baf5aa1dc987073d35ff99f9e7e88a4e6ec690fe
+FileChecksum: SHA256: 937f6052921a8d7457b73e560ada229e768d4844145b3655eee32255a2b4e13f
+FileChecksum: MD5: 99ba6c22bbac1af8b47b5f7c109266bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/serializer/serializer.go
+SPDXID: SPDXRef-item4111324
+FileChecksum: SHA1: 1e8af612acc88f6664d367c898d2fe964ed6fe26
+FileChecksum: SHA256: 81b8c16c40aa5adf6cf85dc345d0e4b784721f14f1216738401cc112bd755135
+FileChecksum: MD5: a2d75536a34c450f9634158c1b7e342c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/doc.go
+SPDXID: SPDXRef-item4111326
+FileChecksum: SHA1: de361e13914ea042b589063ff432c539e90ba17b
+FileChecksum: SHA256: 7049d97ecc9a55c8a351f76e8b32197ee6fe57ad0acc96348908ae802ce6ba64
+FileChecksum: MD5: ed4131c70e3be9230283af40f87ae858
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/string.go
+SPDXID: SPDXRef-item4111325
+FileChecksum: SHA1: cb860952d12f053930f6d279916a6eb6119b175e
+FileChecksum: SHA256: 79914169aeac2a435771d95e1821aebdda6ca2566d658b1b9b78bb8de8d36a97
+FileChecksum: MD5: d5a09d8003467fbdab7850306f5028c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/serializer.go
+SPDXID: SPDXRef-item4111327
+FileChecksum: SHA1: c063b6af80d6cd76be4f4dbdec22e9dfc597b660
+FileChecksum: SHA256: eba55c5cd888f86580f1395c429b3e9eec5705a826294e4fd3012c54397774a7
+FileChecksum: MD5: 3f2eb56b219e1fc94a41bc22e392d8c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/wire_internal_test.go
+SPDXID: SPDXRef-item4111328
+FileChecksum: SHA1: b2115a2b2661a28ed4f651901e9bd0db8fe5facc
+FileChecksum: SHA256: 096736715503f93f2d0b0bd3c0aeceec4d546a5e1942f2b8f9920c2505df0e56
+FileChecksum: MD5: 12b34de2abd7da2ffa4443390aced09a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/equal_binary.go
+SPDXID: SPDXRef-item4111329
+FileChecksum: SHA1: 00cf9a0e49f2904c8e27a6270e6be1a890389259
+FileChecksum: SHA256: 5713208dfd0984bec11c31cc2f0061185d2767f1a3346f785d3548e2ceee8ab0
+FileChecksum: MD5: a52e3c2775a7213b6d2500ba1a1e3fdf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/test/doc.go
+SPDXID: SPDXRef-item4111331
+FileChecksum: SHA1: e91c68cf237166354e486fb384ae51acf6f169bb
+FileChecksum: SHA256: 9fde11a58c17fdeac9657f0958fb6606807fd6e58e348dada7566c7e0924340b
+FileChecksum: MD5: 7b6e4cf3d8059b10571bd2d718fc4663
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/test/serializertest.go
+SPDXID: SPDXRef-item4111332
+FileChecksum: SHA1: 3a83a9faa9ea80cd45a00a0bb3063c52dff1a557
+FileChecksum: SHA256: 77528fea307489cad2720fc0903e8d7989dc480524c042dd8720d678871d576d
+FileChecksum: MD5: 411d5f7169444b21308a1cce9961bb21
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/test/msgtest.go
+SPDXID: SPDXRef-item4111333
+FileChecksum: SHA1: 28dc79df1a9b0cd645af314768bf34c314e6466f
+FileChecksum: SHA256: 5717e77add7a6925d437861423bede6abc960afb7207fef389e4841f428b9b42
+FileChecksum: MD5: efa7e48af987dff0b8c2ac923410db59
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/equal_encoding.go
+SPDXID: SPDXRef-item4111335
+FileChecksum: SHA1: f2d9f0a9294f8eee006e0200a71c704d262b441e
+FileChecksum: SHA256: 86ad4467e6047af2e535d79e01c378b76fa37b345917876b9761809f413508e9
+FileChecksum: MD5: 3456aba5d5f4ea380675aa75b2ab0d08
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/byteslice_external_test.go
+SPDXID: SPDXRef-item4111334
+FileChecksum: SHA1: 00cad7f9e414a1ce1be33e10793680687ade3d50
+FileChecksum: SHA256: 7e0eea93ac1db589911edd4be08c2428f4cf1cbfc3c8e9259ddae90bdd8f1b40
+FileChecksum: MD5: 5f05470ad341f98a29ae4b2cb0774a28
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/byteslice.go
+SPDXID: SPDXRef-item4111336
+FileChecksum: SHA1: c670b7c030b45b63d36d3d6ffee68186eb8a400b
+FileChecksum: SHA256: d15758d2f3932cfacd1bec8fbfc880ba09e9db217794cc516f7f8704f43b05d1
+FileChecksum: MD5: 72044a6530daee73b17c20156512ccb2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/bigint_external_test.go
+SPDXID: SPDXRef-item4111337
+FileChecksum: SHA1: 98517ff8f0f81bf96b0135bf992c7fdc2c9d61e0
+FileChecksum: SHA256: 167b80291193271731b9e6f6dd8ac43605a37b969929d8020c5295b50fab7570
+FileChecksum: MD5: 6bbebafa2255ffa1646f32dd97e3a98f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/string_internal_test.go
+SPDXID: SPDXRef-item4111338
+FileChecksum: SHA1: 1ac77f186851f9eb1a435fcb6910301809f3931f
+FileChecksum: SHA256: aadbba87fc04ab15f3c3a55663ff201322fa0509ff1ef2d9d87dc853bbbdc454
+FileChecksum: MD5: c09ffcc3044097941a10bcf0dc816a1b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/bigint.go
+SPDXID: SPDXRef-item4111339
+FileChecksum: SHA1: 1b35aa86ea0fde036dde76c4ff965457485a5280
+FileChecksum: SHA256: dc8a937911587cd3a7eb5f0246727defccce64037c43346402d4b1b5a54ccddd
+FileChecksum: MD5: 67004099166412c0abbe4a8852bb3467
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/equal_encoding_external_test.go
+SPDXID: SPDXRef-item4111340
+FileChecksum: SHA1: d692fb969b7577c816dc1d43093609dcd5514e52
+FileChecksum: SHA256: 6dc7cd6d8cd854a0d2e3dc5c6c87c15697ece8ae128ebd360edd3f45eeb6fb11
+FileChecksum: MD5: 7da92c7cc56c0cc2f6839a4df879f7ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/hybridbus_test.go
+SPDXID: SPDXRef-item4111342
+FileChecksum: SHA1: 8b8ed1601650b68155aff3c17ed73be654b9e142
+FileChecksum: SHA256: 4c51c2faa5e3b560c499785429d2348050af2d635bc830b756393100db6ee993
+FileChecksum: MD5: 73a8a6f3d196c4fe17caac9778ff0c88
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/account.go
+SPDXID: SPDXRef-item4111343
+FileChecksum: SHA1: 98b877e5d344d7b132a79caf6de146ff0b5950aa
+FileChecksum: SHA256: 6de2f711a437b13dd5986de341a7e4e4b775cd79167270fc5f135d9c38605d94
+FileChecksum: MD5: 4d8e79f6c97ee309c2f86ff62408ca0e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/perunio/serialize.go
+SPDXID: SPDXRef-item4111341
+FileChecksum: SHA1: 42970df522f9b154aa187ca58084d5766c075459
+FileChecksum: SHA256: 792c4f3b63058c93177d961e71b1faa18fa106bb0a50775011517305a450f6cf
+FileChecksum: MD5: 617d4937c900f2c32551f2decbb7a46a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/simple/dialer_internal_test.go
+SPDXID: SPDXRef-item4111346
+FileChecksum: SHA1: 7372025cba7812650babc2b5bab8dcd8a7410cc5
+FileChecksum: SHA256: 9722737653b158c405546c1f8394fd488bef6794a60169021d12fa63c123d1dd
+FileChecksum: MD5: df00bb341d274a51d7ca7993f4f7d050
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/simple/doc.go
+SPDXID: SPDXRef-item4111347
+FileChecksum: SHA1: 8cb5513fcb8829392aa3056341c9e213403a0eb6
+FileChecksum: SHA256: 25a0f1e8144a89aa812ef04559eece68019298b2190addeb85af6fedf732eab3
+FileChecksum: MD5: 745306396941cacd0fedc27617bd134f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/simple/init_test.go
+SPDXID: SPDXRef-item4111349
+FileChecksum: SHA1: 2ded24774b48428cd9fa76ed0e4a4285c9bf2da5
+FileChecksum: SHA256: 8c34cad52b032dd3cfe1560c16718c61613726335f652238e2b0d696715ba4ab
+FileChecksum: MD5: ddc869a16df6bb7143191eed805f970b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/simple/init.go
+SPDXID: SPDXRef-item4111348
+FileChecksum: SHA1: cb1ed2834754870f1c71f9f283368fdd3c58d32d
+FileChecksum: SHA256: e19ae69d6a7d77929bbd9953cba74833e844e1e3701a8045f58d1f131e987521
+FileChecksum: MD5: 4f358d7b5a1b95a5109f491bd738a006
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/simple/listener_internal_test.go
+SPDXID: SPDXRef-item4111350
+FileChecksum: SHA1: d58eb3c274edcfb40aaf95e692e7ed0ac283f3d3
+FileChecksum: SHA256: 48c50de2ab094a1343d8fb9822f0e41afc10de2fb7cb87bcdfb3af5886e2f645
+FileChecksum: MD5: 30eea159ae43fc416d120b5dd7d1f1ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/simple/address.go
+SPDXID: SPDXRef-item4111351
+FileChecksum: SHA1: 59b8a78d4c500481014d23a218c84db852aea518
+FileChecksum: SHA256: cc9049e9b04d7fef2c71fd9fda5bd9775da85bd59952661b7dcc3388c973cc02
+FileChecksum: MD5: 1ffbdad134e67bb85c816133282fda3f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/simple/account.go
+SPDXID: SPDXRef-item4111353
+FileChecksum: SHA1: c774e518256f78e770813d068c87864571c92c31
+FileChecksum: SHA256: c3b5aa4bdb585d473636412b0958b4a55295c764a9e68d11aa5bf429c7851137
+FileChecksum: MD5: 109b39dc557524614a83ebb460ddbb93
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/simple/dialer.go
+SPDXID: SPDXRef-item4111352
+FileChecksum: SHA1: db2bc3703237a4c5f94e8b0641aaa8ec80ea181c
+FileChecksum: SHA256: 43c8df2f1176d6787f4078f9f4eb6c2f56a4f538aab17b0da3599df012960037
+FileChecksum: MD5: 57151744aab2e382313ed8f5acf88c8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/simple/address_test.go
+SPDXID: SPDXRef-item4111354
+FileChecksum: SHA1: 19eac92614c6b47d210dd4885046d82d59eb89ab
+FileChecksum: SHA256: 3f162258adb0fd75bebf82fc7a90b515a47ace3b34460807e59914d32cbdc2f1
+FileChecksum: MD5: 34bff14a06233eb58711600a354a4f82
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/simple/listener.go
+SPDXID: SPDXRef-item4111355
+FileChecksum: SHA1: 18385ee68a3e29a0c5f7d8068bd5bd7ec6b3f05f
+FileChecksum: SHA256: 069146732fd08f3910b94be4520ab83f618918065ed0141dd8de67d2023b1cf9
+FileChecksum: MD5: 754bcb7188f4e1c32d794d94d703ccfd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/exchange_addr_internal_test.go
+SPDXID: SPDXRef-item4111356
+FileChecksum: SHA1: 7dd75392ffab71cd721708f72f960ca5938fc5e6
+FileChecksum: SHA256: 64de3de8dde956c6c475fe4678520f6a8e9c01123f01a3a44def34c63064c859
+FileChecksum: MD5: 9a85e71321e4cb3871b11ba6143defbb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/doc.go
+SPDXID: SPDXRef-item4111358
+FileChecksum: SHA1: fa403bdce3bd998ff95ae929c26cdc193e0673c0
+FileChecksum: SHA256: 1decd6a883b460257a22f4afa5ac49b61a3e3781d5949dcc9746269dc3ed0e97
+FileChecksum: MD5: 29f0a0a583eaeccab336796273ff2186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/endpoint_registry.go
+SPDXID: SPDXRef-item4111357
+FileChecksum: SHA1: 3e4c19cdd9030745520e75852c129030d8b5f506
+FileChecksum: SHA256: 54fc3bd38b1c1dd61e3f05b28a43ecf8a49e6aa7e7133c1e88a75e77b38982a6
+FileChecksum: MD5: 4aaef2858d7bbb1ff7c60b8fc29a0239
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/endpoint_internal_test.go
+SPDXID: SPDXRef-item4111359
+FileChecksum: SHA1: adf6180a6bee7ce4376345f0449ac3abf21d3701
+FileChecksum: SHA256: 14f3a0aa774f726e325fc0a58f7942865053d52e76264c06b5f018bd400e044a
+FileChecksum: MD5: 5295d36b8c0221a2faba53169aaae126
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/ioconn.go
+SPDXID: SPDXRef-item4111361
+FileChecksum: SHA1: c125e258029c7ef060e7328f7f0cf19b5b56923c
+FileChecksum: SHA256: f4ee7c12d567ab233fa974154bd8d3420f4651aee05011dba40a4c1949e0b741
+FileChecksum: MD5: 560aa2d40f8519435bd4fa9725ad796c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/bus.go
+SPDXID: SPDXRef-item4111360
+FileChecksum: SHA1: 333e8c27c51151b7e55a89450fd2148146c5bf68
+FileChecksum: SHA256: cd623968b5528b9cfe1f3275816fdc7d72e342e190910551edaf74a4d9d521d5
+FileChecksum: MD5: ac9b50f3caf0bb7cac14cbb217cc756f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/conn.go
+SPDXID: SPDXRef-item4111362
+FileChecksum: SHA1: 3f2f31620ff935c89fee036ac7843c9482ef97a6
+FileChecksum: SHA256: 36da875c26f078e19e1d1ed657290d1e58d99545315474198c63c7fad9b2dc73
+FileChecksum: MD5: 8020cb81858e0d5d1a64f262c6650d32
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/exchange_addr.go
+SPDXID: SPDXRef-item4111363
+FileChecksum: SHA1: 4b8655daa2df2eab7a70bea7788154092d5b4830
+FileChecksum: SHA256: 5e12f865c5746f02bea2e496f4a7643b667224e59e863d44470ff76ea7dea368
+FileChecksum: MD5: 7cf58b84d32e9ae9d3a34587cb6e65d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/bus_test.go
+SPDXID: SPDXRef-item4111364
+FileChecksum: SHA1: 2be1878f4d84dcc86e41c7cde7e09e48c2e65ea9
+FileChecksum: SHA256: cc68c47a28751d745040a524285e8fb7a4afeb293aaa7115a0f057c191e7c36b
+FileChecksum: MD5: fd17f9829fd0dda03a1de9ce6130dbea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/test/dialer_internal_test.go
+SPDXID: SPDXRef-item4111366
+FileChecksum: SHA1: be8ab2bd786bd45bd82d6743527b734883cb5a47
+FileChecksum: SHA256: 25c3917c0afd15fe3ad20031ad3c517edee913a11c5a5be122cb23a444851fa6
+FileChecksum: MD5: e68add2a8a98a6fa5a11a5c7819a23fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/test/doc.go
+SPDXID: SPDXRef-item4111367
+FileChecksum: SHA1: 76d362b09b996713f9b1470a006f4aa3fd743010
+FileChecksum: SHA256: 4ff2a53c45967ff6492073740ccbe28e3d5024d765606e739c57ce0da455a1cd
+FileChecksum: MD5: e3d28a8c8c5390d9328cb7e0c7f88566
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/test/listenermap.go
+SPDXID: SPDXRef-item4111369
+FileChecksum: SHA1: 45ab7b338c4e1666ccb3df316b94de0be96da200
+FileChecksum: SHA256: 84e8679973f00a9cbfac1169fab0247d68ec50b31342a45afbba9e34efb8ea08
+FileChecksum: MD5: bad24652ed7c53936f8d4d8a2f13654e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/test/connhub_internal_test.go
+SPDXID: SPDXRef-item4111368
+FileChecksum: SHA1: 6a0dee334192ae083e3f9d8b79de125ec4414a04
+FileChecksum: SHA256: 25149160afe9da78c571831fb866cd8c917fc937070ad944993ce5ecb4e4e65c
+FileChecksum: MD5: 084b7549cc9faeaa80ae04b0dfdbe588
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/test/connhub.go
+SPDXID: SPDXRef-item4111370
+FileChecksum: SHA1: ab383fef7055d56e21b890fecf6f7e19f964664c
+FileChecksum: SHA256: 7bb0efcfa4bdf2b12f956df63eb93d15318f277ca557268552620d4770700803
+FileChecksum: MD5: 748ea7e1909b4576b5a16dd412c07d05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/test/listener_internal_test.go
+SPDXID: SPDXRef-item4111371
+FileChecksum: SHA1: 4ceefaec047df1fea87d825ddda2a0a1833ec7f7
+FileChecksum: SHA256: c69a16c0bf59f7599b442f643968ee36e22c3af72a0ff4725b0775ccc19a7919
+FileChecksum: MD5: bc7c6f1f1215ebc1b321948725774d44
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/test/dialerlist.go
+SPDXID: SPDXRef-item4111373
+FileChecksum: SHA1: 35e0e297e798f4a64dbae772e0dac969c455aecc
+FileChecksum: SHA256: 8ff11edc4e22ebc648a92212e9cbf075c3f2d267f29c267bf6ad2219465863d1
+FileChecksum: MD5: e20d89326cefad9409517a1bfbf17fb5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/test/dialerlist_internal_test.go
+SPDXID: SPDXRef-item4111372
+FileChecksum: SHA1: cccb434a8c1c64e32b17197d84e92d0153d96cbf
+FileChecksum: SHA256: 1b1b376fd78bf97c43a16bf0d760f13fad1f835292d62e5941d9b039343c0615
+FileChecksum: MD5: d5688e857daef8c501a87cf49084c273
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/test/dialer.go
+SPDXID: SPDXRef-item4111374
+FileChecksum: SHA1: 070845ef84d665e212820d038581bf73bba8881d
+FileChecksum: SHA256: da2ed63f6276810f4f90c396d80b71ee24b7d406e9a08de89b1b205a0a2c28af
+FileChecksum: MD5: cdda63ab38dd482023df30d95b17a0aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/test/pipeconn.go
+SPDXID: SPDXRef-item4111375
+FileChecksum: SHA1: 49a3b0f35d490e4af974840b2c9c6593ad0bc2db
+FileChecksum: SHA256: 556659f499f47bc08cdc5b797b26a6b2cdf03c032da5fc4571f3110bbf6ceb89
+FileChecksum: MD5: 77f541e29a2e9b640b948c4c4b873f61
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/test/listenermap_internal_test.go
+SPDXID: SPDXRef-item4111376
+FileChecksum: SHA1: 7e69e8fdf9de5a903e4b514b2db0e75a82522405
+FileChecksum: SHA256: 4fc0d3ddf48b27ab46329dbeaed10d28f967ee623119bf2ef76a0fcb7350424f
+FileChecksum: MD5: 36f5700de42246f2a7990be283c42b62
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/test/listener.go
+SPDXID: SPDXRef-item4111377
+FileChecksum: SHA1: 951ea47ffb25d8f8f7d2a33ea75354213c67fdd6
+FileChecksum: SHA256: 47d01f703435b36988d1a886f3c82c378841c7f525ece01dcd64d58dcae96965
+FileChecksum: MD5: ca52a19108fecfae20c979f42be30491
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/endpoint_registry_internal_test.go
+SPDXID: SPDXRef-item4111378
+FileChecksum: SHA1: 8ce15bdb1d65fa4ca684db57855499f188dce5fb
+FileChecksum: SHA256: c48d8d367e8ad42fe792d3f3994d26a6a3bb444f5f51870f5c458c96b7b50f70
+FileChecksum: MD5: 0b3754e02a18de42225ae74ca291dff2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/mockconn_internal_test.go
+SPDXID: SPDXRef-item4111380
+FileChecksum: SHA1: ffb4f0c7e8a81d42f84415363b87638bcf69d6c2
+FileChecksum: SHA256: 284f97829859f539c234158b91d7ac95cafc2aba8bff9b50afd53400efc48249
+FileChecksum: MD5: bae2d91449e716e63360e8b8fc8ccfa2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/dialer.go
+SPDXID: SPDXRef-item4111379
+FileChecksum: SHA1: 2b920d5f6a1fc176ac28410ee66abb699714acd7
+FileChecksum: SHA256: da672fb5c7957ddcd83d6d4fa49e004e6eb1258130763e7b7bd1fca9e6c2da7a
+FileChecksum: MD5: ab1727f95f44b46ebe0b937766e0f71d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/endpoint.go
+SPDXID: SPDXRef-item4111381
+FileChecksum: SHA1: 7201afdf0661d2d1bdf96959cf822d2747c68095
+FileChecksum: SHA256: b5d0f36c470df39c830289422d069ebc323403c9299dca7d368823b4ac6cf058
+FileChecksum: MD5: e6f8b272965190c0a72a052b12ee0a1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/listener.go
+SPDXID: SPDXRef-item4111383
+FileChecksum: SHA1: 113982e711845309d870404eb771553c15fe20fc
+FileChecksum: SHA256: 9f02323c54843dc80d73906a359c893bb79c5dd30edcf445c7095a7b4823f9a1
+FileChecksum: MD5: b3ae2c93fe1b12e5802d9f8b1d1eabc9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/net/endpoint_registry_external_test.go
+SPDXID: SPDXRef-item4111382
+FileChecksum: SHA1: f010e599e7b8018551243e9cf4a56043ef4a99da
+FileChecksum: SHA256: b4a4d9cc71275cea98057977dcca1cc3d48eb7a5dde91f3df0fdf6f708f43bbb
+FileChecksum: MD5: 09afb811b8e98f5722cd345637e340df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wire/receiver_internal_test.go
+SPDXID: SPDXRef-item4111384
+FileChecksum: SHA1: 97055c808d0f532ece0991f81df325e17ef7bf83
+FileChecksum: SHA256: aae28917cf6d11a1c73d77057ae0c67d5ca41cbef807bbb49f41df48dc5211c2
+FileChecksum: MD5: bd8a83ec5151a92e9b839c59109533bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/.scripts/check-notice-authors.sh
+SPDXID: SPDXRef-item4111386
+FileChecksum: SHA1: 68bedb2042c3797964ce9251eebf39747ff41f05
+FileChecksum: SHA256: 5d3a82037a1bcea13e3f86f60cf19028203fa36c5f8594f3c8e9474c7a09d575
+FileChecksum: MD5: 1eb55425bb23727abc181777c2ece2a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/.scripts/copyright-notice
+SPDXID: SPDXRef-item4111388
+FileChecksum: SHA1: 68eaadee3d065fa898d929ef35cd266bcb956ad7
+FileChecksum: SHA256: acde75049dfa18b60ec12c5cd06d800946fbf4e3e1b1aea591b0ec0e7d9cb398
+FileChecksum: MD5: ed3511d8e09128bbe0ebe50580f17ae9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright {{ ANY_YEAR }} - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wallet/doc.go
+SPDXID: SPDXRef-item4111392
+FileChecksum: SHA1: fab31059fb48ecf888645597c2f22294e4509171
+FileChecksum: SHA256: 61521ebd9dfac4a66a29110e5302ac10213e8e13fce247f7f05dff298da3a2b6
+FileChecksum: MD5: 203dd988949129c51c30a6c61ccbf363
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wallet/wallet.go
+SPDXID: SPDXRef-item4111391
+FileChecksum: SHA1: a5672e4f9e003a447d33085176256184ec660fd9
+FileChecksum: SHA256: e803930171b392bb9437851743bcbbe2605a356c6efedaebd059416850bdea22
+FileChecksum: MD5: 885778926297f9371cc4c96478708db4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wallet/sig.go
+SPDXID: SPDXRef-item4111393
+FileChecksum: SHA1: f02763f5e6faa044185e91af738fe0ec2a82fc62
+FileChecksum: SHA256: 9d89c3c461213ca5404d1c9cb82a42266e27b1c0630bd2a5ef35b762cd19dafd
+FileChecksum: MD5: e121400d1e08a43d8f0aa0301653704f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wallet/test/doc.go
+SPDXID: SPDXRef-item4111396
+FileChecksum: SHA1: 6c6dc529619477c5be3f5c326af54105d2d7e4e1
+FileChecksum: SHA256: a74cbbd657d4ff3e7006e20cc65c27716f8e2466c1831e7616ac918ffeee84a5
+FileChecksum: MD5: b3c808a65b4c5ec1d48f715c0966a6d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wallet/test/wallet.go
+SPDXID: SPDXRef-item4111395
+FileChecksum: SHA1: 815e3d4b2f5cc4399fe1822615283fb1071d2df1
+FileChecksum: SHA256: ff71ac841eaf9827b9927d86cb8ea6a4a633574ad2d7d4b0fe74cd0d7498475d
+FileChecksum: MD5: fe977811a98ee1f88679b8287ea08916
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wallet/test/address.go
+SPDXID: SPDXRef-item4111397
+FileChecksum: SHA1: 269d59bf4654e100b25443c5bf6ac20edb1fa780
+FileChecksum: SHA256: 11cdcfe5ef2d74a5620d3e6529fb0e1f4ca5b06ee632bf5b176f98f0c3fddf44
+FileChecksum: MD5: 68e73eeacb9c3b0e23cb630386a10c79
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wallet/test/randomizer.go
+SPDXID: SPDXRef-item4111398
+FileChecksum: SHA1: d40af8701b036e9edf0dbfa383b8be574381def4
+FileChecksum: SHA256: e1f16187bc98326e366f6f9a2df3c8102a18895e3c262b115333187f9114a4f7
+FileChecksum: MD5: 744c1194b091111e1b1867349c1ffc13
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wallet/test/walletbench.go
+SPDXID: SPDXRef-item4111399
+FileChecksum: SHA1: f677c959eca44eaa701f6f91eed8c27d5ed6ea9e
+FileChecksum: SHA256: cba5e7bca948fb8ce7f5746497a1ecbb0d1c1ae56f597c670892cab67d7b3ffd
+FileChecksum: MD5: ad879c889c29ccf96c38cc5fec9a8084
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wallet/account.go
+SPDXID: SPDXRef-item4111401
+FileChecksum: SHA1: d0e33f6010aa68efa21e9271e02736c92bc72431
+FileChecksum: SHA256: 229ccc4df1d7b009ce0252811890ceb4b1f198e4ad93c91419c9d1d81cd5affe
+FileChecksum: MD5: c45bf53990f8fb6971ae297350079c24
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wallet/address.go
+SPDXID: SPDXRef-item4111400
+FileChecksum: SHA1: 73c18273093aff0be1a2092f63ba7a3b5d158bb5
+FileChecksum: SHA256: 2d8e47e5bd7c419d7917ca8d19fe69d844f8d5fdf472ae508fb4f0a9b005d6fc
+FileChecksum: MD5: 7cfe7556c99d4e770df24b90db2d1bca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wallet/address_test.go
+SPDXID: SPDXRef-item4111402
+FileChecksum: SHA1: 0e632df7d2acefdc7fd0b9edbbb7b47f20992141
+FileChecksum: SHA256: ba08a8d35a6d580f8a045213f4ac9d513150b5601fe7f7692ed8694d99815c1b
+FileChecksum: MD5: 9a61469dda293e3e4c03670eb2c373c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/wallet/backend.go
+SPDXID: SPDXRef-item4111403
+FileChecksum: SHA1: 5843bdf8be6dc67077e4e4f631aa286be2dce479
+FileChecksum: SHA256: 3331d06030a9d1b9cbeac3acfc7b0788eee1008352f775d95ea373975c744f3f
+FileChecksum: MD5: 74f6aed83081e3ad278fa79b74b24708
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/clientconn.go
+SPDXID: SPDXRef-item4111411
+FileChecksum: SHA1: 32e92e456f945efee9d485e58241ea653a64cfc2
+FileChecksum: SHA256: 0b2fda37d3e9c3f6cc8b4d4af6bf9d0006b5a885758fbca3edf09f7727da6fab
+FileChecksum: MD5: c77ae3ac66bf9c5e5e49cdd1d1dc1cb3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/virtual_channel_test.go
+SPDXID: SPDXRef-item4111412
+FileChecksum: SHA1: d06c52a1ae6fde6758483a62e17d6dd2f3e3a933
+FileChecksum: SHA256: 5c47255b3aa391649d2323efcbb527b412435b0fd489fd3970aa86df14785830
+FileChecksum: MD5: 80cd9b8cc38b3eab78ecff275d17d862
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/proposal.go
+SPDXID: SPDXRef-item4111410
+FileChecksum: SHA1: 79d96ab89809ba4f6f433329cebf747d410648fb
+FileChecksum: SHA256: 0f2076591a5be5a17b6280b22bf207a9768643961d9cb8b4449fd85c78e2d293
+FileChecksum: MD5: a458b01d27e10f3b08ec2a3712b32ebb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/doc.go
+SPDXID: SPDXRef-item4111413
+FileChecksum: SHA1: 42d0a850bed53992e831778dc3d33b717cf246f3
+FileChecksum: SHA256: c8f8d113ebdee5e582f00a49ddfbe834b28ffa35be50c1fc6c1e94165af41450
+FileChecksum: MD5: 7c73b48f9c9660116360258852b1afab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/updatemsgs_test.go
+SPDXID: SPDXRef-item4111414
+FileChecksum: SHA1: 868bfb7b922edb7e51f199dc7df61d2e00f5489d
+FileChecksum: SHA256: 1065cd4d21e8de95dc3725e7c960c23740bbd4d7d6dd901da0c9b1ca09eaa538
+FileChecksum: MD5: a31e901664af49993f36bcc48fe903e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/init.go
+SPDXID: SPDXRef-item4111415
+FileChecksum: SHA1: 4ae166ace3420254f0c242f189fc727e29ac81d4
+FileChecksum: SHA256: f9ad47ab19b411809ee1a61c897d2a8a013c8bb682d48fc7e44331dc479a4587
+FileChecksum: MD5: 921b911e0a6d038dc856ad620064ee3c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/proposalopts_internal_test.go
+SPDXID: SPDXRef-item4111416
+FileChecksum: SHA1: ca30982b1769aa52721865aad0766cab9263f2d0
+FileChecksum: SHA256: 7ef64f0d5c6aed72ae5750c95e8be4570b96622b07d06e1e8114c40e27580c72
+FileChecksum: MD5: 6c117ad9429ae7a443282f39195db7ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/proposalopts.go
+SPDXID: SPDXRef-item4111417
+FileChecksum: SHA1: d5ff5a9ad9577a5efcdb072e32225671ac73f6c8
+FileChecksum: SHA256: 9bcadea26957bec3f5715155ef726b0d38827468302f85b96e5bb7a371893ea4
+FileChecksum: MD5: ce9cfa0f398e1ce9b0aaa3590b04ae2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/chanregistry_internal_test.go
+SPDXID: SPDXRef-item4111419
+FileChecksum: SHA1: 6acfbf44888f121926e425bd0948f07837209948
+FileChecksum: SHA256: 16af419ed8bffbce608bc7def6ed59c3fbae9f270173b9dac4734aee7499dc73
+FileChecksum: MD5: 03660f80962f38bd8fb6384c23c13124
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/subchannel.go
+SPDXID: SPDXRef-item4111418
+FileChecksum: SHA1: def664bdf6008c0a78332ef567e35e1aeaab0ce4
+FileChecksum: SHA256: da66e602544c5fceb8478d48325729ed1e3fd18204360a9f3d25fcf9a14e0d8e
+FileChecksum: MD5: cc71a6dd6eb65e7395b24d4abaa25baa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/proposalmsgs_test.go
+SPDXID: SPDXRef-item4111420
+FileChecksum: SHA1: 2311669208665b736def089d6ed3863d3a83bf16
+FileChecksum: SHA256: 43a69c35b7c05962090320caf4bd030af6f56a5f8ad65a115c8719404c0f7a95
+FileChecksum: MD5: 74910cea262436c58143ac630886cdc4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/proposal_internal_test.go
+SPDXID: SPDXRef-item4111421
+FileChecksum: SHA1: 1f6bf66a5ddbaaea72eee501b2c2a8ad5182602a
+FileChecksum: SHA256: c3804ee98c7dc1f4edf32b6735101982256488d300a6f78f8ed75eb306070d09
+FileChecksum: MD5: 90478c407d2bd1c3dad8288af69e201a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/appchannel_test.go
+SPDXID: SPDXRef-item4111423
+FileChecksum: SHA1: 929e151bb3eea86663adaa5e53c3b4aebab5afe6
+FileChecksum: SHA256: d459db5b51276c62887197b9854fc60669b094892c04b31284a4a35b44d57f0b
+FileChecksum: MD5: ef34d716ee5b60717bbac0de54aee73d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/update.go
+SPDXID: SPDXRef-item4111422
+FileChecksum: SHA1: 18a0899862691fb4fd6ad3186b6be5d66ffaeeed
+FileChecksum: SHA256: d3c40063ae745fa9c3db2045db715022780ef15f15e1120e0056f179112d9be9
+FileChecksum: MD5: 84fbdf248475a1e07354d058e464625a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/virtual_channel_util.go
+SPDXID: SPDXRef-item4111424
+FileChecksum: SHA1: c0459ac7a9c1b86f8056790a54543dfa9b63b10f
+FileChecksum: SHA256: 426f8a986ce2b0c4be6f07bff9c6a40ec69b515b99b61799f0764b5d53c2e992
+FileChecksum: MD5: e810f9a0f9a5e34dc694435acee53b63
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/client_internal_test.go
+SPDXID: SPDXRef-item4111426
+FileChecksum: SHA1: 6694ab0209e8f6e900c4f4f498642bcda5fb2dbb
+FileChecksum: SHA256: 4455f54ee5d7782d43cf82546f6556467df79b9196b1d12dc177771781e3c9c6
+FileChecksum: MD5: 9bb2b752deb8e2ffb4ff47827162b4a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/update_internal_test.go
+SPDXID: SPDXRef-item4111427
+FileChecksum: SHA1: 2509d7e879b84d5f21d56bd01e6a6a9fe896d7bf
+FileChecksum: SHA256: 004236b776d0b7b335c633c581d15f461c88e028a08445219dbf1c3116cfb6bb
+FileChecksum: MD5: 3fe5b805419442ea43b72b88d82a003e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/client_test.go
+SPDXID: SPDXRef-item4111425
+FileChecksum: SHA1: fc55c6f216611ddc75fd52575ef57ed52fa97e79
+FileChecksum: SHA256: c6a57ec05903435ae68a6d362b58e6994763dc89c5233c4be3b12176bf9d4c01
+FileChecksum: MD5: 111c70d52af3e4bdc67e4ddaf1fab7a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/client_role_test.go
+SPDXID: SPDXRef-item4111428
+FileChecksum: SHA1: d4db7cfac052132a224bc3657721a21d286c8ddf
+FileChecksum: SHA256: c0879ca3082bf0fcb1eda04f53ec579b20b56835073154652aab52852c6b31df
+FileChecksum: MD5: 17e2199ec2168257c8ed98889043bd9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/transparentchannel.go
+SPDXID: SPDXRef-item4111429
+FileChecksum: SHA1: fe4526b38c0402773f08d6b38e4f223b271bba73
+FileChecksum: SHA256: 142a9607e2d92951fe57f48af51e5163e99eb472b30d2e4c5054cf8a3d8944ca
+FileChecksum: MD5: 3b70e01cadded3eebed01b460e2394ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/init_internal_test.go
+SPDXID: SPDXRef-item4111432
+FileChecksum: SHA1: bc2ead893d8ac17106837c8df5dba7d020cb8280
+FileChecksum: SHA256: fdc31ce9f223b7e2fba8bc159153511901d625974a80cf0a54654d180cc58a7c
+FileChecksum: MD5: 2b61d72531c0244935d9ec2fc52a23c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/virtual_channel_settlement.go
+SPDXID: SPDXRef-item4111431
+FileChecksum: SHA1: e5e81fbde68d20b7605cef899c186beb6afa706b
+FileChecksum: SHA256: 67ffcbd466e9b9db5c6dc80a2b176d6349d2c6c68a861b5f6cb3c608d9b84db6
+FileChecksum: MD5: 995412b3ed16533e7b9c32bded0782ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/adjudicate.go
+SPDXID: SPDXRef-item4111430
+FileChecksum: SHA1: f06623ccf992ad1345d35ef833e5aca2a2f4471f
+FileChecksum: SHA256: abb07eaf6f6f6ceb3f80923f06a2e1b7ee1a8882f7f03e11dcbbfa191f96c68a
+FileChecksum: MD5: 925433641a8202a4779fc0afce720794
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/failing_funding_test.go
+SPDXID: SPDXRef-item4111433
+FileChecksum: SHA1: 56a6792277f259b73cd52997f3283b8a61d72f33
+FileChecksum: SHA256: 2b61b685a07492194fd8a0a0b910c48725eba867aa2d1832d70ff6cdf7c17afa
+FileChecksum: MD5: a54518d4d00e2e8b479dab435f643eb8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/doc.go
+SPDXID: SPDXRef-item4111436
+FileChecksum: SHA1: 87185fa7b6289657e8c2c15ade11445475ea9da3
+FileChecksum: SHA256: e180934c338acad9ce0799a70241dc5268715449c3cd2d2da77d97edf05e7cd5
+FileChecksum: MD5: 74f8abeb3520f1d7a1d14cca900588c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/responder.go
+SPDXID: SPDXRef-item4111435
+FileChecksum: SHA1: 2040e298c4a589213b4bc7f313715b5d8436b97f
+FileChecksum: SHA256: 289c02a2719ccff6225c5da06e39a5671395a87c87492c8f222b5f2dde0a53d7
+FileChecksum: MD5: 7d8b4b94733890e57f311fb30cadd938
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/mallory.go
+SPDXID: SPDXRef-item4111437
+FileChecksum: SHA1: 1904a87854260d0386b9318b5156a3464b25b5de
+FileChecksum: SHA256: 18709a6a2aadc04f62aead20fa36f039265cc8809aa0155e2b8fbf90306315f6
+FileChecksum: MD5: b3b13d036b729a2bd8b7dfcc637063b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/handler.go
+SPDXID: SPDXRef-item4111438
+FileChecksum: SHA1: 6df9803f163b0ce6f95ad2393d333f6503a1c210
+FileChecksum: SHA256: 0e0e38ebd6fe16c39f232a4b17a9b6b5f4792db8cec3cd4dbad677b74cc0e3c0
+FileChecksum: MD5: aa3cd14565bddefd85e9b762b0c738a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/channel_internal_test.go
+SPDXID: SPDXRef-item4111439
+FileChecksum: SHA1: cf56e79269ebed3798af0e68f2f8540f0c8229cf
+FileChecksum: SHA256: 8d79ff448aff6c0b3375ceec8354cd8173e954a8a80609a0521453e30e9e68a2
+FileChecksum: MD5: 96b95d3f7316567b44f0089786d7ed50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/carol.go
+SPDXID: SPDXRef-item4111441
+FileChecksum: SHA1: 28d42d584ee0b3cf232722f1e4fdf3e2b34df784
+FileChecksum: SHA256: d263b3dbc6760f7004a8387285e0d96f8d1ca13b180ad20b61ab28b06c29e52e
+FileChecksum: MD5: dddbf3dfbf63d867f3c54b1c2bd0385b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/subchannel.go
+SPDXID: SPDXRef-item4111440
+FileChecksum: SHA1: e37af90ea83f2ae83ed76539c8d6be87b35e3840
+FileChecksum: SHA256: adbadfb4d2b8cdfbd32fa98499b5a2e763ee45014af4bfebeebaec4fe3bc6696
+FileChecksum: MD5: e803f5c936bcd8e35d4d485915c368d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/proposer.go
+SPDXID: SPDXRef-item4111442
+FileChecksum: SHA1: eb8e60c8655e507cbfc33f7b5dbd0fa2f652e063
+FileChecksum: SHA256: a1d0cd4979170ab1bd3beac31fb5441878cba89827d928b9891d275e14f061ad
+FileChecksum: MD5: 05879a51e0497c70a31a96c42c2a3e91
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/bob.go
+SPDXID: SPDXRef-item4111443
+FileChecksum: SHA1: 7ffa1643d6105edde836f49c434772603744cb52
+FileChecksum: SHA256: e4069ad0e7dfd0a7b617237b4a31a9a5bcaacd59d5aeceecb711d14112ef9380
+FileChecksum: MD5: 9de0187cd7982428acf6183c2e41840c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/syncmsgs.go
+SPDXID: SPDXRef-item4111444
+FileChecksum: SHA1: 38f78f20fcd3f0bcd3d6dc7bee76bf644587ac94
+FileChecksum: SHA256: b589c1de33ef808c8997474817e09130da1b3de6dafd09921f80fdaa2a6560c1
+FileChecksum: MD5: 7b9319408c6194ceee71b1bb7b713743
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/multiledger_happy.go
+SPDXID: SPDXRef-item4111445
+FileChecksum: SHA1: bdd8fbdcb46e90134b278e94a3005d7dd7b6d14d
+FileChecksum: SHA256: 6321ad36b84f86896e8d352ac7e13c52e01bfe153fd1bce66fd8cfa65295db00
+FileChecksum: MD5: 399bf2681391d837992d19590e4ce450
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/proposalmsgs.go
+SPDXID: SPDXRef-item4111446
+FileChecksum: SHA1: 6682240deee707973359dda076ca4b5845c8b86d
+FileChecksum: SHA256: 15e74d3d87faf50d8080eacb176a5ec54c0cee775067295ce67adb0167c10b51
+FileChecksum: MD5: 1b25b4967f122074524032bee865ad1e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/multiledger_dispute.go
+SPDXID: SPDXRef-item4111447
+FileChecksum: SHA1: 1493ab5fe58ef837e100c657c4064d7bd59494e8
+FileChecksum: SHA256: f321752ee807bdcc0e3f86127f20f22e28525a3cf5602de509f525b4ef77291d
+FileChecksum: MD5: 5760b7970203578bf113fd99b831a25b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/fund.go
+SPDXID: SPDXRef-item4111448
+FileChecksum: SHA1: 348b3e1ec6dba813421a212a91459fd788f085ff
+FileChecksum: SHA256: a5fbc43471716e64808e247649f13d620376723e5c1f735a96e03b796cfc7ad7
+FileChecksum: MD5: 13204313c7ace62e96ff66a999dd82b9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/multiledger.go
+SPDXID: SPDXRef-item4111449
+FileChecksum: SHA1: 884058f4c550960af256206abd4283a5eb954eda
+FileChecksum: SHA256: 7bdfedf9a853673da9e297f137979f18a7443ba06c02eed7a9cfe429a06f7f86
+FileChecksum: MD5: 610d89019cfc30d94201a30b6188b633
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/backend.go
+SPDXID: SPDXRef-item4111450
+FileChecksum: SHA1: 508c4dab28758c024601484568e3b6b179b62e35
+FileChecksum: SHA256: 33aeb8562973abe650354ff9596c8c85cfadd4859acd8cba8605dd4b2202eae9
+FileChecksum: MD5: f143e7651bc3f1e96b28d9a14e3a9461
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/virtualchannel.go
+SPDXID: SPDXRef-item4111451
+FileChecksum: SHA1: 6c660b472b48441db104bb05ba93bac7598d45cc
+FileChecksum: SHA256: 1ac0a6ca9bb487722123c9eb3ef02b1f38167d33d8916ef2ab8b6934ae79603d
+FileChecksum: MD5: a9fc4d0030f634efde09637f0e7b9b7f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/role.go
+SPDXID: SPDXRef-item4111452
+FileChecksum: SHA1: 9053f747160c6c02285d82ffa66b3885d76a583b
+FileChecksum: SHA256: 2fabf3f48f294e698b2b3791bf7a443bca4f1e934a6693238025971d7f3d66de
+FileChecksum: MD5: 2feebd2751653cce87eb095df49d3313
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/persistence.go
+SPDXID: SPDXRef-item4111453
+FileChecksum: SHA1: d6a3b75de033786075ace508e468666a2c484387
+FileChecksum: SHA256: b3597f1668ca4bcdd54c6b28ef4aa4ec99b24d3f790b3f74e96053541b11d832
+FileChecksum: MD5: 6c626176df83652d8610ff79169ba3d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/updatemsgs.go
+SPDXID: SPDXRef-item4111454
+FileChecksum: SHA1: 605c98e46c3c2019cb2360a2eedd086870012d08
+FileChecksum: SHA256: f59f0d77b2d617c7fe7361c1afd758b7e13fd9c1e4471fb6d8a1791d3b0f1641
+FileChecksum: MD5: f2b91f73ccf9004ed6035c291f8a1778
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/channel.go
+SPDXID: SPDXRef-item4111455
+FileChecksum: SHA1: f6ade8ec2793168fa338989ea8b584a224ddad1c
+FileChecksum: SHA256: 5436dcca1a6c4a41982ea0bfb13aaf3a1da77c65e6b4626ff9a9f88444488fa8
+FileChecksum: MD5: 64bc13baa8f458a44bd18f3ca114ddfa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/randomproposal.go
+SPDXID: SPDXRef-item4111457
+FileChecksum: SHA1: 0c2855195fb0f6889b272ed368640a09421660c5
+FileChecksum: SHA256: 4e8628231be6877b6b453cb998d54d28e638bbdc037e86ba47f047cffb2fad8e
+FileChecksum: MD5: bd2b564e3bdc4ca2f9e3204f9806abb5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/progression.go
+SPDXID: SPDXRef-item4111456
+FileChecksum: SHA1: fe16ca92337870ba2fbe36df6c7e7f317b786367
+FileChecksum: SHA256: 41c01449c7d0ce10bd4975545338b8a89a3190d1260cb5e5f1c47977055b7520
+FileChecksum: MD5: 567995bfb40888712387cb666eae59e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/alice.go
+SPDXID: SPDXRef-item4111458
+FileChecksum: SHA1: 4c3f051407801cb704542eda5c3e05f2d903b91a
+FileChecksum: SHA256: c8a9484a81a1a5758e8cb7aed30ea0d35f479e98c45065a112b1f9fd9f7f86b1
+FileChecksum: MD5: c8b4b190a87266e16cac46d99704bdcf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/test/subchannel_dispute.go
+SPDXID: SPDXRef-item4111459
+FileChecksum: SHA1: a5156d163213c347f3ac626081cb0addf10715b8
+FileChecksum: SHA256: 76729806c8c0b1d5f7366ced9c4c38c771b43868c52b54177e77d117ab5feaed
+FileChecksum: MD5: 63524cf263b952c84067854e4e745815
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/chanregistry.go
+SPDXID: SPDXRef-item4111460
+FileChecksum: SHA1: 6e28b70cdd7dffb73769cfc0223e8753e94d9c11
+FileChecksum: SHA256: a9b3e37814bb768a2941949a4800f4a4c72387dae8f1684c1bbb25839c0ccae4
+FileChecksum: MD5: 02eaa990831b13c8cccf149dd04f9a31
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/testchannel.go
+SPDXID: SPDXRef-item4111461
+FileChecksum: SHA1: 08fb7c1be2d539100268127a0153f15b8a9f6eae
+FileChecksum: SHA256: 3cd72120bb2a0054b433adc4127b2c67078d2dd4dd7264bf0b7903fb0c954fd2
+FileChecksum: MD5: fb826f693380fc53040027919c6b9f1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/syncmsgs.go
+SPDXID: SPDXRef-item4111463
+FileChecksum: SHA1: 0e6b4d8d715b5cf7bfdcacc190250cbc3ca26035
+FileChecksum: SHA256: 4babaf2b082ba6b2c90e3ecb27127bc27efb7e66a1105902d8297ff4eec9533d
+FileChecksum: MD5: 2cbab3c394b012178eefc14f84dbfe50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/errors.go
+SPDXID: SPDXRef-item4111465
+FileChecksum: SHA1: f2164f943b124687463f653d2831f94e6763515f
+FileChecksum: SHA256: 5f70d87cb15e424d7a02a8f053aba2d4160c6e02cd7686735065683835c711f8
+FileChecksum: MD5: e34e04f2d6ba2233fd38e54aafbc2fd8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/restore_internal_test.go
+SPDXID: SPDXRef-item4111462
+FileChecksum: SHA1: 965a6bb0a83ec8f2214c261c5e0412647c3a90f2
+FileChecksum: SHA256: 8d8f59b24fd31de965755fa4ba762b6cb141d237e5ecd79be60f499ff7a3f46a
+FileChecksum: MD5: 084d82b697d47a89a043badd8b72d532
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/virtual_channel.go
+SPDXID: SPDXRef-item4111464
+FileChecksum: SHA1: 9f08f4e4e8ec970d917dd4f37c7ee9757ffd57d4
+FileChecksum: SHA256: 5c4ec6e104fb131c1766cff47cf97a87cf1d503e9849b6c4e504f6109870ef46
+FileChecksum: MD5: 2a4e70babc93361781d17f6e3d39335c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/noopStatesPub.go
+SPDXID: SPDXRef-item4111467
+FileChecksum: SHA1: c8eac65336c872c777654e493458e454c278b698
+FileChecksum: SHA256: b2d7170bc73803e48de9aa283afba6912f19cda8e0fae83efc68bb362989839f
+FileChecksum: MD5: 6579fc3d99e14da79fd72c6fc40e1b2b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/proposalmsgs.go
+SPDXID: SPDXRef-item4111466
+FileChecksum: SHA1: 391c4160280809531c1f2c8d0a50dec29413130d
+FileChecksum: SHA256: a261b3d9f48e7c04cf242de62d5eb70eb7b3e3cdb9a38961987e0e1f1fc4cee5
+FileChecksum: MD5: a12f38f75ea58c7554146acd0e6ef0e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/syncmsgs_test.go
+SPDXID: SPDXRef-item4111468
+FileChecksum: SHA1: a5744bc41d38dcf842b706a47824e5db4be47e2c
+FileChecksum: SHA256: d769ead549c088d15f3c91fed82b34c1bac33449e04caf07bd8dd4c1366fb11e
+FileChecksum: MD5: db59a02e82c83b805ddf24b02e2b878f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/subchannel_test.go
+SPDXID: SPDXRef-item4111470
+FileChecksum: SHA1: 22ff48ce006cb08afa06e76edc8f6cf985c5c5e4
+FileChecksum: SHA256: e0496b0fefd28f9a0e0ee7581e3c03396b7b303e5726eec920577872bd061da3
+FileChecksum: MD5: 346eb8eaf226baa6f0407a0c850b4a01
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/client.go
+SPDXID: SPDXRef-item4111469
+FileChecksum: SHA1: 50529c78e8b1f3085e534d4f7ae997ad17d42a5a
+FileChecksum: SHA256: 046dc632a9a11a208bad6b059fbf204970038870a327c65aa16867c2be1a41f0
+FileChecksum: MD5: 4740b194dafaa223cd42a89742661eb4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/updateinterception.go
+SPDXID: SPDXRef-item4111471
+FileChecksum: SHA1: 0d432f69b474b35ecacca5f5061e474fe8d6be59
+FileChecksum: SHA256: eab31b0cbe6391e8bf88d35f17fcafb51d98050d6b7154cece34653e2fbc1f82
+FileChecksum: MD5: 950e80916dc2e13af27f86d267e6e66a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/restore.go
+SPDXID: SPDXRef-item4111472
+FileChecksum: SHA1: b4aaf85ca82e0e8e669012863ef17a6171e0e67a
+FileChecksum: SHA256: fddd641c555a52d87f15514c942314de2fc4da5d3205f59df155d0aaafbc99bb
+FileChecksum: MD5: 9867bf2f73820860da644706e2685463
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/sync.go
+SPDXID: SPDXRef-item4111473
+FileChecksum: SHA1: 0ae2e8ea5838b146742224c287ca1dec0c77cae6
+FileChecksum: SHA256: 8634c514163b27de205917d587bf603d533f60fc015b8de620a547c48a11b860
+FileChecksum: MD5: 9f7d91aa55a035d7d9f772a86e8a1778
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/channelconn.go
+SPDXID: SPDXRef-item4111474
+FileChecksum: SHA1: 0fbd75f45042cd9b85c189af946180c472d9fc2f
+FileChecksum: SHA256: 077a568078ffb0914f037fb6e227e7f594753dea879775148dd8d1673b41dc8d
+FileChecksum: MD5: 9c4fd2eb861b3302c247e6ce5e44c224
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/updatemsgs.go
+SPDXID: SPDXRef-item4111475
+FileChecksum: SHA1: 54c007e68a6a7f414a050dc37e685f94c2547881
+FileChecksum: SHA256: 2808414fd6ce536355dccf8366483f58e37ab8ee7903f420031e6a513ad2d02b
+FileChecksum: MD5: c5a8ecab761c793290c14a4c850c4b21
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/channel.go
+SPDXID: SPDXRef-item4111476
+FileChecksum: SHA1: da6765cabed354dfb58bd70d916c26bc7a55c1eb
+FileChecksum: SHA256: f083efe3f415ac045b0755af0ae137ad6d3adad1fea0290bb08e50b874e2b46f
+FileChecksum: MD5: 8c793089bb4170f445c964eb272a2cbc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/multiledger_test.go
+SPDXID: SPDXRef-item4111477
+FileChecksum: SHA1: febcae336851a6a551f9a73a6f434a36ae8a649d
+FileChecksum: SHA256: 9e1ad46582e0e35d252ca3fa82c93782ce3e230d96eaea7fdd57faabd4b6d864
+FileChecksum: MD5: 5360f6616f538abdac520bc3a5ac4178
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/client_persistence_test.go
+SPDXID: SPDXRef-item4111478
+FileChecksum: SHA1: 56ba976024df124ff2ce4338fac046a5b2e55368
+FileChecksum: SHA256: 2b39620f3b07354a968682275c9181e5c117c16676298338945ff559c6635f1a
+FileChecksum: MD5: 32d4148ec8d9353af64a3575c2897b41
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/payment_test.go
+SPDXID: SPDXRef-item4111479
+FileChecksum: SHA1: 99d61b8fad30e4cc43623ceee49dfcf033075bb5
+FileChecksum: SHA256: a203af73d39031986fd48d16e6e601656b23009797455ee766f57c4bcd61b6c6
+FileChecksum: MD5: d19ee74dcba15e2601fa0ffed5785f1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/client/serialize.go
+SPDXID: SPDXRef-item4111480
+FileChecksum: SHA1: f7eeb930d5ad3041a71b656fddcd94da96598ad5
+FileChecksum: SHA256: d8ece66d169074359659852a7cf9a6bee24ad7fdc020b77680f68f9c77764a39
+FileChecksum: MD5: deebbaf163904ce16dca3af73bb0bfa9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/apps/doc.go
+SPDXID: SPDXRef-item4111493
+FileChecksum: SHA1: da781d0f84a801bf5ab648cb6edb47bbfe615c1e
+FileChecksum: SHA256: 2277a2c193d48a1cfe0ddb511370e5b9714ee1cb5e99a9d2523c405e8ac86f1a
+FileChecksum: MD5: b564c5bf4aea4c9fcf3ee47e8af071bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/apps/payment/randomizer_internal_test.go
+SPDXID: SPDXRef-item4111495
+FileChecksum: SHA1: defcad8a2fdf932632e2b23a2481f98405e1196f
+FileChecksum: SHA256: 147d48abbfbd7ef817712965d7a2b4228ea832c6eb0f53acd07bd7843ea54434
+FileChecksum: MD5: edfd89a258212657a4b318b6b3ea4e23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/apps/payment/app.go
+SPDXID: SPDXRef-item4111496
+FileChecksum: SHA1: f475ee4bac6d8e3edd7ce7332567ea88e3485153
+FileChecksum: SHA256: 1c6a0beba12764e32cda9623c7b2764b7bb7c7695a7b99675407fdaaed7c7eba
+FileChecksum: MD5: fd944fd5846b79a155d8fa7c35357ab6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/apps/payment/resolver.go
+SPDXID: SPDXRef-item4111498
+FileChecksum: SHA1: 8b68ff89d9fcd48abeaf1459d01b58919e167d18
+FileChecksum: SHA256: b7e2296794ead2f60d1c29aa0ce478b1826e1b42ffe6453843fce785069dd26a
+FileChecksum: MD5: 8af74eea6a050f0ebee656a86d171a58
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/apps/payment/randomizer.go
+SPDXID: SPDXRef-item4111499
+FileChecksum: SHA1: e1de31a8a47da7448efed5f5899ea3eeaa38862a
+FileChecksum: SHA256: 97619258ab4ce9a1f53983e7a2a48eef2250b3863fa0541ab2264f194fb27abb
+FileChecksum: MD5: ff07fbe506988c3d84d44cc86a7991be
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/apps/payment/app_internal_test.go
+SPDXID: SPDXRef-item4111497
+FileChecksum: SHA1: 931655a8ca79b59834782a00cb5705ebc93b3b11
+FileChecksum: SHA256: 418414c542a437745003a1faf148653aa62b43f40beb5f30747dc49ec9b1b23f
+FileChecksum: MD5: 17462fa6c66505c679d88ff197a53eb6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/apps/payment/resolver_internal_test.go
+SPDXID: SPDXRef-item4111500
+FileChecksum: SHA1: a3028fda89d36b0117f2b114f6018777e82f9da2
+FileChecksum: SHA256: 05cd4d3e1f92d4433e8b304e6aa463705f9ada0e4ee457efb5d3c85e7d32b53f
+FileChecksum: MD5: b2815138f23b4be7cbb34d6de80152cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/appregistry_internal_test.go
+SPDXID: SPDXRef-item4111502
+FileChecksum: SHA1: 9656b863a03f7f5316add7ba970e6d7a81e2f1f3
+FileChecksum: SHA256: 00fc1994cbb6938a0fd0f342414be8b226f64a5b734321a4844405810465be69
+FileChecksum: MD5: bf444e47ce9537a8665c881acc5d78b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/appregistry.go
+SPDXID: SPDXRef-item4111504
+FileChecksum: SHA1: b26f96454b8a6d96906beda5ed363e5668420fd2
+FileChecksum: SHA256: 0e5e14250d88693406b39241cf678aa4c6d92ae4d2a702b53dc080caa67efe28
+FileChecksum: MD5: d9d81dbd7b707169930c3c62719db20c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/doc.go
+SPDXID: SPDXRef-item4111503
+FileChecksum: SHA1: 218e59ee216a1e475314e95e51a7eed8c229276f
+FileChecksum: SHA256: 396276017340182e92363a2857aa483b4fcf76292ec3addd0409227fb072c346
+FileChecksum: MD5: 27d9d07cb4bb69b04c2b76c74f98309d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/app_test.go
+SPDXID: SPDXRef-item4111506
+FileChecksum: SHA1: 863d9b736697d524c5cae6c166643ae098b6ba06
+FileChecksum: SHA256: 2562761eac5f480b7baa8e5733ad06773ab27542c85755f2371e6be15d045600
+FileChecksum: MD5: cb5fbbcd889e163413bcb76f37719e1f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/app.go
+SPDXID: SPDXRef-item4111505
+FileChecksum: SHA1: 018a091d7fa4b47202d9734069c2785459b05797
+FileChecksum: SHA256: f6b69b47a6a4d3fb8980dbc723cf9d29d33f14cb090a98023a85cbe4e4b014b9
+FileChecksum: MD5: 45e66dd77216b60d9f2f4f5aff9092ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/transaction.go
+SPDXID: SPDXRef-item4111507
+FileChecksum: SHA1: 44bf3713e5b6eb624f68f8d48865c9b016705f12
+FileChecksum: SHA256: eabfc5dd55688cc4caffae379c1d5d5c48c1613bdb64a0b038e3c2392afd4793
+FileChecksum: MD5: 0f20d8d1d90c91f41790cc8e250d3cbd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/doc.go
+SPDXID: SPDXRef-item4111510
+FileChecksum: SHA1: 0a48c73d3286dda71795fd9f5b2cdbc3d9ae5738
+FileChecksum: SHA256: 9c65a6db403f287c3efa5e4e6395a8a6dfbb8e0862856e293c25d861de8f3660
+FileChecksum: MD5: 99caa087a39ba291176d939ef7b5d54f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/statemachine.go
+SPDXID: SPDXRef-item4111508
+FileChecksum: SHA1: a028189445ca6172141f11381f95263c77bc62bd
+FileChecksum: SHA256: ac304c2ad9aa697c60b41dfc449af0c4ee2a775c953028d16bd74bdb4b3370c0
+FileChecksum: MD5: 360137743c24dbd9233f0ef5e32f1e5c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/keyvalue/cache.go
+SPDXID: SPDXRef-item4111512
+FileChecksum: SHA1: f8b2ba40406838223ad3839102e444c0cefb6e74
+FileChecksum: SHA256: f9e663237921f429da93f33015b4568834e2c9ec1b05ff03964ab495fb5a950a
+FileChecksum: MD5: 69e4b248c935a1c4bbada9ddd23c62d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/keyvalue/doc.go
+SPDXID: SPDXRef-item4111513
+FileChecksum: SHA1: 8eacdc2155a2d97bae81569b67579c4e728d6002
+FileChecksum: SHA256: c42f7754a571b114817f885bade045ba2879b6f30edb8596b7f4c85b63cb41e5
+FileChecksum: MD5: 29f3f9d4df1ec800467af6125abb9caa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/keyvalue/persister.go
+SPDXID: SPDXRef-item4111514
+FileChecksum: SHA1: 55a136d5c9b7363f919c67641cc920e42783b12f
+FileChecksum: SHA256: b003e1d7ddb64eebaf85fe9926dfc9456664c126bf6cb04cc910784f1dde1be6
+FileChecksum: MD5: 2e4ec43fd4fe69ed414b4fdcdc49540a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/keyvalue/persistrestorer_internal_test.go
+SPDXID: SPDXRef-item4111516
+FileChecksum: SHA1: 2bc77592b2de422ede333d633d2b946157a37f74
+FileChecksum: SHA256: dea6ba3f4a6eaa6dd29935fc24ca716368284c3c6721ce464a8b1fc1dda23d39
+FileChecksum: MD5: 98a3db52c0c0ce83d9e9dc49782e20e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/keyvalue/restorer.go
+SPDXID: SPDXRef-item4111515
+FileChecksum: SHA1: def0b37dde102cf0c0d13c1732f147db06b55647
+FileChecksum: SHA256: ac38fc55299f3e2302dd90e8e1ecb78d4cdc883b4b5135cd672e826283a34db0
+FileChecksum: MD5: 3f9f3ca1a818ade863bcf0017cffa0fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/keyvalue/persistedstate.go
+SPDXID: SPDXRef-item4111517
+FileChecksum: SHA1: 7d52138447da7709cec07689bb9de21d16f4dbca
+FileChecksum: SHA256: e635539d0fbe78c7dccccd5b692a304026469b49f3842de67f3f6b27b09c5649
+FileChecksum: MD5: 0d80e28964ed2a22e4cdfac4ce07baac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/keyvalue/persistrestorer.go
+SPDXID: SPDXRef-item4111518
+FileChecksum: SHA1: 97510fbfca3d9d288e2d1b0c95aa554d46899d06
+FileChecksum: SHA256: bc2487560b6466ad3efb1b57c282ff9315d66c3b014694d899598d73a13eb38a
+FileChecksum: MD5: c4beeafb26b0dc5352e9d6a540d757d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/init_test.go
+SPDXID: SPDXRef-item4111521
+FileChecksum: SHA1: a19dec2c0be7c350431242f7a065a7a78539e4b7
+FileChecksum: SHA256: 40034b3189d821604a48c7732c580a318e6db0dc1658c17b9f050bacfcf9f911
+FileChecksum: MD5: 0ebaa898c8f66115c774fbe8710b5150
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/statemachine_test.go
+SPDXID: SPDXRef-item4111520
+FileChecksum: SHA1: cadc427b9669a9ec965a073ff7466b0d4332918a
+FileChecksum: SHA256: 8ea40c7cc0dec88c51c081c018f631cc53fa056e01ee45c27054d5d8a47a872c
+FileChecksum: MD5: de9c514d6af968390dab1aa4a4b63669
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/statemachine.go
+SPDXID: SPDXRef-item4111519
+FileChecksum: SHA1: 419cf94c1277f982217dc0b18c639cb8480d0c24
+FileChecksum: SHA256: a5a5a0e0c8f1600ace9ba33dd87c425abf968ab0cb85a53958393f2642c17a7f
+FileChecksum: MD5: 6f61b472b902845b37b461300ed4fe9c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/nonpersister.go
+SPDXID: SPDXRef-item4111522
+FileChecksum: SHA1: 44075a6ba148af0ecfa8b8bbce5b57c8c7c79fe5
+FileChecksum: SHA256: 638fee4f6b64c08f4fb7ac1fcf5c53cf440444eea977b26f77550f2e43584764
+FileChecksum: MD5: 65f40d538c6b4b7468cf6146d1699de2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/test/peerchans.go
+SPDXID: SPDXRef-item4111524
+FileChecksum: SHA1: 53caf0a41c9172f9b91f15ab1769cb9850c30fcf
+FileChecksum: SHA256: 7592d32c104ffdc8dffb877d792091e8682dce02f9a7e9ebbe45ceb4eede83e2
+FileChecksum: MD5: 2164169f36ba7fa5284ea04fa80d4c41
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/test/channel_internal_test.go
+SPDXID: SPDXRef-item4111525
+FileChecksum: SHA1: 7ec6f1ce83f4a4abbf8d329734de6009f6c04bea
+FileChecksum: SHA256: d53326cc5dc3679326aa95a6a7b03e57cc22f0017830af24c49cba853a627ecd
+FileChecksum: MD5: 81e1800247444f0b381a18a34e9e6d5f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/test/peerchans_internal_test.go
+SPDXID: SPDXRef-item4111526
+FileChecksum: SHA1: d08625b18e4fd5d70459a664196f10158d399ddc
+FileChecksum: SHA256: a3626997e6592fbe1a980573622aef78ecb975aba5c07fa0518a48629099a1ee
+FileChecksum: MD5: 8cf66492687da147452a24ea171b9408
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/test/persistrestorer.go
+SPDXID: SPDXRef-item4111527
+FileChecksum: SHA1: 05606b31db3c05f9cbb11829e51fe802147b1872
+FileChecksum: SHA256: 6e476ccda30dc45711c19a2ed0c967a0446a8357a976b4b7f9806953f427f565
+FileChecksum: MD5: dce3ea8589809187e01e3ea9ba3f5ebf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/test/persistrestorer_test.go
+SPDXID: SPDXRef-item4111529
+FileChecksum: SHA1: 90808cf0e6ea7287d6f4d880298c7c51148a46f2
+FileChecksum: SHA256: 56e4001dcff1834a9cebbcd89d643d3f3f1d34a0e8d5fd108abe379c449e7a15
+FileChecksum: MD5: 87712e0e4271d2ca13afd07794c7a49b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/test/persistrestorertest.go
+SPDXID: SPDXRef-item4111528
+FileChecksum: SHA1: 1393d69678a9790f9386a6549011db9a41ac8473
+FileChecksum: SHA256: c1c8da28126efa361da0020c115eed5165d5df3e1b0efbde4e23a3e77090d50e
+FileChecksum: MD5: ac02d4dc8e70f091e4f3a25c4990de28
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/test/channel.go
+SPDXID: SPDXRef-item4111530
+FileChecksum: SHA1: 0153526523f8a55e9e97db6353596258e308b7f8
+FileChecksum: SHA256: a9db42f387c9e70b800607fec210693e125a5aa4db57694368db94ce367d23bb
+FileChecksum: MD5: 5531a86b457ac5f847b1211c00d030ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/persistence/persistence.go
+SPDXID: SPDXRef-item4111531
+FileChecksum: SHA1: 4542aa5b645eb4f8ad115a95cf18faef2ef92656
+FileChecksum: SHA256: 31ce3583364430e5a08c48446ce9be22a2e6d8ed40e986774ccb59728ceee776
+FileChecksum: MD5: e61427444e542cbfd31961d67f15b5fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/mock_app.go
+SPDXID: SPDXRef-item4111532
+FileChecksum: SHA1: 21fac8b801832a184382deb99a405a8147c68756
+FileChecksum: SHA256: 7b3f29869a84e3f25c7605cb9d37021114832150c322fb52d5acf1c9c6a22751
+FileChecksum: MD5: 78288bbcf79fa57b2ceac1df3135fcb2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/actionmachine.go
+SPDXID: SPDXRef-item4111534
+FileChecksum: SHA1: 3ca9915b7e0d2978a403d6111bd0d5ed27cbb64a
+FileChecksum: SHA256: 5eb36918b26a4749565c57b398255d4645c1b1d7190cc811d67e0be58f951b83
+FileChecksum: MD5: 64f4a5aee10ac6d6f8a1ec9a0ebe5a85
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/state.go
+SPDXID: SPDXRef-item4111533
+FileChecksum: SHA1: cb72114f034ebf4b8af5e6452993279cd179bda0
+FileChecksum: SHA256: f2eea3ddc14df2233a8960f3265cad08bbd65fffa6aa6ebe65c5466ee3aa2ff7
+FileChecksum: MD5: d94fe31ea0213d0f5755fcea269ba4e6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/allocation.go
+SPDXID: SPDXRef-item4111535
+FileChecksum: SHA1: 18e42fdc5a3e4a74338aef7ee338076e299ff3a3
+FileChecksum: SHA256: ae86a837fbe90218974e8b2a02aee980b948d4512238750a0c04ff7cbee51507
+FileChecksum: MD5: 9c12e486be52d22ae86fd4a49a22737a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/noapp.go
+SPDXID: SPDXRef-item4111536
+FileChecksum: SHA1: fb7e59642210d29bb8cc1ae7e45c1c237ee3a9f7
+FileChecksum: SHA256: bd5a8a49842a739e9e2672368ca385c704f6e34ad7d862018ed63f63c4349196
+FileChecksum: MD5: 729266a0bffc0f1bd92044c6833522bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/adjudicator.go
+SPDXID: SPDXRef-item4111537
+FileChecksum: SHA1: 980e744a9175e18d9d3bea6d6921c6e59bcb6155
+FileChecksum: SHA256: 239ba033159526463527d8c62f3e7f91715a9794a08018fc3a310fd042e50229
+FileChecksum: MD5: 8ce88f42a9abd9840500c163ef4bb966
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/mock_app_internal_test.go
+SPDXID: SPDXRef-item4111538
+FileChecksum: SHA1: 18119a1469f8a5f3d8a3c929fd34797f40cb696d
+FileChecksum: SHA256: 6e5d98f9d533b4e7e6e8cb2984fcd8b4b822dd7a01502610398ce8e0bb9cbd60
+FileChecksum: MD5: d2f04539a15afc60b0bf1b36666ea242
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/errors_internal_test.go
+SPDXID: SPDXRef-item4111540
+FileChecksum: SHA1: f3ef03ba9986412013a581fd639f83f92dba2e76
+FileChecksum: SHA256: eb2941c3b72252332d18a0bfa6ae2bb97bc5c619bb73f0f84842d8f6e1e845e6
+FileChecksum: MD5: 928a65d66a75a835dc699586a0d0e86c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/params.go
+SPDXID: SPDXRef-item4111539
+FileChecksum: SHA1: beee5cdc25bb370ed0a545bd07c731bf35bdfeeb
+FileChecksum: SHA256: 3cf5b684604912bbf6ede6e039221a9f0336c13750a65eea05f58378ddca05a2
+FileChecksum: MD5: 3ad066b48835677a3b904d514c5311a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/test/doc.go
+SPDXID: SPDXRef-item4111543
+FileChecksum: SHA1: 330bc2a120a9b04f7b874f4730b792a75c648afd
+FileChecksum: SHA256: a062b9158e7a680b408985ae27a9eb4257a4cc300a905d9bf353e062ee23cc15
+FileChecksum: MD5: fe6c42183d264027ebba4b0014d44408
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/funder_internal_test.go
+SPDXID: SPDXRef-item4111541
+FileChecksum: SHA1: 344138af10850aa487526256aa9a65086c4d0d26
+FileChecksum: SHA256: f861d079e3bf63124b5b7f75ecb983f3b1a7f83bf2950226d6def65e4b6c053c
+FileChecksum: MD5: 6f5cf62d43040f085293c20406f5ebd5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/test/app_randomizer.go
+SPDXID: SPDXRef-item4111544
+FileChecksum: SHA1: f886e7b55e1b324da635d47dc8453b54342267c5
+FileChecksum: SHA256: ffebf068ed4bf81eb19add1fe064fc9982c2584efa73e6e9455313525908ff8a
+FileChecksum: MD5: 5c848666bb62f9038f5d46e495706a8e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/test/mock_app_randomizer.go
+SPDXID: SPDXRef-item4111546
+FileChecksum: SHA1: c22658634eab1d5b50f8573deb4d84b67df4697d
+FileChecksum: SHA256: e0ae8389a516933f7b71565188488d547998e2a055ebde7cd315e0fa2fe51b31
+FileChecksum: MD5: 426a8e478f5b2d2e2143eb3f7c3c5e3f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/test/randomopts.go
+SPDXID: SPDXRef-item4111545
+FileChecksum: SHA1: 43ed03afd5c4c23c332c2350f99916f83629b183
+FileChecksum: SHA256: a9982056eaea43c45af2ea8046fef78c624b7ca34addfda0dfed42fb91569d5e
+FileChecksum: MD5: adb2fa719c357a1654957e0325b7e0ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/test/randomizer.go
+SPDXID: SPDXRef-item4111547
+FileChecksum: SHA1: 9b3d1b0e02ee8e2be26aa261304c4919097d07c9
+FileChecksum: SHA256: 53505b41e1205f5fefa9d95e862f3d643982ea41d5585914198cd8c73770230c
+FileChecksum: MD5: 95fb8a3c4ed99e751ab34ff4e19a82e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/test/backend.go
+SPDXID: SPDXRef-item4111548
+FileChecksum: SHA1: 489b95a832dae76c63d1c6a5a1ee8d086884ca58
+FileChecksum: SHA256: 32fb6bc041a545ea6229ebabd1e10fe374479ef6a5a22ab91ab8e429ea740a2e
+FileChecksum: MD5: fd889bc7d39255495fba374cf8d81ec6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/test/app_randomizer_internal_test.go
+SPDXID: SPDXRef-item4111549
+FileChecksum: SHA1: 12a3fb9dbf056b756bfd4b4938ed070c4906000e
+FileChecksum: SHA256: a432e907a24a29d0d2b8edd68be122622c10986c59135bd4860256bbbbf201dd
+FileChecksum: MD5: ac8f29899bf16b44ff72991d80092610
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/multi/subscription.go
+SPDXID: SPDXRef-item4111551
+FileChecksum: SHA1: ec06871ba580366f1771b70bc5409b54100d9160
+FileChecksum: SHA256: 42b3b9fc7a8985127abbc3a0b951b68adb587e3d2fcf2125029a455e47f0fd4f
+FileChecksum: MD5: 2ca64e274f46ec9f6b974ab7fe79ebf3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/multi/doc.go
+SPDXID: SPDXRef-item4111552
+FileChecksum: SHA1: a474cbf1ff4a8a9036057aac1521e39a7c9b9487
+FileChecksum: SHA256: 95a05b7868d81470f1089e86f62d548a3eee004a71f76b5b9746b7134f530a72
+FileChecksum: MD5: 0680d112eb730b818a4c739482b129d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/multi/adjudicator.go
+SPDXID: SPDXRef-item4111553
+FileChecksum: SHA1: b63d252cb3be371c52783faccdf02df13d2d7277
+FileChecksum: SHA256: 2e4d233a9b8344b881da3edff08b1360f6c2e70898d19d4c24a7c50752947a3c
+FileChecksum: MD5: 22682ba24e56709d10a933ae64831a17
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/multi/asset.go
+SPDXID: SPDXRef-item4111554
+FileChecksum: SHA1: 5a8328eef75057497fc832cd326e9abdbc0a3423
+FileChecksum: SHA256: 5739e0e3f10e0ef566463d883f2e9d06fa3957467de0db0b8945e70cad285f7a
+FileChecksum: MD5: 3039ef2143f22f87ced18da930ce8c54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/multi/funder.go
+SPDXID: SPDXRef-item4111555
+FileChecksum: SHA1: ce110a80d79dad1d1877dcee98ab9a432f3f9eea
+FileChecksum: SHA256: 9af10e4955effd6dc322544f0af2764088b38524cce635bf074030cb0d1ba0d9
+FileChecksum: MD5: 7b1f086550ed8e8317f8b05a003f71ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/machine.go
+SPDXID: SPDXRef-item4111556
+FileChecksum: SHA1: 99303d0eb0e14776605093c9c59219e10ed60920
+FileChecksum: SHA256: e330aefd83f09c43a24ea099561fbc8839d0f6970f06d5e23b48b7ee4be3c87b
+FileChecksum: MD5: 21f2d1ac50da39f885253b6228c4384e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/errors.go
+SPDXID: SPDXRef-item4111557
+FileChecksum: SHA1: b1612f323ea3c79e446c2e9a98aa7ddfb65ed4b3
+FileChecksum: SHA256: ec9987d452d4e634b8f266a37bc5f789f0dc13a9becca6289a32dc97bd8e91e5
+FileChecksum: MD5: 3fe990b582a4c2642cc2c0bad6ccfa37
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/backendtest.go
+SPDXID: SPDXRef-item4111558
+FileChecksum: SHA1: 65cb5c74ae08f88e8692c25e43e01c8a41f3925b
+FileChecksum: SHA256: a318e876f7bf4106bc7013f19d64b588e10752951ee731c30824379467b6594d
+FileChecksum: MD5: 004ad1f6819af9130e39527da0a50bd8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/machine_test.go
+SPDXID: SPDXRef-item4111560
+FileChecksum: SHA1: 1dcae30674914e2612ca062fc5166071f28369c7
+FileChecksum: SHA256: 4acaf50e3a48995d55fbf132696e2e73fd0d1d1941a60cc5aecfd0e31037bec0
+FileChecksum: MD5: a5526101d483c9d6ae2b3edfa81f8c0d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/allocation_test.go
+SPDXID: SPDXRef-item4111559
+FileChecksum: SHA1: 2442fa51fe09093dc701cecf9febe1af6507c851
+FileChecksum: SHA256: b2ca532e65015611349888f883c0dd96d68abcc92039d011963910a020ab525f
+FileChecksum: MD5: a96a28f5eacdc15fa5a336e8a5f1100c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/transaction_test.go
+SPDXID: SPDXRef-item4111561
+FileChecksum: SHA1: df89c9b91d2498cf315ceb33555ccf37bd43c506
+FileChecksum: SHA256: 11db2fce26cbe97ae6e38d259a781d72f3ce089927053e6068e238a97afe83b3
+FileChecksum: MD5: d41232e23f1ec31c067ab91a2001b0ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/backend.go
+SPDXID: SPDXRef-item4111562
+FileChecksum: SHA1: c4f329de2e083950e6d8b5cae345008e0fb37860
+FileChecksum: SHA256: 655f7da60bc368b2189e52862459191d62f47e531ca965733e503deba9aca676
+FileChecksum: MD5: 0aacfda29ee2bfdfac6ef36519b36dd0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/params_test.go
+SPDXID: SPDXRef-item4111563
+FileChecksum: SHA1: 35aea79d334d129a856618294c4a19be393abde1
+FileChecksum: SHA256: d0f994d4553b06663e0200cb15ec46bd3e665aea28188a29f38c3724fb1522cb
+FileChecksum: MD5: c1f5bbf071e68ed062582aa6e69ed1c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/state_test.go
+SPDXID: SPDXRef-item4111564
+FileChecksum: SHA1: 7151a07c62288717b4a721078701e971dfbd77f5
+FileChecksum: SHA256: d2a9f2261c5ab7989612f1ed3c811c529cb263b5bc802c119a7ec7cec22fd63a
+FileChecksum: MD5: bd40e994a2adb7495ca3e7898637c671
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/log/none_internal_test.go
+SPDXID: SPDXRef-item4111567
+FileChecksum: SHA1: 6ef661c6a10cc991f2f99d6ceb2e0dc884339d08
+FileChecksum: SHA256: 3aa4da359e31877c907196c428514ca839147b2e8ce0255308ffeb83a83116a6
+FileChecksum: MD5: 2f05b767893d0c69cd79d562277020f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/channel/funder.go
+SPDXID: SPDXRef-item4111565
+FileChecksum: SHA1: f2e63878fbce74518e1a2643db7be83e32cb1cae
+FileChecksum: SHA256: 4ba94c3f770f5f262415aceb430968997a0a1c83079dcfa2d3e13a7b7c91d7a3
+FileChecksum: MD5: 84def8a37577855c516860536a9b6fcf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/log/log_internal_test.go
+SPDXID: SPDXRef-item4111568
+FileChecksum: SHA1: 90461beaa6ae71727a9850a1e944b0ea3be79d71
+FileChecksum: SHA256: 823700e924601518300d9a9c319341bde68f34d03f6e1df04c68224484b3b2ed
+FileChecksum: MD5: 5872401c5372fec9ee115a1f10624612
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/log/levellified_internal_test.go
+SPDXID: SPDXRef-item4111569
+FileChecksum: SHA1: 4de72b49f284292533e7deefafa7ba62d8ecdcd3
+FileChecksum: SHA256: 66f7eb0fd46e580ddf56ffd17a7fd1933eac3fc3bc032375d1347004c3cb20db
+FileChecksum: MD5: a665ca44245b53404113b0a9ed1be677
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/log/levellified.go
+SPDXID: SPDXRef-item4111570
+FileChecksum: SHA1: 53017b330f69a3da2d24577720a883e044ce5358
+FileChecksum: SHA256: f716d508aadb91575d83b11838528073577aa4be6d0aa4f127488357bdd27670
+FileChecksum: MD5: ef1db4b06f7e31d0d87f333c421bdde2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/log/logrus/doc.go
+SPDXID: SPDXRef-item4111573
+FileChecksum: SHA1: 10ecb6758f35ef75d3a240e916187bd01c1ead86
+FileChecksum: SHA256: fb5623df5b56863cd67b7ff05fc65f26fe0abb7cb36978c9ec9c29dd3880701d
+FileChecksum: MD5: 7eb2a491e716c361a89f9e708ed5b505
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/log/log.go
+SPDXID: SPDXRef-item4111571
+FileChecksum: SHA1: e053a245b523255c87d817f9f80dd8db0cda3ef6
+FileChecksum: SHA256: 27ef09831a48ea6fd70b38b868cb61a022dc44a007f14429297f0d0fb593c98c
+FileChecksum: MD5: 9296c9840571525f7e420a36ef708b18
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/log/logrus/logrus.go
+SPDXID: SPDXRef-item4111574
+FileChecksum: SHA1: f32394a139b59463610d332a6823cc7176e08ba9
+FileChecksum: SHA256: 9fefa80082bb4e08c66038858342433782372d3cb44e944235dfc6a8ae45fcf1
+FileChecksum: MD5: 81e49b09445a8ba3d941557206e0a1c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/log/none.go
+SPDXID: SPDXRef-item4111576
+FileChecksum: SHA1: c73ae6bf918352ff83b55e0df32961357a22c652
+FileChecksum: SHA256: 1c04b60ab92c9e2126fe117e0ff18b7079cda214d8e9331d4f90fc088770581c
+FileChecksum: MD5: 1d5b8133122eba09b700eefa1c11c7c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/log/logrus/logrus_internal_test.go
+SPDXID: SPDXRef-item4111575
+FileChecksum: SHA1: 33bd2716f6047c6766151aa0d1ab4cbec2f0e604
+FileChecksum: SHA256: 9c1d7e2fc89b83d12fd7e43f8c1a01ddea30ea882e1f8604b8daf9ae6f63f3a8
+FileChecksum: MD5: 6624adddea37d8a3a8fe8a348e0d106a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/watcher/watcher.go
+SPDXID: SPDXRef-item4111579
+FileChecksum: SHA1: dbace97e73325531f73f7b27670ff7aa7ad08c7b
+FileChecksum: SHA256: c4d09706855b49d58984eba173a4f3486ff47fd943c583b2fcf98580ba7a3afd
+FileChecksum: MD5: 7fd622cd949a441bac2eb0f8a25ab1df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/watcher/doc.go
+SPDXID: SPDXRef-item4111578
+FileChecksum: SHA1: d2452589c9f538c2221c2f6d240d92c34bb5cc94
+FileChecksum: SHA256: a33be9ac9a977b4278fe502eb807cb51dd52106cae0e58bf7bec63702cb732eb
+FileChecksum: MD5: 7071a506d093d6adfd8044d816e14510
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/watcher/local/doc.go
+SPDXID: SPDXRef-item4111581
+FileChecksum: SHA1: beb778a970c9abd9d545990f26fdf0fef0ba06f0
+FileChecksum: SHA256: 9149ec7e2200aea841e327148a0af9996864ea55aedf9f3fe15c28bc1335b8d2
+FileChecksum: MD5: 6590589739beb0634b4db35f22e80e07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/watcher/local/init_test.go
+SPDXID: SPDXRef-item4111582
+FileChecksum: SHA1: b941d390380fc034ce003478a28ef93f86c95747
+FileChecksum: SHA256: 8a2d397a3140a03a723e3ee6795fbab61a20dd2a02a221bccd03d1fcb02ba52b
+FileChecksum: MD5: fee15f16afda1e8390dd2bcc00d45f8d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 - See NOTICE file for copyright holders. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/.scripts/check-vanity-imports.sh
+SPDXID: SPDXRef-item4111387
+FileChecksum: SHA1: 4a3b2a302b1f2dce821b795dcbf49eb22824c882
+FileChecksum: SHA256: 00a9bed189da32206ef5857d64d6ec91d3357b5cea77edddfabbe15ce2b776e5
+FileChecksum: MD5: 4377100410fb6e0caf324e1c024c5744
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/.github/ISSUE_TEMPLATE/basic.md
+SPDXID: SPDXRef-item4111406
+FileChecksum: SHA1: 4f1b0d5176dd45df21698972b9cefc16b4ecc85a
+FileChecksum: SHA256: 92cc0f4485a4723555320ae6c76df7545ef762512d157e005e9dd37059701947
+FileChecksum: MD5: 7914699053adf420a2e63397d3e6be05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/.github/workflows/ci.yml
+SPDXID: SPDXRef-item4111408
+FileChecksum: SHA1: 7cdc4bb6a1a7736e81666fad235a733359edc0b4
+FileChecksum: SHA256: 1ad42544db14288313b92d42245d4c9e36a6e8765b5bdfbe955a5e6beb1f6bb5
+FileChecksum: MD5: 8db8e7beed74a99e1739c9f208aedce7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright:
+Copyright runs-on: ubuntu-latest steps: name: Checkout uses: actions/checkout@v2 with: fetch-depth: 0 name: Authors run: .scripts/check-notice-authors.sh origin/main </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/.gitignore
+SPDXID: SPDXRef-item4111481
+FileChecksum: SHA1: 6218c1c7ec695560330ef4872955b93820750bfb
+FileChecksum: SHA256: b9175b0e088749089ed975252cfaa193d821dae694c8fb425ef8020b23831595
+FileChecksum: MD5: d1351f8120b6841c265127f7623b36f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/CHANGELOG.md
+SPDXID: SPDXRef-item4111482
+FileChecksum: SHA1: a736615c4c949e077eb654050d182c94e79e19a9
+FileChecksum: SHA256: 4031a275984e7030795f948097b98d63d467609cd8fe0211a7e607749f4abeb9
+FileChecksum: MD5: 57c0d3545a1a719135c7263b4f937d53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/go.mod
+SPDXID: SPDXRef-item4111483
+FileChecksum: SHA1: 58f9f2b84ff80ea635c7d8011db067ff928089ba
+FileChecksum: SHA256: f798e66acf90affdd7a3b6c72525167b9522ed7ce78c848e91a79c6b171d14a3
+FileChecksum: MD5: d75e206daed79d67db4de736af30bcc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/.protolint.yaml
+SPDXID: SPDXRef-item4111484
+FileChecksum: SHA1: 79cc5951dbd679e06f02370b8113365881c54ddb
+FileChecksum: SHA256: 57ccff6114ffdbad4263bc34e9207f499177fa306a29fc66ed27577a1916a7fe
+FileChecksum: MD5: 686d68fc880b3b895d80f685f6a5077f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/NOTICE
+SPDXID: SPDXRef-item4111485
+FileChecksum: SHA1: 8d3df39677a4b4e94b0985a051756794cca28b60
+FileChecksum: SHA256: 49839dac3f8746a1e1b1450e31586d609d216c714f412e9a39e787c34cde3d6f
+FileChecksum: MD5: 5302318bc8590c9ea37aadfc12a5e31a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright holders and authors. </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/.golangci.yml
+SPDXID: SPDXRef-item4111486
+FileChecksum: SHA1: ff9f61678fc7b4474539f0a9b49125536e984aa0
+FileChecksum: SHA256: 45913dbeb5fe2fe353315dd79aa32bfa7d16bd925bef3c99deda8fe82016bdab
+FileChecksum: MD5: 019ee7d71e4919ffb4f19f230e412950
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright-notice" forbidigo: forbid: Forbid functions to start with "get" or "Get". Gg]et.*$ Ee]quals$ Default values: print.*$ fmt\.Print.*' </text>
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/.assets/read_the_docs.svg
+SPDXID: SPDXRef-item4111489
+FileChecksum: SHA1: 742eb90d58ec67ee0be0948a9c94512feaafbf21
+FileChecksum: SHA256: ef526d10f340e7141a2cfad0728a8baca089f25002369bc07d098f4c48172009
+FileChecksum: MD5: 67f1ae288109178c620deac4e223f9c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/.assets/logo.png
+SPDXID: SPDXRef-item4111490
+FileChecksum: SHA1: f58a33620b24502616dda59f6667b83640a51dfa
+FileChecksum: SHA256: 5d80d37dc52fa48bcf8a7af9fd5b372f7d58a7cefa328e353bfe8b096197c067
+FileChecksum: MD5: 2722d25e8bc240f6d75be768c13b20b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/go.sum
+SPDXID: SPDXRef-item4111491
+FileChecksum: SHA1: 453f71509971f71af441a12177a31349c94fc4d2
+FileChecksum: SHA256: 3aa33eb2aa3780b90a8d1b6dd11059217c8fb9a3b987b181649d63b4a9a65334
+FileChecksum: MD5: 99cea6948b7affbb2218f85712fca696
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/watcher/internal/mocks/AdjudicatorSubscription.go
+SPDXID: SPDXRef-item4111591
+FileChecksum: SHA1: afd90a1dfc26e4ddaa40cc794d59d91201a9472b
+FileChecksum: SHA256: 76ad7163aa168b4c3db691eab8b631727de27360f21cc460ec0a443289fefdfb
+FileChecksum: MD5: 40bdd349ccc38e36fa7c8499b0cb3fef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: go-perun-2023-04-02.zip/go-perun/watcher/internal/mocks/RegisterSubscriber.go
+SPDXID: SPDXRef-item4111592
+FileChecksum: SHA1: 8d853d9b489fffd189908969e054d7581362b843
+FileChecksum: SHA256: 655709168cd36363d79ec8d0b5a361b317431f882f9b97746eff96e1276fb9c1
+FileChecksum: MD5: f71ad2e697bca82a54bc2c0779fbe19f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Apache-possibility
+LicenseName: Apache-possibility
+ExtractedText: <text> License by Nomos. </text>
+
