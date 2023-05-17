@@ -1,0 +1,2116 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_nft-2023-04-02.zip_1680848686.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-04-07T06:24:46Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: nft-2023-04-02.zip
+PackageFileName: nft-2023-04-02.zip
+SPDXID: SPDXRef-upload852
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 8f96708a1293ff12506ce07e48bbac0d5f857ad8
+PackageChecksum: SHA1: 1747e09850938d611ab6472e3eaa5539c6a659b5
+PackageChecksum: SHA256: 162c5217a7c27056ad313c45cb23c092f4765f26cd954dff682860023ea39d06
+PackageChecksum: MD5: 3f96720e02d4738c25bc4025c17a1276
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload852
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/chaincode-javascript/package.json
+SPDXID: SPDXRef-item4116730
+FileChecksum: SHA1: 473e1c6a3d2d9a259e22f4485f7f079e6c71d563
+FileChecksum: SHA256: 33a7282e3af15a6a638c390a43cdf224321ac68a65f07641038a4b6309767ba1
+FileChecksum: MD5: d2c383b9148ad21683d0620f03624f75
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/application/package.json
+SPDXID: SPDXRef-item4116744
+FileChecksum: SHA1: 2425a90b810bd269ad1ba19da27891d63d48fed6
+FileChecksum: SHA256: 41d0a5f80158b763d9e9e564183bbdf5e84d7a53013f4414bb6da76f0454c1bf
+FileChecksum: MD5: 464a617185261d5b3677c8cd1c13c62e
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/package.json
+SPDXID: SPDXRef-item4116809
+FileChecksum: SHA1: 7353a477ed4c6743ff652c29413e4fd4a34df65e
+FileChecksum: SHA256: ab4e0c5a4422c10abd56dd1d6c45031fdd47e00ba5129b82504c0a24c5fb579c
+FileChecksum: MD5: 1de389105412b2bba443b32a0a96dd6f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/LICENSE
+SPDXID: SPDXRef-item4116758
+FileChecksum: SHA1: 3d9ca858ae047e05c8c031e24b41aea21417fc2a
+FileChecksum: SHA256: 6dc0e068dcf3a5bc8e054205b85b7720e1d49265bbc64bf515d2cf79197df69a
+FileChecksum: MD5: 6c4db32a2fa8717faffa1d4f10136f47
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright {yyyy} {name of copyright owner} </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/LICENSE
+SPDXID: SPDXRef-item4116861
+FileChecksum: SHA1: 3d9ca858ae047e05c8c031e24b41aea21417fc2a
+FileChecksum: SHA256: 6dc0e068dcf3a5bc8e054205b85b7720e1d49265bbc64bf515d2cf79197df69a
+FileChecksum: MD5: 6c4db32a2fa8717faffa1d4f10136f47
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright {yyyy} {name of copyright owner} </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/organizations/cryptogen/crypto-config-orderer.yaml
+SPDXID: SPDXRef-item4116778
+FileChecksum: SHA1: 54fb7dcb46159348865bae5951ddacf6266d145c
+FileChecksum: SHA256: 428eb6f8cffefcd23f853ca5f2f7484ffcafe43a918af6050c23df9548625b8e
+FileChecksum: MD5: 7316608e365719dc813dd7812103c076
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/config/orderer.yaml
+SPDXID: SPDXRef-item4116796
+FileChecksum: SHA1: 098b984a14feff6081d4cd727396cfa39bc44588
+FileChecksum: SHA256: 57c850bb1c35a90fefafede8ebae1f9827e7e033e9fd5b40cb25c51d8ed048f6
+FileChecksum: MD5: c9d7ed745b43abd57d0c7dc0ec445608
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/chaincode-javascript/index.js
+SPDXID: SPDXRef-item4116721
+FileChecksum: SHA1: a33b2d133682dca586daa36d524efd16529c8e98
+FileChecksum: SHA256: e28984dd74a5f8fbfbc7807a707d19d1e36abd9cb5e4219e52e136095fa21f92
+FileChecksum: MD5: f13906c27d124fdee521a880417971d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/chaincode-javascript/.eslintrc.js
+SPDXID: SPDXRef-item4116722
+FileChecksum: SHA1: a127e4c02d64e507e855ca0971a91f250577d96f
+FileChecksum: SHA256: 6814325369d3270b96f31559be91c4d75e27b285251dd692baed3a55304b12db
+FileChecksum: MD5: a14d20bf4d4cea6b6626f4a1883391d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/chaincode-javascript/.gitignore
+SPDXID: SPDXRef-item4116725
+FileChecksum: SHA1: 19d1d7f8b225f8d174dfbc9a29f65e183089f6cc
+FileChecksum: SHA256: d4acc026c0da4a9a61261e651e4ed9777c2511351d6b19a3a5b2be21fb99a9dd
+FileChecksum: MD5: 20e9797bd2041c1652884f1a235e0121
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/chaincode-javascript/lib/tokenERC721.js
+SPDXID: SPDXRef-item4116724
+FileChecksum: SHA1: baed989b582eb868453ed25b6c713c0a97f5de88
+FileChecksum: SHA256: f527576d7a7e600e15b2e3bdeeb9bae81485c2e4eb079cabfa369590de9a9fd1
+FileChecksum: MD5: c2e79f5e41c7b8a5a803b916ab9a42d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/chaincode-javascript/.editorconfig
+SPDXID: SPDXRef-item4116728
+FileChecksum: SHA1: 60a118f362f2270f600827af34ccd3fb232e88f5
+FileChecksum: SHA256: db9ea58eada5a6982ac3f32254a4b0520640f325792ca2fc39f5d7b1acbd3d4a
+FileChecksum: MD5: f16ce2c703a68f40355bb1260a5741ea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/chaincode-javascript/.eslintignore
+SPDXID: SPDXRef-item4116729
+FileChecksum: SHA1: 8677d6e77b26539ec288d8f8d088ea9e8d71c6e9
+FileChecksum: SHA256: 11ddae3e383c9bc7ea1941ed12f9eebce5524f412e729f127289de73e9dca04c
+FileChecksum: MD5: 74be6f6c29e03b33f86932923795abc2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/chaincode-javascript/test/tokenERC721.test.js
+SPDXID: SPDXRef-item4116727
+FileChecksum: SHA1: bbad2b5b2c28754d6cffd2173dfbafb774daab1a
+FileChecksum: SHA256: e56d41b77caa7e38ea386e4f4821f58fb33585224eff41340ba528b52e5af30f
+FileChecksum: MD5: 02e63dd474da55cb269ba6544fdd23ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/application/src/enroll/utils/AppUtil.js
+SPDXID: SPDXRef-item4116738
+FileChecksum: SHA1: 0b5c2decd6914a9119f62e830c905398e668093b
+FileChecksum: SHA256: 6636207b879f66711affa883967594659e701ac6a8f0c9c1ceb1d056f6d4fdee
+FileChecksum: MD5: ec19f51ed70fb5eed3dbbecda5a54dbd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/application/src/enroll/enrollAdmin.js
+SPDXID: SPDXRef-item4116740
+FileChecksum: SHA1: 891d2548f72e5c1df2be41aa22f080c9708e35b8
+FileChecksum: SHA256: 79da31d842e8362956d7e489439abc6cfdd5f95bb16c442fca51b870c665cc35
+FileChecksum: MD5: a88054c222842ef6d0491e419bf3a3d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/application/src/enroll/utils/CAUtil.js
+SPDXID: SPDXRef-item4116739
+FileChecksum: SHA1: 6ba5abf7312e7ece348e5c0593d77fb42b1792ee
+FileChecksum: SHA256: ae8c174de3205b27848176cd83d11a3d2fc9a5bbcb4450e471311ed793058a3f
+FileChecksum: MD5: e0c79382d7d15712cbf2062db6576f52
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/application/src/enroll/registerEnrollUser.js
+SPDXID: SPDXRef-item4116741
+FileChecksum: SHA1: 863a0bfa58bf7b62fb63f53a732ab201f2dfc287
+FileChecksum: SHA256: c5a778d94a9de8fa364399addc42c381ae7f00b403464432fdca9259dbc95195
+FileChecksum: MD5: a103437c2857b82de9e271dbf44325b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/docker/docker-compose-mongo.yaml
+SPDXID: SPDXRef-item4116767
+FileChecksum: SHA1: 2e27a013521086b8e77cfc1d262adc53f061f913
+FileChecksum: SHA256: 285611a00936300dedd347643a8d745df60504535beb154d9e62c1934b125007
+FileChecksum: MD5: cc2c213ac636d212e610cf96cafd8933
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/docker/docker-compose-couch.yaml
+SPDXID: SPDXRef-item4116766
+FileChecksum: SHA1: 54c1aaddaa3aebf73f1a1a327913fec43f6940e4
+FileChecksum: SHA256: 0ed137422dc72d2c3a51b1cf1a2d9b1f7fddb242bcbe7936fb0fa202e66e93d9
+FileChecksum: MD5: a93704e940e52c2843dbd94a353ec091
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/upgrade.sh
+SPDXID: SPDXRef-item4116770
+FileChecksum: SHA1: 7254e97f488e9b3d44ce086264b3a40a5016c881
+FileChecksum: SHA256: 82713cc5572bf8911adf41f2a122a1629f6b5b7254b1f669868271ac5cdc56c0
+FileChecksum: MD5: 7bd9c4c67253a37a09d5460670b8b7e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/docker/docker-compose-ca.yaml
+SPDXID: SPDXRef-item4116769
+FileChecksum: SHA1: 3b2d2c503f24bf4bdf197fbb9cb9b2437bee34d4
+FileChecksum: SHA256: a7bc92da155c5d955430b272cb9b3a9a81581ec7108a3fe6e6bc9e0957430732
+FileChecksum: MD5: 0d8c5fd645f2f50e41697743ebbbb8e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/docker/docker-compose-test-net.yaml
+SPDXID: SPDXRef-item4116768
+FileChecksum: SHA1: 776c0880386330f5b8144442c8c3dacc4d36757b
+FileChecksum: SHA256: bab8b19554fa36f07e12e07acd6c25fde75a0b091636d2bd487144451f8bfe79
+FileChecksum: MD5: 1a9d68d9c763432a3bb3efb696851cfe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/scripts/configUpdate.sh
+SPDXID: SPDXRef-item4116787
+FileChecksum: SHA1: 65d6c6b80babad7c8ae4c795e5aaa1c8da4faaf2
+FileChecksum: SHA256: 38d191c768160aac7d063871b86a40098821ba30f5b5ed4f72c483a65949fe96
+FileChecksum: MD5: d8d6127f32e9eb4d19560e98c1de93b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/scripts/envVar.sh
+SPDXID: SPDXRef-item4116788
+FileChecksum: SHA1: 5d5349e473adff4ea01c76f3d461065882fab193
+FileChecksum: SHA256: cfbb20b106ea390b527ac92eb8782b47fb6d7a977a78183e1bfeefbb221ae1df
+FileChecksum: MD5: f5e22e914d13cc2c81958ad62d91a0d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp All Rights Reserved </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/organizations/cryptogen/crypto-config-org1.yaml
+SPDXID: SPDXRef-item4116779
+FileChecksum: SHA1: cecd89689e11ffb75269346e884c16d51767e287
+FileChecksum: SHA256: 7b7f47b6271afc5341d3ac5067b921e29e2078f7bef191128b536cab238ba4a8
+FileChecksum: MD5: e0bb9c0dc7395d65576d4843cca10027
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/scripts/setAnchorPeer.sh
+SPDXID: SPDXRef-item4116791
+FileChecksum: SHA1: d8c0e3f8edf9767a500a47981e373fb12b3e3009
+FileChecksum: SHA256: 30e9a0cf14d425041ceabef84cb046805fc2843f681e7c0e7a31830f0c6f7a09
+FileChecksum: MD5: 80248c579eef9af73e613009733cebb3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/network.sh
+SPDXID: SPDXRef-item4116792
+FileChecksum: SHA1: 0a055a4e3f008140b075b115b4f44537b82b5d2e
+FileChecksum: SHA256: 7c9fbae6413806846df45baffc42e3e5921a6bdf9a9f74e5d82ba07c34305efc
+FileChecksum: MD5: 8afaf7d41bcdb633ce28b41ef74ed86d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp All Rights Reserved </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/organizations/cryptogen/crypto-config-org2.yaml
+SPDXID: SPDXRef-item4116777
+FileChecksum: SHA1: e3eb1735c599d7d73a748bcb92021552fc98199d
+FileChecksum: SHA256: 7675dfedc7635b72fe16bda604a1971c40e588c73909ade5da691a5caa57356f
+FileChecksum: MD5: 351f9ae4e16beb25891093bf19bc78cb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/bootstrap.sh
+SPDXID: SPDXRef-item4116799
+FileChecksum: SHA1: ea01ec2a2c1b3242b356a4c22fe887cf887b7f2f
+FileChecksum: SHA256: 253e5bb636e75e4e66c70c77ac768a689459b00295db2d09f95206a2272b8700
+FileChecksum: MD5: b81eb7730bd18dbce43fc30808b31081
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/configtx/configtx.yaml
+SPDXID: SPDXRef-item4116798
+FileChecksum: SHA1: b04aca5f6931c5261ce17b3487aa89b2876a495d
+FileChecksum: SHA256: e46e9a46bc86db82a3e4739020945bdd04a53e80a415d2d2e3c54d411bddcc4f
+FileChecksum: MD5: 1a9f37415881610535dd4382f5c35b76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/config/core.yaml
+SPDXID: SPDXRef-item4116795
+FileChecksum: SHA1: 7577831002b03c1a73b9b7043e5e7b25447d05fd
+FileChecksum: SHA256: 6b8aa28b665a793685ce842f6acf20422de87229c185b8eaa45b8b8b248e8a9e
+FileChecksum: MD5: f9bb069b7fc2f3d5f594f2800238fd69
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/config/configtx.yaml
+SPDXID: SPDXRef-item4116794
+FileChecksum: SHA1: a517d5ff349361d34c97fe427325354025195b01
+FileChecksum: SHA256: f448079e5684c6513cd66f081ba523029827b9d34742d3085c89e25aa496cfc8
+FileChecksum: MD5: 340782a5e6aca55275190624414b5e75
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/fabric-helper/lib/utils.js
+SPDXID: SPDXRef-item4116805
+FileChecksum: SHA1: 527766ee565a7f081868a0ba971269a12fb6c122
+FileChecksum: SHA256: f3dd112f4d053317b7f5324068b70b0854f50dd45d41060c4ff7a0de03df026e
+FileChecksum: MD5: 268b586ef5157bd55cf65d3e20407d19
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/fabric-helper/lib/invoke-transaction.js
+SPDXID: SPDXRef-item4116806
+FileChecksum: SHA1: 89a7c93dceadf7901d1590b105747dba22965e2d
+FileChecksum: SHA256: 47d6b59557b53a0ec0bc2665f93a8faf70102a858ebd320efc3a925c715d87dc
+FileChecksum: MD5: 74aa89616147a16fb4e0605646afdb9b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/fabric-helper/lib/helper.js
+SPDXID: SPDXRef-item4116804
+FileChecksum: SHA1: 90a966ececbc5a7ffb092883e4db35c5ca20a386
+FileChecksum: SHA256: 62b799e9afe6535f90621dfc344630717d9a3ad981c1fdf4c49eb1844bcca7eb
+FileChecksum: MD5: 4e739b6aae99417e484dc28b078adb02
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/fabric-helper/lib/query.js
+SPDXID: SPDXRef-item4116807
+FileChecksum: SHA1: 45ed993c4b741411004b721d7846dadca9e1ce6c
+FileChecksum: SHA256: 2fcaf227c3a009887e25e525280f7b0b414eba41b4312328b07560e2c4944b4a
+FileChecksum: MD5: 9869936b02d8e962ac3185d7e48d4719
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app.js
+SPDXID: SPDXRef-item4116813
+FileChecksum: SHA1: a6afe8452941aae04e3f8c59ab1ff0d71c2018c5
+FileChecksum: SHA256: c054376521515346c20810d70c16b79ebac5486be75d9ebfb977da1d50daa39f
+FileChecksum: MD5: 53bb7801bc0343805d98503516d50a21
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/middlewares/auth.js
+SPDXID: SPDXRef-item4116821
+FileChecksum: SHA1: ea17263d4500e5f9bf74ae3af9c148f3433488db
+FileChecksum: SHA256: f5ddd72b24f4b6bff02b71c2965f500791fee67880ac898d9d864dbef271f675
+FileChecksum: MD5: 24ee99f85ce9404a63fddad04f4db542
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/middlewares/validate/userValidate.js
+SPDXID: SPDXRef-item4116823
+FileChecksum: SHA1: f915c87604802f8f52ed4283bf24577bd2554d6a
+FileChecksum: SHA256: 95876c079cb095a1a83908150ca56e925e4277244208979376d03b0f0f112368
+FileChecksum: MD5: c17eee6d845ec95a1f1d6ddc0cedc1e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/controllers/userCtrl.js
+SPDXID: SPDXRef-item4116832
+FileChecksum: SHA1: c74b620415d038dbce378e377d3b275987bdbe2c
+FileChecksum: SHA256: efda27c132a5d6f8e0e1fc18134915302a0a9182ef4cb2a7861d4957e10edee8
+FileChecksum: MD5: ef7af6bbb6b188b6a5e42c0546463391
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/controllers/nftCtrl.js
+SPDXID: SPDXRef-item4116830
+FileChecksum: SHA1: 85b59df494c75c3a0cfe0b6bd261499270fd9d9f
+FileChecksum: SHA256: 58633869e584d19ba6bd0c2deee3346748e5c509f9e7787906cfb584bda6f25a
+FileChecksum: MD5: ba935570396a1cd35663e1b295b56a0b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/controllers/bidCtrl.js
+SPDXID: SPDXRef-item4116831
+FileChecksum: SHA1: 07d50a5a7b893ed40062f1d01a1432c5a60facb9
+FileChecksum: SHA256: 9165d7fff6ad66699643ca226709c64147857653fb29277aa9107981a98b9562
+FileChecksum: MD5: 7cec6e203224436b1eb9654d0b9851f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/controllers/auctionCtrl.js
+SPDXID: SPDXRef-item4116833
+FileChecksum: SHA1: f91a2f7d104874e9f507d53ccff0fe4c44458763
+FileChecksum: SHA256: 859b7cf4c8121d01ac5ff505dc7e5691353cb0f35d81842a289c859374fccc85
+FileChecksum: MD5: 1b57131c4e07a0641b58540ea182536c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/helpers/date-helper.js
+SPDXID: SPDXRef-item4116844
+FileChecksum: SHA1: 785008335de154eed68dcc80486ca0de27a8aa86
+FileChecksum: SHA256: e04b621426c2bac811f01f47100e464ef62cd39fb430e896449439702812f5ba
+FileChecksum: MD5: 836948a346a96396933491e4205e0a41
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/helpers/fabric-helper.js
+SPDXID: SPDXRef-item4116845
+FileChecksum: SHA1: b314389d77d7530e042a4b3a010a68fb9a5e5160
+FileChecksum: SHA256: 42791e4fe09e9d9ec5b6b99361bfba2189baee907f1e2e6a427fb2b1445971ae
+FileChecksum: MD5: 68ff0081774ec3f9b8dec092e3435f50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/helpers/event-helper.js
+SPDXID: SPDXRef-item4116846
+FileChecksum: SHA1: e7d8db636d654e5f36783d252fb54a05708e5ecb
+FileChecksum: SHA256: 26ca740c6fddb58cc2a26816f40efaa1ecd528410662398b262cbe339f78aa01
+FileChecksum: MD5: 3cecd7f2ff6c772a9224a82cddac2e2e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/helpers/util.js
+SPDXID: SPDXRef-item4116849
+FileChecksum: SHA1: afd1f0a50060142037349f776c4cf82d14f49955
+FileChecksum: SHA256: 1252f26b428cac80647841ab1d2185dd8fe84eedab0c4afcd1c2f2c235bdee5b
+FileChecksum: MD5: 3410311a9227821ef2b1d98496fe5643
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/routes/auction.js
+SPDXID: SPDXRef-item4116852
+FileChecksum: SHA1: a8231dc6d8b2a5588d66edcda953b27994419a5e
+FileChecksum: SHA256: fb8810e30739f9e11138add7b244d8e23ec4d7a8d075ac19a45db96b0f938647
+FileChecksum: MD5: 2cf11b26b6f3f9ac671b22dac9ce5bd4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/routes/bid.js
+SPDXID: SPDXRef-item4116853
+FileChecksum: SHA1: acfa6ae1f687ea4de5ef4e547998b9efa3cc5a95
+FileChecksum: SHA256: 2b59b055f7dcf357d6393cdf0b83ce68cac7eb8396e965e572d83c19325813f7
+FileChecksum: MD5: 9e057aff18f04ed9f1932edf36508fd9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/routes/user.js
+SPDXID: SPDXRef-item4116854
+FileChecksum: SHA1: 0af5ad9a1bbfe0038f94bfe800230b40e6b499e6
+FileChecksum: SHA256: 9177554260169150b3a68a261207cded7c82c5f1294ed98b5de8b8814d5cce71
+FileChecksum: MD5: cfbff090a1a79dd2cbe24cdbe70eccc2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/routes/nft.js
+SPDXID: SPDXRef-item4116855
+FileChecksum: SHA1: 74ed186e31d5b9dc038bfc5776e4c288adc4fe33
+FileChecksum: SHA256: a0caa0fb2069715ef8419fdb33aa7c31999de1d32b3e52e68b06611caac4cab2
+FileChecksum: MD5: 8ba3d89b08711fb8503e81de82d9f18e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/src/goauction/user.go
+SPDXID: SPDXRef-item4116865
+FileChecksum: SHA1: a34b232e5b4e76989216567f9297efbbdabd9712
+FileChecksum: SHA256: 9cfcf6e0264d8e36291168d0931a39fc7669fc1dea6cb325362774392365297c
+FileChecksum: MD5: b3b5bdb73b92668c8a2d1a9fcadcb5ad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/src/goauction/auction.go
+SPDXID: SPDXRef-item4116864
+FileChecksum: SHA1: e2a03ae72929fc3a7bf064a1ce513a89070ec098
+FileChecksum: SHA256: a0ec8e2d7c2d575bfae391c1e407d540c1d0ae38d5d24414375808efbf0c5697
+FileChecksum: MD5: d2f7ba83747646ce606b71b3e4127e7f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/src/goauction/utils.go
+SPDXID: SPDXRef-item4116866
+FileChecksum: SHA1: 0c6aad5ebcc4b829be4729ee956652f964a1e420
+FileChecksum: SHA256: 6945a4384f086a57484b4f9f4e333b82e80921a4c340e05416a1ce9aa2b4de32
+FileChecksum: MD5: aa79cb8c7a9dffbefeef1ee686e2e08f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/src/goauction/bid.go
+SPDXID: SPDXRef-item4116870
+FileChecksum: SHA1: 0b6d75df273b30cd8ed863cfcbbce5ed9ebac026
+FileChecksum: SHA256: c9f2f1e08cbc00682c00d3233925e0c1264e4260a9488c089639f17e1f96c766
+FileChecksum: MD5: 66dd3c008995b83665ebffc83cfb7c80
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/src/goauction/cy-vendor/cycoreutils/cy-ledgerapi.go
+SPDXID: SPDXRef-item4116873
+FileChecksum: SHA1: 65b6b78248b6ef7cc4c9edc3b81b8d41c2fba935
+FileChecksum: SHA256: 9e83e5631a5ad24d19c9439dab1e78c5b9c326f997e25502293f00bbac8c3a61
+FileChecksum: MD5: 7d88851c4721652409ea5f50b80d4024
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/src/goauction/cy-vendor/cycoreutils/cy-jsonutils.go
+SPDXID: SPDXRef-item4116874
+FileChecksum: SHA1: 7fa475e6268d4421a49c8c12669ef10f79a1151c
+FileChecksum: SHA256: 3fb25ae50c6cea8f979ab17a78bbe6bb6b496d00995fc6d561666777371f5a27
+FileChecksum: MD5: a483832f8ca7175bb7abac845fceb30a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/src/goauction/cy-vendor/cycoreutils/common.go
+SPDXID: SPDXRef-item4116877
+FileChecksum: SHA1: 923fc2c7ec08d6a24a21ec352473f5b139434ec3
+FileChecksum: SHA256: dcd189be2305ba6b5ae4b64d19acfa335e8d4171b7a346c2081e33f54e96cdb1
+FileChecksum: MD5: e364665ff69f040721b7a6af47f5ddcd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/index.js
+SPDXID: SPDXRef-item4116887
+FileChecksum: SHA1: c681ad3472a78b7ebfede7846506bd8e024ed08d
+FileChecksum: SHA256: c2cad5ed042329181ac0b9f88bccfa66e5a67ca2f06076d071dd52905ea41bd2
+FileChecksum: MD5: 41b22755efef3659417e22ca7849cddd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/services/Constants.js
+SPDXID: SPDXRef-item4116890
+FileChecksum: SHA1: d6043579f5f0be41eeb90aa10b8420f8a7bbf49d
+FileChecksum: SHA256: 69105e702bb83dea4ccd789fad3a12d20c9c675af4bf3c4e630e855f10dac226
+FileChecksum: MD5: fa407db5e43916913f92e19a01805b58
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/services/Artwork.js
+SPDXID: SPDXRef-item4116889
+FileChecksum: SHA1: f2dc5377815fb74e896bda9889bbe9701cde8f68
+FileChecksum: SHA256: 05ca5f1546e29892a1a253d404dbd8c15af2f22fd6a3b1c9c401c7d82e735d91
+FileChecksum: MD5: 69a5eb70d4ec0bce58bed67308d8725c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/services/Utils.js
+SPDXID: SPDXRef-item4116891
+FileChecksum: SHA1: 2832c63c6c91afedb143972bacc9a0f5acf8cf5e
+FileChecksum: SHA256: 22b073396f7788a86d09e305cee7e0740896d6bb370fad0310f95a61dc5f588f
+FileChecksum: MD5: a632eb24779d3c0fd97b2e285152e90c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/services/Users.js
+SPDXID: SPDXRef-item4116892
+FileChecksum: SHA1: 125011beb1fd50e9f1acfb0f9a07f8f0bd02f5b8
+FileChecksum: SHA256: a74eb5d1d95aef2e6c74a0f4c1f8c72dff15b714b9ec496df90bc71726027d42
+FileChecksum: MD5: e6f328fa4c7f9cabf5c08500b9034550
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/services/Auctions.js
+SPDXID: SPDXRef-item4116893
+FileChecksum: SHA1: bcdbe9d508ba25778ada474cdf55c38b5a6dd3b0
+FileChecksum: SHA256: d6c642b0576110b4bc5a10799e18780e30a9a57ef5796e7e913fd30f10422064
+FileChecksum: MD5: f72e19247b3d50bd05728b099bc4e588
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/routerConfig.js
+SPDXID: SPDXRef-item4116894
+FileChecksum: SHA1: 99c58671571c8117fd867a7657c61642d1151939
+FileChecksum: SHA256: 5d6753528f832403b182d1b1e0e2af83734e7dc2ab6f7955d6c6406b85e56306
+FileChecksum: MD5: 06cdc7a732c55641dc1e36cc03e9e7c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/index.css
+SPDXID: SPDXRef-item4116895
+FileChecksum: SHA1: c78dc1766a3b59e7b585c424edee0998a724fe41
+FileChecksum: SHA256: db171c34048744f9a955701b2c6c4b3dfc69284d731c0018e88421dddcce2e5a
+FileChecksum: MD5: 3c2cceb834bb6bbec4f1591819499b7e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/AuctionTableRow.js
+SPDXID: SPDXRef-item4116899
+FileChecksum: SHA1: 8971cff4472f1c5e66f628d02d3973e583665cf0
+FileChecksum: SHA256: 0996f5f1e639fd4197efc7d348122af5d18c5c10591b07cce70288427618f6c0
+FileChecksum: MD5: 8382331fdf566a290ce08f1ac445111b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/BlockchainExplorer.js
+SPDXID: SPDXRef-item4116900
+FileChecksum: SHA1: 68326155f01b664a84e6433b33313e87478d1974
+FileChecksum: SHA256: c65c99297c4fc15c5d9608e4a8dac80fba58bcefb4839cf43419da6206af848c
+FileChecksum: MD5: 430ca37a000bed3e970113e985ca2735
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/TransferArtwork.js
+SPDXID: SPDXRef-item4116901
+FileChecksum: SHA1: dded03f30899ca9b2b5177c48867d84f2854d231
+FileChecksum: SHA256: efb59af4ef01df655029ff1cd64dfdca41230affec041581b2dbe40d7d92306a
+FileChecksum: MD5: c51ea7683bab629a9551f671927a9f02
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/BlockchainBlock.js
+SPDXID: SPDXRef-item4116903
+FileChecksum: SHA1: f5bea36b15d6efdd8adc82141fbb48c784bb2e6d
+FileChecksum: SHA256: 777c5a2311e59fdd7a21f6979ab2108a013681af2cf89078a8558c2fc772f82c
+FileChecksum: MD5: 83d3f7e94a75a1b36daccbd2cff8fe2b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/ArtworkDetail.js
+SPDXID: SPDXRef-item4116902
+FileChecksum: SHA1: 7f12465c29bd96cd19e7a7cd5aeb8efbadc52915
+FileChecksum: SHA256: 2487769dc676a4860aba793f48b9d2efc0badcf517534294a5243fda3f841a3e
+FileChecksum: MD5: a0a22f6ab77171b400d228f05b316d84
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/Spinner.js
+SPDXID: SPDXRef-item4116905
+FileChecksum: SHA1: 0a9a8ea99ccbc4221ce67b1eec4fc9cd98989c84
+FileChecksum: SHA256: 31ae68d0435a3424d146c803f747341eb5b1d7f9ccca07643b273b92ab63cf14
+FileChecksum: MD5: 6f37c00a570969095d0fc91efab61718
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/Login.js
+SPDXID: SPDXRef-item4116908
+FileChecksum: SHA1: 124155e11ce4abd0f886d56d2ba84478c6a8f45a
+FileChecksum: SHA256: 58a3819d300af1e5a840c8f745c1e2bf2489aa4710bb18c11b80cf2addb3fc62
+FileChecksum: MD5: ce153a94a3a555949cefb8e0f7aa93e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/ArtworkGrid.js
+SPDXID: SPDXRef-item4116907
+FileChecksum: SHA1: b9a8ed13bbabfc0e27393001553a5c3313ff79f5
+FileChecksum: SHA256: 2ee90e440d024fcc50c2e6abadadbd90eeafe6c660ef90363cc1a37ee21abcad
+FileChecksum: MD5: c5eca97ca318c73f5b027b58ee73ec65
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/CreateAccount.js
+SPDXID: SPDXRef-item4116906
+FileChecksum: SHA1: 67a8a41895c94c0ef3da73b5a9da93121e1fe779
+FileChecksum: SHA256: 48f7ab86f416e0b9c1fa5165354d52e9593fea3269a2ecd441fbb128680bc925
+FileChecksum: MD5: a74889070507aaee0344a9b46b1cf793
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/CountdownTimer.js
+SPDXID: SPDXRef-item4116909
+FileChecksum: SHA1: 665dc63d870995ea41adc063b973e5f70a0f0673
+FileChecksum: SHA256: bd58662d049ec28be20824d92c26953365bc1c0ebc7708dee5616de933097002
+FileChecksum: MD5: 4778133d77e4adc7c7abd16d15bff6f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/BiddingArea.js
+SPDXID: SPDXRef-item4116910
+FileChecksum: SHA1: fe281aab5e12df75adf663ba6706fc034346216a
+FileChecksum: SHA256: 85df1bcde872bf817130a90124cc28dd2a4770c01646e47754b6ad300395965e
+FileChecksum: MD5: 5b3a7c377655f8605041abcd05c2ec80
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/NewArtwork.js
+SPDXID: SPDXRef-item4116911
+FileChecksum: SHA1: 668b04dd83e4f8f7abe71979ab21ff24232ae641
+FileChecksum: SHA256: fefea8612d34ebb523a0bf32029ee1989402a421eada00a8513351c28f6bd0de
+FileChecksum: MD5: 5f1fffaced3ee3257dd2fcbe514cb8a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/OpenAuction.js
+SPDXID: SPDXRef-item4116912
+FileChecksum: SHA1: ea000baeb6e19a512b365d201afb0b6188c524e3
+FileChecksum: SHA256: 1bf49b672de57cd6f914e1c696876aa6eaf87ad8823862190eda17647dee28ed
+FileChecksum: MD5: 1f06a575d33d29436e17c9ccb495d824
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/ManageAuctions.js
+SPDXID: SPDXRef-item4116914
+FileChecksum: SHA1: 42d52afbb495e47a04c42e19d923918889b18cc4
+FileChecksum: SHA256: 9cff228d2fc2a3a3aa1b61c69baf35124caaa6434332dbbfbb27c1779aed129c
+FileChecksum: MD5: 34101d60c7e610b7d6e772516b53fef8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/Navbar.js
+SPDXID: SPDXRef-item4116915
+FileChecksum: SHA1: 4730aa924194697ba0b49aead1ed3e658af3293f
+FileChecksum: SHA256: 34e55ddc6526fca8fb9e3f64f9ab204ffb297c9a8d89cbefa1e13eb71afe41ba
+FileChecksum: MD5: 50714547194274786deb1ff3d9a6abf0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/SubmitArtworkAuction.js
+SPDXID: SPDXRef-item4116916
+FileChecksum: SHA1: 54e6cdb319e0125e70eccfc30dd566a4c47c1d88
+FileChecksum: SHA256: 1053ffca140833d3c12a770de610b487335fbf35f78770ec0cc8f4cb7fd53963
+FileChecksum: MD5: 363b5557e3249be1eb3043ca24b15f29
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/ArtworkCard.js
+SPDXID: SPDXRef-item4116917
+FileChecksum: SHA1: 1bff3422cf960b9e5bf1a60adb6b0b7a7255698b
+FileChecksum: SHA256: c7a9a16eb64e18229d7d43ed57eedd9a9bcaad6c6db7a80632ba7cfb4e1ac374
+FileChecksum: MD5: 2c9fcf0bc2677a7d2f6d1702e7052262
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/App.js
+SPDXID: SPDXRef-item4116930
+FileChecksum: SHA1: 6a5c173e4fae1a5bbec80970cfce18fdac517e92
+FileChecksum: SHA256: 7c1f499e2d56574e33fc9803ece7abaa960d8646cb66721d2737bc5823ee8b83
+FileChecksum: MD5: 520ee10920e2b411fb94959b86aaf626
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/public/index.html
+SPDXID: SPDXRef-item4116938
+FileChecksum: SHA1: 46b8f926d398511ccf8ca8376536b5aa057f21c5
+FileChecksum: SHA256: bd819ef584237e8912c491b3aa71de49bdaab62cf27401bee38fe2d55c428689
+FileChecksum: MD5: 7e76daf4329e23edb4b8f6c84500de35
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IT People Corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/LICENSE
+SPDXID: SPDXRef-item4116716
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/LICENSE
+SPDXID: SPDXRef-item4116756
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/.github/workflows/main.yml
+SPDXID: SPDXRef-item4116719
+FileChecksum: SHA1: 9d4edc935e3eb9c613fbab1b3d858d5d1ed06e88
+FileChecksum: SHA256: cb7b5a52a6509189e6a33fa995f8f0c246684d907a9eb05f497ce00f9e68afd5
+FileChecksum: MD5: 381a3fdd9bd04d4574efa6e49e507219
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/application/package-lock.json
+SPDXID: SPDXRef-item4116732
+FileChecksum: SHA1: 6061bdd223fce307f2cba2e1f332fde060567956
+FileChecksum: SHA256: 72563304ca12c554904025141d5c72668ca256b8ba80d50e045a704d02272ae3
+FileChecksum: MD5: 7f2404efceb296d7f84d785484888c1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/application/src/minty.js
+SPDXID: SPDXRef-item4116734
+FileChecksum: SHA1: 495790f55630d07d0f4ae1cb49bd6437809bc33d
+FileChecksum: SHA256: 585e8584070d512ea636be682bcc5120f430c28696be99a422b06bf6e57143b8
+FileChecksum: MD5: 1ef87444dcab32e2ec2da35dd829e0ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/application/src/index.js
+SPDXID: SPDXRef-item4116735
+FileChecksum: SHA1: b6bb4a3964b2eebac5d90af994d37e7efb4f39e9
+FileChecksum: SHA256: 7b9e4529295c10c15a3d5a965bb1fdd65716d52021e357ec52a6dccbb264a022
+FileChecksum: MD5: aab22eacf6a3fd85b50ac190c7251fba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/application/src/server.js
+SPDXID: SPDXRef-item4116742
+FileChecksum: SHA1: 89e973ddb3ea14f2fb4313ccf34fffd2dbe3aa7d
+FileChecksum: SHA256: a19859f2b1c77ea4c67a67a728225fccd64d79d3424e184c5440f5d1a905d365
+FileChecksum: MD5: 01116e066c7453458dd8220881da9ffd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/application/start-local-environment.sh
+SPDXID: SPDXRef-item4116743
+FileChecksum: SHA1: 34e7b4296703e16d372faa6b12307b056e232097
+FileChecksum: SHA256: 2694f93d0fe3aea19c3d16824c675cdd5ddb58260ce3bb0c44f89fa3d372be51
+FileChecksum: MD5: 101daf19673e76c8884ecdfd8a610931
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/application/prepare-test-network-node.sh
+SPDXID: SPDXRef-item4116745
+FileChecksum: SHA1: 712f5c1f3f25a28aa5de2004b53945fbf691697e
+FileChecksum: SHA256: 00b7ed2af4bf9967151cc23f8c02aad3fe7f546f753f9f2caea3865a160f227a
+FileChecksum: MD5: 0899ac3cf35ba96e4d278834c854e81d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/application/config/default.js
+SPDXID: SPDXRef-item4116747
+FileChecksum: SHA1: 670f7f7458d0a37419d1042568f1c150caf9540a
+FileChecksum: SHA256: 5129ab716388ab1abd8bdaeae29b15bbf440ac950965a1963532cdbe98f20cbe
+FileChecksum: MD5: 9ff9b425fb8e69498e051bd67646d337
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/application/config/pinata.env.example
+SPDXID: SPDXRef-item4116748
+FileChecksum: SHA1: 036348fb46788d2ee398bb83a25ea99f852cc660
+FileChecksum: SHA256: 539ce1a44c301a3dfbe73a2d2f9c97eb5affa0551c31bdc54ff3f9b990996c9a
+FileChecksum: MD5: 20e8d65c8c8e27057a77b08c01da9021
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/application/config/nft.storage.env.example
+SPDXID: SPDXRef-item4116749
+FileChecksum: SHA1: 1cd4869d104be96f025083d9dd859a75ee2d511f
+FileChecksum: SHA256: 65485cffd38b5e290ee64f0dd7fe939008366f2a96c985eb31e82ba9b59d9764
+FileChecksum: MD5: dbe4ddf2d5d1e3617285f4ee6a4e05ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/application/config/nft.storage.env
+SPDXID: SPDXRef-item4116750
+FileChecksum: SHA1: c8ea9c072f601df6d15fd52f979acd88e4ed9fbc
+FileChecksum: SHA256: b3121150a156838dfe574cc8694d14a5e0d22c92595c01d7ecb6d1f6bd4d0221
+FileChecksum: MD5: 43439fe5f83240bb4a250f547924b35f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/.gitignore
+SPDXID: SPDXRef-item4116751
+FileChecksum: SHA1: 7c2da9065bacc49100a9ebe69f14c88488c30b5a
+FileChecksum: SHA256: b1118a799f6c5f1b317dd552e09c0fe4fdd15640f117bb896e0f0a53e2876e84
+FileChecksum: MD5: abee61f5e7b9a04993a14629790a22df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/Dockerfile
+SPDXID: SPDXRef-item4116752
+FileChecksum: SHA1: 68444acb3f9b025de1354f83dd02cc5aa5668592
+FileChecksum: SHA256: a951bd334c26083d3132b5461092594c75457e80cc2043e7c9de9b05464cec76
+FileChecksum: MD5: 1fef0b82e456043ed98594bea8c4930d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/footprint.png
+SPDXID: SPDXRef-item4116753
+FileChecksum: SHA1: f32840b8f3805f6eedba2ec54c7e993a5cf9c9e4
+FileChecksum: SHA256: cbee1c65a31b7a9f040df5f833ee264e038f5b7c2a8dad9aa6e4e30dbcc21ea3
+FileChecksum: MD5: e669161a834a551123daf3e0e6a0fde5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-community-footprint/README.md
+SPDXID: SPDXRef-item4116754
+FileChecksum: SHA1: 3be0ac61937bbff8820e7c4cc860603d34123657
+FileChecksum: SHA256: ed61bbd79917c82e0cec7662cfa49f52703e8dccf1a7372cd5180618cd2b1562
+FileChecksum: MD5: 3d48e5451f68855ff5aa3dc6084bc9ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/general-config.json
+SPDXID: SPDXRef-item4116760
+FileChecksum: SHA1: 94fc01ba43d602e97e95a44a4f62ee30f36d0625
+FileChecksum: SHA256: b99af5988bc80dcb7bc2ce3fd55e8004a908415c058878d3c885f8fec7b71f75
+FileChecksum: MD5: 49a154690410c710af93c027d2c626c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/.env
+SPDXID: SPDXRef-item4116762
+FileChecksum: SHA1: 1a945e3456daf117f03f7691af3804dfcdb8fff8
+FileChecksum: SHA256: b5b9d0466fbf9c2ca1e3a0ddbde6b49165cdcac85907a5b4ea3ee11835355f5d
+FileChecksum: MD5: 8c1c80ca666272762f28f2169e18f242
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/Readme.md
+SPDXID: SPDXRef-item4116763
+FileChecksum: SHA1: f6e3d6c5176da6171f9ed9b50e8579add706c3f0
+FileChecksum: SHA256: d29c948f5822b5561622c4aca0a9c7664c7f4fe1292cd9c78c917060e9ea7d7e
+FileChecksum: MD5: e085a14b5d88fe42786f64f74f34e7e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/start.sh
+SPDXID: SPDXRef-item4116764
+FileChecksum: SHA1: 3b0d61785e1a02babc27c3070148b92db944822d
+FileChecksum: SHA256: 369b30a6887d19ec2e5f4d0a92ed022533676433d8d3e0cfc5f4fbc5caba9c7b
+FileChecksum: MD5: d8426bb329a8e704c236b34953ba1f7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/organizations/ccp-template.json
+SPDXID: SPDXRef-item4116772
+FileChecksum: SHA1: 2179b15a3f0790ba37761118e72472be81aacd0e
+FileChecksum: SHA256: a0ea86a4379f826c14dd9eb0af76deb8cb0cbc9d4eb3b4524be6e721df6bbcef
+FileChecksum: MD5: d3f39556eea0ae579e65dbec530bdeeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/organizations/ccp-generate.sh
+SPDXID: SPDXRef-item4116773
+FileChecksum: SHA1: 365aa0307bbce30c40493f8ae850c3ff12918cb1
+FileChecksum: SHA256: 65e5bb6965f0de098844fb4a35d703c8d03cceefe97e38cccb138bfbcc500c67
+FileChecksum: MD5: 25ec067eba475e57941696d54baf2cfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/organizations/fabric-ca/registerEnroll.sh
+SPDXID: SPDXRef-item4116775
+FileChecksum: SHA1: e799c7b0aad87865516bde587cf68a4373d3de4a
+FileChecksum: SHA256: cf57e594295fe66da5c1f5725430cf4e75a104866d7697f6b718d7ff20994cd5
+FileChecksum: MD5: 5486a82ecb1aa5c41f38bb66a51ab247
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/organizations/ccp-template.yaml
+SPDXID: SPDXRef-item4116780
+FileChecksum: SHA1: bf8b297ef80a04d99d286bdf35e749f80a3875bb
+FileChecksum: SHA256: eac86d92b7b2d7320a1ff3612026114cdea5846150e6330af09b4ca48f9fef23
+FileChecksum: MD5: 8e7869f0ebf58e1eeb1d2689d5845bcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/.gitignore
+SPDXID: SPDXRef-item4116781
+FileChecksum: SHA1: f61d8957438b61876aa318e431d2afa9cc645289
+FileChecksum: SHA256: 10892b12b92b4e92b39c819c5dfe873ce499baf44d7dc7dceb4016b9a005cbe4
+FileChecksum: MD5: fea90854b6ece907746a979e7cd3cac6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/network-config/org1.json
+SPDXID: SPDXRef-item4116783
+FileChecksum: SHA1: e84b33834b036b9608a7df10e2ea7148c572c783
+FileChecksum: SHA256: 6a2dd30e34fa4bab3371ab7154f5ab9239571d5b76a393fd68f61d4f9b9ab107
+FileChecksum: MD5: ffd7c8e063010a7b0d2916e17d702b9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/network-config/org2.json
+SPDXID: SPDXRef-item4116784
+FileChecksum: SHA1: a14535e9580f30898eb75d22973e4913a225e756
+FileChecksum: SHA256: c3aed03331868d990062a2ea223493664549c42a7e335049d91a490b9b76857e
+FileChecksum: MD5: e6006ab742a8db42dda448d320185fd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/scripts/deployCC.sh
+SPDXID: SPDXRef-item4116786
+FileChecksum: SHA1: 02e586f3b43859c774535d4ad2cd22affdb0afc2
+FileChecksum: SHA256: cd43264b0536dd3d5a43acb5b30ab61e475d4a095984a2a7cca30ef27068cd96
+FileChecksum: MD5: 2d966c3c12077535bd505ae26ddf4e80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/scripts/createChannel.sh
+SPDXID: SPDXRef-item4116789
+FileChecksum: SHA1: cba940a42405eeaaebcc6b34431edc28b511b01b
+FileChecksum: SHA256: 82cf2130bccb5445a74340f7e5beb0c7d709d8847d0338198444207b6f09583f
+FileChecksum: MD5: 338bb6eb435fe5fe01916de35cf67585
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/network/local/scripts/utils.sh
+SPDXID: SPDXRef-item4116790
+FileChecksum: SHA1: 4a54fa8947afa373f21af1a97106737946246722
+FileChecksum: SHA256: d85ac6450aad5e4788bbaf4fa7eb8683ef1c93e57f69168f7e744af937fb4b5c
+FileChecksum: MD5: a402bef66ebb3a53dadbe26896ac4970
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/.gitignore
+SPDXID: SPDXRef-item4116800
+FileChecksum: SHA1: 5e56d4d9ca4bd067f2bb3342278355be1bfc76f1
+FileChecksum: SHA256: ddfc04e7b72a4933a0ba71b8ea4f017137ab40febc89bad665712b041f20cb5f
+FileChecksum: MD5: 8704073213b47687fb265185ef9f9a41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/fabric-helper/lib/wallet.js
+SPDXID: SPDXRef-item4116803
+FileChecksum: SHA1: e5d783917b00676265791c990264ddeba116da02
+FileChecksum: SHA256: 82c2a1271bb028b8b479feb9c855865271af05e1ff8783b4a9f691caa41b2028
+FileChecksum: MD5: a6b61c3d64a1680519c238695e92a17b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/README.md
+SPDXID: SPDXRef-item4116808
+FileChecksum: SHA1: a49678fb5550f8e585d9f0fe8284f5da741bb7e0
+FileChecksum: SHA256: f475febfbeb6be91dab2c960c67201a580f14180bec0a272693329746b1b8be6
+FileChecksum: MD5: 33f4ec5634bd2aaabe992eaedd68c9b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/client/.gitkeep
+SPDXID: SPDXRef-item4116812
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/public/swagger/data.json
+SPDXID: SPDXRef-item4116816
+FileChecksum: SHA1: c986e9d1f2cbd548e8eda5882c50f0b0fe3a0262
+FileChecksum: SHA256: 5357b58b865ddb58766e4122bffab2ab9db2c66a69cdf85f93d5d951ceeae4f5
+FileChecksum: MD5: 202d5c0b782f86fbfae6833146b701e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/public/images/.gitkeep
+SPDXID: SPDXRef-item4116818
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/services/auction.service.js
+SPDXID: SPDXRef-item4116825
+FileChecksum: SHA1: 650c09bdd45f264a2120177c9182e9ad7883a364
+FileChecksum: SHA256: dac2a1f147acc21681add6765f2a1a92f9ba7532c2cc4582403e2f478c326a28
+FileChecksum: MD5: 9e6f5e10e4a0799d621e193a36d9a235
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/services/user.service.js
+SPDXID: SPDXRef-item4116826
+FileChecksum: SHA1: 091f46f757279c1dbe68991e2a1dc3d33b856c21
+FileChecksum: SHA256: 8c5d12d6000c6aed962929ee6d1d9e337b4da56b3ae1858bb769da91d640d076
+FileChecksum: MD5: e9fa912d1a2795d7c186f7c5fa9359a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/services/nft.service.js
+SPDXID: SPDXRef-item4116827
+FileChecksum: SHA1: b706449253699e8c0590f0ad4f5cf998b8f4aac7
+FileChecksum: SHA256: cd1252858042513a6044c158ca53a2a9f7a0e118bc7622447b94232f89971ec7
+FileChecksum: MD5: 36cb550624939497209af583dd1f7c37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/services/bid.service.js
+SPDXID: SPDXRef-item4116828
+FileChecksum: SHA1: feddaa5d03d5bcd750417525838857aa2f22a3f4
+FileChecksum: SHA256: d670e4bc38d1bff8a70f7782b196cdb9a613864f5996c4d4ccb8e3ecc3a65f7a
+FileChecksum: MD5: 385c655bc4c2f596a3dc63e3cf90a4c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/object-builders/index.js
+SPDXID: SPDXRef-item4116835
+FileChecksum: SHA1: 8e1cb75e8f9e4b75a54878e96e72703d0f29e177
+FileChecksum: SHA256: ea7e5538da34298aa264711395db8f15d5e792d02abf6a5744040b55d74ba675
+FileChecksum: MD5: 4b187585a60a5da64d7321c287b13f75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/object-builders/responseBuilder.js
+SPDXID: SPDXRef-item4116836
+FileChecksum: SHA1: 216a6b6ce3f4b79fc6ddbe918abeec672bf56afe
+FileChecksum: SHA256: 143bb410bdc2fb2225e0d4f88ea118b2f8f2f0cb6539777da3689433f9d7be9e
+FileChecksum: MD5: b1bb0e09fcfcdda8e647d7ae2dc7401d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/object-builders/client-response-builder/index.js
+SPDXID: SPDXRef-item4116838
+FileChecksum: SHA1: c6ff9f7c4b83088273533d3bebbdf0decce2589f
+FileChecksum: SHA256: 2149bd46f45fa3896e5861f2161439b24b6ebc1cd7108cf6a75e90c73fda78e0
+FileChecksum: MD5: f3c7e821bf281edf24affe04e850c85a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/object-builders/client-response-builder/successResponse.js
+SPDXID: SPDXRef-item4116839
+FileChecksum: SHA1: 89b650e0cc292c5cd0b1c0f698b70e98bf1fa530
+FileChecksum: SHA256: 67b54537a46814f66e4634054fddd1ed0ad66bb67669d486bd9884ad648c7e6d
+FileChecksum: MD5: b2086d732c8f38d30a83fdf8a01698b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/object-builders/client-response-builder/errorResponse.js
+SPDXID: SPDXRef-item4116840
+FileChecksum: SHA1: e5e35a11bb5356af002b5d6c4aa5f3a19d61ac95
+FileChecksum: SHA256: 575accfea4f3e0b2fe7f17a7b5727f67e491eed2f8f545117bd105b910714e79
+FileChecksum: MD5: 8e287997508d373b261057f81ef50421
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/constants/index.js
+SPDXID: SPDXRef-item4116842
+FileChecksum: SHA1: d09b6045c30f76491e1cf8377f0bc370c74bb425
+FileChecksum: SHA256: bc82eb2b8d5bb10ff35c93b12d529657b4000c560c95109d3bfe5ec177beb077
+FileChecksum: MD5: 80b525d89503faba19903bf12ff477ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/helpers/errorhandlers/index.js
+SPDXID: SPDXRef-item4116848
+FileChecksum: SHA1: edf4ec9f9eaa8309db1166ed515b427b2eb317ee
+FileChecksum: SHA256: a908855232a87e35c3123dacd4262520f33fa5f88e709caea9c0422d4a0f6894
+FileChecksum: MD5: 539e0a036e68662b1f9dab6ce3f1d131
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/app/helpers/onchainDataParser.js
+SPDXID: SPDXRef-item4116850
+FileChecksum: SHA1: 41e87223defea09605e9eec379eea526770ecbca
+FileChecksum: SHA256: 824d7133ee80ec6f7c411786b09e65307390d82ea238bfda994fc3426ccd74b0
+FileChecksum: MD5: 71909fb417249ecc1e9eace5b87453e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-restapi/node/config/default.json
+SPDXID: SPDXRef-item4116857
+FileChecksum: SHA1: f2564318c52af3b11ddbc17b3694a3991533f862
+FileChecksum: SHA256: e70cf2e3fb70032561f52b6d723586f6a2823418786a9086b8e5e4744547cdbf
+FileChecksum: MD5: cb70c2b44506afe91a012e26335bb582
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/.vscode/launch.json
+SPDXID: SPDXRef-item4116859
+FileChecksum: SHA1: 4b6901513650781e98102d7b555987212ba88eaf
+FileChecksum: SHA256: 5d59632f5102a34ac59595bd538dab4708fc9fc22ef947ccc633ffd3d319229f
+FileChecksum: MD5: eb9f9dea56e4ec1358859304b124eb42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/src/goauction/nftobject.go
+SPDXID: SPDXRef-item4116867
+FileChecksum: SHA1: 31315bfe2a5c317590a974044b8dcb427d1d3113
+FileChecksum: SHA256: 84ae8125b5169924c688537bae3d36958f567c5251a8610800d4784f0cd9239b
+FileChecksum: MD5: e5b2a55f3f379476163f4365ae657462
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/src/goauction/go.mod
+SPDXID: SPDXRef-item4116868
+FileChecksum: SHA1: cef8d13b38ebbdbbc3ab02fb487d56e2ab3ea76d
+FileChecksum: SHA256: 868cdca0b0c0c68df28fadec001cf70be7b54c90e50cde65eb30ae7b6ea4170f
+FileChecksum: MD5: 2736a560773155318b81a1b62015a1b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/src/goauction/structs.go
+SPDXID: SPDXRef-item4116869
+FileChecksum: SHA1: 6763a96d6dd5666a74df4bd910a5ecf4b1bf2fe3
+FileChecksum: SHA256: 43069999ebc5ffd5ae715d5aa3e43da2483c8c0caccf0ee4c3b901c00a7de156
+FileChecksum: MD5: a13c93df869d97ce619d68cdc5961497
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/src/goauction/cy-vendor/cycoreutils/cy-nls_strings.go
+SPDXID: SPDXRef-item4116875
+FileChecksum: SHA1: 7ebb11d76d0f0ec6968c457708dba78289c92efb
+FileChecksum: SHA256: 30713247214fa9cfa7a9184c788d10e548e02f3c5d7fd29a25f251d521f2800f
+FileChecksum: MD5: 399e4cd620eb4e8c98013eafa7875d4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/src/goauction/cy-vendor/cycoreutils/go.mod
+SPDXID: SPDXRef-item4116876
+FileChecksum: SHA1: 7a2ea2d4022e551bc5b16a6680c2342b98762906
+FileChecksum: SHA256: 584e0ac485866fed05979ae335b003aee9b3f1a174c08361428824efc1eec598
+FileChecksum: MD5: 9e4c1c402f4dbec4002fbe9fab31f1ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/src/goauction/cy-vendor/cycoreutils/go.sum
+SPDXID: SPDXRef-item4116878
+FileChecksum: SHA1: c8008e23be794b6cd263c7cf9ee2fc61c22efce1
+FileChecksum: SHA256: 59c33eaf9d176a9f6f2196d2dddff23027359b4310cf0dc3f26c71eb68657240
+FileChecksum: MD5: c52ea16fafddd7991f581d2c19b4f9bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/src/goauction/go.sum
+SPDXID: SPDXRef-item4116879
+FileChecksum: SHA1: f04c7ab16a4b11c858c8ed67bf086403023255cc
+FileChecksum: SHA256: 7ce2b3314821aee6910d8b2e85f83f8b787f022477f6ac6cd9f2b3001abee6d2
+FileChecksum: MD5: 29b3a0e19190bb41a55242fdbbe7d7f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/src/goauction/itemobject.go
+SPDXID: SPDXRef-item4116880
+FileChecksum: SHA1: df64b703aa0f86f88d60166b6d6549d4f83f8d87
+FileChecksum: SHA256: 1e469c5a7312d74be47b173f4607f7c532f4e0d382bc87cd12980d2063e9acd1
+FileChecksum: MD5: 1a6469e4e8e1b7ee93baeeba6902d379
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/src/goauction/main.go
+SPDXID: SPDXRef-item4116881
+FileChecksum: SHA1: b05bb649f3d26759f4227d0ec01ac9c5fc56a2dd
+FileChecksum: SHA256: b28406501dd48758e3823716f722305ff374252c119176c2b21c261702f45b4e
+FileChecksum: MD5: 4bbe9648d746a1bab029d241c977891c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-chaincode/.gitignore
+SPDXID: SPDXRef-item4116882
+FileChecksum: SHA1: 050088336d9ca7dd3510c7983dd738667c072de1
+FileChecksum: SHA256: 8505f13776d9b827ad5777af6d90cc11afc8249a6f57bcd16b168b48fd2b3734
+FileChecksum: MD5: f0d5fa4940602a483b43537a847eed3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/SETUP.md
+SPDXID: SPDXRef-item4116883
+FileChecksum: SHA1: 715f25fa9072062c359f834872f9c866c1175ac4
+FileChecksum: SHA256: e3e82d36128be5435573130c87f577fe44fbfa1c3bad90a934529e57ac48b988
+FileChecksum: MD5: c9fcf6acc429d4c6545298c802cf1bd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/README.md
+SPDXID: SPDXRef-item4116884
+FileChecksum: SHA1: bba251c0fb0453dacf3c016cb8439fff75c7f5ac
+FileChecksum: SHA256: 15655bdf477f80e0ef04bcc3654f6bc0bd200e23a60f6adba4a84c1d25a5bdb4
+FileChecksum: MD5: f24a6713dd340f42dd83555afa98d819
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/Dashboard.js
+SPDXID: SPDXRef-item4116897
+FileChecksum: SHA1: f631040a14f3bdba1e4b4fe9e25f0f9d35da5486
+FileChecksum: SHA256: dcb8cac4074d2857dbc7b6043d68b0df39826fd47b51520066aa901ca0670650
+FileChecksum: MD5: 7e566a155d0f06ad166cb9c68eb14b20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/PageNotFound.js
+SPDXID: SPDXRef-item4116898
+FileChecksum: SHA1: 06836e26e28c7746bda86d5aa150f7f837350f06
+FileChecksum: SHA256: 99438db56eb671ebb9b5c17f559d2db6a3e48d6a2e407254cb2333bee5240d7c
+FileChecksum: MD5: 0ecc0e3af07bd2c1dab63b641441d33b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/PageLayout.js
+SPDXID: SPDXRef-item4116904
+FileChecksum: SHA1: d9f964e3691e3896ac3b374a7b8e620de8122694
+FileChecksum: SHA256: af38ddb8698473edf1a0ceb63d27c68d44f899dde95d62e3bb67b801d4a406bd
+FileChecksum: MD5: 4ca0565939ab8ab2268cb4f05fb15c69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/components/Footer.js
+SPDXID: SPDXRef-item4116913
+FileChecksum: SHA1: 457a00d4fbabe52941d3fd893561202c7819be3a
+FileChecksum: SHA256: 388bac9729d89a865c4a0ec945bae5be8f9188b075553a64a9945a61eb68c512
+FileChecksum: MD5: 8c50cbb8439844ec1f8f093ca9949e81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/assets/chainyard-logo.svg
+SPDXID: SPDXRef-item4116919
+FileChecksum: SHA1: f5a1e809547307d9b439418d21e7ea01e18b19f8
+FileChecksum: SHA256: 36cc94cea9d703d85d717a45f061291bb4a03eb315f25943624ab776a94d7576
+FileChecksum: MD5: 7a7a584a83a9c365fe2a0af828b497f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/assets/fabric-logo.png
+SPDXID: SPDXRef-item4116920
+FileChecksum: SHA1: 737adc58fff78c6a4de5ff4e8aa548b9192377f6
+FileChecksum: SHA256: 28e6e35b3e08db2b6a5be53bc7f65927c81c60cce1a11adaba38228b448e11ef
+FileChecksum: MD5: 6f6e5f87aa39fbe2d7da5e9c15b101c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/assets/workshop_bg.jpg
+SPDXID: SPDXRef-item4116921
+FileChecksum: SHA1: a671e004b5792b45240bf38a24074a55e614eb16
+FileChecksum: SHA256: cdc0ed1419f0542b08780ea3831cb6cdf56affdcafa4dbe209bec0c60e6b3450
+FileChecksum: MD5: c7178dbb28c3e73493f8e4ec955ae052
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	l?©i?JZL?´ìàR?ޟLëOÛS!i?4T2)% ®h¢?%*Ò59~íK؞£©?hÍ'J?£<ÒÒc?8¥Ȥ=i)Rç?©)zԱ¢) m/5,¤?Jd RRc?3NZjô¥Í ´´ÜóN¨HNsK´?.ꑈsE?*Y@)ôÊvE!=ÓKRnô¤HýÞÔÆj7zÔ2IHb?ɤeȨeªTn=jY¢خÜ6(ǽM"gQ?ëRPt¦S[?,´ </text>
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/assets/seller-icon.png
+SPDXID: SPDXRef-item4116922
+FileChecksum: SHA1: bbcf8aceda6ccb56b8871c38f24cc8d3668ba87d
+FileChecksum: SHA256: b81ab44db0dfbf46fcceae0da50231c96493dee96eda4f80257c53a97e5ff1a2
+FileChecksum: MD5: cbf6be751449af7b664bd4ba3f8c47ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/assets/watermark-old.png
+SPDXID: SPDXRef-item4116923
+FileChecksum: SHA1: 1448efc8617d09b6f223c06a7ad72361e495ee7d
+FileChecksum: SHA256: d935f33811515f63d4b66abc1443dbf51b6baccc44605f934ddc878ebc676f07
+FileChecksum: MD5: 16b5bb8d7080313d481dadba9b37c4df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/assets/auction-icon.png
+SPDXID: SPDXRef-item4116924
+FileChecksum: SHA1: 1493e9859f66fbadeeacabe7057cc2412743bc31
+FileChecksum: SHA256: 83d5facbc8d6e24f837443f3132b8b74faad804548d5c14006e71449ee984fe4
+FileChecksum: MD5: 5856451f01586ffaac4f366d801cf353
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/assets/empty-auction-state.svg
+SPDXID: SPDXRef-item4116925
+FileChecksum: SHA1: 2810ace9c71dd131fd7e24f8ef53e957448f173e
+FileChecksum: SHA256: adce97aaf8a423cd15b24ba3e149bf896775a5cf250f982174da160498976ed2
+FileChecksum: MD5: bd567bf4c4d5178b4875a8cada9eb6a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/assets/watermark.png
+SPDXID: SPDXRef-item4116926
+FileChecksum: SHA1: 1f1c883cef40aec1240a08d668bc6097dd90621f
+FileChecksum: SHA256: 2041c6b8b549f659752108966e550b938ee8eb39b349a38ca13a3628926064da
+FileChecksum: MD5: 3b8607caff8fccd5a10f30ed14654492
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/assets/logo.png
+SPDXID: SPDXRef-item4116927
+FileChecksum: SHA1: 1f1c883cef40aec1240a08d668bc6097dd90621f
+FileChecksum: SHA256: 2041c6b8b549f659752108966e550b938ee8eb39b349a38ca13a3628926064da
+FileChecksum: MD5: 3b8607caff8fccd5a10f30ed14654492
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/assets/no-auction-listing.png
+SPDXID: SPDXRef-item4116928
+FileChecksum: SHA1: 7a001463f649ce684cc7cf704d347d5b3d01a894
+FileChecksum: SHA256: 22008f74da3239e661e68380576ae1206b59c88527e26deaa17fdf48902c3440
+FileChecksum: MD5: 4744b9f33fa02f1256de089c7dedefe8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/assets/buyer-icon.png
+SPDXID: SPDXRef-item4116929
+FileChecksum: SHA1: ce89121a9c9359dc902a3f69d54c2f11c686f29c
+FileChecksum: SHA256: 25af8da274fd82fd8e08f3a941946b639e0bf6f87a6e368023d0f07a1a1bfe28
+FileChecksum: MD5: c22b0da95037841a01e01b08ef29a198
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/src/registerServiceWorker.js
+SPDXID: SPDXRef-item4116931
+FileChecksum: SHA1: 2ea5f580b2816d3c71d037b471aa3abd2346d0ec
+FileChecksum: SHA256: 6b961a7744b75d2e87cdd15feb7a7942f8670f40d70e289f077b0bf27e7b2560
+FileChecksum: MD5: 49b18962aa2017c2d0477f16ebe98177
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/.gitignore
+SPDXID: SPDXRef-item4116932
+FileChecksum: SHA1: 48f7e0b7cd3e49820308990f594af00da8d98fd4
+FileChecksum: SHA256: f1fccf1907f9f0bdc0354e87859981ea7eda5571f7f6590788d88fd7240393fc
+FileChecksum: MD5: 11804eca261d4ad32b198c0e1d58e87c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/README.md
+SPDXID: SPDXRef-item4116933
+FileChecksum: SHA1: c21f7bb90f5b60c3e8111d1eae8d3eb2947c9759
+FileChecksum: SHA256: cbf44d094c6d3d8753342339555494827bd231c1368cfa2ee066c5b13bfee313
+FileChecksum: MD5: fe8ae24c788c89dbcc92a841181e2863
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/package.json
+SPDXID: SPDXRef-item4116934
+FileChecksum: SHA1: d47164f8763d138874481e4253effc8b8118b873
+FileChecksum: SHA256: 974b5f788a691687b500521abf5fb8f8cdffc317c28c74a21f1e4b0713e3d162
+FileChecksum: MD5: bee94bf67c0d51cfb6f3afd31491d692
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/public/manifest.json
+SPDXID: SPDXRef-item4116936
+FileChecksum: SHA1: 7f2272a919e521f6bd348e38e3532168f773bc0c
+FileChecksum: SHA256: f3760a5ac92f3b99dcc2d42fed4ec7b4a188813c4b3ae783accde2cc5379be4b
+FileChecksum: MD5: eb4673a1d92a5664364b1fdafa4ba98f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nft-2023-04-02.zip/nft-auction/auction-ui/public/favicon.ico
+SPDXID: SPDXRef-item4116937
+FileChecksum: SHA1: 9993e9a2e4af5410eaca1d1e0c8d969a72b3587d
+FileChecksum: SHA256: 4e69ee7568729fdafaddc9084cc8a5c98f873d47d4fd5b8479d21d5add94746b
+FileChecksum: MD5: e7c1e6afc51d0e8bf0bb48b51491c430
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
